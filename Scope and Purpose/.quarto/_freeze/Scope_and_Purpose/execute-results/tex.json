@@ -1,0 +1,12 @@
+{
+  "hash": "1e468bc3ffe0495c7ffff868375660fa",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "For a demonstration of a line plot on a polar axis, see @fig-polar. Test\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nprint(\"Hello World\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nHello World\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "Scope_and_Purpose_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

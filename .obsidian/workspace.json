@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "fb7e2dd48019c730",
+    "type": "split",
+    "children": [
+      {
+        "id": "04917147664db59f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e97d3835a594c3f6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Rust-Skillfully-confronting-the-unknown.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Rust-Skillfully-confronting-the-unknown"
+            }
+          },
+          {
+            "id": "45f1c4e1e34367e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Philosophy --- Fall 2026"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a7666eb2c71bb15f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0512ed60d7348d10",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cff680b30219530a",
+    "type": "split",
+    "children": [
+      {
+        "id": "21c5e1f2fe9a011c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "123a817cdc408745",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3dc91b62b2ad3fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tri",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b883fb895ea60a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7ad040221c8180c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c85f1b7c8841bdc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "806387f55cceee32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dp4morpsy/Roman Altshuler.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f6a3b27d172ec49b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dp4morpsy/Roman Altshuler.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "da14655e7ced0dbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a90b1456f00acb20",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4f417e429ec38101",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scope and Purpose.md/Scope and Purpose.qmd.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "473b29e7d145b3b9",
+            "type": "leaf",
+            "state": {
+              "type": "qmd-outline-view",
+              "state": {},
+              "icon": "list",
+              "title": "Quarto outline"
+            }
+          },
+          {
+            "id": "7107a8cf71bb03b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "slides-extended:Show slide preview": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "123a817cdc408745",
+  "lastOpenFiles": [
+    "obsidian-notes",
+    "export/Introduction to Philosophy --- Fall 2026/Intro-Fall-2026",
+    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922094338.png",
+    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922094232.png",
+    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922093617.png",
+    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922093148.png",
+    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922090746.png",
+    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922085333.png",
+    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922085836.png",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/zoom.esm.js",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/zoom.js",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/plugin.js",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/search/search.js",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/search/search.esm.js",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/search/plugin.js",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/search",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/reveal-pointer/pointer.js",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/CONTRIBUTING.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/math/katex/dist/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/whiteboard.png",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/sponge.png",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/customcontrols/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/chart/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/dist/css/theme/README.md",
+    "Reality+/Is God a Hacker in the Next Universe Up.md",
+    "Reality+/Is the Universe Made Up of Information.md",
+    "Reality+/The Theoretical Status of Latent Variables.md",
+    "Reality+/What is Reality.md",
+    "Rational Choice Theory/MEV Double Star.md",
+    "Rust-Skillfully confronting the unknown.md",
+    "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
+    "Wandering in Darkness/1 Suffering, Theodicy, and Defense.md",
+    "dh4morpsy/02-Data_and_Data_Processing.md",
+    "dh4morpsy/01-Scope_and_Purpose.md",
+    "Scope and Purpose/Scope_and_Purpose.md",
+    "Scope and Purpose/_quarto.yml.md",
+    "Test.md.md",
+    "Scope and Purpose/Scope_and_Purpose.md.md",
+    "Scope and Purpose/Scope and Purpose.canvas",
+    "dh4morpsy/README.qmd.md",
+    "dh4morpsy/index.qmd.md",
+    "Wandering in Darkness.canvas"
+  ]
+}
