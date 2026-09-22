@@ -35,22 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "129199c452369877",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8e7a9156ad6b5450",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e7a9156ad6b5450",
+  "active": "123a817cdc408745",
   "lastOpenFiles": [
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922094338.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922094232.png",
