@@ -37,11 +37,11 @@
         "currentTab": 1
       },
       {
-        "id": "a7666eb2c71bb15f",
+        "id": "129199c452369877",
         "type": "tabs",
         "children": [
           {
-            "id": "0512ed60d7348d10",
+            "id": "8e7a9156ad6b5450",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -241,10 +241,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "123a817cdc408745",
+  "active": "8e7a9156ad6b5450",
   "lastOpenFiles": [
-    "obsidian-notes",
-    "export/Introduction to Philosophy --- Fall 2026/Intro-Fall-2026",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922094338.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922094232.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922093617.png",
@@ -252,8 +250,8 @@
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922090746.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922085333.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922085836.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/zoom.esm.js",
     "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/zoom.js",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/zoom.esm.js",
     "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/plugin.js",
     "export/Introduction to Philosophy --- Fall 2026/plugin/zoom",
     "export/Introduction to Philosophy --- Fall 2026/plugin/search/search.js",
@@ -261,6 +259,7 @@
     "export/Introduction to Philosophy --- Fall 2026/plugin/search/plugin.js",
     "export/Introduction to Philosophy --- Fall 2026/plugin/search",
     "export/Introduction to Philosophy --- Fall 2026/plugin/reveal-pointer/pointer.js",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/reveal-pointer/pointer.css",
     "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
@@ -269,6 +268,7 @@
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/whiteboard.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/sponge.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/chalk-white.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/customcontrols/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chart/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
