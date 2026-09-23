@@ -14,7 +14,7 @@ What is the role of narrative in conveying the knowledge of persons?
 
 According to Vilayanur S. Ramachandran and Lindsay M. Oberman
 
-	"the chief diagnostic signs of autism are social isolation, lack of eye contact, poor language capacity and absence of empathy,"
+"the chief diagnostic signs of autism are social isolation, lack of eye contact, poor language capacity and absence of empathy,"
 
 
 Ramachandran, Vilayanur S., and Lindsay M. Oberman. 2006. “Broken Mirrors: A Theory of Autism.” _Scientific American_ 295 (5): 62–69. [https://doi.org/10.1038/scientificamerican1106-62](https://doi.org/10.1038/scientificamerican1106-62).
@@ -22,16 +22,24 @@ Ramachandran, Vilayanur S., and Lindsay M. Oberman. 2006. “Broken Mirrors: A T
 ---
 
 * In the 1940s two physicians--American psychiatrist Leo Kanner and Austrian pediatrician Hans Asperger-independently discovered this developmental disorder, which afflicts about 0.5 percent of American children.'
-	* lack genuine empathy for other people and be oblivious to subtle social cues.
-	* a withdrawal from social interaction.
-	* connection between autism and a newly discovered class of nerve cells in the brain called mirror neurons(?)
-	* Why?
-		* these neurons appeared to be involved in abilities such as empathy and the perception of another individual's intentions
+
+---
+
+* lack genuine empathy for other people and be oblivious to subtle social cues.
+* a withdrawal from social interaction.
+* connection between autism and a newly discovered class of nerve cells in the brain called mirror neurons(?)
+
+---
+
+* Why?
+	* these neurons appeared to be involved in abilities such as empathy and the perception of another individual's intentions
 ---
 
 ### Explaining the Symptons
 
 Although causes are unclear, environmental factors could play a role. [[Rodier, Patricia M. 2000. “The Early Origins of Autism.” _Scientific American_ 282 (2): 56–63.]]
+
+---
 
 * problems understanding metaphors, sometimes interpreting them literally
 * difficulty miming other people's actions

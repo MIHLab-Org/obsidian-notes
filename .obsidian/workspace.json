@@ -25,16 +25,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
+                "file": "Wandering in Darkness/4 Narrative and the Knowledge of Persons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
+              "title": "4 Narrative and the Knowledge of Persons"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e65f4f628eeec78a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47696ed788212efb",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: 4 Narrative and the Knowledge of Persons.md"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +241,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "47696ed788212efb",
   "lastOpenFiles": [
+    "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
     "Rust-Skillfully confronting the unknown_files/mediabag",
     "Rust-Skillfully confronting the unknown_files",
     "export/Rust-Skillfully confronting the unknown/plugin/math/mathjax/input/mml/extensions/mml3.sef.json",
@@ -237,7 +254,6 @@
     "export/Rust-Skillfully confronting the unknown/plugin/math/mathjax/input/tex/extensions/unicode.js",
     "export/Rust-Skillfully confronting the unknown/plugin/math/mathjax/input/tex/extensions/textmacros.js",
     "export/Rust-Skillfully confronting the unknown/plugin/math/mathjax/input/tex/extensions/textcomp.js",
-    "export/Rust-Skillfully confronting the unknown/plugin/math/mathjax/input/tex/extensions/texhtml.js",
     "export/Rust-Skillfully confronting the unknown/plugin/math/katex/dist/README.md",
     "export/Rust-Skillfully confronting the unknown/plugin/math/mathjax/README.md",
     "export/Rust-Skillfully confronting the unknown/plugin/math/mathjax/CONTRIBUTING.md",
