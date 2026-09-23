@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wandering in Darkness/4 Narrative and the Knowledge of Persons.md",
+                "file": "Untitled/Broken Mirrors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 Narrative and the Knowledge of Persons"
+              "title": "Broken Mirrors"
             }
           }
         ],
@@ -252,6 +252,8 @@
   "active": "fe15ffb7c8076d68",
   "lastOpenFiles": [
     "Wandering in Darkness/4 Narrative and the Knowledge of Persons.md",
+    "Untitled/Broken Mirrors.md",
+    "Untitled",
     "Images/Pasted image 20260922085333.png",
     "Images",
     "Rational Choice Theory/MEV Double Star.md",
@@ -267,7 +269,6 @@
     "export/Rust-Skillfully confronting the unknown/plugin/search/search.esm.js",
     "export/Rust-Skillfully confronting the unknown/plugin/search/plugin.js",
     "export/Rust-Skillfully confronting the unknown/plugin/search",
-    "export/Rust-Skillfully confronting the unknown/plugin/reveal-pointer/pointer.js",
     "export/Rust-Skillfully confronting the unknown/plugin/menu/README.md",
     "export/Rust-Skillfully confronting the unknown/plugin/menu/CONTRIBUTING.md",
     "export/Rust-Skillfully confronting the unknown/plugin/math/mathjax/README.md",
