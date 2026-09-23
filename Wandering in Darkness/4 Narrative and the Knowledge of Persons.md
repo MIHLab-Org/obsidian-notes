@@ -137,6 +137,17 @@ Orthodox decision theory recommends acting in a way that maximizes expected valu
 
 ---
 
+#### Does Dante Love Beatrice?
+    
+> Consider, for example, one of the Western world’s most famous cases of romantic love, Dante’s love for Beatrice, immortalized in his *Divine Comedy* as well as in his earlier writings. Dante, who was scarecely older than Beaturice, saw her once when she was 9 years old; and once, when she was a teenager, he was greeted by her in passign her on the street. But these events and some occasional sightings of her from a distance seem to have been the extent of Dante’s connection to her. . . . In his account of his love of Beaturice, in his *La vita nuova,*  the way Dante himself describers his connection to Beatrice is just that he loves her, from a distance, with a love unrequited by her, for all he or anyone else knows.
+    
+	
+---
+
+> Therefore it is possible that in trying to follow whatever advice has the most valuable outcome, that we will make a mistake. We should be sensitive to this possibility.
+
+---
+
 - do whatever has the most expected value:
     - i.e., [be] “your own boss”
 
