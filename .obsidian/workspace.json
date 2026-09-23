@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
+                "file": "Rust-Skillfully confronting the unknown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
+              "title": "Rust-Skillfully confronting the unknown"
             }
           }
         ],
@@ -189,8 +189,8 @@
             "state": {
               "type": "qmd-outline-view",
               "state": {},
-              "icon": "list",
-              "title": "Quarto outline"
+              "icon": "lucide-ghost",
+              "title": "qmd-outline-view"
             }
           },
           {
@@ -202,6 +202,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c371037eda55f4d6",
+            "type": "leaf",
+            "state": {
+              "type": "qmd-outline-view",
+              "state": {},
+              "icon": "list",
+              "title": "Quarto outline"
+            }
           }
         ],
         "currentTab": 6
@@ -212,8 +222,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -221,12 +229,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
       "slides-extended:Show slide preview": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "123a817cdc408745",
+  "active": "45f1c4e1e34367e2",
   "lastOpenFiles": [
+    "Wandering in Darkness/1 Suffering, Theodicy, and Defense.md",
+    "Rational Choice Theory/MEV Double Star.md",
+    "Rust-Skillfully confronting the unknown.md",
+    "Reality+/Is the Universe Made Up of Information.md",
+    "Reality+/Is God a Hacker in the Next Universe Up.md",
+    "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922094338.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922094232.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20260922093617.png",
@@ -252,19 +268,12 @@
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/whiteboard.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/sponge.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/chalk-yellow.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/chalk-white.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/customcontrols/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chart/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
     "export/Introduction to Philosophy --- Fall 2026/dist/css/theme/README.md",
-    "Reality+/Is God a Hacker in the Next Universe Up.md",
-    "Reality+/Is the Universe Made Up of Information.md",
     "Reality+/The Theoretical Status of Latent Variables.md",
     "Reality+/What is Reality.md",
-    "Rational Choice Theory/MEV Double Star.md",
-    "Rust-Skillfully confronting the unknown.md",
-    "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
-    "Wandering in Darkness/1 Suffering, Theodicy, and Defense.md",
     "dh4morpsy/02-Data_and_Data_Processing.md",
     "dh4morpsy/01-Scope_and_Purpose.md",
     "Scope and Purpose/Scope_and_Purpose.md",

@@ -1,12 +1,14 @@
+#planningformistakes
+
 Personally transformative choices
 	L.A. Paul 2015b; 2015a
 ## Introduction
 
 Practical knowledge is narratively-inflected knowledge.
 
-Proceeding when faced with personally transformative choices. We need skillful transformative decision-making, but may only be capable of unskillful transformative decision-making.
+Proceeding when faced with personally transformative choices. We need skillful transformative decision-making, but may only be capable of unskillful transformative decision-making according to LA Paul.
 
-This is becasue
+This is because
 
 Personally transformative choices cannot be tracked in rational decision problems.
 

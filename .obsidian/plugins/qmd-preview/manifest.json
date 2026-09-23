@@ -1,9 +1,0 @@
-{
-  "id": "qmd-preview",
-  "name": "QMD Preview",
-  "version": "0.1.8",
-  "minAppVersion": "1.7.2",
-  "description": "Edit Quarto Markdown files with a side-pane live preview.",
-  "author": "elliotxx",
-  "isDesktopOnly": true
-}
