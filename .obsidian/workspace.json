@@ -39,29 +39,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
+                "file": "Philosophy of Mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
+              "title": "Philosophy of Mind"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "7a8870e2a7767f9e",
+        "id": "59468d83b5e76041",
         "type": "tabs",
         "children": [
           {
-            "id": "b9937e33bc6ce73c",
+            "id": "bb07c398eb66040d",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
               "state": {},
               "icon": "slides",
-              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
+              "title": "Preview: Philosophy of Mind.md"
             }
           }
         ]
@@ -265,8 +265,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9937e33bc6ce73c",
+  "active": "bb07c398eb66040d",
   "lastOpenFiles": [
+    "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
     "Philosophy of Mind.md",
     "Untitled/Broken Mirrors.md",
     "Wandering in Darkness/4 Narrative and the Knowledge of Persons.md",
@@ -305,7 +306,6 @@
     "export/Rust-Skillfully confronting the unknown/dist/css/theme/README.md",
     "Reality+/Is the Universe Made Up of Information.md",
     "Reality+/Is God a Hacker in the Next Universe Up.md",
-    "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",

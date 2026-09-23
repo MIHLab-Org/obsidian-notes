@@ -6,7 +6,7 @@ Fall 2026
 
 ---
 
-Falling in love is phenomenologically similar to cocaine use
+Falling in love is phenomenologically similar to cocaine use.
 
 > Though falling in love is associated with anxiety and stress, this state—in combination with the belief that there may be reciprocation—is also at times accompanied by intensely pleasant emotions. These emotions arise from an underlying brain chemistry that resembles those triggered by cocaine use. (Brogaard, 14)
 
