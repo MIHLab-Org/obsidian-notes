@@ -46,21 +46,9 @@
               "icon": "lucide-file",
               "title": "4 Narrative and the Knowledge of Persons"
             }
-          },
-          {
-            "id": "d31c1f4bab2b85bc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20260922085333.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260922085333"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,9 +249,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "123a817cdc408745",
+  "active": "fe15ffb7c8076d68",
   "lastOpenFiles": [
     "Wandering in Darkness/4 Narrative and the Knowledge of Persons.md",
+    "Images/Pasted image 20260922085333.png",
     "Images",
     "Rational Choice Theory/MEV Double Star.md",
     "Planning for Mistakes.md",
@@ -293,7 +282,6 @@
     "export/Rust-Skillfully confronting the unknown/plugin/chalkboard/img/chalk-orange.png",
     "export/Rust-Skillfully confronting the unknown/plugin/chalkboard/img/chalk-green.png",
     "export/Rust-Skillfully confronting the unknown/plugin/chalkboard/img/chalk-blue.png",
-    "export/Rust-Skillfully confronting the unknown/plugin/chalkboard/img/boardmarker-yellow.png",
     "export/Rust-Skillfully confronting the unknown/plugin/chart/README.md",
     "export/Rust-Skillfully confronting the unknown/plugin/customcontrols/README.md",
     "export/Rust-Skillfully confronting the unknown/plugin/chalkboard/README.md",
