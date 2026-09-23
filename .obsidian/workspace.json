@@ -39,16 +39,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Broken Mirrors.md",
+                "file": "Philosophy of Mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Broken Mirrors"
+              "title": "Philosophy of Mind"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "4fc02efe9c0a1e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74e0ce8d7df3eefe",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Philosophy of Mind.md"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,10 +265,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe15ffb7c8076d68",
+  "active": "74e0ce8d7df3eefe",
   "lastOpenFiles": [
-    "Wandering in Darkness/4 Narrative and the Knowledge of Persons.md",
     "Untitled/Broken Mirrors.md",
+    "Wandering in Darkness/4 Narrative and the Knowledge of Persons.md",
     "Untitled",
     "Images/Pasted image 20260922085333.png",
     "Images",

@@ -4,9 +4,13 @@ Fall 2026
 
 # Mental and Physical Properties of Love
 
+---
+
 Falling in love is phenomenologically similar to cocaine use
 
 > Though falling in love is associated with anxiety and stress, this state—in combination with the belief that there may be reciprocation—is also at times accompanied by intensely pleasant emotions. These emotions arise from an underlying brain chemistry that resembles those triggered by cocaine use. (Brogaard, 14)
+
+---
 
 Serotonin/norepinephrine/dopamine reuptake inhibitor
 
@@ -17,6 +21,8 @@ Serotonin reuptake inhibitors block “feel good” neurotransmitter serotonin i
 ### How does serotonin work? Serotonin is a neurotransmitter
 
 - To have an impact on the brain [as a neurotransmitter] serotonin, must be extracellular, or outside the neurons.
+---
+
     
 - When serotonin is inside the neurons, it does not function as a neurotransmitter.
     
@@ -26,6 +32,7 @@ Serotonin reuptake inhibitors block “feel good” neurotransmitter serotonin i
     
 - So serotonin stays outside the neurons
     
+---
 
 So, the extracellular levels of serotonin increase, which stabilizes the brain’s chemistry and alleviates anxiety and depression.
 
@@ -888,7 +895,7 @@ Identity Rules
 
 ---
 
-
+[[4 Narrative and the Knowledge of Persons]]
 
 ---
 
