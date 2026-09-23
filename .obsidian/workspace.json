@@ -25,32 +25,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust-Skillfully confronting the unknown.md",
+                "file": "Rational Choice Theory/MEV Double Star.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust-Skillfully confronting the unknown"
+              "title": "MEV Double Star"
+            }
+          },
+          {
+            "id": "fe15ffb7c8076d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wandering in Darkness/4 Narrative and the Knowledge of Persons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 Narrative and the Knowledge of Persons"
+            }
+          },
+          {
+            "id": "d31c1f4bab2b85bc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20260922085333.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260922085333"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "c4a0571019081564",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "340ca53752aaa88b",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Rust-Skillfully confronting the unknown.md"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,8 +261,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "340ca53752aaa88b",
+  "active": "123a817cdc408745",
   "lastOpenFiles": [
+    "Wandering in Darkness/4 Narrative and the Knowledge of Persons.md",
+    "Images",
+    "Rational Choice Theory/MEV Double Star.md",
+    "Planning for Mistakes.md",
+    "Philosophy of Mind.md",
+    "Wandering in Darkness/1 Suffering, Theodicy, and Defense.md",
+    "Rust-Skillfully confronting the unknown.md",
     "export/Rust-Skillfully confronting the unknown/plugin/zoom/zoom.js",
     "export/Rust-Skillfully confronting the unknown/plugin/zoom/zoom.esm.js",
     "export/Rust-Skillfully confronting the unknown/plugin/zoom/plugin.js",
@@ -262,8 +279,6 @@
     "export/Rust-Skillfully confronting the unknown/plugin/search/plugin.js",
     "export/Rust-Skillfully confronting the unknown/plugin/search",
     "export/Rust-Skillfully confronting the unknown/plugin/reveal-pointer/pointer.js",
-    "export/Rust-Skillfully confronting the unknown/plugin/reveal-pointer/pointer.css",
-    "export/Rust-Skillfully confronting the unknown/plugin/reveal-pointer",
     "export/Rust-Skillfully confronting the unknown/plugin/menu/README.md",
     "export/Rust-Skillfully confronting the unknown/plugin/menu/CONTRIBUTING.md",
     "export/Rust-Skillfully confronting the unknown/plugin/math/mathjax/README.md",
@@ -283,9 +298,6 @@
     "export/Rust-Skillfully confronting the unknown/plugin/customcontrols/README.md",
     "export/Rust-Skillfully confronting the unknown/plugin/chalkboard/README.md",
     "export/Rust-Skillfully confronting the unknown/dist/css/theme/README.md",
-    "Wandering in Darkness/1 Suffering, Theodicy, and Defense.md",
-    "Rational Choice Theory/MEV Double Star.md",
-    "Rust-Skillfully confronting the unknown.md",
     "Reality+/Is the Universe Made Up of Information.md",
     "Reality+/Is God a Hacker in the Next Universe Up.md",
     "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
@@ -296,9 +308,6 @@
     "export/Introduction to Philosophy --- Fall 2026/plugin/math/katex/dist/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/customcontrols/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chart/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/dist/css/theme/README.md",
-    "Reality+/The Theoretical Status of Latent Variables.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
