@@ -1047,19 +1047,19 @@ Chalmer’s View:
 ---
 ### Cheeky Lewis enters the chat
 
-![[Pasted image 20260922085836.png]]
+![[Images/Pasted image 20260922085836.png]]
 
 ---
 
 * World inclusivity
 * Time inclusivity
 ---
-![[Pasted image 20260922085333.png]]
+![[Images/Pasted image 20260922085333.png]]
 David K. Lewis, _On the Plurality of Worlds_ (Blackwell Publishers, 2001).
 
 ---
 
-![[Pasted image 20260922090746.png]]
+![[Images/Pasted image 20260922090746.png]]
 
 ---
 # The Really Real
@@ -1074,7 +1074,7 @@ David K. Lewis, _On the Plurality of Worlds_ (Blackwell Publishers, 2001).
 ---
 Consider the following sentences . . .
 
-![[Pasted image 20260922093148.png]]
+![[Images/Pasted image 20260922093148.png]]
 
 ---
 Holmes lived at 221B Baker Street.
@@ -1094,17 +1094,17 @@ But
 
 ---
 
-![[Pasted image 20260922093617.png]]
+![[Images/Pasted image 20260922093617.png]]
 
 ---
 
-![[Pasted image 20260922094232.png]]
+![[Images/Pasted image 20260922094232.png]]
 
 ---
 
 In *fiction f* 
 
-![[Pasted image 20260922094338.png]]
+![[Images/Pasted image 20260922094338.png]]
 
 ---
 

@@ -1,0 +1,10 @@
+{
+  "pathToPandoc": " C:\\Program Files\\Pandoc\\pandoc.exe",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pullFromZotero": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date.csl"
+}

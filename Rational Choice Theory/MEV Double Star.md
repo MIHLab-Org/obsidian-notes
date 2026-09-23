@@ -1,3 +1,6 @@
+#planningformistakes 
+#wandering
+
 A number of philosophers are concerned with normative theories of rational choice, that is, how should people decide to act? Eleonore Stump anticipates an approach that deviates from standard normative theories of rational choice. Professor Stump bases her approach on the narrative self arguing that analytic philosophy can become too narrow and myopic, excluding “complex, nuanced thought, behavior, relations of persons” (Stump 2010, 23). In this account, she distances her approach from standard ones in rational choice theory. I draw from popular narrative thought and attempt a rational decision formula that is philosophically rich and based on a narrative self account. At the center, my formula focuses on the fact that we do not always have the right kind of access to our own mental states. Some decisions require such access however. I argue that a narrative self account of rational choice can allow for this important nuance. [Planning for Mistakes](https://app.notion.com/p/Planning-for-Mistakes-36e8935bcf8a8180a08ae53a494f1e59?pvs=21)
 
 How do we decide what to do? Decision theory proposes an answer.
