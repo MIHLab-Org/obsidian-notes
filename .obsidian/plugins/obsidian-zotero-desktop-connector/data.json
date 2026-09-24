@@ -27,7 +27,8 @@
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": true,
-  "whichNotesToOpenAfterImport": "first-imported-note",
+  "whichNotesToOpenAfterImport": "all-imported-notes",
   "shouldConcat": true,
-  "pdfExportImageOCR": true
+  "pdfExportImageOCR": true,
+  "pdfExportImageTessDataDir": "C:\\Program Files\\Tesseract-OCR\\tessdata"
 }
