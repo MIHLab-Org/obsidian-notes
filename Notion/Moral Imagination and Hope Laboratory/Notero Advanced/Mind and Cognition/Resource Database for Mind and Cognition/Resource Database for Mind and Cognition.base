@@ -1,0 +1,28 @@
+# Resource Database for Mind and Cognition
+
+filters:
+  and:
+    - note["base"] == link("Resource Database for Mind and Cognition.base")
+properties:
+  file.name:
+    displayName: Chapters
+  PhilPapers:
+    displayName: PhilPapers
+  Primary Sources:
+    displayName: Primary Sources
+  Tertiary Sources:
+    displayName: Tertiary Sources
+  Secondary Sources:
+    displayName: Secondary Sources
+  PhilPapers Secondary:
+    displayName: PhilPapers Secondary
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - PhilPapers
+      - Primary Sources
+      - Tertiary Sources
+      - Secondary Sources
+      - PhilPapers Secondary

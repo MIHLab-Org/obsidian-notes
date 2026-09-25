@@ -1,0 +1,25 @@
+# Grant Budget
+
+filters:
+  and:
+    - note["base"] == link("Grant Budget.base")
+properties:
+  file.name:
+    displayName: Expense
+  Amount received:
+    displayName: Amount received
+  Line-item:
+    displayName: Line-item
+  Amount requested:
+    displayName: Amount requested
+  Description:
+    displayName: Description
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Amount received
+      - Line-item
+      - Amount requested
+      - Description

@@ -1,0 +1,14 @@
+---
+notion-id: 3648935b-cf8a-80cf-a426-ea54bdf32538
+base: "[[Courses Database/Introduction to Philosophy, Spring 2026/Class Notes/Class Notes.base]]"
+Tags: []
+Subject: []
+Column: 2026-05-18T13:17:00
+Hypothesis: ""
+Participants: []
+Developer of the Experiment: []
+Notebook page: false
+AIM: ""
+Personal: false
+---
+I messed up in while in graduate school. Everyone else focused on the important questions, what did Hegel mean by “the end of art”, “why would anyone think that Dante loved Beatrice”? (Everyone else: because that’s why, Me: he didn’t) Whether Dante did or did not love Beatrice wasn’t the point I’ve come to realize. Rather, what is important is listening to others and taking their concerns seriously, especially if they are talked about by those in your social circle. This is especially true in a professional capacity, for instance if your future employment depends on this kind of engagement. What did I do instead you ask? I was callous as evidenced by my above response on the Dante question. Callousness is worse than ignorance sometimes. Ignorance is typically preceded by or followed by good questions. Callousness is not. But this still does not directly answer the question of what I did instead. I would rather not say to be honest, but at this point I would be no better than one of those SEO marketing schemes if I didn’t. It started with my observation of 5th graders in a class I was substituting for one summer. They were students trending below grade level in all the important academic subjects. I had a simple task, just ensure they completed an assignment that had them find the linguistic tools like metaphors and similes in their favorite song. Unfortunately, the majority of these students had no idea of any song that didn’t denigrate women and minorities, use abusive language, talk disparagingly about themselves and the communities referenced in the songs. I could have ignored it and assigned them songs to do. What I did instead however was worse. I became obsessed about the fact that they were 5th graders. At the time, I was in an environment where everyone talked about equity, diversity and inclusion. I was being asked to write reflections on my commitment to these principles, and my understanding of what these principles were. But whenever I said adequate representation in popular media, I got strange looks and silence. But it gets worse. Oddly, I grew up in south Los Angeles with a step-parent from central America. Because of this, my family attended a small store front church in Los Angeles with other community members from this same country. These individuals credited white Mennonite evangelists with their family’s salvation. They also grew up on Old Southern Baptist hymns. This was my real introduction to country and western music. Given this background, in high school, as my act of teenage rebellion was to introduce all my friends to country music, even though I attended a high school in Venice 

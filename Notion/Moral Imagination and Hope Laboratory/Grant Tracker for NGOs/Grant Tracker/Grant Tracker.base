@@ -1,0 +1,37 @@
+# Grant Tracker
+
+filters:
+  and:
+    - note["base"] == link("Grant Tracker.base")
+properties:
+  file.name:
+    displayName: Grant name
+  Deadline:
+    displayName: Deadline
+  Amount requested:
+    displayName: Amount requested
+  URL:
+    displayName: URL
+  Files & media:
+    displayName: Files & media
+  Amount received:
+    displayName: Amount received
+  Contact:
+    displayName: Contact
+  Stage:
+    displayName: Stage
+  Reporting deadline:
+    displayName: Reporting deadline
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Deadline
+      - Amount requested
+      - URL
+      - Files & media
+      - Amount received
+      - Contact
+      - Stage
+      - Reporting deadline

@@ -1,0 +1,22 @@
+# Grants & Awards
+
+filters:
+  and:
+    - note["base"] == link("Grants & Awards.base")
+properties:
+  file.name:
+    displayName: Award
+  Institution:
+    displayName: Institution
+  Year:
+    displayName: Year
+  Amount:
+    displayName: Amount
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Institution
+      - Year
+      - Amount

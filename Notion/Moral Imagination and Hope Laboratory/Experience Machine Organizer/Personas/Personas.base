@@ -1,0 +1,31 @@
+# Personas
+
+filters:
+  and:
+    - note["base"] == link("Personas.base")
+properties:
+  file.name:
+    displayName: Name
+  Role:
+    displayName: Role
+  Grounding (primary and secondary texts):
+    displayName: Grounding (primary and secondary texts)
+  Tag:
+    displayName: Tag
+  secondary:
+    displayName: secondary
+  Spec status:
+    displayName: Spec status
+  Appears in nodes:
+    displayName: Appears in nodes
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Role
+      - Grounding (primary and secondary texts)
+      - Tag
+      - secondary
+      - Spec status
+      - Appears in nodes

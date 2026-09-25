@@ -1,0 +1,100 @@
+# Courses Database
+
+filters:
+  and:
+    - note["base"] == link("Courses Database.base")
+properties:
+  file.name:
+    displayName: Name
+  Start Time:
+    displayName: Start Time
+  Live URL:
+    displayName: Live URL
+  Prerequisite:
+    displayName: Prerequisite
+  Enrollment:
+    displayName: Enrollment
+  Assignments:
+    displayName: Assignments
+  Instructor:
+    displayName: Instructor
+  zotero:
+    displayName: zotero
+  Semester:
+    displayName: Semester
+  Experiments plan:
+    displayName: Experiments plan
+  Type:
+    displayName: Type
+  Section:
+    displayName: Section
+  Program:
+    displayName: Program
+  Quarto Path:
+    displayName: Quarto Path
+  Syllabus:
+    displayName: Syllabus
+  text book:
+    displayName: text book
+  Course Code:
+    displayName: Course Code
+  TW Project:
+    displayName: TW Project
+  Notes:
+    displayName: Notes
+  Team members:
+    displayName: Team members
+  Item Type:
+    displayName: Item Type
+  Project Status:
+    displayName: Project Status
+  Dates:
+    displayName: Dates
+  Area:
+    displayName: Area
+  Status 1:
+    displayName: Status 1
+  Units:
+    displayName: Units
+  Priority:
+    displayName: Priority
+  Project Lead:
+    displayName: Project Lead
+  Status:
+    displayName: Status
+  Authors:
+    displayName: Authors
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Start Time
+      - Live URL
+      - Prerequisite
+      - Enrollment
+      - Assignments
+      - Instructor
+      - zotero
+      - Semester
+      - Experiments plan
+      - Type
+      - Section
+      - Program
+      - Quarto Path
+      - Syllabus
+      - text book
+      - Course Code
+      - TW Project
+      - Notes
+      - Team members
+      - Item Type
+      - Project Status
+      - Dates
+      - Area
+      - Status 1
+      - Units
+      - Priority
+      - Project Lead
+      - Status
+      - Authors

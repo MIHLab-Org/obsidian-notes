@@ -1,0 +1,25 @@
+# Conference Activity
+
+filters:
+  and:
+    - note["base"] == link("Conference Activity.base")
+properties:
+  file.name:
+    displayName: Title
+  Year:
+    displayName: Year
+  Location:
+    displayName: Location
+  Conference / Venue:
+    displayName: Conference / Venue
+  Type:
+    displayName: Type
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Year
+      - Location
+      - Conference / Venue
+      - Type

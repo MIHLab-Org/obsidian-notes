@@ -1,0 +1,16 @@
+# Book Resources
+
+filters:
+  and:
+    - note["base"] == link("Book Resources.base")
+properties:
+  file.name:
+    displayName: Chapter
+  📚 Notero Advanced:
+    displayName: 📚 Notero Advanced
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - 📚 Notero Advanced

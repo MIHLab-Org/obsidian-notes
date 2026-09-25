@@ -1,0 +1,25 @@
+# Content and Argument
+
+filters:
+  and:
+    - note["base"] == link("Content and Argument.base")
+properties:
+  file.name:
+    displayName: Name
+  Excellent:
+    displayName: Excellent
+  Good:
+    displayName: Good
+  Unacceptable:
+    displayName: Unacceptable
+  Needs Improvement:
+    displayName: Needs Improvement
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Excellent
+      - Good
+      - Unacceptable
+      - Needs Improvement

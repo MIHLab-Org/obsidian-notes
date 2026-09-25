@@ -1,0 +1,46 @@
+# Outline Resource Database
+
+filters:
+  and:
+    - note["base"] == link("Outline Resource Database.base")
+properties:
+  file.name:
+    displayName: Chapter
+  PhilPapers:
+    displayName: PhilPapers
+  Date:
+    displayName: Date
+  Summary:
+    displayName: Summary
+  Part:
+    displayName: Part
+  Philosophy Persona Spec:
+    displayName: Philosophy Persona Spec
+  📚 Notero Advanced 1:
+    displayName: 📚 Notero Advanced 1
+  Primary Sources:
+    displayName: Primary Sources
+  Secondary Sources:
+    displayName: Secondary Sources
+  📚 Notero Advanced:
+    displayName: 📚 Notero Advanced
+  Publication:
+    displayName: Publication
+  PhilPapers Secondary:
+    displayName: PhilPapers Secondary
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - PhilPapers
+      - Date
+      - Summary
+      - Part
+      - Philosophy Persona Spec
+      - 📚 Notero Advanced 1
+      - Primary Sources
+      - Secondary Sources
+      - 📚 Notero Advanced
+      - Publication
+      - PhilPapers Secondary

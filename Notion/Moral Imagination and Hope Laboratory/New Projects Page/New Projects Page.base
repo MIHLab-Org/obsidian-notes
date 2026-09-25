@@ -1,0 +1,133 @@
+# New Projects Page
+
+filters:
+  and:
+    - note["base"] == link("New Projects Page.base")
+properties:
+  file.name:
+    displayName: Name
+  Extra:
+    displayName: Extra
+  Date:
+    displayName: Date
+  Project Status:
+    displayName: Project Status
+  Date Modified:
+    displayName: Date Modified
+  Theoretical/Conceptual Framework:
+    displayName: Theoretical/Conceptual Framework
+  Title:
+    displayName: Title
+  Year:
+    displayName: Year
+  Problem or Purpose:
+    displayName: Problem or Purpose
+  Cover:
+    displayName: Cover
+  Zotero URI:
+    displayName: Zotero URI
+  Item Type:
+    displayName: Item Type
+  zotero library:
+    displayName: zotero library
+  Authors:
+    displayName: Authors
+  Series Title:
+    displayName: Series Title
+  DOI:
+    displayName: DOI
+  Due Date:
+    displayName: Due Date
+  Philosophy Resources Spec Sheet:
+    displayName: Philosophy Resources Spec Sheet
+  Abstract:
+    displayName: Abstract
+  Full Citation:
+    displayName: Full Citation
+  Relevance:
+    displayName: Relevance
+  Editors:
+    displayName: Editors
+  Place:
+    displayName: Place
+  Tags:
+    displayName: Tags
+  Related References:
+    displayName: Related References
+  Citation Key:
+    displayName: Citation Key
+  My Comments:
+    displayName: My Comments
+  File Path:
+    displayName: File Path
+  In-Text Citation:
+    displayName: In-Text Citation
+  Methods:
+    displayName: Methods
+  Sample:
+    displayName: Sample
+  Proceedings Title:
+    displayName: Proceedings Title
+  Recommendations:
+    displayName: Recommendations
+  Publication:
+    displayName: Publication
+  Date Added:
+    displayName: Date Added
+  Key Findings:
+    displayName: Key Findings
+  Short Title:
+    displayName: Short Title
+  Collections:
+    displayName: Collections
+  Discipline:
+    displayName: Discipline
+  URL:
+    displayName: URL
+  Own?:
+    displayName: Own?
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Extra
+      - Date
+      - Project Status
+      - Date Modified
+      - Theoretical/Conceptual Framework
+      - Title
+      - Year
+      - Problem or Purpose
+      - Cover
+      - Zotero URI
+      - Item Type
+      - zotero library
+      - Authors
+      - Series Title
+      - DOI
+      - Due Date
+      - Philosophy Resources Spec Sheet
+      - Abstract
+      - Full Citation
+      - Relevance
+      - Editors
+      - Place
+      - Tags
+      - Related References
+      - Citation Key
+      - My Comments
+      - File Path
+      - In-Text Citation
+      - Methods
+      - Sample
+      - Proceedings Title
+      - Recommendations
+      - Publication
+      - Date Added
+      - Key Findings
+      - Short Title
+      - Collections
+      - Discipline
+      - URL
+      - Own?

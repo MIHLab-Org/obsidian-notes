@@ -1,0 +1,61 @@
+# Class Notes
+
+filters:
+  and:
+    - note["base"] == link("Class Notes.base")
+properties:
+  file.name:
+    displayName: Name
+  Tags:
+    displayName: Tags
+  Subject:
+    displayName: Subject
+  Section:
+    displayName: Section
+  Source:
+    displayName: Source
+  Week:
+    displayName: Week
+  Column:
+    displayName: Column
+  Hypothesis:
+    displayName: Hypothesis
+  Date Written:
+    displayName: Date Written
+  Participants:
+    displayName: Participants
+  Developer of the Experiment:
+    displayName: Developer of the Experiment
+  Notebook page:
+    displayName: Notebook page
+  Exp. type:
+    displayName: Exp. type
+  Game Context:
+    displayName: Game Context
+  AIM:
+    displayName: AIM
+  Personal:
+    displayName: Personal
+  Work:
+    displayName: Work
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Tags
+      - Subject
+      - Section
+      - Source
+      - Week
+      - Column
+      - Hypothesis
+      - Date Written
+      - Participants
+      - Developer of the Experiment
+      - Notebook page
+      - Exp. type
+      - Game Context
+      - AIM
+      - Personal
+      - Work

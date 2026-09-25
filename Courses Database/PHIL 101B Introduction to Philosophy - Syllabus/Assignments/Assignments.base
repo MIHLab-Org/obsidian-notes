@@ -1,0 +1,24 @@
+# Assignments
+
+filters:
+  and:
+    - note["base"] == link("Assignments.base")
+formulas:
+  Total: '[note["Points Each"]].flat().sum()*note["Number"]'
+  "% of Grade": (note["Total"]* 10)/3200
+properties:
+  file.name:
+    displayName: Assignment
+  Points Each:
+    displayName: Points Each
+  Number:
+    displayName: Number
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Points Each
+      - Number
+      - formula.Total
+      - formula.% of Grade

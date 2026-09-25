@@ -1,0 +1,22 @@
+# Skills & Training
+
+filters:
+  and:
+    - note["base"] == link("Skills & Training.base")
+properties:
+  file.name:
+    displayName: Skill
+  Category:
+    displayName: Category
+  Details:
+    displayName: Details
+  Year Acquired:
+    displayName: Year Acquired
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Category
+      - Details
+      - Year Acquired

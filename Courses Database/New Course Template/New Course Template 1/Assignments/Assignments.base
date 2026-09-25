@@ -1,0 +1,22 @@
+filters:
+  and:
+    - note["base"] == link("Assignments.base")
+formulas:
+  Total: note["Number"] * note["Points Each"]
+  "% of Grade": (note["Total"]/320)*100
+properties:
+  file.name:
+    displayName: Assignment
+  Points Each:
+    displayName: Points Each
+  Number:
+    displayName: Number
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Points Each
+      - Number
+      - formula.Total
+      - formula.% of Grade

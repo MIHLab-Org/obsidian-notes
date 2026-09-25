@@ -1,0 +1,31 @@
+# Academic Positions
+
+filters:
+  and:
+    - note["base"] == link("Academic Positions.base")
+properties:
+  file.name:
+    displayName: Position
+  Institution:
+    displayName: Institution
+  Highlights:
+    displayName: Highlights
+  Dates:
+    displayName: Dates
+  Type:
+    displayName: Type
+  Courses Taught:
+    displayName: Courses Taught
+  Location:
+    displayName: Location
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Institution
+      - Highlights
+      - Dates
+      - Type
+      - Courses Taught
+      - Location

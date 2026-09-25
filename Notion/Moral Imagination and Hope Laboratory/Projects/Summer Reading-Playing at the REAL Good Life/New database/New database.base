@@ -1,0 +1,22 @@
+# New database
+
+filters:
+  and:
+    - note["base"] == link("New database.base")
+properties:
+  file.name:
+    displayName: Book
+  Author:
+    displayName: Author
+  Core Question:
+    displayName: Core Question
+  Sessions:
+    displayName: Sessions
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Author
+      - Core Question
+      - Sessions

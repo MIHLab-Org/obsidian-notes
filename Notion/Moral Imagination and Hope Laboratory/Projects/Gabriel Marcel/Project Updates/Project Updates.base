@@ -1,0 +1,28 @@
+# Project Updates
+
+filters:
+  and:
+    - note["base"] == link("Project Updates.base")
+properties:
+  file.name:
+    displayName: What I did this week
+  Date:
+    displayName: Date
+  Person:
+    displayName: Person
+  Questions/Requests:
+    displayName: Questions/Requests
+  Responses to questions:
+    displayName: Responses to questions
+  What I will do this week:
+    displayName: What I will do this week
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Date
+      - Person
+      - Questions/Requests
+      - Responses to questions
+      - What I will do this week

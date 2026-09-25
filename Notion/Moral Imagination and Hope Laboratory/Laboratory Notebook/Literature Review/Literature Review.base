@@ -1,0 +1,28 @@
+# Literature Review
+
+filters:
+  and:
+    - note["base"] == link("Literature Review.base")
+properties:
+  file.name:
+    displayName: Title
+  Authors:
+    displayName: Authors
+  Tags:
+    displayName: Tags
+  Year:
+    displayName: Year
+  Experiment:
+    displayName: Experiment
+  Created:
+    displayName: Created
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Authors
+      - Tags
+      - Year
+      - Experiment
+      - Created

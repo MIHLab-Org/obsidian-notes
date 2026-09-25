@@ -1,0 +1,40 @@
+# 📝 Notes and Course Schedule
+
+filters:
+  and:
+    - note["base"] == link("📝 Notes and Course Schedule.base")
+properties:
+  file.name:
+    displayName: Title
+  Week:
+    displayName: Week
+  Section:
+    displayName: Section
+  Date:
+    displayName: Date
+  Note Type:
+    displayName: Note Type
+  Tags:
+    displayName: Tags
+  Literature:
+    displayName: Literature
+  Date 1:
+    displayName: Date 1
+  Source URL:
+    displayName: Source URL
+  Project:
+    displayName: Project
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Week
+      - Section
+      - Date
+      - Note Type
+      - Tags
+      - Literature
+      - Date 1
+      - Source URL
+      - Project

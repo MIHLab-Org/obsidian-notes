@@ -1,0 +1,16 @@
+# Job Materials
+
+filters:
+  and:
+    - note["base"] == link("Job Materials.base")
+properties:
+  file.name:
+    displayName: Item 1
+  Item 2:
+    displayName: Item 2
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Item 2

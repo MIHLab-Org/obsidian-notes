@@ -1,0 +1,28 @@
+# Directory
+
+filters:
+  and:
+    - note["base"] == link("Directory.base")
+properties:
+  file.name:
+    displayName: Name
+  Institution:
+    displayName: Institution
+  Email:
+    displayName: Email
+  Degree:
+    displayName: Degree
+  Areas of expertise:
+    displayName: Areas of expertise
+  Role:
+    displayName: Role
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Institution
+      - Email
+      - Degree
+      - Areas of expertise
+      - Role

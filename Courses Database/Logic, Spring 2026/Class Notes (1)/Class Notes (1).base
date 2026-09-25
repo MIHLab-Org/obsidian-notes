@@ -1,0 +1,19 @@
+# Class Notes (1)
+
+filters:
+  and:
+    - note["base"] == link("Class Notes (1).base")
+properties:
+  file.name:
+    displayName: Name
+  Tags:
+    displayName: Tags
+  Column:
+    displayName: Column
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Tags
+      - Column
