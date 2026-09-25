@@ -1,0 +1,46 @@
+# 🎬 MIHL Media
+
+filters:
+  and:
+    - note["base"] == link("🎬 MIHL Media.base")
+properties:
+  file.name:
+    displayName: Title
+  URL:
+    displayName: URL
+  Twitch VOD URL:
+    displayName: Twitch VOD URL
+  Tags:
+    displayName: Tags
+  Session Number:
+    displayName: Session Number
+  Description:
+    displayName: Description
+  Date:
+    displayName: Date
+  Published:
+    displayName: Published
+  Type:
+    displayName: Type
+  Featured:
+    displayName: Featured
+  YouTube ID:
+    displayName: YouTube ID
+  Substack Slug:
+    displayName: Substack Slug
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - URL
+      - Twitch VOD URL
+      - Tags
+      - Session Number
+      - Description
+      - Date
+      - Published
+      - Type
+      - Featured
+      - YouTube ID
+      - Substack Slug
