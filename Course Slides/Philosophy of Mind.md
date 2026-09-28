@@ -955,3 +955,277 @@ An opaque decision problem, $\hat{\Delta}$ = $\langle \text{S}^{\hat{\Delta}}, O
 States, $s, s', s'', . . . \in S$ are objects in a decision problem relevant to the agent’s decision but that they maybe unsure about. Outcomes, $o, o', o'', . . . \in O$ are objects of an agent’s desires: E.g., “Being your own boss”. Acts, $a, b, c, . . . \in A$ are the immediate objects of decision-making, “stacked your bread”.
 
 ---
+
+# What is the Philosophy of Mind?
+
+* What is Mental Activity?
+	* Plato; Aristotle; Sankara; Ramanuja; Zhuangzi
+	* Al-Farabi; Avicenna; Averroes; St. Thomas Aquinas; Willian of Ockham
+	* Rene Descartes; John Locke; David Hume
+
+---
+
+> We know consciousness far more intimately than we know the rest of the world, but we understand the rest of the world far better than we understand consciousness.
+
+---
+
+| Left                                                | Right                                                             |
+| --------------------------------------------------- | ----------------------------------------------------------------- |
+| We have a good understanding of the external world. | We do not have a good understanding of our internal mental states |
+| We do not have access to the external world         | We do have access to our internal mental states                   |
+
+---
+
+Areas of Philosophical Inquiry
+* Metaphysics
+	* What exists?
+	* Which of our concepts map onto what exists?
+
+---
+### What are the Sciences of the Mind?
+
+* Psychology
+* Neuro-Science
+* Psychiatry
+
+---
+
+What is a mind?
+
+| Investigation 1                                       | Investigation 2                                     |
+| ----------------------------------------------------- | --------------------------------------------------- |
+| Things that possess a mind versus things that do not. | What kind of access do we have to mental phenomena? |
+
+---
+
+> Your unconscious thoughts and emotions are simply those parts of your mind that you don’t have explicit knowledge about but which nonetheless guide your behavioral patterns and form your personality. (Brogaard, 144)
+---
+
+# Elements of emotion
+
+- thought
+- Physiological changes
+- Effect on attention and memory
+- Typical emotion episode
+- Action tendencies
+- Modulation of mental processes (attention and conscious feelings)
+
+---
+
+## Theories of emotion
+
+---
+### From parts to theories
+
+Different theories of emotion
+
+- feeling theory
+- James-Lange
+- Somatic theory
+- Somatic theory of emotion
+- Behavioral theory
+
+- Behavioral conditioning theory
+- Processing mode theory
+- Cognitive theory of the emotions
+- Pure cognitive theory of the emotions
+
+---
+
+### Hybrid Theories
+
+- Impure cognitive theory of emotion
+    - Aristotelian: emotions are felt action-directed cognitive states of the body.
+    - Cartesian
+    - Humean
+    - Spinoza
+    - Cognitive labeling view
+    - Cognitive cause theories
+    - Dimensional appraisal theories
+
+---
+
+### Dimensional Appraisal Theories
+
+- Arnold: 3 dimensions of appraisals, risk, availability, difficulty
+- Lazarus: evaluation for wellbeing
+    - Goal relevance
+    - Goal congruence
+    - Ego-involvement
+    - Approbation and blame
+    - Coping potential
+    - Future expectancy
+
+---
+
+## From parts to plenty
+
+---
+### The problem of plenty
+
+What are emotions?
+
+Lazarus
+
+- psychophisiological reactions to cognitive appraisals
+
+Arnold
+
+- felt tendencies toward something judged as beneficial
+
+---
+
+Theories
+
+- encompassing theories
+    - Cons
+
+The problem of plenty
+
+---
+Study of the Mind
+---
+What features illuminate the nature of mentality?
+
+| Intention | Consciousness |
+| --------- | ------------- |
+|           |               |
+
+---
+
+## Intention
+
+---
+### Franz Brentano (1838-1917)
+
+Philosophy of psychology, introduced the concept of intentionality
+
+> [all mental phenomena have in common is] that they are only perceived in inner consciousness, while in the case of physical phenomena only external perception is possible (PES 128)
+
+---
+
+also worked in philosophy of mind, metaphysics, ontology, ethics, logic, history of philosophy and philosophical theology
+
+---
+
+* Introduced concept of scientific rigor into philosophy
+
+* But best known for having introduced intentionality to contemporary philosophy
+
+---
+
+> Every mental phenomenon is characterized by what the Scholastics of the  Middle Ages called the intentional (or mental)‡ inexistence of an object, and what we might call, though not wholly unambiguously, reference to a content, direction toward an object (which is not to be understood here as meaning a  thing), or immanent objectivity. (PES, 111)
+
+---
+
+#### What is intentional?
+
+A word that is applied to purposeful and goal directed actions.
+
+Take mental states like desires, beliefs, and perceptions.
+
+---
+
+Desire
+
+The object of my desire to to visit Madagascar is “Madagascar”
+
+---
+
+Belief
+
+The object of my belief that Valentina Tereshkova is was the first woman in space is “Valentina Tereshkova”.
+
+---
+
+Perception
+
+The object of a perception that the sun is yellow is “the yellow sun”
+
+---
+#### Objects of intentional states?
+
+Most are ordinary and publicly accessible
+
+---
+
+Desire
+
+The object of my desire to visit Madagascar is “some island off the coast of the African continent”
+
+---
+
+Belief
+
+The object of my belief that Valentina Tereshkova is was the first woman in space is “Some particular astronaut”.
+
+---
+
+Perception
+
+The object of a perception that the sun is yellow is “some extra planetary body”
+
+---
+
+Some are not necessarily ordinary or publicly accessible
+
+Intentional states caused by going without sleep for long periods of time
+
+Fictional objects: we can think about non-existent objects while being fully aware of their non-existence (12)
+
+---
+
+#### The Dilemma
+
+Intentional States with the same kinds of Objects
+
+Intentional States (hallucinations) without ordinary physical objects 
+
+spider when afraid of spiders
+	Intention
+	Consciousness
+
+---
+## Consciousness
+---
+> Consciousness: The having of perceptions, thoughts, and feelings; awareness. The term is impossible to define except in terms that are unintelligible without a grasp of what consciousness means. Many fall into the trap of confusing consciousness with self-consciousness—to be conscious it is only necessary to be aware of the external world. Consciousness is a fascinating but elusive phenomenon: it is impossible to specify what it is, what it does, or why it evolved. Nothing worth reading has been written about it. (Sutherland 1989)
+---
+> To put it another way, we can say that a mental state is conscious if it has a qualitative feel—an associated quality of experience. (Chalmers 1996)
+
+---
+
+> That is, consciousness is surprising. If all we knew about were the facts of physics, and even the facts about dynamics and information processing in complex systems, there would be no compelling reason to postulate the existence of conscious experience.
+
+---
+
+How do these features illuminate the nature of mentality?
+
+Physicalism
+
+Kinds of Physicalism
+	Behaviourism
+	Mind-Brain Identity
+	Functionalism
+	Elimanativism
+
+---
+
+Mentality and Perception
+
+Content View of Perception
+Sense-Data
+Naive Realism
+
+Perception as an Intentional State
+Perception as an Experience
+
+Arguments for and against intentionalism
+
+What can be perceived?
+
+Is unconscious perception possible?
+
+---
+
+We don’t just want to be able to distinguish between mental and non-mental, but we also want to be able to identify features that *might* illuminate the nature of mentality. Does intentionality do this?
+
