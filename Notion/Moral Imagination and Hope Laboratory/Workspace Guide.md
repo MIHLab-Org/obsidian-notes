@@ -150,7 +150,7 @@ Your **Zotero-synced** source library. Every academic source you read or referen
 
 [Open Experiments Plan](https://www.notion.so/1798935bcf8a831d8756013dd3a95931)
 
-Philosophical thought experiments using the scientific method. Each experiment tests a philosophical intuition using Star Citizen or Elite Dangerous as the experimental context. These exist in the [[Courses Database/Introduction to Philosophy, Spring 2026/Class Notes/Class Notes.base]] database, filtered by “tags=lab”.
+Philosophical thought experiments using the scientific method. Each experiment tests a philosophical intuition using Star Citizen or Elite Dangerous as the experimental context. These exist in the [[Courses Database/Courses/Introduction to Philosophy/Introduction to Philosophy, Spring 2026/Class Notes/Class Notes.base]] database, filtered by “tags=lab”.
 
 **Structure of each experiment:**
 

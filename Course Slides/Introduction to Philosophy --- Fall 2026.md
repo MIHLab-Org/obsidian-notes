@@ -1010,6 +1010,8 @@ Is it obvious that we’re not in a simulation?
 ---
 # Chapter 6: Reality
 
+[Metaphysics](https://redapemusic35.github.io/course.phil.intro-mw.github.io/2026_intro/weeks/week09/page.html)
+
 ---
 Consider simblockers
 
@@ -1444,8 +1446,16 @@ Think of a being that is the most evil being that can be conceived. That being m
 
 Aquinas, 1225 - 1274, once declared the official philosopher of the Catholic Church, built his objection to the ontological argument on epistemological grounds.
 
+---
+
 - Epistemology is the study of knowledge. It is a branch of philosophy that seeks to answer such questions as: What is knowledge?; What is truth?; How does knowing occur?; et cetera. Aquinas is known as an empiricist. Empiricists claim that knowledge comes from sense experience. Aquinas wrote: “Nothing is in the intellect which was not first in the senses.”
+
+---
+
 - Within Thomas’ empiricism, we can not reason or infer the existence of God from a studying of the definition of God. We can know God only indirectly, through our experiencing of God as Cause to that which we experience in the natural world. We can not assail the heavens with our reason; we can only know God as the Necessary Cause of all that we observe.
+
+---
+
 - Alvin Plantiga offers a counter argument to the counter arguments that at least establishes the rational acceptability of theism as it appears to support the idea that it is possible that the greatest conceivable being does exist.
 
 ---
