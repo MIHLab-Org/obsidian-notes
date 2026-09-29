@@ -26,11 +26,11 @@ Rust argues that this is because:
 
 ---
 
-		" According to his own telling, Hawkins had been living an instrumentally optimized life: a programmer who secured employment at his ideal workplace Google, while living in his dream city, San Francisco, Hawkins used recommendation software to drink the best coffee, eat at the best restaurants, and attend the best clubs and bars" but found himself questioning whether this was truly him. 
+> According to his own telling, Hawkins had been living an instrumentally optimized life: a programmer who secured employment at his ideal workplace Google, while living in his dream city, San Francisco, Hawkins used recommendation software to drink the best coffee, eat at the best restaurants, and attend the best clubs and bars" but found himself questioning whether this was truly him. 
 
 ---
 
-	What is missing is the "emotional trajectory that helps . . . understand how . . . came to want to be". The emotional trajectory that explains a persons motivations and desires.
+> What is missing is the "emotional trajectory that helps . . . understand how . . . came to want to be". The emotional trajectory that explains a persons motivations and desires.
 
 ---
 
