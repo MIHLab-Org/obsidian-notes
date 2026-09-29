@@ -20,21 +20,38 @@
               "icon": "lucide-file",
               "title": "Introduction"
             }
+          },
+          {
+            "id": "66a1ea9fe7cde515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Philosophy --- Fall 2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "f29769f8e58fd37e",
+        "id": "c5cc642f244b4ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "f86fe5d54411ec4b",
+            "id": "b17103320b10d83b",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Philosophy of Mind.md"
+              "type": "pdf",
+              "state": {
+                "file": "Files/Teaching Portfolio/Montaque-Reynolds.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Montaque-Reynolds"
             }
           }
         ]
@@ -226,22 +243,28 @@
       "bases:Create new base": false,
       "slides-extended:Show slide preview": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Import notes": false
+      "obsidian-importer:Import notes": false,
+      "thecap-cv-generator:Preview curriculum": false
     }
   },
-  "active": "f86fe5d54411ec4b",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "Files/Teaching Portfolio/Montaque Reynolds.md",
+    "Files/Teaching Portfolio/Montaque-Reynolds.pdf",
+    "Files/Teaching Portfolio/Montaque-Reynolds.log",
+    "Files/Teaching Portfolio/Montaque-Reynolds.aux",
+    "Files/Teaching Portfolio/Montaque-Reynolds.tex",
+    "Files/Teaching Portfolio/Montaque Reynolds_files/mediabag",
+    "Files/Teaching Portfolio/Montaque Reynolds_files",
+    "Schedule.md",
+    "Files/Research Portfolio",
+    "Files/Teaching Portfolio",
+    "Notes/Rust-Skillfully confronting the unknown_files/The Epistemology of Narrative Knowledge/The Utopia of a shared narrative that looks to the future.md",
+    "Notes/Rust-Skillfully confronting the unknown_files/The Epistemology of Narrative Knowledge/Exploring Transmission.md",
+    "Notes/Rust-Skillfully confronting the unknown_files/The Epistemology of Narrative Knowledge/Narrative Theory, Mind, and Text.md",
+    "Notes/Rust-Skillfully confronting the unknown_files/The Epistemology of Narrative Knowledge/Introduction.md",
     "export/Philosophy of Mind/plugin/zoom/zoom.js",
     "export/Philosophy of Mind/plugin/zoom/plugin.js",
-    "export/Philosophy of Mind/plugin/zoom/zoom.esm.js",
-    "export/Philosophy of Mind/plugin/zoom",
-    "export/Philosophy of Mind/plugin/search/search.js",
-    "export/Philosophy of Mind/plugin/search/search.esm.js",
-    "export/Philosophy of Mind/plugin/search/plugin.js",
-    "export/Philosophy of Mind/plugin/search",
-    "export/Philosophy of Mind/plugin/reveal-pointer/pointer.js",
-    "export/Philosophy of Mind/plugin/reveal-pointer/pointer.css",
-    "export/Philosophy of Mind/plugin/reveal-pointer",
     "export/Philosophy of Mind/plugin/menu/README.md",
     "export/Philosophy of Mind/plugin/menu/CONTRIBUTING.md",
     "export/Philosophy of Mind/plugin/math/mathjax/README.md",
@@ -251,7 +274,6 @@
     "export/Philosophy of Mind/plugin/chart/README.md",
     "export/Philosophy of Mind/plugin/chalkboard/README.md",
     "Notes/Rust-Skillfully confronting the unknown_files/Rust-Skillfully confronting the unknown.md",
-    "Notes/Rust-Skillfully confronting the unknown_files/The Epistemology of Narrative Knowledge/Introduction.md",
     "Courses Database/Meta/Assignment Rubrics/Second Level.md",
     "Courses Database/Meta/Assignment Rubrics/First Level.md",
     "Course Slides/Philosophy of Mind.md",
@@ -269,14 +291,9 @@
     "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/CONTRIBUTING.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/math/katex/dist/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/customcontrols/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chart/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/whiteboard.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/sponge.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/chalk-yellow.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
-    "Course Slides/Reality+/What is Reality.md",
-    "Notes/Reality+/Reality+ Chapter 7.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
