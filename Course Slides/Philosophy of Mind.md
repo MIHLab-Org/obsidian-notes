@@ -1229,3 +1229,123 @@ Is unconscious perception possible?
 
 We don’t just want to be able to distinguish between mental and non-mental, but we also want to be able to identify features that *might* illuminate the nature of mentality. Does intentionality do this?
 
+---
+
+# He's Just Not that into You
+
+How do we account for shifts and changes in love?
+
+---
+
+* Can love transform into different kinds of love in the course of a relationship or does love come in degrees? 
+	* If being in love is like being pregnant, then it doesn’t come in degrees. 
+	* You cannot be a little bit pregnant. You are either pregnant or not. 
+* So if the notion of love is like that of pregnancy, then love is either on or off.
+* However, in my humble opinion, citing transitions from one type of love to another does not explain all shifts and changes in our loving attitudes.
+
+---
+
+In this respect, the concept is more like that of gender, not a binary, but a spectrum.
+
+---
+
+## Prototypes
+
+Concepts are analyzable in terms of necessary and sufficient conditions.
+
+| Game   | Furniture |
+| ------ | --------- |
+| Soccer | Chair     |
+
+---
+
+Whether something falls under a prototype is a matter of degree.
+
+| Game                    | Furniture                   |
+| ----------------------- | --------------------------- |
+| Soccer                  | Chair                       |
+| Football                | Chaise Lounge               |
+| Madden on Playstation 2 | Tree Stump around Camp Fire |
+
+---
+
+### Furniture Rankings
+
+Highly Ranked Furniture Items
+
+| High             | Low            |
+| ---------------- | -------------- |
+| Chair/Sofa       | rug            |
+| couch/table      | pillow         |
+| dresser          | wastebasket    |
+| rocking chair    | sewing machine |
+| coffee table     | stove          |
+| love seat        | refrigerator   |
+| chest of drawers | telephone      |
+| desk             |                |
+| bed              |                |
+
+
+---
+
+| Electrical Devices | Furniture |
+| ------------------ | --------- |
+| Telephone          | Telephone |
+
+---
+
+Some More Categories
+
+|     | Compassionate Love       | Carnal Love              | Love                     | True Love                |
+| --- | ------------------------ | ------------------------ | ------------------------ | ------------------------ |
+| 10  | Jonah and Sam Meet Annie |                          |                          |                          |
+| 9   |                          |                          |                          | Jonah and Sam Meet Annie |
+| 7   |                          |                          | Jonah and Sam Meet Annie |                          |
+| 1   |                          | Jonah and Sam Meet Annie |                          |                          |
+
+---
+
+## Love is Gradable
+
+> Saying “I love you” is informative, but there are limits to how much information the three sappy words can provide.
+
+---
+
+### Love Comes in Degrees
+
+* Love has ***grown*** old.
+* Brotherly Love: Lucy doesn't have the ***full*** conscious experience of being in love.
+* Makes my heart beat like a jungle drum.
+
+---
+
+> The message they want you to get is that if it isn’t obvious that a ___ likes you, they probably don’t like you very much.
+
+* He may have an avoidant attachment style or suffer from crippling love shyness. 
+* He may have an anxious attachment style that led him to suffer from a ghastly breakup and consequently made him swear never to get into a romantic relationship again. 
+* Or he may not have fully realized on a conscious level that he really is into you.
+
+---
+
+## Love and Ambivalence
+
+Ambivalence = incoherence of desires	
+* In order for incoherent desires to amount to ambivalence, they must result in an inner conflict about what to do.
+
+---
+ 
+  1. Love = x $\phi$’s y, x is $\phi$ with/of/about y
+  2. x feels emotion e, towards y, then x believes y to be $\phi$. $[(\exists \phi (x)(y) (Exy \rightarrow Bx\phi y)]$
+  3. if x feels the emotion in question towards some object y then x believes y to have some determinate quality $\psi$, which normally but not necessarily he will be able to specify: $[(x)(y)(\exists \psi)(Exy \rightarrow Bx\psi y)]$ 
+  4. 1-3 are necessary but not sufficient conditions. Justification of e is also needed.
+
+---
+
+Is love ever unjustified? 
+  1. if x loves y then x wants to benefit and be with y etc. Because x believes y has some determinate characteristics $\psi$ in virtue of which he thinks it worth while to benefit and be with y.
+  2. Justification (i) the belief that y is $\psi$ may be well- or ill-founded. (ii) the distinction between want and wish is that want is accompainied by the belief that the object is obtainable. (iii) one can be mistaken in attaching the value he does to what he wants.
+
+---
+
+# The Nature of Love
+
