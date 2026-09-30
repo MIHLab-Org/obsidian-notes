@@ -25,7 +25,7 @@ Different theories of emotion
 	- emotions are simply feelings
 - James-Lange 
 	- bodily changes precede emotional experiences, emotional experiences then are experiences of various changes in the body.
-		imagine feeling an emotion and then imagine systematically subtracting away the feelings of corresponding bodily states. Can you imagine feeling elated without feeling your heart racing? (E.g., see [[Gut Reactions]], 4)
+		imagine feeling an emotion and then imagine systematically subtracting away the feelings of corresponding bodily states. Can you imagine feeling elated without feeling your heart racing? (E.g., see [[Notion/Moral Imagination and Hope Laboratory/Notero Advanced/Gut Reactions/Gut Reactions]], 4)
 - Somatic feeling theory
 	- bodily changes precede emotional experiences, emotional experiences then are experiences of various changes in the body, so emotions are feelings of bodily state changes.
 		“Our feeling of the [bodily] changes as they occur *is* the emotion.” (William James, 1884 p. 190)

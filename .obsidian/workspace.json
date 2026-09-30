@@ -39,19 +39,17 @@
         "currentTab": 1
       },
       {
-        "id": "c5cc642f244b4ed2",
+        "id": "a3f16c7d77585be8",
         "type": "tabs",
         "children": [
           {
-            "id": "b17103320b10d83b",
+            "id": "481492cdd1849a3b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Teaching Portfolio/Montaque-Reynolds.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Montaque-Reynolds"
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
             }
           }
         ]
@@ -247,24 +245,31 @@
       "thecap-cv-generator:Preview curriculum": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "481492cdd1849a3b",
   "lastOpenFiles": [
+    "Notes/The Ontological Argument/The Ontological Argument.md",
+    "Notes/The Modal (Realist) Ontological Argument/The Modal (Realist) Ontological Argument.md",
+    "Notes/The Ontological Argument",
+    "Notes/Grounding and the Existence of God/Grounding and the Existence of God.md",
+    "Notes/The Modal (Realist) Ontological Argument",
+    "Notes/The Theoretical Status of Latent Variables/The Theoretical Status of Latent Variables.md",
+    "Notes/Grounding and the Existence of God",
+    "Notes/Gut Reactions/Gut Reactions.md",
+    "Notes/Gut Reactions",
+    "Notes/The Theoretical Status of Latent Variables",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and the Updating Rule.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Files/Teaching Portfolio/Montaque Reynolds.md",
     "Files/Teaching Portfolio/Montaque-Reynolds.pdf",
     "Files/Teaching Portfolio/Montaque-Reynolds.log",
     "Files/Teaching Portfolio/Montaque-Reynolds.aux",
     "Files/Teaching Portfolio/Montaque-Reynolds.tex",
     "Files/Teaching Portfolio/Montaque Reynolds_files/mediabag",
-    "Files/Teaching Portfolio/Montaque Reynolds_files",
     "Schedule.md",
-    "Files/Research Portfolio",
-    "Files/Teaching Portfolio",
     "Notes/Rust-Skillfully confronting the unknown_files/The Epistemology of Narrative Knowledge/The Utopia of a shared narrative that looks to the future.md",
     "Notes/Rust-Skillfully confronting the unknown_files/The Epistemology of Narrative Knowledge/Exploring Transmission.md",
     "Notes/Rust-Skillfully confronting the unknown_files/The Epistemology of Narrative Knowledge/Narrative Theory, Mind, and Text.md",
     "Notes/Rust-Skillfully confronting the unknown_files/The Epistemology of Narrative Knowledge/Introduction.md",
-    "export/Philosophy of Mind/plugin/zoom/zoom.js",
-    "export/Philosophy of Mind/plugin/zoom/plugin.js",
     "export/Philosophy of Mind/plugin/menu/README.md",
     "export/Philosophy of Mind/plugin/menu/CONTRIBUTING.md",
     "export/Philosophy of Mind/plugin/math/mathjax/README.md",
@@ -278,7 +283,6 @@
     "Courses Database/Meta/Assignment Rubrics/First Level.md",
     "Course Slides/Philosophy of Mind.md",
     "Courses Database/Courses/The Slow Existential Death.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094338.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094232.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922093617.png",
@@ -286,11 +290,6 @@
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922085836.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922090746.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922085333.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/CONTRIBUTING.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/katex/dist/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/whiteboard.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/sponge.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/chalk-yellow.png",
