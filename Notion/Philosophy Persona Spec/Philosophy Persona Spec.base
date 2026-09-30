@@ -1,0 +1,35 @@
+filters:
+  and:
+    - note["base"] == link("Philosophy Persona Spec.base")
+properties:
+  file.name:
+    displayName: Name
+  Outline Resource Database:
+    displayName: Outline Resource Database
+  Place:
+    displayName: Place
+  📚 Notero Advanced:
+    displayName: 📚 Notero Advanced
+  Categories:
+    displayName: Categories
+  📚 Notero Advanced 1:
+    displayName: 📚 Notero Advanced 1
+  Role:
+    displayName: Role
+  Dates:
+    displayName: Dates
+  Outline Resource Database 1:
+    displayName: Outline Resource Database 1
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Outline Resource Database
+      - Place
+      - 📚 Notero Advanced
+      - Categories
+      - 📚 Notero Advanced 1
+      - Role
+      - Dates
+      - Outline Resource Database 1

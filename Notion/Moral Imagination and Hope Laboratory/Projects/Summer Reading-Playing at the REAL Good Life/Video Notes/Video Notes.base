@@ -1,0 +1,31 @@
+# Video Notes
+
+filters:
+  and:
+    - note["base"] == link("Video Notes.base")
+properties:
+  file.name:
+    displayName: Session
+  Date:
+    displayName: Date
+  Topic:
+    displayName: Topic
+  Mission Type:
+    displayName: Mission Type
+  Reading:
+    displayName: Reading
+  Game:
+    displayName: Game
+  URL:
+    displayName: URL
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Date
+      - Topic
+      - Mission Type
+      - Reading
+      - Game
+      - URL

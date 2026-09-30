@@ -1,0 +1,154 @@
+---
+notion-id: 34d8935b-cf8a-801c-8948-fa5fe880f551
+base: "[[Notero Advanced.base]]"
+📚 New Projects Page: []
+Extra: ""
+Date: ""
+Reading Status: To Find
+Related References 1: ""
+Theoretical/Conceptual Framework: ""
+Title: ""
+Outline Resource Database 2: []
+Problem or Purpose: ""
+Resource Database: []
+Item Type: Journal Article
+zotero library: []
+Authors: ""
+Series Title: ""
+Personas 1: []
+Personas: []
+Philosophy Resources Spec Sheet: []
+Abstract: ""
+Full Citation: ""
+Relevance: ""
+Editors: ""
+Place: ""
+Philosophy Persona Spec: []
+Tags: []
+Related References: []
+Citation Key: ""
+My Comments: ""
+Outline Resource Database 1: []
+File Path: ""
+In-Text Citation: ""
+Methods: ""
+Sample: ""
+Proceedings Title: ""
+Recommendations: ""
+Outline Resource Database: []
+Publication: ""
+Key Findings: ""
+Short Title: ""
+Collections: []
+Discipline: []
+Wandering in Darkness Resource Database: []
+---
+# Annotated Bibliography Entry
+
+> [!note] 📌
+> How is this article relevant to your research? Who is it useful for? 
+
+---
+
+# Promising References
+
+Reading Note
+    **Publication:** *(link to Notero entry)*
+    **Linked to Publication:** *(link to article this note is for)*
+    **Date read:**
+---
+    ## 🔍 Understanding
+    *What does this source actually say and do?*
+		- It opens up with a brief history and overview of natural law theories. 
+		- The modern legal theorists who identify themselves with the natural law tradition seem to have objectives and approaches distinctly different from those classically associated with natural law. 
+		- This article deals with two different types of natural law—natural law as moral/political theory and natural law as legal/social theory—as connected at a basic level. It discusses two lines of thought, natural law and natural rights, as interchangeable, or closely connected and reflects a modern perspective. 
+		- The most important idea modern natural law theorists have brought to jurisprudence is that views of law that take into account law's moral aspirations offer a better understanding of social institution.
+    ### Text
+    *Accurate paraphrase of the source's main claims. What does it actually say? Use page numbers.*
+> 
+
+    ### Ideas
+    *What problem or question is this source addressing? What alternatives or solutions does it consider? What examples does it use and why are they relevant?*
+> 
+
+    ### Analysis
+    *How does the source break down its central argument or problem into parts? What are the key components and how do they connect?*
+> 
+
+    ### Synthesis
+    *How does the source integrate its parts into a coherent whole? Where are the connections clear or unclear?*
+> 
+
+---
+    ## ⚖️ Evaluation
+    *How good is this source's reasoning?*
+    ### Argument
+    *Is the argument valid? Sound? Are there informal fallacies? What standards does it meet or fail? How could it be made better?*
+> 
+
+    ### Position
+    *Is the position internally consistent? Does it have support in argument? What plausible alternatives does it ignore or fail to consider?*
+> 
+
+    ### Sensitivity
+    *Does the source check for unmentioned plausible alternatives? Does it explore positions beyond the obvious ones?*
+> 
+
+    ### Accuracy
+    *Are the parts of the argument correctly identified? Are the connections between them accurate?*
+> 
+
+---
+    ## ✍️ Creation — Relevance to My Work
+    *How does this source feed my own argument?*
+    ### Critical Acumen / Thesis Fit
+    *Is the source's thesis original, interesting, and relevant to my project? How does it relate to my own thesis — does it support, complicate, or contradict it?*
+> 
+
+    ### Clarity of Statement
+    *Is the source's main conclusion clearly stated? Can I extract a single precise claim to cite or engage with?*
+> 
+
+    ### Premises I Can Use
+    *Which specific premises or reasons from this source can support my own argument? Are they clearly stated and plausibly true?*
+> 
+
+    ### Support
+    *How do this source's premises support my thesis? What kind of support do they provide (deductive, inductive, analogical)?*
+> 
+
+    ### Counter-Arguments This Source Raises
+    *What objections, counter-examples, or opposing positions does this source raise that I will need to address in my own paper?*
+> 
+
+    ### Examples
+    *What examples does this source offer that I could use or adapt? Are they original, relevant, and well-used?*
+> 
+
+    ### Alternative Positions
+    *What alternative positions does this source explore that I should also consider in my paper?*
+> 
+
+    ### Consistency
+    *How does this source integrate with the other sources I am using? Does it cohere or create tensions I need to resolve?*
+> 
+
+---
+    ## 🏗️ My Paper's Structure
+    *How does this source fit into my argument's organization?*
+    ### Introduction
+    *Does this source help establish my thesis, introduce the problem, or describe the steps of my argument?*
+> 
+
+    ### Body
+    *Which section or premise of my paper does this source support? Is it a main argument or a sub-argument?*
+> 
+
+    ### Conclusion
+    *Does this source raise loose ends, implications, or areas for further work that belong in my conclusion?*
+> 
+
+---
+    ## 🧠 Brain Dump — Raw Notes
+    *Unfiltered thoughts while reading. Don't edit. Triage later.*
+	- 

@@ -1,0 +1,25 @@
+# Resource Database
+
+filters:
+  and:
+    - note["base"] == link("Resource Database.base")
+properties:
+  file.name:
+    displayName: Chapters
+  PhilPapers:
+    displayName: PhilPapers
+  Primary Sources:
+    displayName: Primary Sources
+  Secondary Sources:
+    displayName: Secondary Sources
+  PhilPapers Secondary:
+    displayName: PhilPapers Secondary
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - PhilPapers
+      - Primary Sources
+      - Secondary Sources
+      - PhilPapers Secondary

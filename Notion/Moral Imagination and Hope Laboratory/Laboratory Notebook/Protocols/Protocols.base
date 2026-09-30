@@ -1,0 +1,19 @@
+# Protocols
+
+filters:
+  and:
+    - note["base"] == link("Protocols.base")
+properties:
+  file.name:
+    displayName: Name
+  Documentation:
+    displayName: Documentation
+  Created:
+    displayName: Created
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Documentation
+      - Created

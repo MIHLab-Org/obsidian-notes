@@ -1,0 +1,31 @@
+# Publications
+
+filters:
+  and:
+    - note["base"] == link("Publications.base")
+properties:
+  file.name:
+    displayName: Title
+  Notes:
+    displayName: Notes
+  Authors:
+    displayName: Authors
+  Type:
+    displayName: Type
+  Year:
+    displayName: Year
+  Publisher / Venue:
+    displayName: Publisher / Venue
+  Status:
+    displayName: Status
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Notes
+      - Authors
+      - Type
+      - Year
+      - Publisher / Venue
+      - Status

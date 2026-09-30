@@ -1,0 +1,95 @@
+filters:
+  and:
+    - note["base"] == link("Projects.base")
+properties:
+  file.name:
+    displayName: Name
+  Chapter Number:
+    displayName: Chapter Number
+  Area:
+    displayName: Area
+  Target Date:
+    displayName: Target Date
+  Next Action:
+    displayName: Next Action
+  📚 Courses Database:
+    displayName: 📚 Courses Database
+  Word Count Goal:
+    displayName: Word Count Goal
+  Experiments Plan:
+    displayName: Experiments Plan
+  Target Journal:
+    displayName: Target Journal
+  Project Lead:
+    displayName: Project Lead
+  Project Type:
+    displayName: Project Type
+  Publications Count:
+    displayName: Publications Count
+  Team members:
+    displayName: Team members
+  Status:
+    displayName: Status
+  Priority:
+    displayName: Priority
+  Semester:
+    displayName: Semester
+  Enrollment:
+    displayName: Enrollment
+  Section:
+    displayName: Section
+  TW Project:
+    displayName: TW Project
+  Start Time:
+    displayName: Start Time
+  Units:
+    displayName: Units
+  Instructor:
+    displayName: Instructor
+  Syllabus:
+    displayName: Syllabus
+  Type:
+    displayName: Type
+  Course Code:
+    displayName: Course Code
+  Abstract / Thesis:
+    displayName: Abstract / Thesis
+  Status 1:
+    displayName: Status 1
+  Dates:
+    displayName: Dates
+  Abstract/Thesis:
+    displayName: Abstract/Thesis
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Chapter Number
+      - Area
+      - Target Date
+      - Next Action
+      - 📚 Courses Database
+      - Word Count Goal
+      - Experiments Plan
+      - Target Journal
+      - Project Lead
+      - Project Type
+      - Publications Count
+      - Team members
+      - Status
+      - Priority
+      - Semester
+      - Enrollment
+      - Section
+      - TW Project
+      - Start Time
+      - Units
+      - Instructor
+      - Syllabus
+      - Type
+      - Course Code
+      - Abstract / Thesis
+      - Status 1
+      - Dates
+      - Abstract/Thesis

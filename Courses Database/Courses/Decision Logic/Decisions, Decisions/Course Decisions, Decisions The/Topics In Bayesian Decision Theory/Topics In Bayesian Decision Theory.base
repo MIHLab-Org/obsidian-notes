@@ -1,0 +1,22 @@
+# Topics In Bayesian Decision Theory
+
+filters:
+  and:
+    - note["base"] == link("Topics In Bayesian Decision Theory.base")
+properties:
+  file.name:
+    displayName: Week
+  Readings:
+    displayName: Readings
+  Topic:
+    displayName: Topic
+  Assignments Due:
+    displayName: Assignments Due
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Readings
+      - Topic
+      - Assignments Due

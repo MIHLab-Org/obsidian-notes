@@ -1,0 +1,28 @@
+# Deliverables
+
+filters:
+  and:
+    - note["base"] == link("Deliverables.base")
+properties:
+  file.name:
+    displayName: Title
+  Achieved:
+    displayName: Achieved
+  Description:
+    displayName: Description
+  Progress Tracking:
+    displayName: Progress Tracking
+  Deadline:
+    displayName: Deadline
+  Goal:
+    displayName: Goal
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Achieved
+      - Description
+      - Progress Tracking
+      - Deadline
+      - Goal

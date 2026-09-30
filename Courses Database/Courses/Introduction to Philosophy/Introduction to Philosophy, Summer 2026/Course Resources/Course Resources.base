@@ -1,0 +1,28 @@
+# Course Resources
+
+filters:
+  and:
+    - note["base"] == link("Course Resources.base")
+properties:
+  file.name:
+    displayName: Title
+  Tags:
+    displayName: Tags
+  Created by:
+    displayName: Created by
+  Created time:
+    displayName: Created time
+  Last edited by:
+    displayName: Last edited by
+  Last edited time:
+    displayName: Last edited time
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Tags
+      - Created by
+      - Created time
+      - Last edited by
+      - Last edited time

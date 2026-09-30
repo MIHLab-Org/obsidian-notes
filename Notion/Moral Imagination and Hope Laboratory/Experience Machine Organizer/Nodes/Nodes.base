@@ -1,0 +1,25 @@
+# Nodes
+
+filters:
+  and:
+    - note["base"] == link("Nodes.base")
+properties:
+  file.name:
+    displayName: Name
+  PhilPapers URL:
+    displayName: PhilPapers URL
+  Level:
+    displayName: Level
+  Personas:
+    displayName: Personas
+  Status:
+    displayName: Status
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - PhilPapers URL
+      - Level
+      - Personas
+      - Status

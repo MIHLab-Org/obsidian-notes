@@ -1,0 +1,25 @@
+# 강의노트DB
+
+filters:
+  and:
+    - note["base"] == link("강의노트DB.base")
+properties:
+  file.name:
+    displayName: Note
+  Lecture:
+    displayName: Lecture
+  Attachment:
+    displayName: Attachment
+  Memo:
+    displayName: Memo
+  Date:
+    displayName: Date
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Lecture
+      - Attachment
+      - Memo
+      - Date

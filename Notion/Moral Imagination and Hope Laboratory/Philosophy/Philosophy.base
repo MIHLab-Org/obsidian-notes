@@ -1,0 +1,25 @@
+# Philosophy
+
+filters:
+  and:
+    - note["base"] == link("Philosophy.base")
+properties:
+  file.name:
+    displayName: Title
+  Category:
+    displayName: Category
+  Area:
+    displayName: Area
+  Discipline:
+    displayName: Discipline
+  Organizing Question:
+    displayName: Organizing Question
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Category
+      - Area
+      - Discipline
+      - Organizing Question

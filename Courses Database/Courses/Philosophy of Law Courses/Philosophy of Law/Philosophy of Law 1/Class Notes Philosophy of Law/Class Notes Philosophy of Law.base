@@ -1,0 +1,28 @@
+# Class Notes Philosophy of Law
+
+filters:
+  and:
+    - note["base"] == link("Class Notes Philosophy of Law.base")
+properties:
+  file.name:
+    displayName: Name
+  Created by:
+    displayName: Created by
+  Subject:
+    displayName: Subject
+  📚 Notero Advanced:
+    displayName: 📚 Notero Advanced
+  Supplementary Readings:
+    displayName: Supplementary Readings
+  Tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Created by
+      - Subject
+      - 📚 Notero Advanced
+      - Supplementary Readings
+      - Tags

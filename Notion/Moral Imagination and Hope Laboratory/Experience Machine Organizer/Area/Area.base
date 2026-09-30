@@ -1,0 +1,19 @@
+# Area
+
+filters:
+  and:
+    - note["base"] == link("Area.base")
+properties:
+  file.name:
+    displayName: Name
+  Experience Machine Database 1:
+    displayName: Experience Machine Database 1
+  Discipline:
+    displayName: Discipline
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Experience Machine Database 1
+      - Discipline

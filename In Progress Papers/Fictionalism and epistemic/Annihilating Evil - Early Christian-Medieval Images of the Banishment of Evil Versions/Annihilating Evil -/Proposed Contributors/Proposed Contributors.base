@@ -1,0 +1,22 @@
+# Proposed Contributors
+
+filters:
+  and:
+    - note["base"] == link("Proposed Contributors.base")
+properties:
+  file.name:
+    displayName: Name
+  Place:
+    displayName: Place
+  Text:
+    displayName: Text
+  Email:
+    displayName: Email
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Place
+      - Text
+      - Email

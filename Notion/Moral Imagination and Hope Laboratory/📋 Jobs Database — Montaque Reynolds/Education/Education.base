@@ -1,0 +1,28 @@
+# Education
+
+filters:
+  and:
+    - note["base"] == link("Education.base")
+properties:
+  file.name:
+    displayName: Degree
+  Thesis / Dissertation:
+    displayName: Thesis / Dissertation
+  Institution:
+    displayName: Institution
+  Location:
+    displayName: Location
+  Advisor / Committee:
+    displayName: Advisor / Committee
+  Year:
+    displayName: Year
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Thesis / Dissertation
+      - Institution
+      - Location
+      - Advisor / Committee
+      - Year

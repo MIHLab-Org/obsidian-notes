@@ -1,0 +1,70 @@
+# Experiments Plan
+
+filters:
+  and:
+    - note["base"] == link("Experiments Plan.base")
+properties:
+  file.name:
+    displayName: What do do
+  Conclusion:
+    displayName: Conclusion
+  Notebook page:
+    displayName: Notebook page
+  Developer of the Experiment:
+    displayName: Developer of the Experiment
+  Hypothesis:
+    displayName: Hypothesis
+  👩‍💻 Projects:
+    displayName: 👩‍💻 Projects
+  Work:
+    displayName: Work
+  Participants:
+    displayName: Participants
+  👓 Literature Review:
+    displayName: 👓 Literature Review
+  task:
+    displayName: task
+  Date Written:
+    displayName: Date Written
+  📚 Courses Database:
+    displayName: 📚 Courses Database
+  Projects:
+    displayName: Projects
+  Observation:
+    displayName: Observation
+  Date of Experiment:
+    displayName: Date of Experiment
+  📚 Notero Advanced:
+    displayName: 📚 Notero Advanced
+  Personal:
+    displayName: Personal
+  AIM:
+    displayName: AIM
+  Game Context:
+    displayName: Game Context
+  Exp. type:
+    displayName: Exp. type
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Conclusion
+      - Notebook page
+      - Developer of the Experiment
+      - Hypothesis
+      - 👩‍💻 Projects
+      - Work
+      - Participants
+      - 👓 Literature Review
+      - task
+      - Date Written
+      - 📚 Courses Database
+      - Projects
+      - Observation
+      - Date of Experiment
+      - 📚 Notero Advanced
+      - Personal
+      - AIM
+      - Game Context
+      - Exp. type

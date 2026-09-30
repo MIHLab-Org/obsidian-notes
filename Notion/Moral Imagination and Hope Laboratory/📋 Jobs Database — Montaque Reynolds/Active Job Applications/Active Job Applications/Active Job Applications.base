@@ -1,0 +1,16 @@
+# Active Job Applications
+
+filters:
+  and:
+    - note["base"] == link("Active Job Applications.base")
+properties:
+  file.name:
+    displayName: Name
+  Position:
+    displayName: Position
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Position

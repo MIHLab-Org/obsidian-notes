@@ -1,0 +1,53 @@
+filters:
+  and:
+    - note["base"] == link("Philosophy Resources Spec Sheet.base")
+properties:
+  file.name:
+    displayName: Name
+  column 9:
+    displayName: column 9
+  Categories:
+    displayName: Categories
+  Subcategories:
+    displayName: Subcategories
+  Summary Notes:
+    displayName: Summary Notes
+  Secondary Sources:
+    displayName: Secondary Sources
+  Discipline Spec Sheet:
+    displayName: Discipline Spec Sheet
+  Machine Persona Spec:
+    displayName: Machine Persona Spec
+  Area:
+    displayName: Area
+  column 14:
+    displayName: column 14
+  column 6:
+    displayName: column 6
+  column 8:
+    displayName: column 8
+  Persona Spec:
+    displayName: Persona Spec
+  Primary Sources:
+    displayName: Primary Sources
+  Discipline:
+    displayName: Discipline
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - column 9
+      - Categories
+      - Subcategories
+      - Summary Notes
+      - Secondary Sources
+      - Discipline Spec Sheet
+      - Machine Persona Spec
+      - Area
+      - column 14
+      - column 6
+      - column 8
+      - Persona Spec
+      - Primary Sources
+      - Discipline
