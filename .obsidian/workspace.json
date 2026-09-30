@@ -51,11 +51,11 @@
         "currentTab": 2
       },
       {
-        "id": "59468d83b5e76041",
+        "id": "a9e6624be7fd5b99",
         "type": "tabs",
         "children": [
           {
-            "id": "bb07c398eb66040d",
+            "id": "6a28e2b5e477710e",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -219,8 +219,8 @@
             "state": {
               "type": "qmd-outline-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "qmd-outline-view"
+              "icon": "list",
+              "title": "Quarto outline"
             }
           },
           {
@@ -231,16 +231,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "c371037eda55f4d6",
-            "type": "leaf",
-            "state": {
-              "type": "qmd-outline-view",
-              "state": {},
-              "icon": "list",
-              "title": "Quarto outline"
             }
           }
         ],
@@ -265,7 +255,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb07c398eb66040d",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
     "Course_Discussion_Notes/Introduction to Philosophy --- Fall 2026.md",
     "Philosophy of Mind.md",
