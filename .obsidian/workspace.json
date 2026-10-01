@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognitive Homelessness and Maximizing the Unexpected.qmd"
+              "title": "Introduction to Philosophy --- Fall 2026"
             }
           }
         ]
@@ -214,8 +214,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "1dbfe9589e366a94",
   "lastOpenFiles": [
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness Slides.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and the Updating Rule.md",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.tex",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd_files/mediabag",
@@ -260,8 +262,6 @@
     "export/Philosophy of Mind/plugin/chart/README.md",
     "export/Philosophy of Mind/plugin/chalkboard/README.md",
     "export/4 Narrative and the Knowledge of Persons/plugin/math/katex/dist/README.md",
-    "export/4 Narrative and the Knowledge of Persons/plugin/math/mathjax/README.md",
-    "export/4 Narrative and the Knowledge of Persons/plugin/math/mathjax/CONTRIBUTING.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
