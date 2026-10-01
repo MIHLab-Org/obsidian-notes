@@ -1,3 +1,7 @@
+---
+title: Cognitive Homelessness and the Updating Rule
+Author: Montaque Reynolds
+---
 #planningformistakes 
 #wandering
 
