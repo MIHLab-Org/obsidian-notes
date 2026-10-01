@@ -1,21 +1,23 @@
 #planningformistakes 
 #wandering
 
-A number of philosophers are concerned with normative theories of rational choice, that is, how should people decide to act? Eleonore Stump anticipates an approach that deviates from standard normative theories of rational choice. Professor Stump bases her approach on the narrative self. She argues  that analytic philosophy can become too narrow and myopic, that it excludes “complex, nuanced thought, behavior, relations of persons” (Stump 2010, 23). In this account, she distances her view from more standard ones in rational choice theory. I contrast her account of narrative thought with a more recent account in rational choice theory. In doing so, I attempt a rational decision formula that is philosophically rich and illuminating. At the center, my formula focuses on the fact that we do not always have the right kind of access to our own present and future mental states. Some decisions require such access however. I argue that a narrative self account of rational choice can allow for this important nuance. [Planning for Mistakes](https://app.notion.com/p/Planning-for-Mistakes-36e8935bcf8a8180a08ae53a494f1e59?pvs=21)
+Sam Carter in his recent paper *Planning for Mistakes*, argues that a recent rational choice theory, maximize expected value, fails since we cannot be sure what we take the world to be like. I agree with Carter, but I also argue that a narrative use of video games more directly illustrates the problem of uneven evidence in rational choice theory. 
+
+A number of philosophers are concerned with normative theories of rational choice, that is, how should people decide to act? Eleonore Stump anticipates an approach that deviates from standard normative theories of rational choice. Professor Stump bases her approach on the narrative self. She argues  that analytic philosophy can become too narrow and myopic, that it excludes “complex, nuanced thought, behavior, relations of persons” (Stump 2010, 23). In this account, she distances her view from more standard ones in rational choice theory. Using video games as narratives, I contrast her account of narrative thought with a more recent account in rational choice theory. In doing so, I attempt a rational decision formula that is philosophically rich and illuminating. At the center, my formula focuses on the fact that we do not always have the right kind of access to our own present and future mental states. Some decisions require such access however. I argue that a narrative self account of rational choice can solve for this important tension. [Planning for Mistakes](https://app.notion.com/p/Planning-for-Mistakes-36e8935bcf8a8180a08ae53a494f1e59?pvs=21)
 
 How do we decide what to do? Decision theory proposes an answer.
 
-Decision theory derives from a long tradition in consequentialism “If, then, there is some end of things doable in action that we wish for because of itself, and the others because of it” [Nichomachean Ethics Bk I, chapter 2]. The implication here is that we will always choose to do that action that produces the most value. But what rational choice theory is concerned with, is whether we *should* choose the action that produces the most value. Intuitively, it seems that we should. However, “doing whatever will provide the most value” has been criticized [See Lewis, 1981]. It is argued that we do not have access to the world in a way that would allow us to follow through on our plans to maximize value. This is because we do not have perfect knowledge of outcomes. Orthodox theory, attempts to improve on decision theory. We should do whatever action has the most expected outcome. Decision theory advices that whatever we decide, that when we act, we should act in a way maximize our utility (See Brian Skyrms, “Causal Decision Theory,” _The Journal of Philosophy_ 79, no. 11 (1982): 695–711, [https://doi.org/10.2307/2026547.)](https://doi.org/10.2307/2026547.); also see Isaacs and Russell 2023) or the outcome with the most expected value.
+Decision theory derives from a long tradition in consequentialism “If, then, there is some end of things doable in action that we wish for because of itself, and the others because of it” [Nichomachean Ethics Bk I, chapter 2]. The implication here is that we should always choose to do that action that we believe will produce the most value. However, “doing whatever will provide the most value” has been criticized [See Lewis, 1981; also see Carter; 2025; Gallow 2021; and Isaacs *et al* 2023]. It is argued that we do not have access to the world in a way that would allow us to follow through on our plans to maximize value. Lewis makes a distinction between causal and noncausal approaches to decision making. Noncausal rational choice theories do not make mention of an agent's credences as a factor in their decision making. Orthodox theory, attempts to improve on decision theory. We should do whatever action has the most expected outcome (Williamson 2000;2011, cf. Srinivasan 2015; LasonenAarnio 2019;2024; Lasonen 2025;2026; Hughes 2021). Decision theory advices that whatever we decide, that when we act, we should act in a way maximize our utility (See Brian Skyrms, “Causal Decision Theory,” _The Journal of Philosophy_ 79, no. 11 (1982): 695–711, [https://doi.org/10.2307/2026547.)](https://doi.org/10.2307/2026547.); also see Isaacs and Russell 2023) or perform the action that leads to the outcome with the most expected value.
 
-In attempted to do the action that will allow produce the most value however, we will often make mistakes. We are often uncertain about which acts, out of those available to us, will have the best outcome. There are various reasons why such access is unavailable. Most notably, this kind of evidence is absent when a value state would be experienced by another who to our own mind is significantly different from ourselves. For instance, historically, human beings have often struggled with attributing the mental states they experience, to other human beings. Additionally, we also struggle with attributing a certain set of values to future versions of ourselves. Therefore, as the objection goes, our imperfect epistemic access to the state of the world imposes limits on our ability to follow Maximize Expected Value” (Carter 2026, 2; cf. Jackson 1991; Howard-Snyder 1997; Lenman 2000). Our failure to achieve knowledge of other minds, even our own, is an example of this.
+We will often make mistakes however. Sometimes it may be because we are uncertain about which acts, out of those available to us, will have the best outcome. There are various reasons why such access is unavailable. Most notably, this kind of evidence is absent when a value state would be experienced by another who is not us. For instance, historically, human beings have often struggled with attributing the mental states they experience, to other human beings. This is because we are rarely certain about the world around us. We are sometimes unaware of other persons who inhabit the world with us, but even more importantly, we are unaware of who these persons may be. For instance, we also struggle with attributing a certain set of values to future versions of ourselves. Therefore, as the objection goes, our imperfect epistemic access to the state of the world imposes limits on our ability to follow Maximize Expected Value” (Carter 2026, 2; cf. Jackson 1991; Howard-Snyder 1997; Lenman 2000). Our failure to achieve knowledge of other minds, even our own, is an example of this.
 
-In summary, Orthodox decision theory recommends acting in a way that maximizes actual or expected value. However our credences with regard to what we value, are too opaque for us to be able to identify the acts which maximize actual or expected value (Carter 2026; Williamson 2000;2011, cf. Srinivasan 2015; Lasonen-Aarnio 2019;2024; Lasonen 2025;2026; Hughes 2021). Some decisions require such access however. I first look at recent attempts to save maximize value. I then defend a narrative self account of rational choice.
+In summary, Orthodox decision theory recommends acting in a way that maximizes actual or expected value. However our credences with regard to what we value, are opaque and therefore we cannot identify those acts which maximize actual or expected value (Carter 2026; Williamson 2000;2011, cf. Srinivasan 2015; Lasonen-Aarnio 2019;2024; Lasonen 2025;2026; Hughes 2021). Some decisions require such access however. I first look at recent attempts to save maximize value. I then defend a narrative self account of rational choice.
 
 One specific problem in rational choice theory, is the fact that we are often wrong about our priorities.
 
-We might follow some plan of action, only to find out that the promised outcome is not what we desired after all. Such mistakes in judgment then, stem from failures to recognize our own priorities. In other words, they stem from errors in judgment about ourselves. There are many versions of this concern. For instance, let’s imagine that on the basis of a coinflip, we will either be shown a genuine or a counterfeit Rothko. If we are shown the counterfeit but not the genuine version, we would be less certain about questioning its authenticity, since we would have no reason to question the authenticity of the fake Rothko having no belief about the real one. Therefore we assign equal credence to either possibility, that the one we will bid is real and the one we do not know about is fake or vice versa. Therefore, we might mistakenly think that upon looking at a counterfeit Rothko, that we desire to bid on the counterfeit Rothko rather than a genuine one.
+We might follow some plan of action, only to find out that the promised outcome is not what we desired after all. Such mistakes in judgment then, stem from failures to recognize our own priorities. We call these opaque decision problems. In other words, they stem from errors in judgment about ourselves. There are many versions of this concern. For instance, let’s imagine that on the basis of a coinflip, we will either be shown a genuine or a counterfeit Rothko. If we are shown the counterfeit but not the genuine version, we would be less certain about questioning its authenticity, since we would have no reason to question the authenticity of the fake Rothko having no belief about the real one. Therefore we assign equal credence to either possibility, that the one we will bid on is real and the one we do not know about is fake or vice versa. Therefore, we might mistakenly think that upon looking at a counterfeit Rothko, that we desire to bid on the counterfeit Rothko rather than a genuine one.
 
-According to some, whether or not these mistakes are avoidable is an open question as it is plausible that a key kind of evidence necessary to make correct judgments about ourselves, is not a part of the set of evidence that we have. In the Rothko case, we would have more reason to question whether one or the other is genuine assuming that we have each of them before us versus if we only see one, then we would have less reason to question whether there is another one that exists somewhere else. The kind of common mistake that we make, which is important for Stump’s thesis, is that an opaque decision problem with respect to decision theory concerns special personal relationships. If we are confronted with two alternative versions of ourselves, then we would have more reason to question whether one, rather than the other, is genuine. I think that the best example of this fact can be represented with the following lyric excerpts from the songs “By Yourself” by Tyrone Griffin Jr (Ty Dollar $ign Diggs) and “Rich and Sad” by Austin Richard Post (Post Malone).
+According to some, whether or not these mistakes are avoidable is an open question. This is because of the plausibility that a key kind of evidence necessary to make correct judgments about ourselves, is not a part of the set of evidence that we have. In the Rothko case, we would have more reason to question whether one or the other is genuine, assuming that we have each of them before us versus if we only see one, then we would have less reason to question whether there is another one that exists somewhere else. The kind of common mistake that we make, which is important for Stump’s thesis, is that an opaque decision problem with respect to decision theory concerns special personal relationships. If we are confronted with two alternative versions of ourselves, then we would have more reason to question whether one, rather than the other, is genuine. I think that the best example of this fact can be represented with the following lyric excerpts from the songs “By Yourself” by Tyrone Griffin Jr (Ty Dollar $ign Diggs) and “Rich and Sad” by Austin Richard Post (Post Malone).
 
 Imagine that the following represents: Doing whatever has the most expected value for a given agent
 
@@ -60,41 +62,34 @@ Step 1
 
 An opaque decision problem, $\hat{\Delta}$ = $\langle \text{S}^{\hat{\Delta}}, O^{\hat{\Delta}}, A^{\hat{\Delta}}, P^{\hat{\Delta}}, \upsilon^{\hat{\Delta}}\rangle$
 
+and 
+
 A set of worlds, $\Omega$.
 
-In this case, there are various worlds. We shouldn’t yet assume that the acting agent has access to more than one of these just yet. Some worlds will be actual and others possible, hypothetical, and perhaps counter-factual (what could have happened _but did not_). However the counter-factual worlds here are of no consequence since such worlds would not factor into the agent’s decision making in a non-trivial way.
+In this case, there are various worlds which must be taken into account for what we will call an opaque decision problem. We shouldn’t yet assume that the acting agent has access to more than one of these just yet. Some worlds will be actual and others possible, hypothetical, and perhaps counter-factual (what could have happened _but did not_). However the counter-factual worlds here are of no consequence since such worlds would not factor into the agent’s decision making in a non-trivial way.
 
-* A set of states, $S$.  
-* A set of outcomes, $O$.  
-* A set of acts, A $\subseteq$ $S$ $\rightarrow$ $O$.  
-* A state-dependent probability function, P: $S$ $\rightarrow$ $(P(S)$ $\rightarrow$ [0,1]).  
-* A value function, $\upsilon$:  $O \rightarrow \mathbb{R}$
-
-States, $s, s', s'', . . . \in S$ are objects in a decision problem relevant to the agent’s decision but that they maybe unsure about. Outcomes, $o, o', o'', . . . \in O$ are objects of an agent’s desires: E.g., “Being your own boss”. Acts, $a, b, c, . . . \in A$ are the immediate objects of decision-making, “stacked your bread”.
+* A set of states, $S$. States, $s, s', s'', . . . \in S$ are objects in a decision problem relevant to the agent’s decision but that they maybe unsure about. For instance, whether the agent is in $s$ *in love* or $s'$ *not in love*. Outcomes, $o, o', o'', . . . \in O$ are objects of an agent’s desires: E.g., “Being your own boss”. Acts, $a, b, c, . . . \in A$ are the immediate objects of decision-making, “stacked your bread”.
+* A set of acts, A $\subseteq$ $S$ $\rightarrow$ $O$. A set of acts would include *stop smoking to save money*.
+* A state-dependent probability function, P: $S$ $\rightarrow$ $(P(S)$ $\rightarrow$ [0,1]). Here we have a function that tells us the agent's credence at each state. 
+* A value function, $\upsilon$:  $O \rightarrow \mathbb{R}$ . Which tells us how well the agent takes things to be going at each outcome.
 
 Step 2
 
-The set of state-dependent probability functions represent an agent’s credences at different states from the agent’s perspective from within the decision problem after potentially acquiring some information about the state they are in. Therefore, fore each $s \in S, P_{s}$ is the credence distribution adopted by the agent at $s$.
+The set of state-dependent probability functions represent an agent’s credences at different states from the agent’s perspective from within the decision problem after potentially acquiring some information about the state they are in. Therefore, for each $s \in S, P_{s}$ is the credence distribution adopted by the agent at $s$.
 
 For any opaque decision problem $\hat{\Delta}$:
 
 $\Pi = S \rightarrow A$ is the set of plans determined by $\hat{\Delta}$.
 
-Plans, $\pi, \pi', \pi'', . . . \in \Pi$ are functions from states $s,$ to acts, i.e., $\pi(s) = a$ is the act $a$ recommended by plan $\pi$ in state $s$.
+Plans, $\pi, \pi', \pi'', . . . \in \Pi$ are functions from states $s,$ to acts, i.e., $\pi(s) = a$ is the act $a$ recommended by plan $\pi$ in state $s$. MEV (Maximize Expected Value). Let $\Pi_{|MEV}$be the set of plans for MEV in $\hat{\Delta}$. Let $ev_{s}(a)$ be the expected value of some action $a$ at state $s$ (for any $s \in S$ and $s \in A$).
 
-MEV (Maximize Expected Value). Let $\Pi_{|MEV}$be the set of plans for MEV in $\hat{\Delta}$. Let $ev_{s}(a)$ be the expected value of action $a$ at $s$ (for any $s \in S$ and $s \in A$).
-
-$ev_{s}(a) = \sum\limits_{s’ \in S} \upsilon(a(s’)) \cdot P_{s}(s’)$
+$$ev_{s}(a) = \sum\limits_{s’ \in S} \upsilon(a(s’)) \cdot P_{s}(s’)$$
 
 Then $\pi \in \Pi_{|MEV}$ iff for all $s \in S$ and $a \in A$:
 
-$ev_{s}(\pi(s)) \geq ev_{s}(a)$
+$$ev_{s}(\pi(s)) \geq ev_{s}(a)$$
 
-The expected value of an action at some state s, is the sum of values of the outcomes produced by that action at each state.
-
-We weight the sum of values according to the probability that is assigned to that state from the perspective of that state.
-
-A plan to maximize expected value then recommends, in each state, one of the acts which has optimal expected value at that state.
+The expected value of an action at some state $s$, is the sum of values of the outcomes produced by that action at each state. We weight the sum of values according to the probability that is assigned to that state from the perspective of that state. A plan to maximize expected value then recommends, in each state, one of the acts which has optimal expected value at that state.
 
 Step 3
 
@@ -184,11 +179,11 @@ Star Citizen’s Chris Roberts has proposed a concept he calls “Death of a Spa
 
 This proposal has been met with much criticism by gamers but deserves more engagement by philosophers. However the important point here is whether the re-spawn mechanic obscures our credences, what we are really like. Roberts here seems to think so. Once again, this is a question about whether we are vulnerable or invulnerable. Another proposal has been given by James Brown (Brown, James L. D. “How to Be a Prudential Expressivist.” Mind 134, no. 534 (2025): 324–46. [https://doi.org/10.1093/mind/fzae072.)](https://doi.org/10.1093/mind/fzae072.\)).
 
-What we need to understand, is whether it is possible for cognitive technologies to help us determine whether we are relationally vulnerable or not. Some have argued that science and technology can cause us to lose our sense of awe and wonder leading to states of apathy. In such a state, our sense of what defines us” is lost. According to Gabriel Marcel, Rene Descartes, and Daniel Dennett, science and technology is responsible for this apathetic state. For instance, Daniel Dennett and Rene Descartes argue that the function of science is to remove the mysterious and that the mysterious is the source of awe and wonder. In the face of mystery, science is our attempt to uncover this mystery and thereby remove our sense of awe and wonder. When this happens, [Gabriel Marcel](https://app.notion.com/p/Gabriel-Marcel-34e8935bcf8a807591b4ec125449f587?pvs=21); [Gabriel (-Honoré) Marcel](https://app.notion.com/p/Gabriel-Honor-Marcel-34e8935bcf8a8186ae6bf6f7f42620c3?pvs=21); [Marcel, 1963](https://app.notion.com/p/Marcel-1963-3398935bcf8a81749beec431c008b39e?pvs=21); [Marcel](https://app.notion.com/p/Marcel-3368935bcf8a8164b67de48748ff5b26?pvs=21) argues, we begin to only see ourselves as a set of functions and sources of productivity. This is because they make that which is mysterious, obvious. Helen De Cruz, [Helen De Cruz (St. Louis University), "Wonderstruck](https://app.notion.com/p/Helen-De-Cruz-St-Louis-University-Wonderstruck-34e8935bcf8a81d3bd0bdb8052e66acc?pvs=21) argues that this story about science is incomplete. Rather, the insights of science enable us to discover new sources of wonder. Following De Cruz’s description of cognitive technologies in her book _Wonderstruck_, either science or technology can mitigate threats to our personal sense of humanity. The insights of science actually help us to discover new sources of wonder.
+What we need to understand, is whether it is possible for cognitive technologies to help us determine whether we are relationally vulnerable or not. Some have argued that science and technology can cause us to lose our sense of awe and wonder leading to states of apathy. In such a state, our sense of what defines us” is lost. According to Gabriel Marcel, Rene Descartes, and Daniel Dennett, science and technology is responsible for this apathetic state. For instance, Daniel Dennett and Rene Descartes argue that the function of science is to remove the mysterious and that the mysterious is the source of awe and wonder. In the face of mystery, science is our attempt to uncover this mystery and thereby remove our sense of awe and wonder. When this happens, [Gabriel Marcel](https://app.notion.com/p/Gabriel-Marcel-34e8935bcf8a807591b4ec125449f587?pvs=21); [Gabriel (-Honoré) Marcel](https://app.notion.com/p/Gabriel-Honor-Marcel-34e8935bcf8a8186ae6bf6f7f42620c3?pvs=21); [Marcel, 1963](https://app.notion.com/p/Marcel-1963-3398935bcf8a81749beec431c008b39e?pvs=21); [Marcel](https://app.notion.com/p/Marcel-3368935bcf8a8164b67de48748ff5b26?pvs=21) argues, we begin to only see ourselves as a set of functions and sources of productivity. This is because they make that which is mysterious, obvious. Helen De Cruz, [Helen De Cruz (St. Louis University), "Wonderstruck](https://app.notion.com/p/Helen-De-Cruz-St-Louis-University-Wonderstruck-34e8935bcf8a81d3bd0bdb8052e66acc?pvs=21) argues that this story about science is incomplete. Rather, the insights of science enable us to discover new sources of wonder. Following De Cruz’s description of cognitive technologies in her book _Wonderstruck_, either science or technology can mitigate threats to our personal sense of humanity. The insights of science actually helps us to discover new sources of wonder.
 
 As an example, she uses what she calls religion as an “awe and wonder” technology. But do cognitive technologies either help or hinder our ability to make important decisions. Consider how cultural beliefs like the value of democracy persist in a culture. A person may have an idea, such as “democracy is an important social prescription and should be protected at all costs”. The question then becomes how does this idea transmit throughout the culture? Religion too can support the transmission of important beliefs by making the idea uniquely memorable and therefore easy to transmit. To say that something is memorable in this way means , means that it becomes a new source of awe and wonder. A view of religion in the cognitive science of religion, is that cognitive technologies serve human needs such as navigating our environment [Wonderstruck: How Wonder and Awe Shape the Way We Think](https://app.notion.com/p/Wonderstruck-How-Wonder-and-Awe-Shape-the-Way-We-Think-3578935bcf8a811f827ae4e1b3d146e4?pvs=21), 99. There are two questions here; what are cognitive technologies, and how do they shape our ability to maximize expected value?
 
-An example includes music lyrics. Decisions are not always about who we are. Country music for instance, often has been called authentic when portraying themes associated with family, home, traditional values (Richard Shusterman, “Moving Truth: Affect and Authenticity in Country Musicals,” The Journal of Aesthetics and Art Criticism 57, no. 2 (1999): 221–33, [https://doi.org/10.2307/432314.;](https://doi.org/10.2307/432314.;) John Dyck, “The Aesthetics of Country Music,” Philosophy Compass 16, no. 5 (2021): e12729, [https://doi.org/10.1111/phc3.12729.;](https://doi.org/10.1111/phc3.12729.;) Evan Malone, “Country Music and the Problem of Authenticity,” Brit J Aesthetics 63, no. 1 (2023): 75–90, [https://doi.org/10.1093/aesthj/ayac020.)](https://doi.org/10.1093/aesthj/ayac020.\)). Is this because a narrator is committed to their family, or because they _want_ to be committed to their family? On the other hand, these songs may help us to find our sense of awe and wonder with regard to important pro-social values. For instance, when George Bush argued that “to listen to a country and western song is to hear the story of America set to music. It is a story of patriotism and hard work, a story of faith, opportunity, and achievement”. It may be the case also however that commercial music production can also suggest value or the lack of it, in relationships. The technologies in question can either help us to make informed decisions, decisions about future states of value where we would normally not have access.
+An example includes music lyrics. Decisions are not always about who we are. Country music for instance, often has been called authentic when portraying themes associated with family, home, traditional values (Richard Shusterman, “Moving Truth: Affect and Authenticity in Country Musicals,” The Journal of Aesthetics and Art Criticism 57, no. 2 (1999): 221–33, [https://doi.org/10.2307/432314.;](https://doi.org/10.2307/432314.;) John Dyck, “The Aesthetics of Country Music,” Philosophy Compass 16, no. 5 (2021): e12729, [https://doi.org/10.1111/phc3.12729.;](https://doi.org/10.1111/phc3.12729.;) Evan Malone, “Country Music and the Problem of Authenticity,” Brit J Aesthetics 63, no. 1 (2023): 75–90, [https://doi.org/10.1093/aesthj/ayac020.)](https://doi.org/10.1093/aesthj/ayac020.\)). Is this because a narrator is committed to their family, or because they _want_ to be committed to their family? On the other hand, these songs may help us to find our sense of awe and wonder with regard to important pro-social values. For instance, when George Bush argued that “to listen to a country and western song is to hear the story of America set to music. It is a story of patriotism and hard work, a story of faith, opportunity, and achievement”. It may be the case also however that commercial music production can also suggest value or the lack of it, in relationships. The technologies in question can either help us to make informed decisions, decisions about future states of value where we would normally not have access. However, music is often controversial and our understanding of musical artifacts depends on our interpretation of the artist's values and credences. Open world video games on the other hand depend largely on the player's values and credences. In other words, unlike music, video games can enable to experience a value set assuming they immerse themselves in some given state $s'$. 
 
 Decision theory specifies which acts are rational given an agent’s prior credences and utilities. However, sometimes an agent’s prior credences are uncertain.
 
@@ -255,23 +250,15 @@ Probability
 
 Desirability
 
-||In Love|Not in Love|
-|---|---|---|
-|Life with|.5|.5|
-|Life Without|.5|.5|
+|              | In Love | Not in Love |
+| ------------ | ------- | ----------- |
+| Life with    | .5      | .5          |
+| Life Without | .5      | .5          |
 
-||In Love|Not in Love|
-|---|---|---|
-|Life With|1|-1|
-|Life Without|0|1|
-
-|(.5)(1)|(.5)(-1)|
-|---|---|
-|(.5)(0)|(.5)(1)|
-
-|.5|-.5|
-|---|---|
-|0|.5|
+|              | In Love | Not in Love |
+| ------------ | ------- | ----------- |
+| Life With    | 1       | -1          |
+| Life Without | 0       | 1           |
 
 Desirability of Life With: .5 + -.5 = 0
 
@@ -290,23 +277,23 @@ Rearranging the predicaments allows us to notice the opacity of the agent’s va
 
 #### Example: Vulnerability
 
-||Vul|Inv|
-|---|---|---|
-|Life with|.5|.5|
-|Life Without|.5|.5|
+|              | Vul | Inv |
+| ------------ | --- | --- |
+| Life with    | .5  | .5  |
+| Life Without | .5  | .5  |
 
-||Vul|Inv|
-|---|---|---|
-|Life with|1|0|
-|Life Without|-1|1|
+|              | Vul | Inv |
+| ------------ | --- | --- |
+| Life with    | 1   | 0   |
+| Life Without | -1  | 1   |
 
-|(.5)(1)|(.5)(0)|
-|---|---|
-|(.5)(-1)|(.5)(1)|
+| (.5)(1)  | (.5)(0) |
+| -------- | ------- |
+| (.5)(-1) | (.5)(1) |
 
-|.5|0|
-|---|---|
-|-.5|.5|
+| .5  | 0   |
+| --- | --- |
+| -.5 | .5  |
 
 Vulnerable:
 
@@ -344,22 +331,6 @@ It seems that according to Carter, agents would need to be of the sort that they
 For Instance:
 
 These are states where the agent is assumed to be certain about which acts are available to them and what value they assign to the outcome of those acts. For instance, each line below assumes a credence, agent believes that life with material possessions is conducive of a good life and come to the realization that they are not agents like that.
-
-> Ooh, covered in carats
-> 
-> Ooh, mahogany cabinets
-> 
-> Ooh, I ball like the Mavericks
-> 
-> Ooh, stable and stallions
-> 
-> Ooh, massive medallions
-> 
-> Ooh, I finally had it
-> 
-> Ooh, but then you just vanished
-> 
-> Damn, I thought I was savage
 
 > We are not always certain what the world is like. For this reason, Maximize Expected Value advises us to act according to what we take the world to be like, instead. However, trying to follow its recommendations can leave us predictably worse off. **Sometimes, we are not certain what we take the world to be like, either (am I in love?).** And when we are not certain what we take the world to be like, we may fail to do what it tells us to do. For agents like us, susceptible to human types of ignorance and error, the advice to maximize expected value will not be good, fully general advice for decision-making.
 
@@ -420,25 +391,25 @@ An opaque decision problem represents an agent’s perspective on the world, how
 
 Take the money and run
 
-||Actions||
-|---|---|---|
-||More Money|Less Money|
-|More Time with Kids|-1|1|
-|Less Time with Kids|1|-1|
-|Take Job in Foreign Country|1|-1|
-|Stay close to family|-1|1|
-|. . . e.g.,|||
+|                             | Actions    |            |
+| --------------------------- | ---------- | ---------- |
+|                             | More Money | Less Money |
+| More Time with Kids         | -1         | 1          |
+| Less Time with Kids         | 1          | -1         |
+| Take Job in Foreign Country | 1          | -1         |
+| Stay close to family        | -1         | 1          |
+| . . . e.g.,                 |            |            |
 
 To be in love or not to be in love
 
-||Actions||
-|---|---|---|
-||In Love|Not in Love|
-|More Time with another|-1|1|
-|Less Time with another|1|-1|
-|Take Job in Foreign Country|1|-1|
-|Stay close to other|-1|1|
-|. . . e.g.,|||
+|                             | Actions |             |
+| --------------------------- | ------- | ----------- |
+|                             | In Love | Not in Love |
+| More Time with another      | -1      | 1           |
+| Less Time with another      | 1       | -1          |
+| Take Job in Foreign Country | 1       | -1          |
+| Stay close to other         | -1      | 1           |
+| . . . e.g.,                 |         |             |
 
 ### The tables below represent an agent’s plans to act:
 
@@ -448,17 +419,17 @@ First recall the two predicaments. Notice that I have left probabilities and des
 
 Probability
 
-||Money|No Money|
-|---|---|---|
-|Love|.5|.5|
-|No Love|.5|.5|
+|         | Money | No Money |
+| ------- | ----- | -------- |
+| Love    | .5    | .5       |
+| No Love | .5    | .5       |
 
 Desirability
 
-||Money|No Money|
-|---|---|---|
-|Love|1|-1|
-|No Love|1|0|
+|         | Money | No Money |
+| ------- | ----- | -------- |
+| Love    | 1     | -1       |
+| No Love | 1     | 0        |
 
 **Stunted Soul’**
 
@@ -466,17 +437,17 @@ But then the agent regrets their choice because they didn’t realize that they 
 
 Probability
 
-||Money|No Money|
-|---|---|---|
-|Love|.5|.5|
-|No Love|.5|.5|
+|         | Money | No Money |
+| ------- | ----- | -------- |
+| Love    | .5    | .5       |
+| No Love | .5    | .5       |
 
 Desirability
 
-||Money|No Money|
-|---|---|---|
-|Love|1|0|
-|No Love|-1|1|
+|         | Money | No Money |
+| ------- | ----- | -------- |
+| Love    | 1     | 0        |
+| No Love | -1    | 1        |
 
 ### Plans
 
@@ -492,7 +463,7 @@ As such then,
 
 $\pi(s) = a:$ means that act $a$ is recommended by plan $\pi$ in state $s.$
 
-What does this look like then when the agent attempts to _**maximize expected value**_? It depends on what state the agent is in, whether they are in love or not. Notice too however, that there is an implication about whether it is possible for the agent to actually be in love. If the agent is vulnerable, then they can be in love. But if they are invulnerable, that it is unlikely that they are in love. As such, in order to maximize expected value, we need a formula that can enable us to determine whether the agent is of the kind that being in love is a necessary and sufficient condition for well-being.
+What does this look like then when the agent attempts to _**maximize expected value**_? It depends on what state the agent is in, whether they are in love or not. Notice too however, that there is an implication about whether it is possible for the agent to actually be in love. If the agent is vulnerable, then they can be in love. But if they are invulnerable, than it is unlikely that they are in love. As such, in order to maximize expected value, we need a formula that can enable us to determine whether the agent is of the kind that being in love is a necessary and sufficient condition for well-being.
 
 #### Maximize Expected Value
 
