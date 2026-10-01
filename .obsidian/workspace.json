@@ -31,10 +31,14 @@
             "id": "d39446f715f2918c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cognitive Homelessness and Maximizing the Unexpected.qmd"
             }
           }
         ]
@@ -229,13 +233,13 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "d39446f715f2918c",
   "lastOpenFiles": [
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and the Updating Rule.md",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.tex",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.tex",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-the-Updating-Rule.pdf",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and the Updating Rule.md",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-the-Updating-Rule.log",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-the-Updating-Rule.aux",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-the-Updating-Rule.tex",
@@ -253,7 +257,6 @@
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922085333.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images",
     "export/Introduction to Philosophy --- Fall 2026/Files",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/zoom.js",
     "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
