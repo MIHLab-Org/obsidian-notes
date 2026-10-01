@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Philosophy of Mind.md",
+                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and the Updating Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy of Mind"
+              "title": "Cognitive Homelessness and the Updating Rule"
             }
           }
         ],
@@ -245,8 +245,9 @@
       "thecap-cv-generator:Preview curriculum": false
     }
   },
-  "active": "646aaa50ee6f9a0a",
+  "active": "66a1ea9fe7cde515",
   "lastOpenFiles": [
+    "Course Slides/Philosophy of Mind.md",
     "export/Philosophy of Mind/plugin/zoom/zoom.js",
     "export/Philosophy of Mind/plugin/zoom/zoom.esm.js",
     "export/Philosophy of Mind/plugin/zoom/plugin.js",
@@ -257,7 +258,6 @@
     "export/Philosophy of Mind/plugin/search",
     "export/Philosophy of Mind/plugin/reveal-pointer/pointer.js",
     "export/Philosophy of Mind/plugin/reveal-pointer/pointer.css",
-    "export/Philosophy of Mind/plugin/reveal-pointer",
     "export/Philosophy of Mind/plugin/menu/README.md",
     "export/Philosophy of Mind/plugin/menu/CONTRIBUTING.md",
     "export/Philosophy of Mind/plugin/math/mathjax/README.md",
