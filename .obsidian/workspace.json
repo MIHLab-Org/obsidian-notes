@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "ce15226afc61bbf4",
+        "id": "5949dcbe3f932779",
         "type": "tabs",
         "children": [
           {
-            "id": "8a0f0a8af7bf861b",
+            "id": "ce841711f59758e6",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -231,7 +231,7 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "8a0f0a8af7bf861b",
+  "active": "ce841711f59758e6",
   "lastOpenFiles": [
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.pdf",

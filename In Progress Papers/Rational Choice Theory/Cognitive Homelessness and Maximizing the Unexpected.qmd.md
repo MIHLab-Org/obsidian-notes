@@ -129,9 +129,7 @@ Offered a bet at 2:3 Odds
     -\$1 & \text{if caraway} \end{cases} \\
     \text{Accept, Guess Caraway:} & \begin{cases} \\  -\$1 & \text{if cumin}; \\ \$0.67 & \text{if caraway} \end{cases}
     \end{matrix}$$
-    
----
-    
+   
 ***Maximize Act Expected Value:*** Decline bet in both states since expected value is -$.17
     
 ***Maximize Plan Expected Value:*** plan to accept cumin if cumin and plan to accept caraway if caraway, expected value is $.25
@@ -144,9 +142,7 @@ Analogously then, consider the following:
     
 > Case: Stacked and Stuntin’. Suppose that you reliably outperform your level of confidence when it comes to identifying your desire states. For example, you regularly underestimate your ability to discriminate between desiring beef or chicken. Shown a sample of either, you will be wholly uncertain which you desire—you will assign equal credence to each. However, forced to choose, you do systematically better than chance at selecting beef when you want beef and selecting chicken when you want chicken—in each case, you select for the desire you have around 75% of the time. Moreover, you are certain that you are like this.
 
----
-    
-    $$
+   $$
     \begin{matrix}
     &  \text{Prior} & & \text{Posteriors} \\
     & \text{[Marriage]} & \text{[Career]} &  \text{Marriage} & \text{Career} \\
@@ -155,19 +151,15 @@ Analogously then, consider the following:
     \text{Career} & \frac{1}{8} & \frac{3}{8} & P_{\text{Career}} & \frac{1}{2} & \frac{1}{2} 
     \end{matrix}
     $$
-    
----
-    
-    $$
+
+$$
     \begin{matrix}
     \text{Decline your choice:} & 0 \\
     \text{Choose Marriage:} & \begin{cases} \$0.67 & \text{if Marriage}; \\
     -\$1 & \text{if Career} \end{cases} \\
     \text{Choose Career:} & \begin{cases} \\  -\$1 & \text{if Marriage}; \\ \$0.67 & \text{if Career} \end{cases}.
     \end{matrix}
-    $$
-    
----
+$$
 
 ***Maximize Act Expected Value:*** Decline bet in both states since expected value is -$.17
     
