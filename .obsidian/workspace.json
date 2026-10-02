@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3356ed58d3a9e09",
+        "id": "07bcfd1cbe408325",
         "type": "tabs",
         "children": [
           {
-            "id": "1dbfe9589e366a94",
+            "id": "197725433bff3819",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
+              "title": "New tab"
             }
           }
         ]
@@ -214,8 +210,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1dbfe9589e366a94",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness Slides.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and the Updating Rule.md",
@@ -227,7 +224,6 @@
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected_files",
     "Course Slides/Philosophy of Mind.md",
     "Course Slides/Reality+/What is Reality.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Course Slides/Reality+",
     "Course Slides",
     "conflict-files-obsidian-git.md",
