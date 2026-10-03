@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -199,7 +199,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Import notes": false,
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,11 +208,9 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
       "slides-extended:Show slide preview": false,
       "obsidian-git:Open Git source control": false,
-      "publish:Publish changes...": false
+      "obsidian-importer:Import notes": false
     }
   },
   "active": "197725433bff3819",
@@ -235,11 +234,14 @@
     "Notes/Analytic Theism",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness Slides.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and the Updating Rule.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.pdf",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.log",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.aux",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.tex",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd_files/mediabag",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd_files",
+    "Notes/Planning for Mistakes.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and the Updating Rule.md",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.tex",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected_files/mediabag",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected_files",

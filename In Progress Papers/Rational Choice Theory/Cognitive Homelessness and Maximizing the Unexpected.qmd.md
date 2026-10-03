@@ -1,15 +1,19 @@
+---
+title: Cognitive Homelessness and Maximizing the Unexpected
+Author: Montaque Reynolds
+---
 #planningformistakes 
 #wandering
 
 Sam Carter in his recent paper *Planning for Mistakes*, argues that a recent rational choice theory, maximize expected value, fails since we cannot be sure what we take the world to be like. I agree with Carter, but I also argue that a narrative use of video games more directly illustrates the problem of uneven evidence in rational choice theory. 
 
-A number of philosophers are concerned with normative theories of rational choice, that is, how should people decide to act? Eleonore Stump anticipates an approach that deviates from standard normative theories of rational choice. Professor Stump bases her approach on the narrative self. She argues  that analytic philosophy can become too narrow and myopic, that it excludes “complex, nuanced thought, behavior, relations of persons” (Stump 2010, 23). In this account, she distances her view from more standard ones in rational choice theory. Using video games as narratives, I contrast her account of narrative thought with a more recent account in rational choice theory. In doing so, I attempt a rational decision formula that is philosophically rich and illuminating. At the center, my formula focuses on the fact that we do not always have the right kind of access to our own present and future mental states. Some decisions require such access however. I argue that a narrative self account of rational choice can solve for this important tension. [Planning for Mistakes](https://app.notion.com/p/Planning-for-Mistakes-36e8935bcf8a8180a08ae53a494f1e59?pvs=21)
+A number of philosophers are concerned with normative theories of rational choice, that is, how should people decide to act? At the center of this debate is the fact that we do not always have the right kind of access to our own present and future mental states. Some decisions require such access however. Eleonore Stump anticipates an approach that deviates from standard normative theories of rational choice. Professor Stump bases her approach on the narrative self. She argues  that analytic philosophy can become too narrow and myopic, that it excludes “complex, nuanced thought, behavior, relations of persons” (Stump 2010, 23). In this account, she distances her view from more standard ones in rational choice theory. Using video games as narratives, I contrast her account of narrative thought with a more recent approach in rational choice theory. I argue that a narrative self account of rational choice can solve for this important tension. [Planning for Mistakes](https://app.notion.com/p/Planning-for-Mistakes-36e8935bcf8a8180a08ae53a494f1e59?pvs=21)In doing so, I attempt a rational decision formula that is both philosophically rich and illuminating. 
 
 How do we decide what to do? Decision theory proposes an answer.
 
-Decision theory derives from a long tradition in consequentialism “If, then, there is some end of things doable in action that we wish for because of itself, and the others because of it” [Nichomachean Ethics Bk I, chapter 2]. The implication here is that we should always choose to do that action that we believe will produce the most value. However, “doing whatever will provide the most value” has been criticized [See Lewis, 1981; also see Carter; 2025; Gallow 2021; and Isaacs *et al* 2023]. It is argued that we do not have access to the world in a way that would allow us to follow through on our plans to maximize value. Lewis makes a distinction between causal and noncausal approaches to decision making. Noncausal rational choice theories do not make mention of an agent's credences as a factor in their decision making. Orthodox theory, attempts to improve on decision theory. We should do whatever action has the most expected outcome (Williamson 2000;2011, cf. Srinivasan 2015; LasonenAarnio 2019;2024; Lasonen 2025;2026; Hughes 2021). Decision theory advices that whatever we decide, that when we act, we should act in a way maximize our utility (See Brian Skyrms, “Causal Decision Theory,” _The Journal of Philosophy_ 79, no. 11 (1982): 695–711, [https://doi.org/10.2307/2026547.)](https://doi.org/10.2307/2026547.); also see Isaacs and Russell 2023) or perform the action that leads to the outcome with the most expected value.
+Decision theory derives from a long tradition in consequentialism “If, then, there is some end of things doable in action that we wish for because of itself, and the others because of it” [Nichomachean Ethics Bk I, chapter 2]. The implication here is that we should always choose to do that action that we believe will produce the most value. However, “doing whatever will provide the most value” has been criticized [See Lewis, 1981; also see Carter; 2025; Gallow 2021; and Isaacs *et al* 2023]. It is argued that we do not have access to the world in a way that would allow us to follow through on our plans to maximize value (especially see, Gallow, J. Dmitri. 2021. “Updating for Externalists.” _Noûs_ 55 (3): 487–516. [https://doi.org/10.1111/nous.12307](https://doi.org/10.1111/nous.12307).). Lewis makes a distinction between causal and noncausal approaches to decision making. Noncausal rational choice theories do not make mention of an agent's credences as a factor in their decision making. Orthodox theory, attempts to improve on decision theory. We should do whatever action has the most expected outcome (Williamson 2000;2011, cf. Srinivasan 2015; LasonenAarnio 2019;2024; Lasonen 2025;2026; Hughes 2021). In other words, decision theory advices that whatever we decide, that when we act, we should act in a way maximize our utility (See Brian Skyrms, “Causal Decision Theory,” _The Journal of Philosophy_ 79, no. 11 (1982): 695–711, [https://doi.org/10.2307/2026547.)](https://doi.org/10.2307/2026547.); also see Isaacs and Russell 2023) or perform the action that leads to the outcome with the most expected value.
 
-We will often make mistakes however. Sometimes it may be because we are uncertain about which acts, out of those available to us, will have the best outcome. There are various reasons why such access is unavailable. Most notably, this kind of evidence is absent when a value state would be experienced by another who is not us. For instance, historically, human beings have often struggled with attributing the mental states they experience, to other human beings. This is because we are rarely certain about the world around us. We are sometimes unaware of other persons who inhabit the world with us, but even more importantly, we are unaware of who these persons may be. For instance, we also struggle with attributing a certain set of values to future versions of ourselves. Therefore, as the objection goes, our imperfect epistemic access to the state of the world imposes limits on our ability to follow Maximize Expected Value” (Carter 2026, 2; cf. Jackson 1991; Howard-Snyder 1997; Lenman 2000). Our failure to achieve knowledge of other minds, even our own, is an example of this.
+In following this course of action, we will often make mistakes however. Sometimes it may be because we are uncertain about which acts, out of those available to us, will have the best outcome. There are various reasons why such access is unavailable. Most notably, this kind of evidence is absent when a value state would be experienced by another who is not us. For instance, historically, human beings have often struggled with attributing the mental states they experience, to other human beings. This is because we are rarely certain about the world around us. We are sometimes unaware of other persons who inhabit the world with us, but even more importantly, we are unaware of who these persons may be. For instance, we also struggle with attributing a certain set of values to future versions of ourselves. Therefore, as the objection goes, our imperfect epistemic access to the state of the world imposes limits on our ability to follow Maximize Expected Value” (Carter 2026, 2; cf. Jackson 1991; Howard-Snyder 1997; Lenman 2000). Our failure to achieve knowledge of other minds, even our own, is an example of this.
 
 In summary, Orthodox decision theory recommends acting in a way that maximizes actual or expected value. However our credences with regard to what we value, are opaque and therefore we cannot identify those acts which maximize actual or expected value (Carter 2026; Williamson 2000;2011, cf. Srinivasan 2015; Lasonen-Aarnio 2019;2024; Lasonen 2025;2026; Hughes 2021). Some decisions require such access however. I first look at recent attempts to save maximize value. I then defend a narrative self account of rational choice.
 
@@ -27,50 +31,22 @@ and then getting it wrong
 
 - “All this stuntin’ couldn’t satisfy my soul (–oul), Got a hundred big places, but I’m still alone (–one)”
 
-Can an agent always expect to do best by trying to do whatever has the most expected value?
-
-Orthodox decision theory recommends acting in a way that maximizes expected value,
-
-- do whatever has the most expected value:
-    - i.e., [be] “your own boss”
-- According to Orthodox decision theory then, agents like us should follow the condition on their credences which is both necessary and sufficient for maximizing expected value (MEV). Do what it takes to “[be] your own boss”.
-    - i.e, “Stacked your bread”
-    - bought your own Mercedes
-
-However, Orthodox decision theory is not always good advice for agents like us.
-
-- Agents like us are susceptible to error
-- For agents like us then, who are susceptible to error, there can be situations in which trying to do what has the most expected value (follow MEV), will leave us worse off
-    - i.e., “got a hundred big places, but I’m still alone!”
-- Therefore, MEV will not always be satisfied by agents like us
-    - i.e., “stuntin’ couldn’t satisfy my soul”
-
-In other words,
-
-	“Stacked my bread and bought my own Mercedes (Vroom, vroom).”
-	“I’m my own boss, do it my way (Way)”
-
-[as such] 
-	“Got a hundred big places, but I’m still alone (–one)”
-
-[therefore] 
-	“All this stuntin’ couldn’t satisfy my soul (–oul)”
-
 Given our susceptibility to error, it is then important to show which framework works best for evaluating advice.
 
 Step 1
 
-An opaque decision problem, $\hat{\Delta}$ = $\langle \text{S}^{\hat{\Delta}}, O^{\hat{\Delta}}, A^{\hat{\Delta}}, P^{\hat{\Delta}}, \upsilon^{\hat{\Delta}}\rangle$
+An opaque decision problem, $\hat{\Delta}$ = $\langle \text{S}^{\hat{\Delta}}, O^{\hat{\Delta}}, A^{\hat{\Delta}}, P^{\hat{\Delta}}, \upsilon^{\hat{\Delta}}\rangle$, where we may be faced with some momentous life decision.
 
 and 
 
-A set of worlds, $\Omega$.
+A set of worlds, $\Omega$. Following Lewis (1982), is a set of possibilities wherein some agent weights some outcome as valuable or not. Accordingly, there is some world $W$ at which has credence $C(W)$ that measures the agent's belief that $W$ is the actual world, and measures how satisfactory it seems to that agent for $W$ to be the actual world.
 
-In this case, there are various worlds which must be taken into account for what we will call an opaque decision problem. We shouldn’t yet assume that the acting agent has access to more than one of these just yet. Some worlds will be actual and others possible, hypothetical, and perhaps counter-factual (what could have happened _but did not_). However the counter-factual worlds here are of no consequence since such worlds would not factor into the agent’s decision making in a non-trivial way.
+In this case, there are various worlds which must be taken into account for what we will call an opaque decision problem. We shouldn’t yet assume that the acting agent has access to more than one of these just yet. Some worlds will be actual and others possible, hypothetical, and perhaps counter-factual (what could have happened _but did not_). However the counter-factual worlds here are of no consequence since such worlds would not factor into the agent’s decision making in a non-trivial way. But at the moment of the agent's decision, it seems that some decision plan would contribute to a given outcome, and that that outcome would be satisfactory to that agent. Either way, each world contains states and outcomes.
 
 * A set of states, $S$. States, $s, s', s'', . . . \in S$ are objects in a decision problem relevant to the agent’s decision but that they maybe unsure about. For instance, whether the agent is in $s$ *in love* or $s'$ *not in love*. Outcomes, $o, o', o'', . . . \in O$ are objects of an agent’s desires: E.g., “Being your own boss”. Acts, $a, b, c, . . . \in A$ are the immediate objects of decision-making, “stacked your bread”.
+
 * A set of acts, A $\subseteq$ $S$ $\rightarrow$ $O$. A set of acts would include *stop smoking to save money*.
-* A state-dependent probability function, P: $S$ $\rightarrow$ $(P(S)$ $\rightarrow$ [0,1]). Here we have a function that tells us the agent's credence at each state. 
+* A state-dependent probability function, P: $S$ $\rightarrow$ $(P(S)$ $\rightarrow$ [0,1]). Here we have a function that tells us the agent's credence at each state. Lewis does not give wait to an agent's credence about who are where they are in a given state. Instead of propositioning that there are two distinct persons inhabiting the same world, there is only one credal possibility comprising of beliefs and values at each distinct world (Lewis, David. 1979. “Attitudes De Dicto and De Se.” _The Philosophical Review_ 88 (4): 513–43. [https://doi.org/10.2307/2184843](https://doi.org/10.2307/2184843). Lewis, David. n.d. _Causal Decision Theory_.).
 * A value function, $\upsilon$:  $O \rightarrow \mathbb{R}$ . Which tells us how well the agent takes things to be going at each outcome.
 
 Step 2
@@ -112,9 +88,19 @@ The state-independent probability function takes a stance on both what the world
 
 Therefore, for any $s,s’$,
 
-$P([s’]|s) =$ $\frac{P((s,[s']))}{P(\{(s,[s'']):s''\in S)\})}$
+$$P([s’]|s) = \frac{P((s,[s']))}{P(\{(s,[s'']):s''\in S)\})}$$
 
-That the probability that an agent’s estimate of their susceptibility to error at a state, s, relative to a plan, $\pi$ is their credence assuming that they are in $s$, that they will act according to what their plan recommends for $s’$ instead.
+That the probability that an agent’s estimate of their susceptibility to error at a state, s, relative to a plan, $\pi$ is their credence assuming that they are in $s$, that they will act according to what their plan recommends for $s’$ instead. 
+
+In other words,
+	“Stacked my bread and bought my own Mercedes (Vroom, vroom).”
+	“I’m my own boss, do it my way (Way)”
+
+[as such] 
+	“Got a hundred big places, but I’m still alone (–one)”
+
+[therefore] 
+	“All this stuntin’ couldn’t satisfy my soul (–oul)”
 
 According to $P$, an agent’s susceptibility to error at $s$, relative to $\pi$ is proportional to:
 
@@ -129,13 +115,57 @@ I will argue that these songs are an example of the claim that the lacking evide
 
 Evidence to the contrary is the kind of evidence a person needs that what they desire is not in fact what they desire. A special component of this, is the fact that the evidence we need, evidence to the contrary, is not always available to us.
 
+Consider: 
+    
+> Case: Cumin & Caraway  Suppose that you reliably outperform your level of confidence when it comes to identifying spices. For example, you regularly underestimate your ability to discriminate cumin and caraway seeds by sight. Shown a sample of either, you will be wholly uncertain which you are looking at—you will assign equal credence to each. However, forced to choose, you do systematically better than chance at selecting caraway when trying to select caraway, and selecting cumin when trying to select cumin—in each case, you select the spice you are trying to select around 75% of the time. Moreover, you are certain that you are like this. [Carter, Sam. 2026. “Planning for Mistakes.” _Noûs_ n/a (n/a): e70043. [https://doi.org/10.1111/nous.70043](https://doi.org/10.1111/nous.70043).]
+
 We can imagine some agent that wants to believe some proposition _p_ about themselves, for instance that they are in love, but for all _p_, -_p_ is not a part of the agent’s evidence. For all the agent knows, desires consistent with not being in love either are, or are not, a part of their evidence set, not accessible to them as evidence. In this case, an agent has evidence consistent with being in love, solely for the reason that evidence consistent with not being in love, is not a part of their evidence set. This is because they may not have access to the necessary counter evidence, that they are, in fact, not in love.
+
+Offered a bet at 2:3 Odds
+    
+ $$\begin{matrix}
+    \text{Decline your choice:} & 0 \\
+    \text{Accept, Guess Cumin:} & \begin{cases} \$0.67 & \text{if cumin}; \\
+    -\$1 & \text{if caraway} \end{cases} \\
+    \text{Accept, Guess Caraway:} & \begin{cases} \\  -\$1 & \text{if cumin}; \\ \$0.67 & \text{if caraway} \end{cases}
+    \end{matrix}$$
+   
+***Maximize Act Expected Value:*** Decline bet in both states since expected value is -$.17
+    
+***Maximize Plan Expected Value:*** plan to accept cumin if cumin and plan to accept caraway if caraway, expected value is $.25
 
 I suspect that the opposite is more common, that we suspect that we are not in love, or no longer in love, solely for the fact that evidence to the contrary, that we are in fact in love, is not a part of our evidence set.
 
 Our errors in judgment are often grounded in these more fundamental errors. Another similar example is that we are not vulnerable to love or that we are invulnerable to love. What this means is that a person believes about themselves, that they are not of the sort who “is mushy” or “terribly affectionate”, or that they are an extreme introvert, better off alone, etc. Perhaps this person may believe that they can thrive on short-lived, shallow relationships, or just as commonly, no relationship at all.
 
-This has implications for the kinds of decisions that we make. We make a decision thinking that we desire a given outcome. This can include for instance, that we can experience more joy later on by breaking up with our fiancé now because they demand too much of our time. Our time here being a direct and measurable result that can be quantified, for instance to answer the question “how much did I get done today?” On the other hand however, if we spent the day with a loved one, it might be less obvious how to answer such a question according to quantifiable metrics.
+Analogously then, consider the following:
+    
+> Case: Stacked and Stuntin’. Suppose that you reliably outperform your level of confidence when it comes to identifying your desire states. For example, you regularly underestimate your ability to discriminate between desiring beef or chicken. Shown a sample of either, you will be wholly uncertain which you desire—you will assign equal credence to each. However, forced to choose, you do systematically better than chance at selecting beef when you want beef and selecting chicken when you want chicken—in each case, you select for the desire you have around 75% of the time. Moreover, you are certain that you are like this.
+
+   $$
+    \begin{matrix}
+    &  \text{Prior} & & \text{Posteriors} \\
+    & \text{[Marriage]} & \text{[Career]} &  \text{Marriage} & \text{Career} \\
+     \text{Marriage} & \frac{3}{8} & \frac{1}{8} & P_{\text{Marriage}} & \frac{1}{2} & \frac{1}{2} \\
+    \\
+    \text{Career} & \frac{1}{8} & \frac{3}{8} & P_{\text{Career}} & \frac{1}{2} & \frac{1}{2} 
+    \end{matrix}
+    $$
+
+$$
+    \begin{matrix}
+    \text{Decline your choice:} & 0 \\
+    \text{Choose Marriage:} & \begin{cases} \$0.67 & \text{if Marriage}; \\
+    -\$1 & \text{if Career} \end{cases} \\
+    \text{Choose Career:} & \begin{cases} \\  -\$1 & \text{if Marriage}; \\ \$0.67 & \text{if Career} \end{cases}.
+    \end{matrix}
+$$
+
+***Maximize Act Expected Value:*** Decline bet in both states since expected value is -$.17
+    
+***Maximize Plan Expected Value:*** plan to accept cumin if cumin and plan to accept caraway if caraway, expected value is $.25
+
+This has implications for the kinds of decisions that we make. Examples like the one above illustrate a kind of decision problem in which an agent will not expect to do best by trying to follow a plan to maximize expected value. We make a decision thinking that we desire a given outcome. This can include for instance, that we may experience more joy later on by breaking up with our fiancé now because they demand too much of our time. Our time here being a direct and measurable result that can be quantified, for instance to answer the question “how much did I get done today?” On the other hand however, if we spent the day with a loved one, it might be less obvious how to answer such a question according to quantifiable metrics.
 
 Self 1: “How much did I get done today?”
 
