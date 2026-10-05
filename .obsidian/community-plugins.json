@@ -5,5 +5,10 @@
   "obsidian-git",
   "advanced-multi-column",
   "obsidian-importer",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "better-export-pdf",
+  "tasknotes",
+  "text-extractor",
+  "obsidian-extract-pdf-highlights",
+  "pdf-highlight-notes"
 ]
