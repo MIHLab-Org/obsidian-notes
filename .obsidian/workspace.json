@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce841711f59758e6",
+            "id": "2ddad423cc6da73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +21,8 @@
               "title": "RealityCraft"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tri",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -199,8 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
+      "obsidian-importer:Import notes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,12 +208,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
       "slides-extended:Show slide preview": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Import notes": false
+      "publish:Publish changes...": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "pdf-highlight-notes:Import PDF files": false,
+      "pdf-highlight-notes:Highlight selection in PDF": false
     }
   },
-  "active": "ce841711f59758e6",
+  "active": "2ddad423cc6da73b",
   "lastOpenFiles": [
     "MIHLab Database/RealityCraft/Logs.md",
     "MIHLab Database/RealityCraft/RealityCraft.md",

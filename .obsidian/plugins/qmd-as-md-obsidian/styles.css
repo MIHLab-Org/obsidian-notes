@@ -43,6 +43,13 @@
   height: var(--icon-xs, 14px);
 }
 
+/* Show front matter. */
+@media print {
+  .frontmatter.language-yaml {
+    display: block !important;
+  }
+}
+
 /* Collapsed: chevron points right, sub-tree hidden. */
 .qmd-outline-item.is-collapsed .qmd-outline-toggle {
   transform: rotate(-90deg);

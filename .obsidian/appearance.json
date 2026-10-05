@@ -2,5 +2,8 @@
   "cssTheme": "Obsidian gruvbox",
   "theme": "obsidian",
   "accentColor": "#8e970c",
-  "textFontFamily": "Garamond"
+  "textFontFamily": "Garamond",
+  "enabledCssSnippets": [
+    "obsidian-default-theme"
+  ]
 }
