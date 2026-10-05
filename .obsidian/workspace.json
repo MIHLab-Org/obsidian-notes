@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ddad423cc6da73b",
+            "id": "ce841711f59758e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,8 +21,7 @@
               "title": "RealityCraft"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -200,7 +199,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Import notes": false,
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,44 +208,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
       "slides-extended:Show slide preview": false,
       "obsidian-git:Open Git source control": false,
-      "publish:Publish changes...": false,
-      "tasknotes:Open mini calendar view": false,
-      "tasknotes:Open calendar view": false,
-      "tasknotes:Open tasks view": false,
-      "tasknotes:Open agenda view": false,
-      "tasknotes:Open Kanban board": false,
-      "tasknotes:Open Pomodoro timer": false,
-      "tasknotes:Open Pomodoro statistics": false,
-      "tasknotes:Create new task": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "pdf-highlight-notes:Import PDF files": false,
-      "pdf-highlight-notes:Highlight selection in PDF": false
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "2ddad423cc6da73b",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "Files/Teaching Portfolio/transcripts/Unofficial-Transcript.pdf",
+    "Files/Teaching Portfolio/transcripts",
+    "Files/Teaching Portfolio/Untitled/Summary Introduction to Philosophy.md",
+    "Files/Teaching Portfolio/Untitled/Introduction to Philosophy.md",
+    "Files/Teaching Portfolio/Untitled",
+    "PDFs/Unofficial-Transcript.pdf",
+    "PDFs",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/pomodoro-stats.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Start Here.md",
+    "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 9 Personal Reality.md",
+    "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 8 Relational Reality.md",
+    "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 6 Temporal Reality.md",
+    "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 7 Ontological Reality.md",
+    "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 12 Conclusion.md",
+    "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 5 Physical Reality.md",
+    "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 11 Experiential Reality II.md",
+    "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 10 Experiential Reality.md",
+    "Notes/Analytic Theism/Part I/Chapter 4 Inferential Analysis 2.md",
+    "Notes/Analytic Theism/Part I/Chapter 3 Preliminary Inferential Analysis.md",
+    "Notes/Analytic Theism/Part I/Chapter 1 Introduction.md",
+    "Notes/Analytic Theism/Part I/Chapter 2 Explanatory Methodology.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Introduction to Philosophy.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Required Texts.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Information.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Description.md",
+    "Files/Official Teaching Portfolio/Writing Sample.md",
+    "Files/Official Teaching Portfolio/Montaque Reynolds, CV.md",
+    "Files/Official Teaching Portfolio/Montaque Reynolds, Cover Letter.md",
     "MIHLab Database/RealityCraft/Logs.md",
     "MIHLab Database/RealityCraft/RealityCraft.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.pdf",
-    "MIHLab Database/RealityCraft",
-    "MIHLab Database",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.log",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.aux",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.tex",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd_files/mediabag",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd_files",
-    "Notes/Planning for Mistakes.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and the Updating Rule.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.tex",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-the-Updating-Rule.pdf",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness Slides.md",
-    "Notes/Rust-Skillfully confronting the unknown_files/The Epistemology of Narrative Knowledge/Introduction.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094338.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094232.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922093148.png",
@@ -253,27 +258,9 @@
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922090746.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922085836.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922085333.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/CONTRIBUTING.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/katex/dist/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/customcontrols/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chart/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/whiteboard.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/sponge.png",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/chalk-yellow.png",
-    "Course Slides/Reality+/What is Reality.md",
-    "Courses Database/Meta/Assignment Rubrics/First Level.md",
-    "Course Slides/Philosophy of Mind.md",
-    "export/Philosophy of Mind/plugin/menu/README.md",
-    "export/Philosophy of Mind/plugin/menu/CONTRIBUTING.md",
-    "export/Philosophy of Mind/plugin/math/mathjax/README.md",
-    "export/Philosophy of Mind/plugin/math/mathjax/CONTRIBUTING.md",
-    "export/Philosophy of Mind/plugin/math/katex/dist/README.md",
-    "export/Philosophy of Mind/plugin/customcontrols/README.md",
-    "export/Philosophy of Mind/plugin/chart/README.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
