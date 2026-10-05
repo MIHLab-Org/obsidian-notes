@@ -13,12 +13,71 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MIHLab Database/RealityCraft/RealityCraft.md",
+                "file": "Notes/Susan Langer/Susan Langer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RealityCraft"
+              "title": "Susan Langer"
+            }
+          },
+          {
+            "id": "ccaf79a7efecb9ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Susan Langer/Susan Langer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Susan Langer"
+            }
+          },
+          {
+            "id": "02eb60f4ea8dfe7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From Zotero/lang07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lang07"
+            }
+          },
+          {
+            "id": "cdae9fc4f56738df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Philosophy --- Fall 2026"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0e714386676b33b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12fa28079b75f51d",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
             }
           }
         ]
@@ -199,6 +258,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "publish:Publish changes...": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "pdf-highlight-notes:Import PDF files": false,
+      "pdf-highlight-notes:Highlight selection in PDF": false,
       "qmd-as-md-obsidian:Toggle Quarto preview": false,
       "qmd-as-md-obsidian:Render Quarto to PDF": false,
       "switcher:Open quick switcher": false,
@@ -213,22 +287,30 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "cdae9fc4f56738df",
   "lastOpenFiles": [
+    "Notes/The Ontological Argument/The Ontological Argument.md",
+    "Notes/The Modal (Realist) Ontological Argument/The Modal (Realist) Ontological Argument.md",
+    "From Zotero/lang07.md",
+    "From Zotero/rade54.md",
+    "Notes/Susan Langer/Susan Langer.md",
+    "From Zotero/guye20.md",
+    "Notes/annotations",
+    "TaskNotes/Start Here.md",
+    "TaskNotes/Views/pomodoro-stats.base",
+    "PDFs/Unofficial-Transcript.pdf",
+    "Notes/The Theoretical Status of Latent Variables/The Theoretical Status of Latent Variables.md",
+    "MIHLab Database/RealityCraft/RealityCraft.md",
+    "Notes/Susan Langer",
+    "Notes/Untitled.md",
     "Files/Teaching Portfolio/transcripts/Unofficial-Transcript.pdf",
     "Files/Teaching Portfolio/transcripts",
     "Files/Teaching Portfolio/Untitled/Summary Introduction to Philosophy.md",
     "Files/Teaching Portfolio/Untitled/Introduction to Philosophy.md",
     "Files/Teaching Portfolio/Untitled",
-    "PDFs/Unofficial-Transcript.pdf",
     "PDFs",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/pomodoro-stats.base",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Start Here.md",
     "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 9 Personal Reality.md",
     "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 8 Relational Reality.md",
     "Notes/Analytic Theism/Part II Explanatory Analysis/Chapter 6 Temporal Reality.md",
@@ -243,14 +325,6 @@
     "Notes/Analytic Theism/Part I/Chapter 2 Explanatory Methodology.md",
     "Files/Official Teaching Portfolio/Introduction To Philosophy/Introduction to Philosophy.md",
     "Files/Official Teaching Portfolio/Introduction To Philosophy/Required Texts.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Information.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Description.md",
-    "Files/Official Teaching Portfolio/Writing Sample.md",
-    "Files/Official Teaching Portfolio/Montaque Reynolds, CV.md",
-    "Files/Official Teaching Portfolio/Montaque Reynolds, Cover Letter.md",
-    "MIHLab Database/RealityCraft/Logs.md",
-    "MIHLab Database/RealityCraft/RealityCraft.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094338.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094232.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922093148.png",
