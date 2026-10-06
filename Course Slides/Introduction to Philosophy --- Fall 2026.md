@@ -1711,25 +1711,23 @@ Descartes's response is often called a form of foundationalism grounded in what 
   * How does Chalmers respond to logical positivists?
 ---
 
-## Is God a hacker in the next universe up?
-
----
-
-## Is the universe made up of information?
-
----
-
-## Did simulation create its from bits?
-
----
 # Real Virtual Reality?
 
 ---
 
 ## Do virtual reality headsets create reality?
 
----
+If they do, then virtual objects are real objects.
 
+Therefore virtual reality headsets create reality.
+
+[Virtual reality headsets create reality] $\rightarrow$ [Virtual objects are real objects.]
+
+[Virtual reality headsets create reality]
+
+$\therefore$ [Virtual objects are real objects]
+
+---
 ### What is reality?
 
 ---
@@ -1772,6 +1770,23 @@ Susanne Langer: Virtual worlds
 - memory
 
 ---
+
+### What is Virtual Reality?
+
+---
+
+### Virtual Realism and Virtual Fictionalism
+
+---
+
+### Virtual Digitalism
+
+---
+
+### Is a Virtual Kitten Really a Kitten
+
+---
+
 # Ch 7, Feb 7: Is God a Hacker in the next Universe Up?
 
 ## Is God a Hacker?
@@ -2139,7 +2154,10 @@ Read the critiques of the Ontological Argument
 
 ### Outcome Assessment
 
+::: {.notes}
+
 This argument or proof does not establish the actual existence of a supernatural deity. It attempts to define a being into existence and that is not rationally legitimate. While the argument can not be used to convert a non-believer to a believer, the faults in the argument do not prove that there is no god. The Burden of Proof demands that the positive claim that there is a supernatural deity be established by reason and evidence and this argument does not meet that standard. The believer in god can use the argument to establish the mere logical possibility that there is a supernatural deity or at least that it is not irrational to believe in the possibility that there is such a being. The argument does not establish any degree of probability at all.
+:::
 
 ---
 

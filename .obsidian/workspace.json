@@ -25,10 +25,14 @@
             "id": "2ddad423cc6da73b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Philosophy --- Fall 2026"
             }
           }
         ],
@@ -210,6 +214,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-importer:Import notes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
