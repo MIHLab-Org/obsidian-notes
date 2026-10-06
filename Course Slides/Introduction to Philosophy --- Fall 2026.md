@@ -1709,81 +1709,6 @@ Descartes's response is often called a form of foundationalism grounded in what 
 * Verificationism: meaningful claims are verifiable.
   * Rudolf Carnap and other logical positivists
   * How does Chalmers respond to logical positivists?
----
-
-# Real Virtual Reality?
-
----
-
-## Do virtual reality headsets create reality?
-
-If they do, then virtual objects are real objects.
-
-Therefore virtual reality headsets create reality.
-
-[Virtual reality headsets create reality] $\rightarrow$ [Virtual objects are real objects.]
-
-[Virtual reality headsets create reality]
-
-$\therefore$ [Virtual objects are real objects]
-
----
-### What is reality?
-
----
-
-(Charles Sanders Peirce): “A virtual X (where X is a common noun) is something, not an X, which has the efficiency (virtus) of an X.”
-
----
-
-(Antonin Artaud):
-
-> All true alchemists know that the alchemical symbol is a mirage as the theater is a mirage. And this perpetual allusion to the materials and the principle of the theater found in almost all alchemical books should be understood as the expression of an identity (of which alchemists are extremely aware) existing between the world in which the characters, objects, images, and in a general way all that constitutes the virtual reality of the theater develops, and the purely fictitious and illusory world in which the symbols of alchemy are evolved.
-
----
-
-Dave Chalmers: A virtual reality environment is an immersive, interactive, and computer-generated space.
-
----
-
-- Interactive: means that there’s two-way interaction between users and the environment, and among objects in the environment.
-
----
-
-- Computer-Generated: a computer is generating the signals that are sent to our sensory systems.
-
----
-
-- Immersive: means that we experience the environment as a world all around us, with ourselves present at the center.
-  - psychologically immersive: occupying all of our attention in a sort of flow state
-  - perceptually immersive: the world as a three-dimensional world surrounding us.
-  - audiovisual immersion: the environments look and sound as if you’re immersed in them.
-  - bodily immersion: the environments look and sound as if you’re immersed in them.
-  - full immersion: "A fully immersive or full-dive VR is one that users apprehend with all their senses, as if they’re physically inhabiting the environment, and where no trace of the ordinary physical environment remains."
-
----
-
-Susanne Langer: Virtual worlds
-- objects
-- space
-- powers
-- memory
-
----
-
-### What is Virtual Reality?
-
----
-
-### Virtual Realism and Virtual Fictionalism
-
----
-
-### Virtual Digitalism
-
----
-
-### Is a Virtual Kitten Really a Kitten
 
 ---
 
@@ -2206,6 +2131,9 @@ Return to: Table of Contents for the Online Textbook
 > At a general level, philosophy seeks to delve into profound and significant queries that remain elusive to the investigative techniques used in other disciplines, such as the hard sciences and literature. (Sijuwade, Joshua R. 2024. _Analytic Theism: A Philosophical Investigation_. Routledge.)
 
 ---
+# Metaphysics
+
+---
 
 |                         | subjectivity of aesthetics |                                 |
 | ----------------------- | -------------------------- | ------------------------------- |
@@ -2228,5 +2156,112 @@ Return to: Table of Contents for the Online Textbook
 
 ---
 
-## Metaphysics
+## Real Virtual Reality?
 
+---
+
+## Do virtual reality headsets create reality?
+
+If they do, then virtual objects are real objects.
+
+Therefore virtual reality headsets create reality.
+
+---
+
+> By far the most common view is that virtual objects aren’t real. Stephenson himself tells us that the Street in the Metaverse is unreal: “This boulevard does not really exist; it is a computer-rendered view of an imaginary place.”  As you might expect, I disagree. If the boulevard is a virtual boulevard as described, it really exists. It is a real place in a virtual world. It’s grounded in computer processes, but no less real for that.
+
+---
+
+[Virtual reality headsets create reality] $\rightarrow$ [Virtual objects are real objects.]
+
+[Virtual reality headsets create reality]
+
+$\therefore$ [Virtual objects are real objects]
+
+---
+
+* Virtual boulevard is created by virtual reality headsets.
+
+* Virtual boulevard is a place in a virtual world
+
+$\therefore$ Virtual boulevards exist
+
+Virtual Boulevards exist $\rightarrow$ Virtual boulevards are real
+
+---
+
+Virtual boulevards are real $\rightarrow$ Virtual Reality headsets create real objects
+
+Virtual Reality headsets create real objects $\rightarrow$ Virtual reality headsets create reality
+
+---
+
+Virtual reality headsets do create real objects $\rightarrow$ Virtual objects are real objects
+
+Virtual reality headsets do create real objects
+
+$\therefore$ Virtual objects are real objects
+
+---
+### What is reality?
+
+---
+
+(Charles Sanders Peirce): “A virtual X (where X is a common noun) is something, not an X, which has the efficiency (virtus) of an X.”
+
+---
+
+(Antonin Artaud):
+
+> All true alchemists know that the alchemical symbol is a mirage as the theater is a mirage. And this perpetual allusion to the materials and the principle of the theater found in almost all alchemical books should be understood as the expression of an identity (of which alchemists are extremely aware) existing between the world in which the characters, objects, images, and in a general way all that constitutes the virtual reality of the theater develops, and the purely fictitious and illusory world in which the symbols of alchemy are evolved.
+
+---
+
+Dave Chalmers: A virtual reality environment is an immersive, interactive, and computer-generated space.
+
+---
+
+- Interactive: means that there’s two-way interaction between users and the environment, and among objects in the environment.
+
+---
+
+- Computer-Generated: a computer is generating the signals that are sent to our sensory systems.
+
+---
+
+- Immersive: means that we experience the environment as a world all around us, with ourselves present at the center.
+  - psychologically immersive: occupying all of our attention in a sort of flow state
+  - perceptually immersive: the world as a three-dimensional world surrounding us.
+  - audiovisual immersion: the environments look and sound as if you’re immersed in them.
+  - bodily immersion: the environments look and sound as if you’re immersed in them.
+  - full immersion: "A fully immersive or full-dive VR is one that users apprehend with all their senses, as if they’re physically inhabiting the environment, and where no trace of the ordinary physical environment remains."
+
+---
+
+Susanne Langer: Virtual worlds
+- objects
+- space
+- powers
+- memory
+
+---
+
+### What is Virtual Reality?
+
+> When defined this way, “virtual” means something like as if. A virtual duck is an as-if duck—something that looks like a duck and has some of the effects of a duck but isn’t a genuine duck.
+
+---
+
+Virtual Library vs. Virtual Cat
+
+---
+
+### Virtual Realism and Virtual Fictionalism
+
+---
+
+### Virtual Digitalism
+
+---
+
+### Is a Virtual Kitten Really a Kitten
