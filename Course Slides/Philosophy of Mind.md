@@ -1333,9 +1333,35 @@ Ambivalence = incoherence of desires
 * In order for incoherent desires to amount to ambivalence, they must result in an inner conflict about what to do.
 
 ---
+
+71 percent of the women surveyed expected to be married to their spouse for the rest of their life.
+
+and
+
+* 52 percent of the women surveyed said that their husbands were not their soulmates, 
+* 72 percent said they had considered leaving their husbands at some point
+* >50 percent said that they were either bored in bed or couldn’t remember the last time they had sex, 
+* 60 percent rarely or never had date nights,
+* >50 percent wished their husbands either made more money or made more time for them, 
+* ~50 percent said their husbands had changed for the worse since they got married.
+
+---
+
+## So Polyamory
+
+> Apart from the studies to be reported here, there have been few, if any, systematic attempts to subject meaning to quantitative measurement. (Osgood, Charles E., George J. Suci, and Percy H. Tannenbaum. 1957. _The Measurement of Meaning_. The Measurement of Meaning. Univer. Illinois Press.)
+
+---
+
+How do we determine the meaning of concepts like love?
+
+---
  
-  1. Love = x $\phi$’s y, x is $\phi$ with/of/about y
+  1. Love = x $\phi$’s y, 
+	  1. x is $\phi$ with/of/about y
   2. x feels emotion e, towards y, then x believes y to be $\phi$. $[(\exists \phi (x)(y) (Exy \rightarrow Bx\phi y)]$
+	  1. For some quality $\phi$
+	  2. *x* Believes of *y* that *y* possesses quality $\phi$.
   3. if x feels the emotion in question towards some object y then x believes y to have some determinate quality $\psi$, which normally but not necessarily he will be able to specify: $[(x)(y)(\exists \psi)(Exy \rightarrow Bx\psi y)]$ 
   4. 1-3 are necessary but not sufficient conditions. Justification of e is also needed.
 

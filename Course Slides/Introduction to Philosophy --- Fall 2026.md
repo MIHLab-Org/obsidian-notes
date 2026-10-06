@@ -2182,3 +2182,33 @@ Proceed to the next section.
 Creative Commons License
 Introduction to Philosophy by Philip A. Pecorino is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
 Return to: Table of Contents for the Online Textbook
+
+---
+
+> At a general level, philosophy seeks to delve into profound and significant queries that remain elusive to the investigative techniques used in other disciplines, such as the hard sciences and literature. (Sijuwade, Joshua R. 2024. _Analytic Theism: A Philosophical Investigation_. Routledge.)
+
+---
+
+|                         | subjectivity of aesthetics |                                 |
+| ----------------------- | -------------------------- | ------------------------------- |
+| purpose of existence    |                            | nature and sources of knowledge |
+|                         | causation                  |                                 |
+| objectivity of morality |                            | objectivity of morality         |
+|                         | abstract objects           |                                 |
+
+---
+
+| metphysics                      | epistemology                          | ethics                            |
+| ------------------------------- | ------------------------------------- | --------------------------------- |
+| nature and structure of reality | belief                                | good and bad                      |
+| what exists                     | rationality                           | right and wrong                   |
+| causation                       | reasonableness                        | moral truths?                     |
+| direction of time               | what is knowledge?                    | subjective or objective morality? |
+| identity over time              | justified beliefs?                    | pro-life vs. pro-choice?          |
+| free will                       | is philosophical agreement necessary? | foundation of moral judgments?    |
+| past to future causation        | knowledge vs. experience?             |                                   |
+
+---
+
+## Metaphysics
+
