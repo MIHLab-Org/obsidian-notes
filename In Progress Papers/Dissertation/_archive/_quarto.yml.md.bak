@@ -1,0 +1,43 @@
+project:
+  type: default
+
+lang: en-US
+author: "Montaque Reynolds, PhD"
+
+# Paths are relative to the folder this file sits in.
+# Delete these two lines if the folder has no .bib or .csl file.
+bibliography: references.bib
+csl: chicago-author-date.csl
+
+format:
+  pdf:
+    pdf-engine: xelatex
+    documentclass: scrreprt
+    top-level-division: chapter
+    papersize: letter
+    fontsize: 11pt
+    geometry: margin=1in
+    linestretch: 1.15
+    mainfont: "Cambria"
+    mathfont: "Cambria Math"
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    colorlinks: true
+    link-citations: true
+    callout-appearance: default
+    callout-icon: false
+    keep-tex: true
+    include-in-header:
+      text: |
+        \usepackage{soul}
+        \usepackage{xcolor}
+        \sethlcolor{yellow}
+        \usepackage{tikz}
+        \usetikzlibrary{positioning,arrows.meta}
+        \tikzset{
+          modal/.style={>=Stealth, node distance=18mm, semithick},
+          world/.style={circle, draw, minimum size=9mm},
+          actual/.style={world, double},
+          note/.style={font=\footnotesize}
+        }

@@ -22,28 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5d7d7410a3d0de77",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4ab48a24e4bd8e55",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "In Progress Papers/Dissertation/01-intro.pdf",
-                "page": 1,
-                "left": -22,
-                "top": 795,
-                "zoom": 0.6924019607843137
-              },
-              "icon": "lucide-file-text",
-              "title": "01-intro"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -250,20 +228,31 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "ca8a6ee23689825f",
   "lastOpenFiles": [
-    "In Progress Papers/Dissertation/Report 2  - Social Identity and Music.pdf.crswap",
-    "In Progress Papers/Dissertation/Report 2  - Social Identity and Music.pdf",
-    "In Progress Papers/Dissertation/Report 1 - Social Identity and Music.pdf.crswap",
-    "In Progress Papers/Dissertation/Report 1 - Social Identity and Music.pdf",
-    "In Progress Papers/Dissertation/01-intro.qmd",
-    "In Progress Papers/Dissertation/01-intro.pdf",
-    "In Progress Papers/Dissertation/01-intro.log",
-    "In Progress Papers/Dissertation/01-intro.aux",
-    "In Progress Papers/Dissertation/01-intro.tex",
-    "In Progress Papers/Dissertation/01-intro_files/mediabag",
-    "In Progress Papers/Dissertation/01-intro_files",
+    "In Progress Papers/Dissertation/notes/Bibliography checklist.xlsx",
+    "In Progress Papers/Dissertation/sedZIGJO9",
+    "In Progress Papers/Dissertation/notes/Bibliography report.md",
+    "In Progress Papers/Dissertation/references.bib",
+    "In Progress Papers/Dissertation/00 Dissertation map.md",
+    "In Progress Papers/Dissertation/_quarto.yml",
+    "In Progress Papers/Dissertation/preamble.tex",
+    "In Progress Papers/Dissertation/Errors.md",
+    "In Progress Papers/Dissertation/_archive/preamble.tex.md.bak",
+    "In Progress Papers/Dissertation/_archive/_quarto.yml.md.bak",
+    "In Progress Papers/Dissertation/data/ye-country-hip-hop.csv",
+    "In Progress Papers/Dissertation/notes/_lit-rev.qmd",
+    "In Progress Papers/Dissertation/notes/Literature Review.md",
+    "In Progress Papers/Dissertation/_archive/11-references.Rmd",
+    "In Progress Papers/Dissertation/_archive/README.md",
+    "In Progress Papers/Dissertation/_archive/_main.md",
+    "In Progress Papers/Dissertation/review/Errors.md",
+    "In Progress Papers/Dissertation/review/Report 2  - Social Identity and Music.pdf",
+    "In Progress Papers/Dissertation/Literature Review.md",
     "In Progress Papers/Dissertation/preamble.tex.md",
+    "In Progress Papers/Dissertation/_quarto.yml.md",
+    "In Progress Papers/Dissertation/---.md",
+    "Notes/Moral Epistemology/Moral Epistemology.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
     "In Progress Papers/Dissertation/01-intro.md",
     "In Progress Papers/Dissertation/README.md",
@@ -277,17 +266,6 @@
     "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
     "In Progress Papers/Social Identities Searching for moral  autonomy and personhood in pop culture/Social Identities/Social Identity and.md",
     "Notes/The Ontological Argument/The Ontological Argument.md",
-    "Notes/The Modal (Realist) Ontological Argument/The Modal (Realist) Ontological Argument.md",
-    "From Zotero/lang07.md",
-    "From Zotero/rade54.md",
-    "Notes/Susan Langer/Susan Langer.md",
-    "From Zotero/guye20.md",
-    "TaskNotes/Start Here.md",
-    "Notes/The Theoretical Status of Latent Variables/The Theoretical Status of Latent Variables.md",
-    "MIHLab Database/RealityCraft/RealityCraft.md",
-    "Notes/Untitled.md",
-    "Files/Teaching Portfolio/Untitled/Summary Introduction to Philosophy.md",
-    "Files/Teaching Portfolio/Untitled/Introduction to Philosophy.md",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094338.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094232.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922093148.png",

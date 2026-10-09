@@ -18,7 +18,6 @@ format:
           note/.style={font=\small\itshape, text=black!70}
         }
 ---
-
 # Moral Intuition
 
 In a previous section, I argued that what is wrong with moral testimony as traditionally conceived, is that it fails to account for the more robust form of moral understanding that we are looking for in cases of moral knowledge. I then defined a version of social testimony in which the focus is on cultivating strong pro-social emotions. I then define moral testimony in terms of this cultivation. According to this criticism, there is something important about the emotions that derive from our moral experiences. How we react emotionally to reports of genocide are important concerns in understanding whether or not someone possesses moral knowledge of the proposition *genocide is morally wrong*. Moral testimony as traditionally conceived, fails to account for this.
