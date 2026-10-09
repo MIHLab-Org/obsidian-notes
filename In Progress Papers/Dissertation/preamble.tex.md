@@ -1,0 +1,45 @@
+```
+latex
+% --- Typography & layout ---
+\usepackage{setspace}
+\linespread{1.05}
+\usepackage{csquotes}
+\usepackage{epigraph}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\LTcapwidth=.95\textwidth
+
+% --- Math & theorems ---
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\newtheorem{theorem}{hyp}
+\newtheorem{axiom}{}
+\newtheorem{lemma}{}
+\newtheorem{theoremc}{}
+\newtheorem{theoremdc}{}
+\newtheorem{theoremcr}{}
+\newtheorem{theoremfr}{}
+\newtheorem{theoremfe}{}
+
+% --- Lyrics ---
+\usepackage[lyric]{songs}
+
+% --- TikZ ---
+\usepackage{tikz}
+\usetikzlibrary{arrows,calc,patterns,positioning,shapes,decorations.pathmorphing}
+\tikzset{
+  modal/.style={>=stealth', shorten >=1pt, shorten <=1pt, auto,
+                node distance=1.5cm, semithick},
+  world/.style={circle, draw, minimum size=1cm, fill=gray!15},
+  point/.style={circle, draw, fill=black, inner sep=0.5mm},
+  reflexive/.style={->, in=120, out=60, loop, looseness=#1},
+  reflexive/.default={5},
+  reflexive point/.style={->, in=135, out=45, loop, looseness=#1},
+  reflexive point/.default={25}
+}
+
+% --- Load last ---
+\usepackage{hyperref}
+```

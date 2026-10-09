@@ -1,0 +1,126 @@
+---
+title: "`r params$doc_title`"
+subtitle: "The Moral Expression of a Sentiment in Narratives"
+author: |
+  Montaque Reynolds
+  Philosophy Department
+  Saint Louis University
+  Saint Louis, MO. 63110
+  montaque.reynolds@slu.edu
+params:
+  doc_title: "Emotional Data"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+#cover-image: "./square-of-opposition.png"
+output:
+  bookdown::word_document2:
+    reference_docx: ["/home/redapemusic35/data_storage/template3.docx"]
+documentclass: book
+bibliography:
+  - "/home/redapemusic35/data_storage/Un-Duplicates.bib"
+  # ... (other bibliography entries)
+biblio-style: "apalike"
+link-citations: true
+description: |
+  This is a dissertation project intended to complete the requirements for a PhD in philosophy at Saint Louis University...
+#csl: chicago-author-date.csl
+always_allow_html: true
+---
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+
+options(width = 999)
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+#library(devtools)
+#install_github("holtzy/epuRate")
+
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+
+options(width = 999)
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+#library(devtools)
+#install_github("holtzy/epuRate")
+#library(epuRate)
+library(rmarkdown)
+## load required libraries
+library(dplyr)
+library(factoextra)
+library(FactoMineR)
+library(forcats)
+library(ggdendro)
+library(ggraph)
+library(ggrepel)
+library(gridExtra)
+library(igraph)
+library(lexicon)
+library(lattice)
+library(pacman)
+p_load("seededlda",
+       "quanteda",
+       "LDAvis"
+)
+library(quanteda)
+library(quanteda.sentiment)
+library(quanteda.textplots)
+library(quanteda.textmodels)
+library(quanteda.textstats)
+library(readr)
+library(readtext)
+library(reshape2)
+library(sentimentr)
+library(seededlda)
+library(spacyr)
+Sys.setenv(RETICULATE_PYTHON = "/home/redapemusic35/anaconda3/envs/emfd-2/bin/python3")
+spacy_install()
+spacy_initialize(model = "en_core_web_sm")
+library(stats)
+library(stringi)
+library(textclean)
+library(tidyverse)
+library(tidytext)
+library(tm)
+library(widyr)
+```
+
+# Prelude
+
+As noted in emerging work on country music, there is a reason to think that personal identity is socially constructed. An important claim by many authors is that the narrative implicit in country music’s aesthetic is used to construct the identity of the modern American Anglo-Saxon traditional gender conforming male (Mann 2008; Shusterman 1999; Meissner and Huebner 2022; Grossman 2002; Hayes 2010; Hollowell and Miller 2019; Hughes 2015; Watson 2020). A question *here* is one of privilege, and specifically what this means.
+
+> Most importantly, it argues that his evolving artistic presentations are representative of adaptive strategies for maintenance of traditional white masculine cultural and commercial power in popular music. In concrete terms, Simpson deploys outsider identities to reconstitute insider privileges traditionally held by white men, including commercial success, critical acclaim, and creative license. [@holl19]
+
+> However, the only acceptable messages are those that can be harmonized with the implicit Protestant Christian sensibility of the music. Salvific love, for this reason, is always heterosexual and at least compatible with a Christian message. While the music industry does its best to erase minority sexualities, the music itself is often surprisingly open to a queer interpretation. [@gros02]
+
+> Settler colonial imaginaries are constructed through the repeated, intergenerational layering of settler ecologies onto Indigenous ecologies; they result in fortified ignorance of the land, Indigenous peoples, and the networks of relationality and responsibility that sustain co-flourishing. . . . In this paper, we argue that Outlaw Country music plays important roles in sedimenting settler imaginaries. [@meis22a]
+
+E.g., Guy Clark in L.A. Freeway dreams of land that he did not purchase.
+
+Adios to all this concrete\
+Gonna get me some dirt road back street\
+
+> For if country sounds white, it is perhaps worth considering the possibility that something claiming the status of ‘white culture’, something like a purportedly American whiteness  however historically baseless  is not reflected in country music, but is, rather, partially produced by it. [@mann08]
+
+Critical race theorists also ask similar questions regarding the social construction of the identities of racial minorities. For instance, lately, marginalization has become a kind of identity. What does it mean to identify as marginalized, and what implications are there in identifying as such for moral and other forms of agency.
+
+Agency is a central concern on both accounts. First we might ask what does it mean to have a personal identity socially constructed through popular forms of music such as country, Commercial or Christian hip-hop/rap. In some philosophical and psychological literature, agency is rooted in one’s emotional experiences upon a retelling of their life story (Altshuler 2021; Velleman 2005a; Korsgaard 1996).
+
+More specifically, a narrative can motivate various feelings, for instance of regret (“Experts, Semantic and Epistemic”,” n.d.), or pride, towards actions that one did or did not do. I consider questions of agency regarding various relational virtues in regard to questions about moral testimony as found in social narratives, namely popular music. Narratives shape our self-identity and infuse our lives with meaning, thus constituting a key component of psychological development. In my research, I demonstrate that narrative also enhances emotional bonds among a community’s members. I argue that narratives are crucial to culture, identity, and community, each of which are essential for well-being and as such, are a source of moral knowledge.
+
+My research has two components. First, it explores the relationship between moral knowledge and popular narratives, particularly those found within music. The second component uses tools often used by data analysts, such as sentiment analysis to contrast the emotional features of a given corpus in response to moral kind terms in the expression of human relationships.
+
+Adopting a broadly sentimentalist moral perspective, I build upon the insights of narrative scholars like Eleonore Stump (2020), Martha Nussbaum, Mohamad Syed and Kate McLean, and digital humanists like Marc Alfano. I propose an account where human well-being plays a vital role in questions of moral knowledge. As such, I am primarily interested in moral epistemology and cognitive psychology. This means that I primarily ask questions about actual sources of moral knowledge.
+
+There are many perennial problems in philosophy. By looking at philosophical and psychological accounts of narrative, my dissertation addresses two of these. The first, perennial problem (1), concerns the problem of moral knowledge. There is a worry among epistemologists that accepting or acting on moral testimony, while potentially the source of much good, is in itself unjustifiable. The primary culprit is that moral actions that are based on moral testimony, have no moral worth. The second, perennial problem (2), concerns emotions toward fictions. Some of these, while perhaps shocking, are potentially apt responses to fictional representations even though they are inapt outside of such contexts.
+
+According to Dian Million, a sociopolitical imaginary is an epistemic concept that shared by a given community. This epistemic concept informs that community of commonly held, or collectively held assumptions. These are typically racialized, gendered, or sexualized assumptions about given communities. We can imagine that Joe "just knows" that everyone in his community is hetero-sexual for instance. These assumptions are fairly intractable because one's acceptance of them is as affective as they are cognitive. According to @meis22a, sociopolitical imaginaries are supported by epistemic ecologies. These are a set of resources that characterize a given epistemic community and embody the knowledge shared by it. For Meissner and Huebner, many instances of country music are epistemic ecologies.
+
+In chapter 1, I argue these two problems are related and that the best way to address them is contemporaneously. In chapter 2, I draw the relationship between fiction and a robust form of moral understanding important for attributions of moral worth. Then, in chapter 3, looking at philosophical accounts of narrative, I argue that narrative is a potential avenue for achieving affective moral understanding. Feeling the right way at the right time in response to the right object. In chapter 4, I look at psychological accounts of narrative. I focus on a class of such accounts that draw a connection between narrative understanding and human flourishing. I argue that interpersonal relationships is important for human flourishing. Therefore human flourishing is governed by ones mastery over virtues central for good interpersonal relationships. Finally, one potential weakness of my view, is that those literary narratives that are thought central to human flourishing are necessarily classical works. Therefore in chapter 5, I argue this raises a problem in that if only classical works are central to human flourishing, then only classical works can potentially get it wrong and undermine human flourishing. I argue this problem is at the heart of the perennial problem above regarding apt and inapt emotional experiences in fiction. I instead look at a class of non-classical works, namely popular narratives. The psychological literature on narrative develops an account of narrative that is rooted in personal identity. Using some various kinds of popular narratives examples, I develop a model of non-classical literary works that satisfy both philosophical and psychological accounts of the connection between narrative and human flourishing. Thus in summary, my dissertation looks at the dual problems of problematic emotional experience in fiction and the problem of moral testimony and argues that central to both are worries about affective moral understanding. I argue that this psychological phenomenon is contextualized across a wide swath of relevant factors and that narrative provides an ideal framework for making sense of these factors. I argue that moral testimony is a testiment to ones identity and sense of belonging in a community and that popular narrative are often sources of such testaments.
+\epigraph{We are all the same. There is no difference anywhere in the world. People are people. They laugh, cry, feel, and love, and music seems to be the common denominator that brings us all together. Music cuts through all boundaries and goes right to the soul.}{Willie Nelson}
+
+\newpage
