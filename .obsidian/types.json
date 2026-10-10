@@ -220,6 +220,8 @@
     "Published": "checkbox",
     "Featured": "checkbox",
     "YouTube ID": "text",
-    "Substack Slug": "text"
+    "Substack Slug": "text",
+    "format": "text",
+    "output": "text"
   }
 }

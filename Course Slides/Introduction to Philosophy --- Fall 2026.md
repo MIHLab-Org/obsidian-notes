@@ -2256,6 +2256,17 @@ Virtual Library vs. Virtual Cat
 
 ---
 
+What is the difference?
+
+note:
+
+A virtual reality environment is an 
+	immersive, 
+	interactive, 
+	and computer-generated space.
+
+---
+
 ### Virtual Realism and Virtual Fictionalism
 
 ---

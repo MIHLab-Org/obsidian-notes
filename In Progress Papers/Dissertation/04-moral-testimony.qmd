@@ -1,0 +1,302 @@
+---
+params:
+  doc_title: "Moral Testimony: Sentimental rationalization as a species of causal explanation"
+---
+
+
+# Moral Testimony
+
+Right action, or appropriate action, and reason have to do with their relations to other persons and therefore moral testimony is about behaviors directed at others. Striking a rock is typically thought of as an amoral act, unless the rock is an expensive piece of granite that your neighbor intended to install in their kitchen. But when we think about such behaviors, it is not enough that a person has cognitive access of a given proposition about their obligations to others. A firefighter explaining that their motivation for running into a burning building does not usually begin with a recitation of Kant's moral imperative. It is not enough that one has the correct belief about the right course of action towards others. Similarly in epistemology, it is not enough for knowledge, a success condition, that an individual holds the correct belief of a given proposition. Right, in the epistemological sense requires some condition grounded in knowledge. Morally, this sort of epistemological success also invokes a proper oriented sensitivity to other persons as well. This is a success condition that satisfies the demands of moral knowledge. It is often expressed by making reference to certain emotions such as empathy and so on, that rationalize a given behavior. However, there are many concerns that arise when we think of a given emotion as an obligation. We do not often think that we can necessarily convince others the importance of such non-cognitive states as these are not often thought of as under our direct control. We would be hard pressed to lecture our children into being more empathic. One way to first talk about such obligations then, is by thinking of their orientation as prior to reason. Many would think that such talk then is disqualified from philosophical analysis as wisdom is in part a product of reason.
+
+In the last section, I argued that a knowledge first account of justification is an important step towards thinking of apt non-cognitive or affective states as a fundamental obligation. Famously, epistemologists for a long time attempting to understand knowledge as a justified true belief. What this meant is that in order for some person's belief to amount to knowledge, it had to be true, the agent had to believe it, and the person's belief needed to be justified. For instance, if someone lies to me, and in my naivete, I believe them, my belief probably would not be justified. Knowledge first views argue that knowledge is foundational, if we believe that some proposition is true, because we in fact know that it is true, then our belief in that proposition is justified. A small pre-linguistic child who witnesses a mouse run into a hole, knows that they say a mouse run into a hole. On traditional JTB theories of knowledge, the child would likely not be justied, but on the knowledge first model, it would. In this section, I raise questions for theoretical notions of testimony, arguing that moral testimony is different than non-moral because of its ability to connect right action and right reason by facilitating appropriate feeling.
+
+## A testimony of normative behavior
+
+The object of non-moral testimony is to communicate "that" something is the case. Non-moral testimony testifies "that" the sky is blue, "that" 2 + 2 = 4, "that" pork is not kosher. Moral testimony is different from non-moral testimony however. The object of moral testimony is not only to communicate "that" something is the case. It is not enough to know "that" lying is wrong, or "that" giving to charity is good.  Consider the following vignette:
+
+> You are on holiday and someone gives you tickets to a boxing match. En route you bump into a friend who asks your plans for the evening. You tell her that you are headed to the stadium though you are not sure where it is. She replies: "It's on 21st street." Taking her to be reliable, you defer to her and head for 21st street. Before parting she asks what you're going to see at the stadium. You tell her that you are going to watch boxing. She replies: "It's morally wrong to watch boxing." Taking her to be reliable, you defer to her and head back to your hotel. [@flet16]
+
+Both narratives and testimony are ubiquitous across societies. From telling a loved one how our day at work was, to telling a psychologist why we think no one at work likes us. We use stories to see the moral landscape for what it is. Stories help us to imagine scenarios not only cognitively, but they allow us to feel the effects of betrayal and the pain of loss as if it happened to us. Aeschylus' telling of the tragedy *Agamemnon* tells a story of moral conflict. When *Agamemnon* sacrifices Iphigenia, we feel betrayed.
+
+We often think that moral testimony amounts to, "you shouldn't $\phi$", "$\phi$-ing is morally wrong", or that you should $\psi$ instead. For instance, tell my friend that I will loan him money as soon as he gets his life together [@nick01]. The testifier then gives a number of reasons why one should not $\phi$. Perhaps he may say, 'sexism is wrong' [See @jones99], or that unjustified killing is [See @driv06], that your friend will only use the money to support his addiction.
+
+### Praxis and Right Reason {-}
+
+But consider what a good defense of liberal immigration policy does. Assuming that we want to point out that someone has good reasons for immigrating to another country, it is often not enough to state various facts surrounding immigration and reasons for doing so, such as many refugees and other immigrants are seeking a better life, fleeing violence and political persecution. A more effective way to help another see the truth about a given moral claim, including those surrounding the rightness of a liberal immigration policy, is to tell a story that explains why one left their country of origin, family, friends, and even children. For instance, we might begin with something like, on August of last year, John's barn was intentionally set on fire. Shortly there after, he received a envelope from a uniformed police officer, inside were pictures of his sleeping family.
+
+We also use stories to advocate for a change of some kind. A victim may recount what happened to them in the wee hours of the night as a way to introduce a policy suggestion regarding gun restrictions. The victim of police violence may tell a story about being profiled by biased police officers as a way to promote police reform. On the one hand, the victim of police violence could have made a formal argument about the need for police reform. They might argue that violence undermines one's moral autonomy and that one should never undermine another's moral autonomy. Stories are often more effective however. A person will tell their story hoping that their audience can imagine the way they felt at the moment of their victimization. They would hope that their descriptions of a given event, would place their readers into their shoes. I will argue, that these uses of narrative show us that what makes these moral concerns moral, are those important emotions that accompany them. As such, it will be helpful to understand the difference between moral and non-moral testimony as the difference between assertions that convey emotion and those that do not.
+
+What the above suggests, is that we often use narrative as a form of moral testimony. However, we should dispel some concerns. Moral knowledge is nothing like non-moral knowledge. Moral knowledge is concerned with motivation and behavior while non-moral knowledge is merely concerned with behavior. First, lets consider some individual named Sue.
+
+Sue decides to get inoculated against a known virus because she is afraid of becoming sick. However, Sue has never really thought about whether the virus is contagious or not and what this means. Sue does not care much about the virus beyond whether or not it can make her gravely ill. In fact, if it were ever proven to Sue that because of her age or genetics, she was not susceptible to any illness as a result of this particular virus, she would decline getting the vaccine regardless of how contagious it is, or how serious it is for others. This is because Sue is not at all concerned with the virus' effect on others. There are two different questions here. The question about whether or not a virus is contagious can be a moral question if one worries about the virus' effect on others, say someone who is immunocompromised.
+
+Mary however, is an individual who, while she does not want to become ill as all of us do not want to become ill, has the additional motivation of not wanting to pass an illness to friends and family who may experience significant health effects as a result of getting sick from this virus. While Mary is reasonably assured that were she to catch the virus, it would be no worse than a sniffle or two, she would still receive the vaccine because she does not want other members of her family to become ill. Mary is concerned with facts about the virus in a way that Sue is not. For Mary, her beliefs about the virus do involve others. As such, her beliefs about the virus are action guiding and grounded in her concern for others. Given that her beliefs about the virus involve its effect on other people, her motivations about the virus are moral.
+
+We can further contrast this against a case wherein though Clarice may reasonably believe that no one in their family would become seriously ill from the virus, she still pursues inoculation because she would feel terrible if *anyone*, whether friend or foe, became seriously ill from catching the virus. Clarice is impartial and so are her moral beliefs. Both Mary and Clarice have an additional motivation that Sue clearly lacks. Both Mary and Clarice get the vaccine because they do not want to spread an illness and would feel really bad if they were the cause of another becoming ill.
+
+If Sue is to ask an expert whether or not she should get inoculated, the expert would have to infer reasons that are important for Sue, but very often, the medical expert assumes that Sue's reasons are moral. Narrative is the best way to facilitate such reasons and as such, narrative can justify a given moral belief. In what follows, I will argue that justification for our moral beliefs are grounded in part, in our concern for others. While it is important to know whether or not someone should get a vaccine based on reasons of prudence, not wanting to experience financial difficulty as a result of missed wages for instance, it is also important to know whether or not someone should get a vaccine based on moral reasons. Namely the effect of their decisions on other people.
+
+Understanding what narrative is and does will give us a better appreciation for why narrative is a form of moral testimony. First, we can begin with the observation that what a person knows about the world depends on evidence, including what they know about the moral world. But there are two kinds of evidence. On one account, critical reflection and reasoning is a kind of evidence whereby an agent's belief counts as knowledge just in case her belief satisfies a number of conditions such as critical reflectivity and equilibrium with held principles, or is justified.
+
+The activity of justifying one's belief, is the activity of an agent identifying a set of judgments she has, 'genocide is morally impermissible', 'murder is wrong', 'one should not plagiarize'. She then attempts to formulate a set of general principles which account for the judgments. She might argue for instance, that murder is wrong because it undermines the autonomy of moral agents. She then attempts to determine whether her principles are compatible with her judgments, recursively modifying each until they are [@mcgr19, ch. 2; also see @scan14, 76--77]. Therefore, a set of conditions that a belief needs to satisfy to be justified includes critically reflecting on that belief and equilibrium between a held belief and principles it is grounded in.
+
+But there are problems with this account, for one, it does not account for a lot of our knowledge about the world. For instance, we do not need to critically reflect on our beliefs about feeling the sun's rays on our skin to know that the sun is shining. Similarly, we do not need to reflect on the fact that some actions seem morally right while others wrong. However, moral perceptions differ in an important way from non-moral perceptions. They are amenable to change. While it may feel perfectly just to young Mary to deny credence to Sam's testimony given his less than perfect command of the English language, older Mary can look back on her young Mary with regret. Mary has developed moral understanding, and therefore xenophobia no longer feels right to her.
+
+Moral understanding is how we feel about a behavior or action. What we hope to achieve with moral testimony then, is a change in the way someone feels about a given action or behavior. Narrative is an effective method of moral testimony because it is a source of moral understanding. We confer moral worth to a behavior when the agent morally understands why their action was the right one
+
+As we have witnessed with the case of Sue, you can acquire moral knowledge through testimony. Moreover, moral testimony is about action. But there are two ways to understand action in these contexts. Moral testimony can, and often does, correspond to right action. It does not, however, correspond to morally right action; actions that have moral worth.
+
+## Acquiring Sensitivity to Morally Right Action
+
+Just what is morally right action? As the literature goes, there is an important connection between moral understanding and good character, namely that moral understanding is a primary component in one's ability to reliably do the right thing [@hill09, 119; @nick01, 256; @mark10]. But, it is possible for an agent to characteristically perform the right actions for the wrong reasons. An agent may reliably perform some right action because they care about self-image or because of some other non- moral concern^[See @arpa02 for a defense of this point.] or like Sue through some odd outcome of reason. Morally right action then, must be an action that has moral worth for that agent, not merely any agent who performs that right action. Another agent who acts rightly, perhaps performing those exact actions as the former in analogous situations, may not fare as well with respect to moral worth.
+
+### Through Thick and Thin, Two Accounts of Moral Understanding {-}
+
+On the thin view of moral understanding suggested by Alison @hill09, Sue understands that she should get the vaccine (wHs) if she is also able to do the following given the truth of (wHs) [102--103].
+
+```{.remark}
+
+Reason that 'If I should should get inoculated, then I should help my neighbors.'
+
+```
+
+```{.remark}
+
+Follow an explanation of why (wHs) 'I should should get the vaccine,' given by someone else; be able to explain (wHs) in her own words;
+
+```
+
+```{.remark}
+
+draw q---e.g., we should not hit others---from (wHs);
+
+```
+
+```{.remark}
+
+draw (wHs)'---say Bob---(or likely (wHs)') from q' where (wHs)' and q' are similar but not identical to (wHs) and q;
+
+```
+
+```{.remark}
+
+given information that (wHs), give the right explanation
+
+```
+
+On @hill09's view, testimony is not sufficient for acquiring moral understanding, but can serve as justification. Some initial reasons why moral understanding is valuable: Moral Understanding is essential to acting well.[119] On this view, a grasp of reasons might be the only way to perform the right actions reliably.
+
+> Suppose your reliable friend has told you not to cheat your customers because doing so is unfair. You believe her, but on your own behalf, you cannot really see anything wrong with enriching your share holders at your customer' expense. There is a perfectly good sense in which you know why cheating your customers is wrong: you know that it is unfair. And yet you yourself have not grasped the connection between the wrongness of the action and the reason why it is wrong. So you say to your customers what you were told---citing the unfairness of giving the wrong change as justification for your action---but you cannot give an explanation in your own words, and you cannot reassure customers that under slightly different circumstances, you would treat them well (since you yourself are not able to work out what you would have moral reason to do in those circumstances). Without moral understanding, your ability to participate in the exchange of reasons is necessarily limited. [@hill09, 109]
+
+There are two points about the importance of morally worthy action here that we should note. First, it is important because virtue requires justification, namely the ability to justify one’s actions. When one performs a morally worthy action, she is able to justify her action to others in a way that explains it to them. Further, in order for an action to be morally worthy, they have to come from a place of good character. So, crucial to moral worthy actions is having good character. "[M]oral understanding is essential to good character and to morally worthy action, that is, to right actions performed for the right reasons" [@hill09, 108].
+
+```{.remark}
+
+Right Action -> Actions performed for the right reasons
+
+```
+
+An action is morally right only if it is a right action performed for the right reasons. And moral understanding is crucial to certain kinds of morally worthy action. But this conflates being able to justify your actions, with the moral worth of those actions. Perhaps this is all the study of ethics, say medical ethics is. On such a view, a hospital might hire a team of ethicists to justify their actions rather than leading in critical reasoning about complex medical issues such as patient autonomy.
+
+### Knowledge and Understanding {-}
+
+Robert @howa18 understands Noma @arpa04's position as a form of non-cognitive understanding.^[Also see, @arpa02] However, he leaves open the possibility that this can be thought of as a form of knowledge. This is a point that deserves further development.
+
+> Huckleberry Finn befriends Jim, a slave, and helps him escape from slavery. While Huckleberry and Jim are together on a raft used to escape, Huckleberry is plagued by what he calls "conscience." He believes, as everyone in his society "knows," that helping a slave escape amounts to stealing, and stealing is wrong. . . . Like many children (and adults), Huckleberry is not very good at abstract deliberation, and it never occurs to him to doubt what his society considers common sense. Thus, he fails to find a loophole. . . . Having thus deliberated, Huckleberry resolves to turn Jim in, because it is "the right thing." But along comes a perfect opportunity for him to do so, and he finds himself psychologically unable to do it. [@arpa04, 75; also see @benn74.]
+
+Jonathan @benn74; and @arpa04 highlight Huckleberry Finn's interaction with Jim as morally worthy despite his lack of moral understanding. There are two ways to understand this failure. First, Finn does lack moral understanding under the traditional view. He reasons from a place of understanding that he should turn Jim in. He knows stealing is wrong and that one has a moral duty to return another's stolen property. But he does not understand where such a rule is applicable. If Finn understood that stealing is wrong, he would know the correct application of this rule, but because he does not understand that stealing is wrong, he falsely believes that not turning Jim in amounts to stealing.
+
+The other way to understand Huck Finn's failure, is that the first relies on an insufficient view of understanding. It is possible that Laura @call18's view is closer to the second. "Understanding of this kind might be thought necessary for morally *worthy* action, or for virtue" [@call18, 443]."Many hold that only actions undertaken *for* the reasons that make those actions morally right are morally worthy." Merely appreciating some action as being the thing to do will not suffice for moral worth as long as one lacks more direct motivation by the reasons that make the action right [@call18, 443].^[Also see, e.g. see @nick01; and @mark10.]
+
+Finn's failure to turn Jim in is an action we do associate with moral worth and as such, comes from a place of moral understanding. Although it does seem that some form of moral reasoning takes place, in the end it is not connected with Finn's moral action however. Arpaly calls this *inverse akrasia*, doing the right thing against one's better reason or judgment. Finn has reasoned correctly and therefore has moral understanding, but what he understands in the thin way is not the morally correct action. What he does have though is knowledge, and his knowledge is why his action possesses moral worth. As such, moral understanding is connected to the psychological turmoil that Huck Finn experiences resulting in his inability to turn Jim in. However, this leads to some troubling questions. First, what Howard calls non-cognitive understanding, looks more like moral perception. The reaction that Huck has to turning Jim in, resembles the inability that one may have at stepping onto a transparent platform suspended over a large crevice. This person may very well reason to themselves that the platform is safe and has been inspected on numerous occasions by the relevant experts. However, they may not be able to bring themselves to walk onto the platform because of their non-cognitive perception that it would be unsafe to do so.
+
+As noted by Alison @hill09, what we care about regarding moral knowledge is one's behavior, and whether this behavior deserves moral praise. Arpaly argues that understanding as defined by Hills is not as central to moral worth as Hills thinks. But this just means that understanding is not as central not to moral worth, but to behavior. Understanding does not need to be central to behavior because we often theorize on various issues without any intention on acting as the outcome would suggest. Therefore on this view, our affective states are more important for the moral worth of our actions.
+
+\noindent Consider the following claims:
+
+> What is it to have good character, to have the virtues? ... In general, someone with a good character is disposed to *feel*, choose and act rightly. [@hill09, 108; emphasis mine]
+
+Both @hill09 and Robert @hopk07 argue that having the right to a moral belief requires grasping the moral grounds for it [@hopk07, 630]. In Sue's case, it would be right for her to receive the vaccine. However, to say that something is right, is not the same thing as saying that it is *morally right*. Grasping in this sense implies a mental property with motivational content. Paulina @sliw17 and other optimists (E.g. @enoc14) point out that the missing piece is not understanding as understood by Hills, but rather a special kind of sensitivity to the moral reasons present in a particular case. This sensitivity confers moral worth onto an agent's action and the sensitivity in question can come by way of moral testimony.
+
+::: {.remark}
+Following Hopkins, we can call this the recognition requirement:
+
+The Recognition Requirement** (morally right action is acting for the morally relevant reasons) has to do with action, but it has to do with the part of action that lies within an agent: her psychological and *motivational* makeup. [@nick01, 258; emphasis mine]
+:::
+
+The problem with Hills' account then, is that it fails to recognize the important role that moral knowledge, better known as moral perception, plays in moral understanding.
+
+Notice how the primary question is not about whether moral testimony can or can not make moral knowledge available for either view. In cases of moral testimony, we rely on another's moral judgment; maybe we might think someone is in a better epistemic position than ourselves, and we accept a moral claim because that person asserted it. But this does not mean that we do not have knowledge given the way we've come to hold some view. In the following, I begin to tease apart two different senses of "grasping reasons."
+
+## Understanding Moral Sensitivity
+
+Moral judgments require interpersonal justification. Here, an agent's action is a direct response to the moral requirements guiding rational action. Testimony fails to provide adequate reasons for moral action because one's reliance on testimony highlights their inability to respond to the moral requirements present.^[See @nick01, 256; @hopk07; @hill09, 102.] Pessimists with regard to moral testimony defend the asymmetry thesis of moral testimony in one of two ways. First, though moral testimony can impart moral knowledge, the asymmetry is explained by the fact that we have a duty to exercise our moral conscience, a duty we do not have in non-moral concerns [@enoc14; @mcgr19; @jone99; @driv06; @hopk07; @wolf98, 20–31; @fric06]. But this does not absolve the worry regarding moral sensitivity.
+
+Other defenses reduce moral understanding to something like a capacity for knowledge, where understanding amounts to varying degrees of moral knowledge [@sliw17] whether the agent knows *'p'* or not. However, like pessimists, such defenses define understanding as something which is solely cognitive. For instance, @howa18; @call18; @flet16; @enoc14 and @sliw17 point out that the missing piece is not understanding as understood by Hills, but rather a special kind of cognitive sensitivity to the moral reasons present in a particular case [@sliw12; @sliw17]. @mcgr09 defends a view on which there are moral experts, individuals who have a better appreciation or are specially sensitive to at least some moral facts than are others.
+
+A point that isn't addressed in depth in the moral testimony literature, is that in the moral realm, having emotional/motivational states appropriate to one's beliefs is distinctively important. If one, say agent *A* understands a moral proposition, say $mP$ *is true*, then $A$ should appreciate the reasons why $mP$. If $A$ appreciates why $mP$, then $A$ appreciates $mP \rightarrow \psi$, namely, that if $mP$, then $q$ [@call18, 441]^[Also see Alison @hill09; @hill13; @hopk07; @nick01. For how this relates to non-moral understanding literature see @grim10; @nick01; and @hill09; @hill16.]. Therefore, "Having understanding comes with abilities."^[E.g. see, Alison Hills 2009, 102--103, 2016 and Grimm 2011] Some abilities include being able to "form additional correct moral beliefs, say $mP'$ and act rightly in particular, novel situations" [@call18, 443]. However cognitive reasons are not the only reasons *why* $mP$ will be true and not the only motivations for an agent's acting from $mP$.
+
+However, this does not occur in the Huck Finn case. Finn reasons that not returning a runaway slave is akin to stealing. Stealing is wrong. Therefore one should return a runaway slave. When Finn does reason ($mP \land q$) $\rightarrow \psi$ then, the result is not where the praiseworthy relevant features of the action are found. Finn is incapable of $\psi$ing and as such, performs a morally worthy action.
+
+Understanding the relevant moral propositions (having the appropriate feelings and motivations) in a situation is sufficient to enable one to act with moral worth in a situation (as long as one also has an accurate, sufficient grasp of relevant non-moral information) [@call18, 445]. An agent who has the appropriate feelings and motivations, motivation to act for the right reasons [@call18, 450], also acts with moral worth. As defended by @howa18, we might think that moral understanding is important for moral motivation. If one will be motivated by the right reasons, then one should have a grasp of the right reasons and the support they provide for the relevant moral judgment [@call18, 443]. A moral agent, one who deserves credit for their action, is one who is sensitive to [@hill09; @hopk07], or recognizes [@nick01], the relevant moral requirements which include both cognitive and non-cognitive reasons.
+
+Optimists about moral testimony argue that the asymmetry between moral and non-moral testimony can be explained by general features of testimony. Optimists argue that the problems with moral testimony are also problems with non-moral testimony, but moral concerns are weightier and therefore make it merely appear as though there is an asymmetry. What we need is an appreciation of the relevant reasons; ability to make the correct moral judgments because of this appreciation; and the ability to give the right explanation of the correctness for one's reasons [@hill09, 102; @hopk07].
+
+However, this only explains why moral concerns are sometimes thought of as subjective. Jesse @prin07 defends a view on which value concepts are grounded in non-cognitive reasons. This is because evaluative concepts are abstract in that they are incapable of being touched or manipulated. Because of their lack of discrete properties, some have argued that value concepts, for instance aesthetic and moral concepts, cannot be grounded in evaluations deriving from sensory representations. Value concepts, in order to be grounded, require contributions from us and as such, are at best subjective.
+
+Why is it that because something is abstract, that it resists grounding? First, grounding in reference to concepts, is a kind of evaluation that derives from sensory representations. However, because value concepts such as justice are discreet, incapable of being touched or manipulated, they lack perceptible features. This lack of perceptible features means that they are abstract. Value concepts have abstract properties and as such, require a contribution from us that will influence our own sensory representations of that object. Because they require contributions from us that determine the properties such objects have, they are subjective and as such, resist grounding.
+
+In short then:
+
+```{.remark}
+
+Grounding is a kind of evaluation derived from sensory representations, motor responses and emotions.
+
+```
+
+```{.remark}
+
+But, because value properties are abstract, they require something from us that influences sensory representations, motor responses, and emotions.
+
+```
+
+```{.remark}
+
+As such, value concepts are not direct representations of the object under evaluation.
+
+```
+
+An example may include our judgments becoming compromised due to bias. In such instances, we find ourselves being unable to set aside our own interests mitigating our perceptual capacities and blocking our judgment. Other times we fail at making moral distinctions (maybe because we are more sensitive to a social norm). Here sensitivity to social norms are typically a version of practical knowledge which comes in degrees [@jone99; @coll02; @sain20] and it is this which facilitates morally worthy behavior given our ability to attribute the correct properties to the object in question.
+
+But this is no different from deference. The need for moral testimony can represent other moral failings. An inability on our part to contribute the necessary features to the object at question then represents a moral failing.
+
+## Limitations in Reason
+
+Claiming that there is an asymmetry between moral and non-moral testimony, involves two separate claims.
+
+```{.remark}
+
+While one's possession of non-moral understanding is a more desirable state of affairs than possessing mere knowledge, there is no general obligation to possess non-moral understanding like there is with moral understanding.
+
+```
+
+Further, moral action rests on a broader array of faculties than non-moral action.
+
+@enoc14 defends the position that there are moral experts. Consequently, in some situations we are morally required to defer our moral opinions to experts. Therefore in some cases there is a normative requirement that we defer our opinions to moral experts. We have a moral requirement to not subject others to a higher-than-needed risk of being wrong.
+
+He calls moral and non-moral claims which are not understood "opaque evidence." Accordingly, all moral beliefs, like non-moral beliefs, resting on opaque evidence are, not considerable achievements [255].
+
+Consider the vignettes below:
+
+```{.remark}
+
+You read in a school textbook that Napoleon was well-organized, tactically astute and ruthless.
+
+```
+
+You believe what you read and your belief is true. Do you know that he is well-organized, etc?
+
+```{.remark}
+
+You read in a school textbook that Napoleon was well-organized, tactically astute and ruthless.
+
+```
+
+You believe what you read and your belief is true. But your textbook is generally very inaccurate and it is lucky that the few sentences in it you have chosen to read are true. You have not checked the accuracy of the textbook or of the sentences you read in it. Do you have knowledge that Napoleon is well-organized, etc?
+
+According to Enoch, the risk of doing wrong is a considerably greater risk that we have a general duty to minimize [@enoc14, 242]. Because we have a *pro tanto* responsibility to minimize the risk of our acting wrongly; cases wherein we have a moral imperative duty to defer our judgments to others, are cases wherein we lack moral understanding and so by attempting to act autonomously, we are deliberately accepting a higher risk of acting wrongly. When we rely on moral testimony, we are acting on opaque evidence. However, tolerating a risk of wrong doing is self-defeating. Therefore there is no value that can outweigh the general requirement to minimize the risk of wrong doing including the value of autonomy.
+
+The stakes for falling short in moral action is higher than for non-moral action. According to Enoch, this is because moral reasoning separate from this affective state *feels* cold. Assuming that given Eleanor's assertion of (sh) ‘do not eat meat,' or others like it; e.g., (sh)' ‘it is not acceptable to eat meat,' ‘we do not eat meat in this house' etc, Mary never eats meat again; problems emerge with respect to Mary's trust of such testimony. It seems that we still would want to know whether Mary knows why it is wrong to eat meat, and as the literature states, whether Mary is motivated by the right reasons.^[e.g. @enoc14, 254; @flet16, 60.]
+
+Following this line of reasoning, we might think that we miss an emotional achievement---when our judgments are not motivated by our perception of some moral harm for instance---when we defer moral judgment. But this would be wrong because I have *already missed* my opportunity for this achievement. "Moral deference indicates failure to achieve something we are expected to achieve" [@enoc14, 255]. While deferring to the moral expert *is* indicative of some moral imperfection. ". . . once the imperfection is already there, it is better to acknowledge it and act in such a way that takes their existence into account" [258].
+
+Therefore, although we might allow children to accept the moral testimony of others provided that who they ask are also trustworthy and reliable in the belief that ultimately they will eventually be motivated in the right way, it is not similarly acceptable for adults to do so as their affective states are more or less fixed, or that they should by now have the correct motivations etc.^[Paulina @sliw12, 184–186 argues that moral testimony is as much of a concern for non-moral testimony. However, in moral cases, the ignorance of basic moral truths is particularly problematic.] However, these explanations are not adequate. In the next section, I explore in more detail the relationship between affect and moral worth.
+
+The problem with using the risk argument above, is that even if we avoid wrong doing in moral cases, our actions in and of themselves deserve no moral praise. It is difficult to then see how such actions fair any better than those actions which are the result of mistaken judgment, where at least the agent *tried* to do the morally right thing. The difficulty facing us, answering the question: why is this the case? What follows is one possible answer.
+
+In a case modeled on Kant's shopkeeper, we can imagine that Andy and Sandy, two shopkeepers who are cognitively identical (both can explain what would make their action wrong, they can apply this understanding to other cases etc and hold the same moral beliefs about what is right and wrong) and non-cognitively identical except for one fact.^[@hill09, 113, and in footnote. Also see @howa18, 1069--1070.] Andy cares (is motivated to do, desires that etc) about doing what's honest and Sandy only cares about her reputation as being honest. They each return the correct change to a customer per a coworker's instruction (the customer would not have known if they were shorted). It would seem that in this scenario, Andy deserves moral praise while Sandy does not.^["Despite the fact that each does the right thing, only Andy acts with moral worth when she returns the correct change. Sandy does not given that she's purely self interested" @howa18, 1069. One gives the right change to his customers only for the sake of his reputation. He is not really acting well . . ." @hill09, 113.] Non-cognitively, they both are motivated to act honestly but Andy cares (motivated out of concern for) about doing the honest actions while Sandy cares about being perceived as honest (for instance motivated out of concern for being perceived as).^[It is important to recognize that Kant thought Andy deserves more praise than Sandy because he acted out of duty. Hills questions whether it is duty that Kant is concerned with, or acting for the relevant reasons.]
+
+This focus on non-cognitive, such as affective, states can also explain the problem with moral testimony. Moral reasons make us see that moral understanding is a richer state "than is commonly thought to be, requiring affective and motivational engagement with reasons as well as cognitive facility" [@call18, 437]. Understanding requires more than knowledge or true belief in the way of cognitive appreciation of and facility with *'p'* —related reasons and reasoning [@call18, 441]. In the moral realm, having emotional/motivational states appropriate to one's beliefs is distinctively important as a form of understanding the relevant moral propositions (having the appropriate feelings and motivations) [@call18, 445]. Understanding then enables the agent to be motivated for the right reasons [@call18, 450].
+
+## Knowledge First Justification
+
+All the previous objections fail to consider narrative as a form of moral testimony. In what follows, I suggest that narrative is a form of moral testimony which fine-tunes those faculties central to moral perception.
+
+Fist, moral testimony really just is a kind of observation, we observe others and adopt their moral behaviors and beliefs. McGrath calls this form of testimony *deference*. When we accept the beliefs of others without critically analyzing them, we are deferring our moral decisions to them. However, are such beliefs justified?
+
+### In defense of Moral Inheritance {-}
+
+@mcgr19 defends a social epistemology, according to which, a person's earliest moral views are “inherited from her social environment." We do often rely on another’s testimony when it comes to things we do not know, such as knowing how to get around in an unfamiliar city. This is because knowledge is a communal enterprise, and it is difficult knowing what to do outside these social contexts [@coad94; @leon18; @audi77]. We are dependent on others for much of what we know morally about the world. We often receive testimony in the same way that we observe facts about our environment. Observation and testimony then are both sources of evidence. Therefore, moral testimony as a form of deference refers to our natural tendency to adopt beliefs held by those around us.
+
+However, what aspects of our social environment do we get our moral views from? The moral beliefs of a given agent are often shared by the members of her community. There are times however when there is disagreement, but these cases are typically exceptional. For instance, Martin Luther King may have a different set of moral beliefs from those in his community, but the disagreement is a source of conflict until the conflict is resolved through something like moral equilibrium. Here the moral beliefs of Martin Luther King, and the other members of his community begin to converge. What is important here, is that the moral conflict is not in a community, but shows a split between communities. Martin Luther King's community is still the source of his moral beliefs, for instance the Ebenezer Baptist Church pastored by his father Martin Luther King Sr.
+
+There are two questions in particular that may help us to understand what is strange about unquestioningly adopting the moral views of others. To understand these, it will be helpful to understand the contexts where they are important. First, we should not confuse questions about whether we should accept another's testimony, with the observation that we often do. Second, in the first case above, it is unproblematic that we accept our friend's directions to the stadium. We often defer in non-moral testimonial cases, for instance when we are in an unfamiliar city or other kind of setting. This is similar to other instances of testimonial transmission cases. A child who learns to read before she starts primary education is treated as though she possesses a distinctive kind of knowledge. She obtains this knowledge primarily because she accepted the testimony of her parents or older siblings that A is pronounced with an /'eI/, B with /"bi:/ etc.
+
+In non-moral contexts, we are “prepared to sweepingly defer to others about what to do in particular cases, even when we do not suspect that they have some general theoretical knowledge that we lack” [@mcgr19, 77]. But there is a difference between moral and non-moral cases. We might think that there is no theoretical science of ethics while there is a theoretical science of other fields. We will go to a physicist for questions about gravitational waves but an epidemiologist for questions about vaccine efficacy. Who could we defer to in cases of moral belief? There are some reasons why we might think that moral cases are analogous. I.e., moral particularism, one may be an expert in particular cases only, in which case theoretical knowledge is unnecessary.
+
+### Against the Critical Reflection View {-}
+
+According to the standard account of non-moral justification, if our beliefs are justified, then they are based on adequate grounds and lack sufficient overriding reasons against them. For instance, according to the critical reflection view, a moral belief is justified just in case one may have adequate grounds to hold the view, and if she is critically reflective of that belief. Mary, Sue and Clarice may be justified on the assumption that they fulfilled their obligations in gathering evidence to support their belief about the importance of inoculation. Once they have considered all the plausible reasons against holding that belief, then their belief lacks sufficient overriding reasons against it.
+
+However, this could also be achieved through observation. The fact that I am blinded by the sun's rays when I open my bedroom curtain is a sufficient overriding reason against my belief that it is still night out. Further, my perception that the sun is shinning is direct. Direct perception then is an adequate ground to hold a given belief. Mary, Sue, and Clarice can be overwhelmed by the force of an argument in favor of inoculation. But what this shows us, is that to suppose that our judgments need to correspond with held principles is too stringent of a demand as it does not explain all that we know. For instance, our beliefs that there is an external world or that the sun is bright. We have some beliefs which are voluntary and others which are involuntary. Both are justified, once we have satisfied all of our epistemic obligations regarding them.
+
+```{.remark}
+
+Believing that *p* in a way that is good from an epistemic point of view satisfies the chief desiderata for a concept of epistemic justification.
+
+```
+
+Having these beliefs, signifies that we have *done* something to show *'that p'* or that we are justified in believing *'that p'*. We might recognize that the believing subject has not violated any epistemic, cognitive, or intellectual obligations which may include refraining from believing *'that p'* in the absence of sufficient evidence, accepting implications of the belief *'that p'*, etc. But we have many more beliefs which are involuntary, and these we treat the same as we do the justified beliefs. Though it is plausible, I would be hard pressed to disbelieve that the traffic light is green.
+
+As such, it would seem that whatever concept of justified beliefs we hold under the critical reflection view, it is too stringent to explain much of the knowledge we are supposed to have. Therefore, given that many of our beliefs are involuntary, that I have hands for instance, we often are thought to have fulfilled our obligations with respect to such beliefs. Following this, McGrath then points out that what this means, is that we often act as though being justified is a more important epistemic state than is the state of justifying. Being justified is being in a state of knowledge and while we do think of justification as important, a different path to justification rests on what we already know. Accordingly:
+
+```{.remark}
+
+Knowing entails justified believing in that knowing a proposition, e.g. 2+2=4, satisfies the necessary conditions for justification, adequacy and safety.
+
+```
+
+```{.remark}
+
+If S knows *p* then S's belief that *p* is based on adequate grounds and lacks sufficient overriding reasons to the contrary.
+
+```
+
+```{.remark}
+
+But justified belief then, often occurs well before one is able to reflect on what they know or other methods of justification.
+
+```
+
+```{.remark}
+
+Therefore, by the time a typical moral agent is capable of the kind of reflection or other justifying devices necessary for knowledge acquisition, she already has a substantial amount of justified moral beliefs [@mcgr19, ch. 2; also see William @alst89; and C.F. @pryo00].
+
+```
+
+On the critical reflection view then,
+
+```{.remark}
+
+A moral belief *M* counts as knowledge *mK* for moral agent *S* just in case *M* is the result of critical reasoning or deliberation performed by *S*. However, we often credit an agent with knowledge by the time she is capable of the kind of critical reasoning required under the critical reflection view. What this shows then, is that:
+
+```
+
+```{.remark}
+
+Being justified is a more important state than justifying and a justified belief for S is one based on adequate grounds and where S lacks sufficient overriding reasons to the contrary [@alst89].
+
+```
+
+```{.remark}
+
+Therefore what justifies is restricted to a subject's perspective
+
+```
+
+It was initially thought that justification regarding moral testimony, in part, depends on whether we can defend our belief on the basis of the testimony we received. This was in part because we thought that testimony was a source of evidence given its relationship to justified beliefs. We think someone should receive a given vaccine if all the leading experts in a given medical field have testified to its efficacy. We often cite various medical reports in defending our medical decisions. Therefore it seems plausible that we can defend our moral beliefs in the same way, what McGrath calls *moral inheritance*.
+
+However, McGrath also thinks that many of our justified beliefs derive from a special kind of perception, for instance grounding her views regarding moral inheritance. I know that the sun is shinning because I can perceive that it is shinning. I know that care is good because I have often perceived it as such. I am having a given perception that happens before critical reflection. Therefore direct perception is one source of knowledge. Beliefs are justified given their proximity to knowledge.
+
+
+\newpage

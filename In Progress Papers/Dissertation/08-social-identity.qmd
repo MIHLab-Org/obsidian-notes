@@ -1,0 +1,201 @@
+# Social identity and racial equality: A case for moral autonomy
+
+As noted in emerging work on country music, there is a reason to think that personal identity is socially constructed. Authors have argued that the narrative implicit in country music's aesthetic is used to construct the identity of the modern American Anglo Saxon man [@mann08; @shus99; @meis22a; @gros02; @haye10; @holl19; @hugh15; @wats20b]. Critical race theorists also ask similar questions regarding the social construction of the identities of social minorities. In the philosophical literature on narrative however, agency seems to be a central concern. Narrative agency seems to be rooted in one's emotional experiences upon a retelling of their life story [@alts21; @sche90; @vell05; @kors96]. More specifically, a narrative can motivate various feelings, for instance of regret [@gold09], or pride, towards actions that one did or did not do. I consider questions of agency in regards to various interrelational virtues as represented in popular music.
+
+## Overview of the argument
+
+```{.remark}
+
+1. Modern conceptions of personhood are situated inside of social identities.
+2. It is not clear that these equitably entail human agency.
+3. Therefore sources of social identity is an underexplored topic in critical theory.
+```
+
+### Introduction
+
+In critical theory, personhood within social identities is one underappreciated concern. Though conceptions of social identity no longer preclude attributions of personhood, whether they equitably entail human agency is not clear. In some of the critical literature, it is argued that modern conceptions of personhood are situated within social identities. It is not clear whether conceptions of personhood rooted in social identities necessarily entail human agency equitably, is another matter. Given recent discussions centered on the question of equity, we might think that ascribing personhood equitably is an important subject of concern. In other words, by analyzing the construction of another's agency through literary text, we should ask whether we find equal attributions of human agency in a given social identity. To do this, we would need to look at sources of social identities. On the one hand, we can ask whether a given portrayal of personhood satisfies the aims above. To determine whether it is apt or not, we just have to ask ourselves whether we can explain a given event or action, as it occurs in a literary narrative, a possible source of social identities, by reference to a represented autonomous human agent. We would then ask whether sources of social identity do this equitably with regard to race or not.
+
+A part of the difficulty as I see it, is that such distinctions are not as important for non-personal conceptions of identity, for instance if we only view identity as a kind of psychological continuity over time [See @parf87; and @alts21]. Parfit's understanding of agency as a relation between what a person does and their psychological does not explain first personal perspectives such as regret. More importantly however, it does not help us explain our past [@alts21]. And it is important to consider that many views in critical theory infer this kind of psychological continuity. Such views, while having their place, are not central concerns when considering agency and personhood in light of one's reflective emotional expressions. While we might think that every event has its cause in some given antecedent, for instance socio-economic conditions, such views have been criticized because of their tendency to *disappear* the agent [E.g., @lowe08, 9]. Views of personhood inferred by one's socio-economic conditions should be evaluated more carefully in the light of this particular criticism. In what follows, I suggest one such response. I ground this response in inter-terational goods [See @nuss01i].
+
+If an individual's behaviors are solely explained by reference to economic environment or other non-personal aspects of one's social environment, then concerns about identity go undetermined. What is of concern here is whether or not identity does indeed act as a kind of constraint on human action and behavior including those central to moral responsibility and agency. Also of concern is whether such constraints can undermine the effects of one's physical environment. The ways in which one conceives of themselves plays a determining factor in the actions that they perform. What the literature intends to say, is that autobiographical narrative explains why a given course of action is needed. However, the relationship between autobiographical and biographical narratives is unclear. In other words I ask here whether narrative agency is important for one's own sense of identity, known as autobiographical narratives and what this says about behavior. Some have previously attempted to explain human agency as a central aspect of personal identity by narratives, both autobiographical and biographical [@mcle15b; @book22a; @brun90; @alts21; @vell05a]. This project continues that work.
+
+## Epistemic Ecology
+
+Shelbi Nawhlit Messiner and Bryce Huebner in their paper *Outlaw Epistemologies* have presented a concept of outlaw country music as a possible counter socio-political narrative. This counter narrative, what they call an epistemic ecology, provides an epistemic framework that characterizes the cultural contributions of minority communities. These are communities made up of not only racial and ethnic minorities, but can also include socio-cultural minorities. For instance self-described *country outlaws* like the popular country and western music artists Merle Haggard and Willie Nelson. Importantly, Messiner and Huebner helpfully point out that such ecologies espoused in the music of such indivduals entrench socio-political representations that obscure the epistemic contributions of the members of racial and ethnic minority communities. In other words, the socio-political conversation in popular culture create false ecological imagery of many minority communities and revised epistemic ecologies can highlight the ways in which they do so. Though their use of epistemic is not novel, it will be important to point out that it is more robust. It is not clear just how intentional this is as it could be confused with understanding for the reasons I outline below.
+
+First some points,
+
+::: {.remark}
+* Dian Million, as pointed out by Meissner and Huebner (Outlaw Epistmeologies), uses the term sociopolitical imaginaries to represent a shared epistemic concept that inform commonly held 'affectively understood' sociopolitical imaginaries
+* These, for instance, impose racialized, gendered, and sexualized presumptions onto Indigenous people.
+* And undermine land rights and genocidal crimes.
+:::
+
+Additionally it will be helpful to point out that,
+
+::: {.remark}
+***Epistemic Ecologies are***
+
+A rich set of resources for characterizing epistemic communities and the embodiment of social knowledge, they are socio-political imaginaries that embody affectively rich knowledge systems in epistemic communities [@dill13]. This social knowledge informs the unspoken, commonly held 'affectively understood' sociopolitical imaginary, which in themselves are racial, gendered, and sexualized presumptions about who the members of these communities are.
+:::
+
+A primary point in Meissner *et al*, is that many of the facts that make up the current shared socio-political imagination are uncontested, under explored and built from assumptions. We might be well justified in thinking that it is odd to encounter uncontested claims in a modern liberal society. However, one way to explain this entrenchment is by recognizing that these claims are emotional rather than cognitive.
+
+### Narratives and Alternative Narratives
+
+There are a few points that will prove important before we continue. Although Meissner and Huebner do not give more specific examples of what new epistemic ecologies are needed, they do present a considerable amount of resources that could aid in constructing new ecologies that mitigate the former ones. They draw our attention to a specific source of socio-political imageries grounded in outlaw country music. They then describe how Outlaw country music can be amended in order to create new epistemic ecologies. Additionally, the context in which Meissner and Huebner's paper is situated, is more modest than it needs to be. More importantly, some of the concerns can be amended, creating a more inclusive set of epistemic ecologies.
+
+## Telling Stories in Country Music
+
+As noted in emerging work on country music, there is a reason to think that identity is socially constructed. For instance, that the narrative implicit in country music's aesthetic is used to construct the identity of the modern American Anglo Saxon man [Geoff @mann08; Richard @shus99; Shelbi Nahwilet @meis22a and Bryce Huebner; @gros02; @haye10; @holl19; @hugh15; @wats20b]. While critical theorists also ask similar questions regarding the social construction of the identities of racial minorities, such questions are not always asked in relation to the importance of social identity for inter-relational community. In other words, central to the implicit identities proposed in socio-political imaginaries, are the values that a person holds given their relationship to a given community.
+
+@huan23 proposes including value theory in discussions of ai ethics in music research. Understanding a community's values can be contrasted against the backdrop of calls for diversification and so music research should be oriented to include such discussions. Most importantly, social identity is important in the context of interpersonal community because social identity highlight and reflect back to us, claims about our own values as well.
+
+There are several reasons why we should ask questions about social identity and interpersonal community.^["Olivia [O'Brien] is the queen of lyricism and songwriting. My heart is breaking and I'm crying about something I've never experienced", random YouTube comment.] For instance, we might represent the identity of the members of a given community by representing what the members of that community value. Understanding value in this way may be understanding what objects are emotionally provocative for the members of a given culture.
+
+Martha @nuss01i offers a reflection of Greek tragedy as an exploration of the beauty of human vulnerability and the Greek's recognition of the immeasurable need human beings have for relational community. Human beings, she argues, are political creatures. Addressing the question then of whether relational needs are intrinsic or extrinsic goods, she argues that human beings have a need to participate in public life. In other words, given the nature of a human person, well-being for such, is dependent on their ability to participate in public life and being unable to do so undermines a well-lived life.
+
+In support of this argument, Nussbaum suggests a epistemic ecology that embody a social knowledge of these needs. Accordingly, the project of Greek tragedy she argues, is the expression of the incompleteness of a life without close community and the intention of the tragedy is to invoke these sentiments in the audience. In this way, we recognize what it feels like to be necessarily vulnerable in our dependence on relational goods. Only literary narratives can express this particular vulnerability. Because of this, I argue that Meissner *et al* have offered a plausible example of this type of epistemic ecology expressed in Outlaw country music.
+
+## Literary Narratives and Critical Self-Reflection
+
+Literary narratives are a kind of cultural artifact. There is an aspect in the literature on narrative that focuses on what we can know through narrative. Especially important here is the way we can know ourselves and others through narratives in a way not possible through other kinds of literature [@stum10, 25]. By drawing our focus to Outlaw country music, Meissner *et al* point out the ways in which socio-political imaginaries are embodied in popular entertainment, especially music, and can be identified by a number of features most closely associated with literary narratives. Before exploring the concept they give further, I highlight some alternative propositions first:
+
+::: {.remark}
+Any adequate theory of fiction must accommodate pictorial, as well as literary ones. [@walt90, 75]
+
+Literary narratives, those "devised by single authors who were the creators of that literature" can "come[s] in many forms, from the highly self-conscious artistry of Aeschylean tragedy to the communally produced narratives of folklore" [@stum10, 29]
+:::
+
+Perhaps the most important relationship between narrative and socially constructed identities, is by reference to what contributes to one's own agency. What the above contributions fail to express, are those concepts central to human development, namely relational goods. This includes claims about the sort of person one is in regards to their social values. A consideration about the aesthetic representations of the following questions:
+
+::: {.remark}
+Am I affectionate? Why?
+
+Am I Caring? Why?
+
+Am I Passionate? Why?
+:::
+
+What actions are available to me to be the sort of person that I desire?
+
+## Some Approaches
+
+Here, I begin the approach I promised at the beginning of this paper. I argue that the interplay between biographical and autobiographical narratives is a special kind of agency, that following Paul Goldie, I call narrative agency.
+
+According to this concept of narrative agency then, narrative can be a reflection of who we are, including questions about what values we hold and why. They are questions about our deepest desires and longing in regards to interpersonal community. On this account then, narrative plays a role in us coming to know ourselves and the relation of these facts in a broader context, the all too important relationship between us and our social environments. As mentioned above, there are three kinds of narratives that contribute to a narrative account of personhood. These include autobiographical [@mcad13; @mcad14; @pasu16], biographical, and literary, which I treat here as being the mode of expression for both autobiographical and biographical narrative.
+
+### Dynamic Identity and Constrained Agency
+
+According to Kate McLean and Mohammed Syed, there are three kinds of narratives that contribute to a narrative account of personhood.
+
+Those that are autobiographical (what Maria Schectman calls cultural), those that are biographical (self), and those that are under-explored, the dynamic movement between biographical and autobiographical narratives. I consider the possible contributions of literary narratives to the autobiographical and biographical [@sche24].
+
+Biographical narratives are social. An early concern with conceptualizing identity development in persons, was understanding the contribution one's social environment made towards the development of one's personality. Narrative has offered a way for us to understand this relationship. @mcle15b argue that biographical and autobiographical narratives are important for social identities and that social identity is important for moral responsibility. However, the nature of biographical narratives is important for two reasons. Their relationship to autobiographical narratives, and the nature of social identities, namely, how can biographical narratives undermine or contribute to human agency. A suggestion they consider is called *alternative* narratives. Importantly, McLean *et al* argue that a full account of biographical narratives in human development is undermined when we do not understand the dynamic nature of the relationship between biographical and autobiographical narratives. In lived experience, what are biographical narratives and how do they contribute to one's autobiographical narratives [@mcle15b]? McLean et al argue that alternative narratives can often push back against biographical ones. This is often not noticed except in the lives of those whose narratives deviate from the biographical ones. So one potential approach to exploring biographical narratives, is through a conception of alternative narratives. I suggest that we will begin to better see the connection between literary, biographical and autobiographical narratives. Following this attempt, I ask what contributions do these make in the construction of social identities. McLean et al and Schectman have argued that narratives are a kind of explanatory script. That an individual central to one's formative experiences was a member of the military can explain why that individual joins the military is an example of this script.
+
+One important problem with the narrative account is that only rarely are we able to see the influence of biographical narratives in the development process. In fact, through biographical narratives, we can understand two types of developments. On one side, there are those individuals in a community whose lives resemble the biographical narratives. They potentially have marriages at the times in the narrative when they are supposed to, their educations more closely resemble the narrative arc etc. There are others however whose lives resemble derivations to the narrative arc. McLean here draws our attention to those who are commonly thought of as marginalized including African Americans, women, and non-heterosexual individuals. We could think that her approach is too narrow however, but whether or not it is is irrelevant here.
+
+One approach they take, is in suggesting that individuals who are especially gifted at crafting narrative could have a greater than average ability to influence biological narratives. In this regard we might think of artists, musicians and other entertainment actors who contribute to societal understandings of what it means to belong to a given community. One example they consider includes episodic narratives, such as the influence 911 had in shaping international air travel. At a time when the national conversation centered around what it means to hold a given set of shared values, the country musician Tim McGraw wrote and performed a song about the United States rallying around a cry for revenge. This example could go to show a particularly talented individual influencing a larger narrative. However, this example would ignore the fact that McGraw's ability to distribute this narrative is directly contingent on a complex industry [For instance, see Wendy Laybourn's "The cost of being “real”: black authenticity, colourism, and Billboard Rap Chart rankings".] and its interplay with a modern American public. More telling is considering the when the Chick's labels to cut ties with them.
+
+What are narratives? Eleanore Stump has pointed out the difficulty, if not the impossibility, of giving a second-personal account in expository prose. First, we can *share* an experience. For instance, the experience of sharing a given identity and what it means regarding how one responds to tragedy. We may think that the members of a given culture are especially stoic and as such, their response to tragedy is more subdued than individuals belonging to especially passionate or expressive cultures. The question is what is the source of our understanding that the members of a given culture act in a particular way. Here we are looking for scripts that explain a given event involving an agent. But many scripts are expository at best, possibly disappearing the agent instead.
+
+### Narrative Agency
+
+An important approach for such questions is initially developed by Paul Goldie. Accordingly, the way to understand and answer the above question, is to say that human agency concerns questions about one’s plans for the future and how things might turn out [@gold09]. But Goldie argues that such questions are grounded in whether we are able to have the kinds of desires informed by what we are, which for him, is a question about apt emotional expression. Given that these considerations are often constrained by the sort of things we are, feeling things, as agents, agency is rooted in one's emotional experiences upon a retelling of their life story [@alts21; @vell05; @kors96]. If in the retelling of a given event, an individual experiences regret at something she said, she will be more careful to speak in the future. More specifically, since a narrative can motivate various feelings, for instance of regret [@gold09], or pride, towards actions that one did or did not do, narrative can cultivate agency.
+
+As such, these characteristics can effectively portray the endorsement or rejection of one's past behavior or behaviors. As such, the answer to the above question is dependent on whether we have the capacity for the right desires. Narratives then, are internalized reconstructions of events surrounding moments where an individual behaved in a way they would or would not under normal circumstances endorse. Narrative agency is expressed by subjective emotional evaluation of such events, which taken as a whole, are central to one's understanding of who she is.
+
+As one justifies her dreams for the future, she may first relive some aspects of her past. She may then relay these to herself in narrative form, or she may relive these aspects of her past in narrative form. Understanding one's dreams of the future is often done narratively and such thought processes then are autobiographical narratives.
+
+One difficult aspect of understanding the relationship between narrative and socially constructed identities, is by reference to what contributes to one's own agency. Accordingly, human agency concerns questions about one’s plans for the future and how things might turn out [@gold09]. As one justifies her dreams for the future, she may first relive some aspects of her past. She may then often relay these to herself in narrative form. However, such forms can become clouded with multiple voices. Therefore, while understanding for one's dreams of the future may be done in narrative form, it is important to discern among which voices belong to the narrator in autobiographical narratives, and those that do not, biographical ones. What is the line then, that divides thought processes which are autobiographical from those which are biographical.
+
+### The role of popular culture in constructing social identities {-}
+
+Unless we view rocks having a robust sense of agency in that they possess volitions, we do not typically think that rocks possess the kind of agency that derives from said volition. One view about free human agency then, is to say that one's agented welfare is contingent on whether they are getting what they want [i.e. @hars77] or can endorse what they do. This is because denying another the aims of her desires may have implications for her welfare in the same way a potential agent may fail to endorse actions attributed to her, for instance in cases of slander. Prisoners and slaves may be thought to have diminished welfare because of, among other reasons, the restrictions placed on their human agency. Someone who is the victim of slander, or falsely accused, may fail to endorse actions attributed to her. Further, the victim may experience diminished welfare as a result. This leads to the following claim:
+
+```{.remark}
+* A rich set of resources for characterizing epistemic communities and the embodiment of social knowledge include attributions agency.
+
+```
+
+Naturally, one may think that actions which are plausibly attributable to an agent depend on our conceptions of agency and whether those conceptions can be attributed to a given object. Rocks typically do not get what they want or endorse what they do and therefore rocks do not have a robust sense of agency. In the ante-bellum south, an individual thought to be a slave would have less courses of plausible action available to her than one considered to be free. It would have been difficult to spurn the unchaste advances of the plantation owner in the same way it may have been more difficult for an employee to spurn the immoral advances of their vicious employer, or an SS guard to have a change of conscience and decline military service in Nazi Germany. Therefore the question about social identity is one better construed as a question about agency. For instance, a concept of human agency includes questions about whether one’s behaviors are representative of their first or second order wills. The behaviors of prisoners and slaves are not representative of their first or second order wills. Therefore, prisoners and slaves have reduced agency with respect to non-prisoners or non-slaves and therefore experience reduced welfare.
+
+Because human behavior is largely goal directed, human rationality is a central component in human behavior [@babe07, 107]. This raises questions about whether and to what extent one’s preferences are free and un-coerced [@babe07; @chak24; @khad12a; @mitc18; @know22; @nuss00r]. But these conceptions of agency invoke questions about power dynamics as referenced by the accounts of slaves or prisoners. Importantly, individuals in such accounts avoid moral condemnation given their diminished agency. For instance, some have questioned whether in light of these facts, human agency, namely our preferences, can be "'deformed' by poverty, adverse social conditions and political oppression" [@babe07, 105; @khad12a; @nuss00r; @vici24b]. One way that we can understand and answer the question between humanity and agency is through the recognition that human agency concerns questions about one’s plans for the future and how things might turn out [@gold09].
+
+### Social v Autobiographical Narratives {-}
+
+On the one hand, behavioral scientists have long conceived of mental states as a system of programmatic neuronal impulses and characteristic responses to internal and external stimuli [@brun90]. Cognitive scientists on the other, have sought meaning, attention, and desire as explanatory causes of behavior. Among these explanations, a theory of narrative has emerged. Narrative is an "organizational metaphor that represents the psychological phenomena at the center of interrelated personal, societal, historical, and temporal factors" [@mcle15].
+
+@mcle15 suggests that public, or master narratives are an important component for understanding social identities and what such constructions look like. Importantly here, social identities can be constructed in popular music even if they are not native expressions of one's social standing and belonging [E.g. @mann08]. This is because music is an artifact of popular culture. Often times, the lyrics in songs infer questions of agency wherein a narrator in a song either endorses an action attributed to them, or explains that action in terms of another agent.
+
+They articulate possible ways of defining one's own goals and motivations, for instance a way of belonging to a community and the benefits, desires, and behavioral standards that that entails [Also see, @dyck21]. Human agency in this sense refers to what we think that we ought to desire and how we go about achieving the objects of our desire. A primary point of contention here, is where the two intersect.
+
+### Master Narratives {-}
+
+Psychological narratives of identity include personal or autobiographical, and master narratives, biographical narratives, among others. Personal, or autobiographical narratives are those narratives that can give our lives meaning and add purpose to our daily actions [@book22a; @habe15a; @mcad01]. They are stories that we tell ourselves that consist of how we define our social standing, our motivations and our purposes, what kind of persons we take ourselves to be, and why. More importantly, they chronicle what actions are normative for us by offering explanations or excuses why a given action either is or is not attributable to us.
+
+However, cultural, or biographical (social) sources of identity are not always the same as personal or autobiographical ones. While a cultural source of identity and a personal one may sometimes be compatible, sometimes they are in conflict [@bamb04]. Furthermore, cultural sources of identity can sometimes be harmful to those that are said to in-habit a given identity [@mcle15]. It would seem best practice to think about cultural sources of identity in popular cultural narratives where these are often literary.
+
+One factor that can contribute to personal narratives then, are literary ones which are those that are cultural, social, etc. Social narratives contribute to and help inform psychological states that are "bound together over time by psychological continuity" [@parf87]. Marc @alfa13 has defined them as tools that enable the development of admirable traits. In this way, they can be "[prosthetic devises] that permit us to transcend "raw" biological limits" [@brun90, 34]. Most importantly however, may be understanding them from a cultural perspective. In this case then, narrative "explication is one of a culture's symbolic systems" [@brun90, 34] in that they confirm the meaning we bestow on events, terms, constructs etc.
+
+Understanding the cultural sources of narrative can be important if we hope to locate and improve them in contemporary society. Following @gold09, I argue that a good place to start is in what I call literary narratives and the ways these contribute to the formation of our own goals and desires.
+
+In the literature on country music, a common enough view is that American Anglo-Saxon culture is partially produced by country music [@mann08; @shus99; @gros02; @holl19]. By American Anglo-Saxon culture, what one means are various preferences regarding behavior and common relationship practices including nuclear familial structures and work ethic. Such attributions then, ought to be done with an understanding about human agency.
+
+The possibility that country music produces American Anglo identity infers an additional question, whether music more generally constructs social identity. For instance, consider Plato's fears that poetry can motivate fears of the afterlife undermining courage in an Athenian soldier. This is important in that moral agents have to define their social position and that such positions are defined as cultural and social affiliations. The plausibility that defining one's affiliation with what is said to be Anglo-American culture or African American culture has important implications for moral agency, for instance inferring that country music contributes to a public understanding of whiteness, or the practice of traditional family values as a white (only) virtue, and the practice of non-traditional family values by non-whites (besides Asians) can have implications for public and more importantly, private perception. For instance, normativity of how one conducts family planning being dependent on their race. Together these comprise one's cultural or social identity and so we might think that an African American who is pro-choice is somehow normative while one who is pro-life is not.
+
+Country music then, often plays an important role in forming such identities [@shus99] in that it can depict a practical identity which is important for community pride [@meis22a], holding various moral beliefs as a consequence of one's social identity, or defining what is a set of normative behaviors given one's inclusion in a particular identity construction. However, the question about one’s humanity is an important one as it holds implications for plausible courses of moral action available to a given person. Namely, we should think that actions which are plausibly attributable to an agent depends on our concepts of human agency and whether they can be attributed to a given individual.
+
+## The role of narrative
+
+Our lives are lived narratives of which we are the authors, they are narrative in structure bearing close similarities to literary narratives. Consider the following statement:
+
+::: {.remark}
+Why do we observe passover? We observe passover because we are Jewish
+:::
+
+The identity claim explains the behavioral one. The question here is the relationship between one's identity and one's behavior. Initially, we may very well argue that there is no relationship as such.
+
+::: {.remark}
+**Skeptic:**
+
+> Narrative does not, nor should not, play any significant part in our understanding of our lives, or in living a life.
+:::
+
+Conceptions of narrative: one is agential, call this personal, the other literary
+
+::: {.remark}
+But there is a middle position, narrowing the gulf: narrative thinking
+
+- how do we respond to past and future episodes in our lives?
+
+- through counter factual thought and narrative thinking entails counterfactual thought
+:::
+
+These are thoughts about how our lives might have gone differently, and about our plans for the future and how things might turn out. If I ask myself what I will be doing Friday night, the answer will in part depend on how I identify. If I identity as an observant Jew, then I will be attending Shabbat with my family on Friday.
+
+::: {.remark}
+But what do literary narratives have to do with this?
+:::
+
+#### Option 1 {-}
+
+Jonathan @gilm20 asks how “emotions present their objects across the real-fictional divide? Can imaginings of what is true according to a fiction be justified in the same ways as beliefs about the actual world”? The question is not what literary narratives have to do with behavior, but rather what does identity have to do with how emotions present their objects to us. The answer to this question hinges in part on how we identify ourselves. One way to understand our personal identity concerns justification. How do we justify imaginings of what is true about fictional characters who in other respects, remind us of ourselves?
+
+::: {.remark}
+**Here the question is:**
+
+Do desires exhibit normative continuity?
+:::
+
+Are our desires continuous with what we might think about ourselves? I may think it plausible to desire becoming an Army ranger, however if I do not think of myself as particularly athletic, then such a desire appears irrational and unjustifiable.^[If I do think of myself as particularly atheletic, then certain behaviors, presumably, will follow. It is possible that I participate in various sporting competitions more often than I would if I did not think of myself as atheletic. I might prioritize my time more around expending energy related to physical endeavors. I may pursue an occupation that is more physically demanding, say construction, or professional sports. My identity could very well change in addition. I may once have thought of myself as atheletic, and then perhaps a professor may encourage me otherwise, for instance, to pursue a given academic discipline instead, or I saw the level of competition and realize that I do not think of myself as "that atheletic".] Therefore, it is unlikely that I will fully identity with a fictional character who seems to possess desires that are implausible for me. In other words, how do we justify the right desire according to a fiction? Do we empathize with the poor black kid who sells drugs rather than working hard at Walmart while in community college? If I see myself as a part of a community of people who will admire the child more who works at Walmart to support his family than the one who sells drugs to buy expensive cars, I will likely identify more with characters who work hard.
+
+What connection is there between possible states of affairs and counterfactual desires in narratives then? For instance, subjunctive desires, ones that I may have, or may have had. One way that literary narratives constrain counterfactual desires, is through my coming to know about past events that have a bearing on the constraints for my future desires. Namely what possible courses of action are available to a given person at a given time and determined by a given narrative, and how these facts, plus desires about the kind of person I want to be, can constrain my future behavior. Goldie understands this as a fact about an agent's sense of regret. When a desire is unfulfilled, I may experience regret because of the state of affairs wherein my desires have gone unrealized. However, regret in this way may say nothing about my human agency, because if I think that the fruition of the desire has no bearing on past actions as I perceived them to be available to me, then I experience regret as directed at the situation, but not at my own failure. As such, my regret does not affirm my agency in such cases. However, on the other hand, if I perceive that my unfulfilled desire does have some bearing on some action I did or did not do, then my regret will affirm my human agency. My regret in the moment will motivate future behaviors that I perceive as conducive to my own sense of agency.
+
+If we compare desires to emotions and beliefs, do desires exhibit normative continuity similar to emotions and beliefs? On this view then, what determines the normativity of a desire in a fiction, depends on our identification with the represented desiring agent. Do we desire a lifelong relationship with our high school sweetheart? We will if we identify with others, real or fictional who exhibit such desires.
+
+The satisfaction conditions of both emotions as evaluative representations, when we accept or reject fictional representations as real or authentic, and other representational states [such as beliefs], are given by how the world is. However, the satisfaction conditions of a desire are given not by how things are, but by some state of affairs the desire aims to bring about. Here, there is an important question about counterfactuals and past events. Namely, given what has occurred in the past, what desires are rational for me.
+
+However, the relationship between identification with fiction and behavior is largely unconfirmed. Though there is empirical evidence in favor of the claim that representation is important for behavior, there is also evidence against this claim. As such, this is one possible way in which a research project looking to confirm evidence between literary narratives and behavior can investigate the issue.
+
+\newpage

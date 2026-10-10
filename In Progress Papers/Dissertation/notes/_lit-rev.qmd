@@ -1,0 +1,20 @@
+@gilm20 argues that our emotional responses to a given artwork is made apt via the intentions of the artist.
+
+@mcgr20 argues that moral testimony is no different from observation whereby we often mimic the actions of others, a form of deference.
+
+| -+- | Either MT       | NMt                       |
+|-----+-----------------+---------------------------|
+| Yes | Moral Testimony | apt emotion to fiction    |
+| No  | NMt             | no apt emotion to fiction |
+
+```{r table2, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+tabl <- "
+| Tables        | Are           | Cool  |
+|---------------|:-------------:|------:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+"
+cat(tabl) # output the table in a format good for HTML/PDF/docx conversion
+```
+

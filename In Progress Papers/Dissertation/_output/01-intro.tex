@@ -1,0 +1,856 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\usepackage{setspace}
+\linespread{1.05}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage[lyric]{songs}
+\usepackage{tikz}
+\usetikzlibrary{arrows,calc,patterns,positioning,shapes,decorations.pathmorphing}
+\tikzset{world/.style={circle, draw, minimum size=1cm, fill=gray!15}}
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\usepackage{amsthm}
+\theoremstyle{remark}
+\AtBeginDocument{\renewcommand*{\proofname}{Proof}}
+\newtheorem*{remark}{Remark}
+\newtheorem*{solution}{Solution}
+\newtheorem{refremark}{Remark}[section]
+\newtheorem{refsolution}{Solution}[section]
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+% fallback for those not using the hyperref driver hyperxmp:
+\makeatletter
+\@ifundefined{xmpquote}{\newcommand{\xmpquote}[1]{#1}}{}
+\makeatother
+\hypersetup{
+  pdftitle={01 Introduction},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{01 Introduction}
+\author{}
+\date{}
+\begin{document}
+\maketitle
+
+
+\section{Intro}\label{intro}
+
+My dissertation addresses two central questions for social
+epistemologists: the value of moral testimony and how to appropriately
+respond to morally laden situations in fiction. According to some,
+reliance on moral testimony is untenable. Epistemologists Alison
+{[}@hill09; @hill13; @hill16{]} and Sarah {[}@mcgr09; @mcgr11{]} have
+expressed worries that moral testimony, while potentially valuable,
+should not be acted on making the question one about the possibility of
+{[}moral . Moral actions that are based on moral testimony would have no
+moral worth. However, some of the more plausible explanations share an
+important feature with the second central question. We often expect
+active agency in the context of moral behavior. It is not enough that we
+act rightly, but our actions ought to reflect our understanding
+regarding the correct action. Moral reflection, unlike non-moral
+reflection, however, requires a richer form of understanding involving
+both cognitive and non-cognitive faculties. The right emotion ought to
+accompany our moral action. Like (1), (2) also concerns emotions. We
+have emotions toward fictions, however, these do not always mirror those
+we have in the real world. In some situations, an emotional response to
+fiction is apt though inapt outside of such contexts, e.g., slap-stick
+comedy. The right emotion need not accompany the audience of art.
+Jonathan @gilm21 argues that our emotions towards a given fiction is
+often justified just in case the emotion was the one intended by the
+author. The second problem then concerns the aptness of an expressed
+emotion. In chapter 2, I examine the relationship between fiction and
+the more robust form of moral understanding important for attributions
+of moral worth. I contrast standard epistemological cases with moral
+epistemological ones. Chapter 3 explores philosophical accounts of
+narrative. Following notable optimists in the literature on moral
+testimony, such as Eleanor Stump and Martha Nussbaum, I argue that
+narrative is a potential avenue for achieving affective moral
+understanding. I define affective moral understanding as feeling the
+right way at the right time in response to the right object. The
+philosophy of psychology literature often makes reference to the
+importance of identity for personal agency. It also addresses these
+concerns in moral epistemology regarding the importance of moral
+narratives for the construction of this identity. In chapter 4, I look
+at psychological accounts of narrative. I focus on a class of such
+accounts that draw a connection between narrative understanding and
+human flourishing. Following the psychology literature, I argue that
+human beings are social creatures, and as such, a prime component in
+human flourishing are our relationships with others. Therefore,
+narratives which contribute to our understanding of the importance of
+these relationships in our lives can be tools we use to ensure the
+well-being of those we love. Finally, in chapter 5, I consider whether
+literary narratives central to human flourishing are necessarily
+classical works of literature. The question about apt emotional
+expression and art is often articulated as a form of moral enhancement.
+Art is said to have the ability to make us better persons. For instance,
+Elizabeth Glaskill's ``Mary Barton'' is often credited with motivating
+the expanded public health care and other social goods that the United
+Kingdom provides. However, rarely is popular music discussed. Yet, it is
+likely that a greater proportion of a given population consume popular
+music rather then classical literature. I argue this raises a problem:
+if only classical works are central to human flourishing, then only
+classical works can potentially undermine human flourishing. So I expand
+my investigation to consider a class of non-classical works, namely
+popular narratives. Analyzing these narratives, I develop a model of
+non-classical literary works that satisfy both philosophical and
+psychological accounts of the close connection between narrative and
+human flourishing.
+
+\subsection{The Ethics of Care and Caring
+Audiences}\label{the-ethics-of-care-and-caring-audiences}
+
+In her 1982 book \emph{In a Different Voice}, Carol @gill82 coins the
+term \emph{Ethic of Care}. Gilligan argues women treat moral issues in
+terms of emotional responses. When a care-giver wants to teach the harms
+of bullying, they will often encourage a child to imagine being bullied.
+Moral philosophers since, recognize the importance of empathy in both
+public and private life. Highlighting the centrality of emotional
+expression in moral matters, we revitalize the works of seventeenth
+century sentimentalists, Hume, Hutcheson, Smith, etc. The resurgence
+focuses our attention to classical moral views grounded in empathy. In
+book VIII of the Nicomachean Ethics, Aristotle defines his ideal social
+constitution. He first ranks three types of friendships, the best of
+which he calls \emph{friends of virtue}. Importantly, an individual of
+virtue appreciates the friendship and wishes the best for the friend, a
+desire rooted in empathy. He treats the best kinds of governments
+similarly to the best kinds of friendships.
+
+\begin{quote}
+Friendship and justice seem, as we have said at the outset of our
+discussion, to be concerned with the same objects and exhibited between
+the same persons. For in every community there is thought to be some
+form of justice, and friendship too; at least men address as friends
+their fellow-voyagers and fellow-soldiers, and so too those associated
+with them in any other kind of community.
+\end{quote}
+
+Friendships, between individuals of virtue and civil polity correlate
+with empathy. The psychological phenomenon of empathy, at the foundation
+of the best types of friendships, is also at the heart of the best kinds
+of civil polities.Therefore, resting on an ethics of care account; I
+argue recognizing moral frameworks in fictional narratives enables us to
+acknowledge the importance of the expressions of care and empathy in
+human relationships.\footnote{@slot07; @slot13; @gelf19} Moral
+narratives grounded in philosophical concepts of identity rely on
+constructions of empathy. The familiar story of Jesus weeping at the
+death of Lazarus becomes a story of Jesus weeping with Mary. Through
+empathy, our imagined relationships to depicted characters in fiction
+constrain our emotional expressions in a given context. We weep with
+others when their pain will shortly give way to rejoicing. An ethic of
+care provides us with an ability to understand the importance of
+narrative where other philosophical accounts fail. Now according moral
+sentimentalism, the moral worth of an action depends on the sentiment it
+is grounded in, actions done without the right kind of corresponding
+affect are devoid of moral worth. Some call expressions of empathy
+\emph{moral understanding}. Moral understanding is an affect which
+underlies our moral judgments motivating, accompanying, grounding our
+actions. It can also justify or explain our actions, etc. Accordingly,
+moral narrative is a form of moral testimony which relies on more than
+just our cognitive faculties, knowing right from wrong, but also our
+non-cognitive faculties as well, being motivated by the right affects.
+
+\subsection{Tragedy, Narrative and
+Behavior}\label{tragedy-narrative-and-behavior}
+
+However, the above view would seem to conflict with our standard
+responses to fiction, a phenomenon known as the emotional paradox of
+fiction. We have many varied responses to events in the real world that
+are constrained by certain facts about the real world. We are likely to
+have a great emotional response to the death of a loved one rather than
+the death of a stranger. We will appreciate a cheap trinket from a close
+sibling more than a cheap trinket from a stranger. We will worry more
+for a close son or daughter traveling in an unfamiliar foreign country
+than we will the son or daughter of a neighbor. Fictions often constrain
+our emotional responses in ways dis-analogous to the real world. It may
+take years in the real world to do what fiction can do in several
+chapters. We cry when Jess discovers Leslie's death in Katherine
+Patterson's Bridge to Terabithia. James Hurst's \emph{The Scarlet Ibis}
+teaches us that we can develop empathy for a character even more quickly
+than suggested in novels when Doodle is left to die in a moment of
+adolescent insensitivity. What this means is that while I might
+experience sentimental approval, joy, glee, optimism in one context in
+fictional worlds, I do not necessarily need to have similar experiences
+in similar contexts in the real world to feel similar emotions.
+
+This leads Jonathan @gilm20 to criticize the view that the emotions we
+have towards fiction are of the same kind that we have towards events in
+the real world. It would seem then that there are problems for the view
+that fictions are necessarily sources of the richer form of moral
+knowledge. This makes the use of tragedy to confer such important
+concepts related to valuable human relationships interesting. Tragedies
+are most immediately notable for the conflict in desires they give rise
+to, as expressed by a given moral conflict. The audience also
+experiences a similar moral conflict in their desire to consume the
+tragedy rather than turn away from it. Otherwise known as the paradox of
+tragedy, tragedies contain a feature wherein while we desire that some
+event take place, at the same time, we would not normally desire that
+such an event take place, or we desire that the event doesn't take
+place. In tragedy then, we pursue experiences which conflict with our
+normal dispositions to avoid pain and distress.
+
+Our interest in the tragedy suggests there may be a value that
+supersedes other values associated with the avoidance of pain and
+distress. Tragedy draws us in even though it is a source of emotions
+that we do not want to feel. Some values of tragedy include;
+opportunities to clarify our emotions, intrinsically valuable
+enlightenment about the nature of suffering; a safe experience of
+suffering; and an opportunity to clarify our own human vulnerability.
+Among these values, @gilm20 posits certain kinds of pleasure that may
+mitigate the pain that tragedy causes, e.g.\,some affective stimulation,
+positive or negative in valence, that we desire. It is not clear why the
+value inherent in tragedies needs to be rooted in pleasure however.
+Perhaps the value is rooted in something else, such as moral
+understanding. We can split the possible values into two categories.
+
+\begin{remark}
+Category One, Non-moral: Pleasure (affective stimulation), Opportunities
+to clarify our emotions
+
+\begin{quote}
+\textbf{Category Two, Moral: Intrinsically valuable enlightenment about
+the nature of suffering, a safe experience of suffering, an opportunity
+to clarify our own human vulnerability in light of suffering}
+\end{quote}
+
+\end{remark}
+
+There is much that can be said about suffering, for instance that the
+existence of suffering can be explained by benefits that mitigate the
+suffering. For instance, there is a kind of suffering that we experience
+when reading the story of Job, or the suffering that he experienced.
+Through a narrative account of his suffering, we learn something about
+him. That he was devout and faithful for instance. More importantly, it
+would be one thing to hear that Job was devout and faithful, but a
+narrative about him remaining devout and faithful throughout his
+suffering, gives us a greater appreciation for the depth of his
+faithfulness. One way to understand the relationship between tragedy and
+narrative then, is by understanding how narrative can produce the
+benefits of, for instance, suffering, and it can do this without the
+suffering itself.
+
+There is much that can be said about suffering, for instance that the
+existence of suffering can be explained by benefits that mitigate the
+suffering. For instance, there is a kind of suffering that we experience
+when reading the story of Job, or the suffering that he experienced.
+Through a narrative account of his suffering, we learn something about
+him. That he was devout and faithful for instance. More importantly, it
+would be one thing to hear that Job was devout and faithful, but a
+narrative about him remaining devout and faithful throughout his
+suffering, gives us a greater appreciation for the depth of his
+faithfulness. One way to understand the relationship between tragedy and
+narrative then, is by understanding how narrative can produce the
+benefits of, for instance, suffering, and it can do this without the
+suffering itself.
+
+\subsection{Narrative and Narrative
+Identities}\label{narrative-and-narrative-identities}
+
+Gilmore considers a non-cognitivist evaluative account of the emotions
+wherein there is some way in which our moral judgments are grounded in
+approbation or praise. Initially the concern is whether our cognitive
+moral judgments inform our perceptive responses regarding what emotion
+we experience, or whether the emotion we experience grounds the
+corresponding judgment. It is standard for cognitivists to enforce the
+former while non-cognitivists endorse the latter. According to Gilmore
+however, neither account matters for his view because the emotion that
+we experience in response to a given fiction is not of the same kind as
+those we experience in real life {[}@gilm20, 59{]}. Although I may feel
+fear when walking down a dark alley, I would not feel a similar emotion
+when following a character down a dark alley. This is because in the
+context of fiction, I adopt the phenomenal states of that character,
+experiencing the world in the same way that he does. As such, the
+connection between the more deliberate operations of our cognition, such
+as judgment, and the reactive ones, is not clear. Because of this, it
+may be hard to determine how our reactions are grounded, in what part of
+our cognition they originate. In the following, I argue that identity is
+perhaps a better factor for determining our emotional disposition in the
+context of fiction.
+
+Work on sentiment analysis suggests that moral content in messaging
+plays an instrumental role in cultivating various dynamics supervening
+on, or emerging from emotional states, such as our sense of identity (W.
+J. Brady et al.~2017; W. J. Brady and Crockett 2018; W. J. Brady,
+Gantman, and Bavel 2019; William J. Brady, Crockett, and Van Bavel 2020,
+984). By understanding what gives rise to emotion then, we can better
+understand these dynamics and their associations with human behavior,
+for example group identity, and how it may inform what choices of action
+we decide on (Hopp et al.~2021; gram09?). According to one view of group
+identity, social identity theory, when group identities become highly
+relevant, for instance on social media platforms, emotions are motivated
+in terms of group rather than individual goals (William J. Brady,
+Crockett, and Van Bavel 2020, 987; tajf04?).
+
+Grounded in earlier research at the intersections of language, emotions
+in behavioral and cognitive psychology, psycholinguistics, and the
+behavioral sciences {[}@moha21, 2{]}, work in moral psychology has often
+highlighted the importance of understanding emotion to understand our
+moral intuitions through the emotions instantiated. This project is
+important for understanding a wide range of issues ranging from online
+radicalization to vaccine hesitancy. By extracting and analyzing
+emotional content in messages; narratives; and other forms of public
+discourse, we can better understand how the psychological influences of
+moral judgments affect broader global populations through the emotions
+anticipated in a given text {[}@moha21{]}. Researchers are studying
+sentiment analysis, attempt to discover what emotional states are most
+likely being experienced by the audience of a given narrative. Looking
+at the word count of words associated with positive or negative
+sentiment / valence, and the semantic placement of words associated with
+a given sentiment {[}@rink19{]} is one way to analyze the moral content
+in messaging found in social and traditional media, contemporary
+archives, or Victorian literature.\footnote{@See @alfa22; @osgo57 for a
+  look at some of the historical developments in textual analysis.}.
+Such research helps us to better understand human behavior and our
+decision-making processes by helping us to understand one's attitudes
+towards a given topic. Assuming a given attitude may inform us of
+particular behavioral dispositions. However, these claims are
+contentious. A better method involves understanding those emotions one
+is likely to have based on what communities they belong to.
+
+Work on sentiment analysis suggests that moral content in messaging
+plays an instrumental role in cultivating various dynamics supervening
+on, or emerging from emotional states, such as our sense of
+identity.\footnote{@brad17; @brad18; @brad19; @brad20, 984} By
+understanding what gives rise to emotion then, we can better understand
+these dynamics and their associations with human behavior, for example
+group identity, and how it may inform what choices of action we decide
+on {[}@hopp21; @gram09{]}. According to one view of group identity,
+social identity theory, when group identities become highly relevant,
+for instance on social media platforms, emotions are motivated in terms
+of group rather than individual goals {[}@brad20, 987; @tajf04{]}.
+
+Similarly, there is also evidence that suggests that public moral
+content influences the individual cognitive processes of individuals
+when phrases loaded with moral implications are processed more quickly
+by our cognitive processes\footnote{@hopp21; @brad20; @gant14; @gant16}
+Some individuals argue that this occurs in news reporting, motivating
+research into what emotional states are most likely to be experienced by
+which audiences {[}@haid22{]}. Assuming that we align politically with a
+given party, we may experience more anger when viewing one news report
+as opposed to another. Another branch analyzes the importance of
+personal and public narratives and the roles that these play in identity
+development {[}@mcle15; @mcle15b?; @brun90{]}.
+
+One important aspect for factors that motivate our emotions is found in
+the psychology of personality literature. Here, personal narratives are
+a subjective understanding of how one came to be the person they
+currently are {[}@mcad01{]}. We can infer a person's expected emotion by
+referencing various contextual factors such as one's social group and
+class {[}@tajf04{]}. Much of the research has defined two kinds of
+narratives, master and personal. A master narrative is a script that is
+held publicly by a group of individuals. These are defined as culturally
+shared stories that guide one's beliefs, behaviors, and values
+{[}@bamb04{]}. Accordingly, an individual often shares the values of the
+community she belongs to. These values are defined through her scripts
+which are often indisputable by rational members of a given community,
+for instance the moon landing in 1969 and one's assertion of them
+defines membership in that community. @fivu04 have called these
+immersive socialization processes {[}also see @book22{]} and argue that
+they are socialization processes, a system of human developments that
+includes language, memory, and identity. As a contrast, personal
+narratives are autobiographies which we use to explain how we became the
+person that we are. While there is significant research on both master
+and personal narratives, what is less well known are the cultural
+contexts of personal narratives. Because of the large interplay between
+social scripting, and what one believes about herself, our personal
+narratives often emerge in relation to master ones. However, it is not
+well known how master narratives factor into one's own autobiography.
+Some plausibilities possibilities can include a common example narrative
+about a shared recognition of the value of knowledge and understanding
+held by the members of a particular Russian Jewish community for
+instance. Academic success by one of the members of the community may be
+explained by reference to this shared communal value. Intelligence and
+cognitive ability then is not a surprise outcome but expected. Even more
+importantly here, while master and personal narratives often converge,
+they can also conflict. Not only can they do this in matters of
+traditional cognitive ability, but also moral cognitive ability.
+
+One way to understand the relationship between moral understanding and
+master narrative is provided by @alfa13 in his book Character as Moral
+Fiction. Alfano argues that moral technology is a form of character
+attribution wherein we assert various positive moral traits of a given
+individual regardless of the truth value for such a claim. Importantly
+however, the given trait attribution is not demonstrably false and
+therefore remains a possibility. Because of this possibility, the
+assertion is a placebo which motivates the object to begin believing
+certain facts about themselves. Referring to the fact that there is a
+positive correlation between the story about whether one possesses a
+moral virtue, and associated behaviors stemming from that possibility,
+we might think that positive moral trait attribution is a kind of moral
+testimony wherein one comes to believe certain moral facts about
+themselves and behaves accordingly. However, in relation to a worry by
+epistemologists regarding moral testimony as a source for moral
+knowledge {[}@hill09; @hopk07; @nick01; @enoc14{]}, that we do not have
+any reason to trust it {[}e.g., see @hopk07; @hill09{]}, there may be
+various reasons why one would think that narrative as a form of
+testimony is sufficient for moral knowledge whereas traditional
+testimony is not. To understand why this might be the case, we should
+contrast narratives with what we know about empathy and group identity.
+Our reliance on moral narrative as a guide for our behavior can bestow
+moral justification on our behavior in that we might experience an
+emotional event that motivates a given moral action.
+
+\subsubsection{Moral Testimony}\label{moral-testimony}
+
+Alternative narratives are important in contrast to personal and master
+narratives as they enable an individual to conceptualize their personal
+narrative in contrast to a culturally shared negative one. An individual
+falling under a socially attributed stereotype may believe that certain
+unproductive behavior for them is expected and therefore excused.
+However, another who rejects the broader social organization by
+accepting alternative narratives instead of the master one, may not
+excuse themselves for sub-par behavior. Additionally, alternative
+narratives can change public perceptions mitigating harmful stereotypes.
+For instance, @harr11 argues that we have a similarity bias which is the
+root cause of emotions of empathy {[}Also see @haro03{]}. Harris argues
+that Emily Gaskell's novel Mary Barton, evoked the similarity bias of
+Britain's upper-class by describing the socially poor in London as
+people with similar motives and concerns as the ruling and wealthy
+class, creating empathic relations between the upper and lower classes
+of London. This empathy was central to Britain's expanded social safety
+net.
+
+Corresponding with various group dynamics in regard to the motivations
+for the expression of our emotions, the other concern then, is a
+broader, and perhaps more controversial one. On the relationship between
+art and ethics {[}@gilm20; @stol92; @gaut03; Palmer, Begley, and
+@coe13{]}, a primary point has to do with our emotions in relation to
+fictional contexts, namely when is an emotional experience an apt
+response to a fictional representation. I argue that the intractability
+of these two concerns, which have been up until now considered
+separately, is due to the fact that we do not often consider their
+relation to one another. Drawing on claims regarding the connection
+between narratives and emotional states {[}especially by @nuss85{]}, we
+might ask `what might a morally expressive emotion look like?' Martha
+Nussbaum, Eleonore Stump and Linda Zagzebski have argued that morally
+significant intimate relationships depicted in narratives between two or
+more individuals necessarily involve morally significant emotional
+states. The ways in which these emotional states have moral significance
+vary. For instance, @zazb17 articulates emotions as having objects which
+in the state characterized by that emotion, the object of the emotion
+appears to us as having the property characterized by that emotion.
+Objects which appear admirable to us, motivate us to emulate those
+objects {[}Also see @algo09{]}.
+
+This has implications if, as some have claimed, narratives are important
+for facilitating empathic relationships among individuals by expressing
+the emotional states of the characters in morally appropriate ways. We
+might think, for instance, that emotions can constitute a type of
+perception where we recognize the moral significance of a situation by
+our affective perception of it (M. @nuss85, 521). Henry James (1985)'s
+The Golden Bowl represents such an ethical representation when Maggie
+Verver, for the first time, embraces her husband with an emotion
+commonly reserved for lovers. The artistic engagement is noted by the
+motivations and intentions of the artist. As such, we may think that the
+values associated with e.g., tragedy, are those defined by the author,
+but not intrinsic, or emerging from the work apart from the author's
+intentions. Can we find natural moral content in narratives wherein the
+author hadn't meant to include? Can a narrative cultivate a harmful
+stereotype apart from the author's intentions or does the lack of
+intention negate the harm?
+
+In aesthetics literature, there is debate about whether a work depicting
+a particular event can motivate an emotional state contrary to a similar
+event in the real world. We can call continuitists those who claim that
+narratives are important for facilitating empathic relationships among
+individuals by expressing the emotional states of the characters in
+morally appropriate ways. There are two relevant components of such an
+argument, however. One says that the relations depicted by narratives
+are normatively descriptive of moral {[}@nuss85{]}, or admirable
+{[}@zagz17{]} relations among individuals. However, others may suggest
+{[}@gilm20; @mora94{]}, that such depictions may rest heavily on
+sufficient artistic engagement, or attunement by the artist, and a
+particular sensitivity to the relevant moral issues, noted particularly
+by the motivations and intentions of the artist. They may argue, any
+less literary engagement with these contexts will not sufficiently
+express the complex moral frameworks Nussbaum, Stump and Zagzebski find
+in literature (The View).
+
+This has implications if, as some have claimed, narratives are important
+for facilitating empathic relationships among individuals by expressing
+the emotional states of the characters in morally appropriate ways. We
+might think, for instance, that emotions can constitute a type of
+perception where we recognize the moral significance of a situation by
+our affective perception of it {[}@nuss85, 521{]}. @jame85's The Golden
+Bowl represents such an ethical representation when Maggie Verver, for
+the first time, embraces her husband with an emotion commonly reserved
+for lovers. The artistic engagement is noted by the motivations and
+intentions of the artist. As such, we may think that the values
+associated with e.g., tragedy, are those defined by the author, but not
+intrinsic, or emerging from the work apart from the author's intentions.
+Can we find natural moral content in narratives wherein the author
+hadn't meant to include? Can a narrative cultivate a harmful stereotype
+apart from the author's intentions or does the lack of intention negate
+the harm?
+
+A debate in aesthetic literature might undermine optimism about moral
+testimony through narrative. The discontinuity thesis is the view that
+our emotions in fictional worlds do not need to be continuous to those
+in the real world. Some have claimed that narratives are important for
+facilitating empathic relationships among individuals by expressing the
+emotional states of the characters in morally appropriate ways
+{[}@nuss83; @arpa04{]}. The way we respond to fiction can drastically
+depart from our responses to their real-life counterparts. Our
+affectations can also radically differ and a part of the explanation for
+this is that objects in fictions are presented to us in ways that differ
+from the presentations of their real-life counterparts. The aims of the
+artists determine these framing effects. There is a worry here however
+and one goal of this dissertation is to motivate a different way of
+thinking about narratives which highlights their extra-aesthetic
+properties regardless of the artistic intent behind the work. I will
+propose a sentimentalist account of moral testimony based on narrative.
+In doing so, I will highlight the necessary relationship between moral
+knowledge and narrative. In the end, I will have a better account of
+narrative, one which provides an explanation of what they are and what
+they do. On this viewIn my account, narratives are forms of moral
+communication. They can undermine or build up one's moral knowledge.
+They are moral in that they represent human emotions in the contexts of
+human and human or human and other sentience relationships. Not only do
+narratives cognitively show us what important relationships are like,
+but more importantly they show us what such relationships feel like.
+Such effects are important for moral worth in action. Because of their
+ability to elicit affect, narratives are important sources of moral
+knowledge. A central question to be resolved in the first section is the
+asymmetry problem between moral and non-moral testimony. Optimists argue
+that though it may not always be optimal, moral testimony is an
+acceptable source of moral knowledge. By contrast however, pessimists
+argue that though it can confer knowledge, moral testimony does not
+confer moral worth which can only be obtained through moral
+understanding. As such, moral testimony is useless.
+
+Alongside narratives in literature, there are other disciplines which
+tell us about individuals in communities outside our own. We may read
+the reports of a past explorer and obtain an awareness of various
+propositions about the cultures encountered by them. However, we are
+likely to question the authenticity of a report if we have reason to
+suspect the author has a personal bias coloring the analysis.
+Importantly here is the question of whether it is possible to learn
+about others through narrative.
+
+It is curious that while we may worry about a historian's bias
+corrupting a particular character analysis of a historical figure,
+concern is not similarly expressed regarding a created narrative.
+
+\begin{quote}
+It should be clear that, for my purposes in this book, it does not
+matter whether or not the narratives I examine are revealed. A defense
+is a story that accounts for the existence of God and the existence of
+the suffering in our world and that is not demonstrably false; a defense
+does not need to claim that the reasons it ascribes to God for allowing
+suffering are God's actual reasons, only that they might be God's
+reasons, for all we know. Stump (2010)
+\end{quote}
+
+We may have reason to be concerned with bias regarding Job's account. We
+hear about the Christian virtues of a particular e.g., politician,
+through narrative, and only find out later that this individual was
+hiding a particularly horrific sin. A question that arises then is `what
+are the benefits incurred by our suffering in tragedies?'
+
+\subsubsection{Moral Perception of
+Others}\label{moral-perception-of-others}
+
+\begin{quote}
+It should be clear that, for my purposes in this book, it does not
+matter whether or not the narratives I examine are revealed. A defense
+is a story that accounts for the existence of God and the existence of
+the suffering in our world and that is not demonstrably false; a defense
+does not need to claim that the reasons it ascribes to God for allowing
+suffering are God's actual reasons, only that they might be God's
+reasons, for all we know. {[}@stum10{]}
+\end{quote}
+
+We may have reason to be concerned with bias regarding Job's account. We
+hear about the Christian virtues of a particular e.g., politician,
+through narrative, and only find out later that this individual was
+hiding a particularly horrific sin. A question that arises then is `what
+are the benefits incurred by our suffering in tragedies?'
+
+Perhaps it is because the created narrative requires us to use our own
+imaginations, rather than the imaginations of the narrative's author, in
+order to understand what a historical figure might have been like, how
+they might have perceived the world, what their phenomenological
+responses to events in the world may have felt like. Accordingly, we
+might think that although many facts in the narrative that we were led
+to believe were false, especially those corresponding with the virtue of
+the individual, these in themselves are not important. There are other
+facts, maybe, which are more enduring, such as a story of an individual,
+who if they did possess certain character traits, would have been a very
+admirable person. As such, the important truths conveyed through the
+narrative are hypothetical. If a given individual were to possess some
+particular virtue, then they would perhaps view the world a given way.
+
+Although we may read in the new testament bible that Jesus is God, we
+may think that the new testament also wants to show us that Jesus is
+human. Therefore, upon seeing Mary weep at the death of her brother
+Lazarus, Jesus himself weeps, even though Jesus knows that in just a
+moment, Lazarus will be raised to life {[}John 11:35{]}. He is affected
+emotionally rather than cognitively. Rather than just relying on the
+testimony of the text's author then, we are contributing as much to the
+analysis of Jesus, through our imaginations, as the author.
+
+Attempting to understand narratives as they are, we can come to
+understand the character, what he or she is like, that Job is faithful,
+God is human, a given saint is virtuous. But why should we trust these
+accounts?
+
+Much of what is involved in the representation relies on our own
+imaginative faculties, we can imagine Job sitting on the floor of his
+tent in extreme agony, and then from the foggy recesses of his mind,
+hearing God's voice. We may imagine that it is gentle and nourishing, or
+that it is harsh in its rebuke of Job's accusations against God. As
+such, it does appear that there are some qualifications for
+understanding what an agent is like through narratives. The narrative
+accounts for some proposition related to that agent, that in some sense
+they exist and that certain propositions about them are true. However,
+the particular features of the narrative which act as reasons are
+reasons why a proposition is not demonstrably false rather than true,
+and once again, what is not demonstrably false are the positive
+character attributions directed at a given individual. Once again, we
+should reject this response assuming that we are attempting to attribute
+positive characteristics to demonstrably vicious individuals, such as
+the wayward politician. However there are other ways in which we can
+attribute the important traits of virtue regardless of the virtue or
+vice of the represented person. If the character is an obvious fictional
+character, then it does not seem that we can commit any harm in the ways
+we would if we were to attribute similar traits to those who have,
+unbeknownst to us, committed incredible evil. Another method, however,
+is by attributing these to individuals whose lives existed so deep into
+history that it is questionable whether they ever truly existed. If we
+imagine that Job hears God's voice, this is because it has not been
+communicated in the context of the narrative, that Job does not hear
+God's voice. Job's life, by now, verges on the mythical and if this is
+plausible, then I suppose it's perfectly fine, for mythical humans hear
+God's voice all the time.
+
+\subsection{Caring Audiences}\label{caring-audiences}
+
+Resting on an ethics of care account then {[}@slot07; @slot13;
+@gelf19{]}; I argue that recognizing moral frameworks in fictional
+narratives, begins with the audience empathizing, or desiring to
+empathize with a given character. It begins in the concept of identity.
+Such an ethic is grounded on sentiments of care wherein our imagined
+relationships to depicted characters in fiction constrain our emotional
+expressions in a given context. Michael @slot07 provides a systematic
+account of why more traditional accounts are insufficient for motivating
+our intuitions about why some actions fail to possess moral worth. Moral
+understanding here, is thought of as moral motivation where we have
+various affects which underlie our moral judgments. Such affects
+motivate our actions, accompany our actions etc. According to this
+sentimentalist view, actions done without these corresponding affects
+are devoid of moral worth. As such, what we have then are pessimists
+about moral testimony, mt, optimists about mt, and the sentimentalists
+who can either be thought of as optimists or pessimists with respect to
+moral testimony. Most sentimentalists however are primarily sentimental
+pessimists. Narrative then, is a form of moral testimony which relies on
+more than just our cognitive faculties, but also our non-cognitive
+faculties as well.
+
+What this means is that while I might experience sentimental approval,
+joy, glee, optimism in one context in fictional worlds, I do not
+necessarily need to have similar experiences in similar contexts in the
+real world. Here, what makes an emotional expression apt in regards to
+fiction, is whether or not the audience intends to engage with that
+fiction, and doing so aptly, means experiencing those emotional
+expressions intended by the creator of the work.
+
+If an audience member is unhappy with the emotion prescribed by an
+artist, they can decline engaging with that work of art. Even more
+damning for my argument, is the fact that it is likely that sentimental
+optimists may accept this conclusion. According to them, only some
+literature can be thought of as a source for moral knowledge. This is
+unacceptable. What it leaves is a conclusion that while some literature
+is a source for moral knowledge, it is not necessarily the case that any
+literature undermines one's moral knowledge. For instance, works for the
+intents of pleasure, are not intended for moral knowledge and therefore
+will be unable to undermine moral knowledge. If the work is particularly
+morally problematic, it is not the work, but the audience that is
+culpable. To fix this, I suggest that sentimental optimists classify any
+work which represents human emotion in the context of human other
+relationships as narrative. As such, continuitists and discontinuitists
+have differing conceptions of narrative. As a way to make the two
+commensurable, I suggest we define narrative in such a way that each
+discussant can accept. On a care account, a systematic way to recognize
+moral frameworks in narratives can be modeled on a sentimentalist
+ethics, specifically a care ethic, enabling us to recognize moral
+testimony as a source of moral knowledge in a way other ethical theories
+do not. Such accounts of moral testimony then would necessarily include
+narratives and therefore on an ethics of care account of moral
+testimony, narrative is an important source of moral knowledge not
+recognized in the literature as a kind of moral testimony. In the first
+section, I argue that the asymmetry of moral testimony is really a
+question about whether or not testimony confers morally worthy affective
+states. In the second section, I further expand on this idea using
+literary examples showing the importance of affective states in moral
+reasoning and how without appropriate affect, there is something missing
+in moral action. Because I've shown the importance of affective states
+in moral reasoning, and how narratives are supremely important for
+showing this relation, I continue the following section by looking at
+some more relationships between narratives and morally worthy actions. I
+start by looking at a specific conversation between those who think that
+our emotions towards fictions are governed by the same criteria as our
+emotions towards situations in the real world, and those who disagree.
+Without declaring a side, I continue the next section by further
+highlighting some reasons in favor of each view. In the final section, I
+develop a model which will highlight important aspects of moral
+knowledge in narrative accounts.
+
+\newpage
+
+
+
+
+\end{document}

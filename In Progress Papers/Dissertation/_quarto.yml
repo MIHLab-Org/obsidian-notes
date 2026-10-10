@@ -1,0 +1,34 @@
+project:
+  type: default
+  # A whole-project render only touches the chapters, not notes or review copies.
+  render:
+    - "0*.qmd"
+    - "10-conclusion.qmd"
+
+lang: en-US
+author: "Montaque Reynolds, PhD"
+
+# Every chapter uses @citekeys. Copy your .bib into this folder (or point to it),
+# then remove the "#" from the next two lines.
+bibliography: references.bib
+# csl: chicago-author-date.csl
+
+format:
+  pdf:
+    pdf-engine: xelatex
+    documentclass: scrreprt
+    top-level-division: chapter
+    papersize: letter
+    fontsize: 11pt
+    geometry: margin=1in
+    mainfont: "Cambria"
+    mathfont: "Cambria Math"
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    colorlinks: true
+    link-citations: true
+    callout-appearance: default
+    callout-icon: false
+    keep-tex: true
+    include-in-header: preamble.tex
