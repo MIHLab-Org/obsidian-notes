@@ -2269,10 +2269,242 @@ A virtual reality environment is an
 
 ### Virtual Realism and Virtual Fictionalism
 
+Virtual objects are not illusions, but objects in virtual worlds.
+
+But are they real or fictions?
+
+Virtual fictionalism says that they are fictions, i.e., that virtual reality is fictional reality. E.g., two individuals in Second-Life making plans to attend an event in Second-Life.
+
+
 ---
 
 ### Virtual Digitalism
 
+So what are virtual objects, events etc? They are digital objects. 
+
+> When we encounter an avatar, there’s a digital object in the computer system that corresponds to the avatar. Typically this digital object will be a data structure in the computer, encoding various properties of the avatar (its size, shape, location, clothing, and so on).
+
+1. Virtual objects have certain causal powers (to affect other virtual  objects, to affect users, and so on). 
+2. Digital objects really have those causal powers (and nothing else  does). 
+ 
+
+3. So: Virtual objects are digital objects.
+
 ---
 
 ### Is a Virtual Kitten Really a Kitten
+
+Partly, ~80%
+
+---
+
+# Course Audit
+
+* What is philosophy?
+* What does philosophy do?
+* What are its methods?
+
+note:
+
+Attempts to solve questions that remain illusive to other disciples.
+* purpose of existence, 
+* the nature and sources of knowledge, 
+* the existence (or non-existence) of abstract objects, 
+* the nature of causation, 
+* the subjectivity of aesthetics, 
+* the objectivity of morality.
+
+---
+
+Metaphysicians
+
+* What is the *fundamental* nature and structure of reality?
+
+note:
+	* What exists?
+	* What is causation?
+	* Does time have a direction?
+	* What ensures our identity over time?
+	* Is backward causation possible?
+	* Do we possess free will?
+	* Is the future already set by the past?
+
+---
+
+Epistemologists
+
+* Examining Knowledge
+
+note:
+
+* What is a reasonable belief?
+* What is philosophical disagreement?
+* Is experience a necessary ground for knowledge? Is experience necessary for knowledge?
+* Are everyday beliefs based on probability?
+* Is trusting testimony rational?
+
+---
+
+Examining Value
+
+note:
+
+* Values
+	* Where do moral values come from?
+	* Is there such a thing as moral duty?
+	* Are there moral truths?
+	* Do moral judgments come from moral beliefs or more general desires?
+	* Is morality subjective?
+
+---
+
+## The naturalists of the early 20th century
+
+---
+
+> Now the rebirth of the field of metaphysics in the contemporary era came after a period of disregard, mainly during the ‘positivist era’ of the early 20th century, when it was largely sidelined—due to it being deemed a speculative and unverifiable field by an influential group termed the ‘Logical Positivists’ (Vienna Circle) that included philosophers such as Rudolf Carnap, Hans Hahn, and Otto Neurath, amongst others. . . . . That is, within this era of philosophy, there was a great emphasis placed on the view that the only ‘real’ things are things of sense impressions and objects that are directly observable (or verifiable by direct observation)—and thus knowledge is only limited to past, present, and future alterations of these sense impressions and observable objects.
+
+---
+# Emotivism
+
+## 24.231 Ethics – Handout 3 Ayer’s Emotivism
+
+Emotivism: Moral judgments are not truth-apt, but rather, are expressions of sentiments of approval or disapproval: e.g., saying “Murder is wrong” amounts to saying “Boo to
+murder!”:
+
+---
+
+> “[I]f I say to someone ‘You acted wrongly in stealing that money’, I am not stating
+anything more than if I had simply said, ‘You stole that money.’ In adding that
+this action is wrong, I am not making any further statement about it, I am simply
+evincing my moral disapproval about it. It is as if I had said, ‘You stole that
+money,’ in a peculiar tone of horror, or written with the addition of some special
+exclamation marks. The tone, or the exclamation marks, adds nothing to the
+literal meaning of the sentence. It merely serves to show that the expression of it
+is attended by certain feelings in the speaker.
+
+---
+
+> “If now I generalise my previous statement and say, ‘Stealing money is
+wrong,’ I produce a sentence which has no factual meaning – that is, expresses no
+proposition which can be either true or false. It is as if I had written ‘Stealing
+money!!’ – where the shape and thickness of the exclamation marks show, by a
+suitable convention, that a special sort of moral disapproval is the feeling which is
+being expressed.” (Ayer, “The Emotive Theory of Ethics,” p. 124)
+
+(c) Alfred Jules Ayer. All rights reserved. This content is excluded from our Creative Commons license.
+For more information, see http://ocw.mit.edu/fairuse.
+
+Ayer, A. J. "The Emotive Theory of Ethics." Chapter 10 in Moral Philosophy: Selected Readings. 2nd ed.
+
+Edited by George Sher. Fort Worth, TX: Harcourt-Brace, 1996, pp. 120-128. ISBN: 9780155017559.
+
+---
+
+Ayer’s argument for emotivism:
+
+1. The Verification Principle: A synthetic proposition is meaningful, and hence
+can be true or false, only if it is empirically verifiable. All literally
+meaningful propositions are either analytic – true by definition – or else
+empirically verifiable. (bottom of p. 123)
+
+2.  Ethical statements cannot be translated into statements of empirical fact – that
+is, no natural reduction of ethical concepts is possible. (pp. 122-123) So they
+are not empirically verifiable.
+
+---
+
+3. Ethical statements are synthetic, not analytic – that is, they aren’t true by
+definition.
+4.  Non-cognitivism: Therefore (from 1, 2, and 3) ethical statements are not
+literally meaningful, and can be neither true nor false.
+
+note:
+
+Emotivism is one version of non-cognitivism – Ayer’s preferred version. According to emotivism, to make a moral judgment is to express an emotion. But there are other versions of non-cognitivism (the view that moral judgments are not truth-evaluable propositions), and some of these may avoid some of the worries raised by Ayer’s
+emotivism.1
+
+Another prominent version of non-cognitivism is prescriptivism, according to which moral judgments are really commands, and “murder is wrong” should be understood as equivalent to “don’t murder!” (R.M. Hare was a leading prescriptivist.) More recent non-cognitivists, calling themselves quasi-realists, have tried to develop versions of the view that explain why we are entitled to act as if our moral judgments are truth-apt despite the fact they strictly-speaking aren’t (leading quasi-realists are Simon Blackburn and Allan
+Gibbard).
+
+---
+
+Evaluating Ayer’s argument:
+
+***Premise One***
+
+We might question the Verification Principle. Is it true that only analytic or empirically verifiable statements are meaningful or truth-apt?
+
+---
+
+1. Statements about historical events cannot be verified.
+2. Mathematical statements.
+
+note:
+
+1. It seems like we can think of some synthetic propositions that seem both truth-apt and not empirically verifiable: e.g., there are some species that will never be discovered; Caesar sneezed at noon on the 1st day of the 1st month of 50 B.C.
+2. Mathematical statements might be both synthetic (not true in virtue of meaning) and non-empirical
+
+---
+
+***Premise Two***
+
+Some philosophers (notably Quine) have called into question the legitimacy of the analytic-synthetic distinction on which the principle relies.
+
+note:
+
+1. If we accept that ethical statements are not literally meaningful because they are synthetic and not empirically verifiable, then we’ll also have to judge a lot of other statements as not meaningful or truth-apt: e.g., every event has a cause, or the future will behave like the past...
+	
+---
+
+1. The Verification Principle itself seems to be synthetic but not empirically verifiable. So should we conclude that it is meaningless and not truth-apt?
+2. We might think Ayer assumes to quickly that because we can’t empirically verify ethical statements, and because moral intuitions disagree, there is no reasoned way of disputing about ethics.
+3. Ayer argues against the possibility of naturalistic reductions of ethical concepts by arguing against a few influential attempts at such reductions: two versions of subjectivism and one version of utilitarianism.
+
+note:
+
+He argues that any attempt to reduce normative concepts like “right” to natural ones like “generally approved of” or “approved of by me” or “pleasure-maximizing” fails because is wrongly implies that someone who acknowledges that an act has the natural property in question but denies it has the normative property is contradicting himself. Ayer says that while someone who says “I approve of that, but it’s not right” or “That’s pleasant, but it’s not good” may be making a mistaken moral judgment, he is not contradicting himself, as the subjectivist or the utilitarian would have to say. Ayer is here taking utilitarianism to be a naturalistic meta-ethical theory offering a reductive account of what our moral terms mean: e.g., “right” means “happiness-maximizing”. But many defenders of utilitarianism defend it not as an account of what our moral terms mean, but rather as a first-order account of what makes actions right; such utilitarians needn’t think that “right” means “happiness-maximizing” – rather, they think that all and only those actions that maximize happiness have the (separate) property of being right.
+
+---
+
+Murder is wrong = Boo for murder
+
+note:
+
+1. It’s important to recognize the difference between subjectivism and Ayer’s emotivism: subjectivism might translate “Murder is wrong” as “I disapprove of murder; this is a truth-evaluable statement. Emotivism translates “Murder is wrong” as an emotive expression of the disapproval itself: e.g., “Boo for murder!” ; the statement doesn’t express a proposition and so cannot be true or false.
+
+---
+
+Evaluating Ayer’s emotivism – strengths and worries:
+
+1. We might accept Ayer’s emotivism even if we don’t accept his argument for it. 
+
+---
+
+It might have independent strengths:
+
+1. Appealing since it fits naturalism
+2. Explains link between motivation and moral judgment, i.e., death penalty.
+
+note:
+		 1. Emotivism appeals to many philosophers because it fits into a naturalistic world-view: it doesn’t posit the existence of any non-natural properties like goodness which cannot be empirically discovered. 
+		 2. Emotivism helps explain the apparently strong link between making a moral judgment and being motivated to act accordingly: unlike changes in our other purely descriptive beliefs, a change in someone’s moral beliefs seems on its own enough to predict a change in his motivations (even if we know nothing else about his aims and motivations). Emotivism explains this, since emotions, unlike beliefs, plausibly have motivational force on their own.
+
+---
+
+But emotivism also raises certain worries:
+
+1. We can judge something as wrong even if we are emotionally uninvested.
+2. What about moral disagreement? Why argue?
+
+note:
+
+1. Ayer claims that when we make moral judgments, what we’re doing is expressing our emotional reactions to the thing we’re judging. But it seems possible to judge something is morally wrong without having any emotional reaction to it, or even feeling positive about it. Examples: the “amoralist” – a person who knows what’s right and wrong but doesn’t care – seems imaginable; we’re sometimes amused by other people’s misfortunes even though we know they’re bad (Kasey); children learn to recognize things as right and wrong before the learn the appropriate emotional responses to them (Will).
+2. Ayer has trouble accounting for the apparent prevalence of moral disagreement and dispute – if moral judgments are in fact just expressions of emotion, they can’t contradict each other, and we can’t reason about them, so why argue? Ayer argues that we stop engaging in such disputes once all matters of empirical fact have been settled. Does that seem right? And in any case, it still seems to us, even if we can’t settle our disputes about moral judgments, that we are contradicting each other when, for example, we argue about the morality of abortion. But emotivism has difficulty accounting for that seeming contradiction.
+
+---
+
+1. Finally, our practice of making moral judgments treats such judgments as propositional in a number of ways – 
+	1. we use them in logical arguments and draw inferences from them, 
+	2. we “embed” them in other kinds of statements and use them in un-asserted context. 
+	3. It’s not clear whether the emotivist account of the nature of such judgments can explain why we can do this.
