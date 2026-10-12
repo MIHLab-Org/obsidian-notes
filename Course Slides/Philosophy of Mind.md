@@ -1352,7 +1352,24 @@ and
 > Apart from the studies to be reported here, there have been few, if any, systematic attempts to subject meaning to quantitative measurement. (Osgood, Charles E., George J. Suci, and Percy H. Tannenbaum. 1957. _The Measurement of Meaning_. The Measurement of Meaning. Univer. Illinois Press.)
 
 ---
-# The Nature of Love
+# The Nature of Love and Suffering
+
+---
+
+Connection between moral wrongdoing and some defect of the will. (shame)
+
+Remedy is repairing the will, but sometimes it is not possible for a person's will to change. (In need of paired processes of justification and sanctification, mending psychic fragmentation)
+
+---
+
+But I think empirical evidence that might support this claim can be found here: "Positive emotions also help us to reason in ways that are open-minded, optimistic, and creative. 
+	We have an easier time solving problems that require novel applications of familiar materials (Isen, DAubman, & Nowicki, 1987; Jesse Prinz 2014).  
+
+---
+
+Importantly, I am interested in the importance of friendship for psychological well-being, where this friendship is grounded in union with God. 
+
+---
 
 How do we determine the meaning of concepts like love?
 
@@ -1381,11 +1398,15 @@ It could be related to flourishing:
 However, not all evils violate a person's will.
 	A torture victim might will a slightly less horrendous form of torture. So part of the way someone is diminished by evil is that it makes them acquiesce in their own suffering.
 
+---
+
 Two notions of caring
 	* What we care about
 	* What we are conscious of caring about
 
 > a college athlete who is a runner at some undistinguished small college and who wants very badly to be the best runner his school has ever had. If we ask him whether he wants to be a mediocre runner, he will surely not say 'yes'. (p. 9)
+
+---
 
 Another example
 	the English poet John Milton strongly desired to be politically active "in the Puritan government of his day", but the death of Cromwell was a catalyst in his removal from office. Arguably, being a poet is more indicative of Milton's flourishing than being a minor government official, yet, being a minor government official was the desire of Milton's heart. 
@@ -1394,7 +1415,34 @@ Aristotle, every human being wants to be happy.
 	There is a subjective and objective element to caring about something.
 
 ---
- 
+
+### Being Happy
+ ---
+
+Neuroscience has discovered how closely related our emotions are to our thoughts. They are indistinguishable in our autobiographical memory. (Becoming Good News, Jessie Cruickshank and Julia Schmaltz, 2026).
+
+Some other related materials, Wandering in Darkness, Eleonore Stump 2010, for instance, questions about what we care about may be autobiographical, "And, on the other hand, there is a person's flourishing as the best he can be. 
+
+Being in a flourishing condition is also what a person cares about, even if he does not know what exactly flourishing is for him" p. 9; 
+
+and 
+	"I will argue that presence and closeness of the sort needed for the union of love required internal integration of the psyche 
+. . . 
+	that a self cannot be integrated around just anything; it has to be integrated around the good." p. 109.
+
+---
+
+Defended by this claim: "The main aim of this chapter is the exposition of Aquinas's account of sanctification and justification, which he takes to be the remedies for the psychic sickness whose source is the human propensity to evil." p. 155. 
+
+My interests have largely been moral epistemological. Therefore I am interested in how close friendship is important for moral reasoning, including using reason to discover moral truths and act in morally admirable ways.
+
+---
+#### Response Account of Love
+
+> Love is a response of the lover to qualities he perceives and values in the beloved.
+
+---
+
   1. Love = x $\phi$’s y, 
 	  1. x is $\phi$ with/of/about y
   2. x feels emotion e, towards y, then x believes y to be $\phi$. $[(\exists \phi (x)(y) (Exy \rightarrow Bx\phi y)]$
@@ -1411,23 +1459,31 @@ Is love ever unjustified?
 
 ---
 
-Neuroscience has discovered how closely related our emotions are to our thoughts. They are indistinguishable in our autobiographical memory. (Becoming Good News, Jessie Cruickshank and Julia Schmaltz, 2026).
+Augustinian conception: failure to seek help, possible because of God's grace.
 
-Some other related materials, Wandering in Darkness, Eleonore Stump 2010, for instance, questions about what we care about may be autobiographical, "And, on the other hand, there is a person's flourishing as the best he can be. 
+But what is sanctification?
+	However, willing the good is related to self-love, love with self and with God.
+		higher-order desire to will the good
+		but presupposes general higher-order desire
+	Faith-unites belief and faith
 
-Being in a flourishing condition is also what a person cares about, even if he does not know what exactly flourishing is for him" p. 9; 
+---
 
-and 
-	"I will argue that presence and closeness of the sort needed for the union of love required internal integration of the psyche 
-. . . 
-	that a self cannot be integrated around just anything; it has to be integrated around the good." p. 109.
+1. The will can detest its past wrongdoing and love God's goodness
+2. The will can cleave to its past wrongdoing and reject God's goodness
+3. The will can simply be turned off in regards to its past wrongdoing and God's goodness (will neither refuses nor accepts grace)
 
-But I think empirical evidence that might support this claim can be found here: "Positive emotions also help us to reason in ways that are open-minded, optimistic, and creative. 
-	We have an easier time solving problems that require novel applications of familiar materials (Isen, DAubman, & Nowicki, 1987; Jesse Prinz 2014).  
+---
 
+Activity versus passivity
 
-Importantly, I am interested in the importance of friendship for psychological well-being, where this friendship is grounded in union with God. 
+Frankfurt:
+	So a person's true self is characterized by desires and volitions, that she cares about, what she cares about are things that are active for her.
 
-Defended by this claim: "The main aim of this chapter is the exposition of Aquinas's account of sanctification and justification, which he takes to be the remedies for the psychic sickness whose source is the human propensity to evil." p. 155. 
+---
 
-My interests have largely been moral epistemological. Therefore I am interested in how close friendship is important for moral reasoning, including using reason to discover moral truths and act in morally admirable ways.
+However
+
+* Passivity is in some ways essential to the human experience
+	* Our belief that the sun is yellow depends on sense impressions that we have no control over.
+* Union and presence then also requires passivity, but also activity.
