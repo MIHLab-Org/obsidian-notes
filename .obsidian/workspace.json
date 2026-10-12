@@ -13,28 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "file": "Course Slides/Philosophy of Mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
+              "title": "Philosophy of Mind"
             }
           }
         ]
       },
       {
-        "id": "380db7cff167b97b",
+        "id": "9ab56a28284df41b",
         "type": "tabs",
         "children": [
           {
-            "id": "d3de7f6d856cf919",
+            "id": "486ae3e6b6950de3",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
               "state": {},
               "icon": "slides",
-              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
+              "title": "Preview: Philosophy of Mind.md"
             }
           }
         ]
@@ -244,25 +244,39 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "d3de7f6d856cf919",
+  "active": "486ae3e6b6950de3",
   "lastOpenFiles": [
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094338.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094232.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922093617.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922093148.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922090746.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922085836.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922085333.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images",
-    "export/Introduction to Philosophy --- Fall 2026/Files",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/zoom.esm.js",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/zoom.js",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom/plugin.js",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/zoom",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/search/search.js",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/search/search.esm.js",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/search/plugin.js",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/search",
+    "export/Philosophy of Mind/plugin/zoom/zoom.js",
+    "export/Philosophy of Mind/plugin/zoom/zoom.esm.js",
+    "export/Philosophy of Mind/plugin/zoom/plugin.js",
+    "export/Philosophy of Mind/plugin/zoom",
+    "export/Philosophy of Mind/plugin/search/search.js",
+    "export/Philosophy of Mind/plugin/search/search.esm.js",
+    "export/Philosophy of Mind/plugin/search/plugin.js",
+    "export/Philosophy of Mind/plugin/search",
+    "export/Philosophy of Mind/plugin/reveal-pointer/pointer.js",
+    "export/Philosophy of Mind/plugin/reveal-pointer/pointer.css",
+    "export/Philosophy of Mind/plugin/reveal-pointer",
+    "export/Philosophy of Mind/plugin/menu/README.md",
+    "export/Philosophy of Mind/plugin/menu/CONTRIBUTING.md",
+    "export/Philosophy of Mind/plugin/math/mathjax/README.md",
+    "export/Philosophy of Mind/plugin/math/mathjax/CONTRIBUTING.md",
+    "export/Philosophy of Mind/plugin/math/katex/dist/README.md",
+    "export/Philosophy of Mind/plugin/customcontrols/README.md",
+    "export/Philosophy of Mind/plugin/chart/README.md",
+    "export/Philosophy of Mind/plugin/chalkboard/README.md",
+    "export/Philosophy of Mind/plugin/chalkboard/img/whiteboard.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/sponge.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-white.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-red.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-purple.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-orange.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-green.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-blue.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/boardmarker-yellow.png",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "Course Slides/Philosophy of Mind.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
@@ -271,12 +285,6 @@
     "export/Introduction to Philosophy --- Fall 2026/plugin/customcontrols/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chart/README.md",
     "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/whiteboard.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/sponge.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/chalk-yellow.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/img/chalk-white.png",
-    "Course Slides/Philosophy of Mind.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
     "Notes/Living with and Doing Things with Machines/Living with and Doing Things with Machines.md",
@@ -284,14 +292,6 @@
     "In Progress Papers/Dissertation/00 Dissertation map.md",
     "In Progress Papers/Dissertation/Errors.md",
     "In Progress Papers/Dissertation/notes/Literature Review.md",
-    "In Progress Papers/Dissertation/_archive/README.md",
-    "In Progress Papers/Dissertation/_archive/_main.md",
-    "In Progress Papers/Dissertation/review/Errors.md",
-    "In Progress Papers/Dissertation/Literature Review.md",
-    "In Progress Papers/Dissertation/preamble.tex.md",
-    "In Progress Papers/Dissertation/_quarto.yml.md",
-    "In Progress Papers/Dissertation/---.md",
-    "Notes/Moral Epistemology/Moral Epistemology.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
