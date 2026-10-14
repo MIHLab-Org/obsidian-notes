@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a29f8e25d20568a5",
+        "id": "68b53b479625f9b1",
         "type": "tabs",
         "children": [
           {
-            "id": "bc2d7d412d720237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/Moral Imagination and Hope Laboratory/📋 Jobs Database — Montaque Reynolds/Active Job Applications/Active Job Applications/St. Mary's College/Job Materials/Transcripts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transcripts"
-            }
-          },
-          {
-            "id": "2ddad423cc6da73b",
+            "id": "c553222833ab79b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Introduction to Philosophy --- Fall 2026"
             }
-          },
-          {
-            "id": "b446eb53175df641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Rational Decision Theory/SEP-Rational Decision Theory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SEP-Rational Decision Theory"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -231,18 +202,6 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:Import notes": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
-      "slides-extended:Show slide preview": false,
-      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,
@@ -254,57 +213,69 @@
       "tasknotes:Create new task": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "pdf-highlight-notes:Import PDF files": false,
-      "pdf-highlight-notes:Highlight selection in PDF": false
+      "pdf-highlight-notes:Highlight selection in PDF": false,
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "slides-extended:Show slide preview": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "c553222833ab79b3",
   "lastOpenFiles": [
-    "Course Slides/Philosophy of Mind.md",
-    "Notes/Rational Decision Theory/SEP-Rational Decision Theory.md",
-    "Notes/Rational Choice Theory",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "Notes/Moral Epistemology/Moral Epistemology.md",
-    "Notes/Moral Epistemology",
-    "In Progress Papers/Dissertation/review/Report 2  - Social Identity and Music.pdf",
-    "In Progress Papers/Dissertation/review/Report 1 - Social Identity and Music.pdf",
-    "In Progress Papers/Dissertation/review/Errors.md",
-    "In Progress Papers/Dissertation/review",
-    "In Progress Papers/Dissertation/references.bib",
-    "In Progress Papers/Dissertation/notes/_lit-rev.qmd",
-    "In Progress Papers/Dissertation/notes/Literature Review.md",
-    "In Progress Papers/Dissertation/notes/Bibliography report.md",
-    "In Progress Papers/Dissertation/notes/Bibliography checklist.xlsx",
-    "In Progress Papers/Dissertation/notes",
-    "In Progress Papers/Dissertation/_archive/_main.md",
-    "In Progress Papers/Dissertation/_archive/README.md",
-    "In Progress Papers/Dissertation/00 Dissertation map.md",
-    "Notes/Living with and Doing Things with Machines/Living with and Doing Things with Machines.md",
-    "Notes/Gabrielle Taylor/VIII. Love or Presence.md",
+    "In Progress Papers/RealityCraft/RealityCraft.md",
+    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
     "Course Slides/Personal Identity/Personal Identity.md",
-    "Notes/Susan Langer/Susan Langer.md",
-    "MIHLab Database/RealityCraft/RealityCraft.md",
-    "MIHLab Database/RealityCraft/Logs.md",
-    "From Zotero/rade54.md",
-    "From Zotero/lang07.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Required Texts.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Description.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Introduction to Philosophy.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Information.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Summary Introduction to Philosophy.md",
-    "Files/Official Teaching Portfolio/Montaque Reynolds, Cover Letter.md",
-    "Files/Official Teaching Portfolio/Montaque Reynolds, CV.md",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/whiteboard.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/sponge.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-yellow.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-white.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-red.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-purple.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-orange.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-green.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-blue.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/boardmarker-yellow.png",
+    "In Progress Papers/RealityCraft",
+    "Course Slides/Philosophy of Mind.md",
+    "Notes/Rational Decision Theory/SEP-Rational Decision Theory.md",
+    "export/Philosophy of Mind/plugin/zoom/zoom.js",
+    "export/Philosophy of Mind/plugin/zoom/zoom.esm.js",
+    "export/Philosophy of Mind/plugin/zoom/plugin.js",
+    "export/Philosophy of Mind/plugin/zoom",
+    "export/Philosophy of Mind/plugin/search/search.js",
+    "export/Philosophy of Mind/plugin/search/search.esm.js",
+    "export/Philosophy of Mind/plugin/search/plugin.js",
+    "export/Philosophy of Mind/plugin/search",
+    "export/Philosophy of Mind/plugin/reveal-pointer/pointer.js",
+    "export/Philosophy of Mind/plugin/menu/README.md",
+    "export/Philosophy of Mind/plugin/menu/CONTRIBUTING.md",
+    "export/Philosophy of Mind/plugin/math/mathjax/README.md",
+    "export/Philosophy of Mind/plugin/math/mathjax/CONTRIBUTING.md",
+    "export/Philosophy of Mind/plugin/math/katex/dist/README.md",
+    "export/Philosophy of Mind/plugin/customcontrols/README.md",
+    "export/Philosophy of Mind/plugin/chart/README.md",
+    "export/Philosophy of Mind/plugin/chalkboard/README.md",
+    "export/Philosophy of Mind/plugin/chalkboard/img/whiteboard.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/sponge.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-white.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-red.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-purple.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-orange.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-green.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-blue.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/CONTRIBUTING.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/math/katex/dist/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/customcontrols/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/chart/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
+    "Notes/Living with and Doing Things with Machines/Living with and Doing Things with Machines.md",
+    "In Progress Papers/Dissertation/notes/Bibliography report.md",
+    "In Progress Papers/Dissertation/00 Dissertation map.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
