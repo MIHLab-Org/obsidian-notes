@@ -1,48 +1,41 @@
----
-title: Cognitive Homelessness and Maximizing the Unexpected
-Author: Montaque Reynolds
----
-#planningformistakes 
-#wandering
+#### Response Account of Love
 
-Philosophers are often concerned with normative questions about how people should decide to act rather than descriptive ones about how they in fact do decide to act. However, normative decision theory cannot always guide us through important decisions (LA Paul 2015a; 2015b; Carter 2026). An opaque decision problem represents the situation of an agent who must decide what to do while being (potentially) uncertain about their own credences. When confronted with personally transformative decisions, we often have imperfect access to our own epistemic states (cf. Jackson 1991; Howard-Snyder 1997; Lenman 2000). This results in us having uneven evidence in that our confidence towards genuine personal states of value are often higher than our confidence towards illusory personal states of value (Lasonen-Aarnio 2015; Salow 2018; Isaacs and Russell 2023). Therefore, in such cases, it is often easier to be confident that we are in love, when we are in fact in love, than it is to be confident that we are out of love, when we are in fact, not in love. While however, such decisions may not be practically decided on, being in love versus not being in love, they may be narratively decided on (Rust 2025). Using Stump 2010, I will argue that a rational decision theory then may be improved by a narrative decision theory of rational choice.
+> Love is a response of the lover to qualities he perceives and values in the beloved.
 
-Normative decision theory cannot always guide us through important decisions (LA Paul 2015a; 2015b; Carter 2026). 
+  1. Love = x $\phi$’s y, 
+	  1. x is $\phi$ with/of/about y
+  2. x feels emotion e, towards y, then x believes y to be $\phi$. $[(\exists \phi (x)(y) (Exy \rightarrow Bx\phi y)]$
+	  1. For some quality $\phi$
+	  2. *x* Believes of *y* that *y* possesses quality $\phi$.
+  3. if x feels the emotion in question towards some object y then x believes y to have some determinate quality $\psi$, which normally but not necessarily he will be able to specify: $[(x)(y)(\exists \psi)(Exy \rightarrow Bx\psi y)]$ 
+  4. 1-3 are necessary but not sufficient conditions. Justification of e is also needed.
 
-When confronted with personally transformative decisions, we often have imperfect access to our own epistemic states (cf. Jackson 1991; Howard-Snyder 1997; Lenman 2000). 
+Is love ever unjustified? 
+  1. if x loves y then x wants to benefit and be with y etc. Because x believes y has some determinate characteristics $\psi$ in virtue of which he thinks it worth while to benefit and be with y.
+  2. Justification (i) the belief that y is $\psi$ may be well- or ill-founded. (ii) the distinction between want and wish is that want is accompainied by the belief that the object is obtainable. (iii) one can be mistaken in attaching the value he does to what he wants.
 
-This results in us having uneven evidence in that our confidence towards genuine personal states of value are often higher than our confidence towards illusory personal states of value (Lasonen-Aarnio 2015; Salow 2018; Isaacs and Russell 2023). 
+Augustinian conception: failure to seek help, possible because of God's grace.
 
-While however, such decisions may not be practically decided on, being in love versus not being in love, they may be narratively decided on (Rust 2025). 
+But what is sanctification?
+	However, willing the good is related to self-love, love with self and with God.
+		higher-order desire to will the good
+		but presupposes general higher-order desire
+	Faith-unites belief and faith
 
-Using Stump 2010, I will argue that a rational decision theory then may be improved by a narrative decision theory of rational choice.
-	At the center of this debate is the fact that we do not always have the access to our own states and that many decisions require such access. Sam Carter in his recent paper Planning for Mistakes argues that expected utility theories fail for a class of decision problems called opaque decision problems. However, we might think that a narrative use, e.g., of video games, more directly illustrates the problem of uneven evidence in rational choice theory. I argue that Eleonore Stump develops a normative theories of rational choice that is based on narrative-self accounts of personal identity. Analytic philosophy becomes too narrow and myopic, and excludes “complex, nuanced thought, behavior, relations of persons” (Stump 2010, 23). In this account, she distances her view from more standard ones in rational choice theory. I contrast her account of narrative thought with a more recent approach in rational choice theory. I argue that a narrative self-account of rational choice might include narrative worlds by using possible worlds logic in place of possible outcomes of expected utility theory. In doing so, I attempt a rational decision formula that is both philosophically rich and illuminating.
+1. The will can detest its past wrongdoing and love God's goodness
+2. The will can cleave to its past wrongdoing and reject God's goodness
+3. The will can simply be turned off in regards to its past wrongdoing and God's goodness (will neither refuses nor accepts grace)
 
-How do we decide what to do? Decision theory proposes an answer.
+Activity versus passivity
 
-Decision theory derives from a long tradition in consequentialism “If, then, there is some end of things doable in action that we wish for because of itself, and the others because of it” [Nichomachean Ethics Bk I, chapter 2]. The implication here is that we should always choose to do that action that we believe will produce the most value. However, “doing whatever will provide the most value” has been criticized [See Lewis, 1981; also see Carter; 2025; Gallow 2021; and Isaacs *et al* 2023; also see Smith 2010.]. It is argued that we do not have access to the world in a way that would allow us to follow through on our plans to maximize value (especially see, Gallow, J. Dmitri. 2021. “Updating for Externalists.” _Noûs_ 55 (3): 487–516. [https://doi.org/10.1111/nous.12307](https://doi.org/10.1111/nous.12307).). Lewis makes a distinction between causal and noncausal approaches to decision making. Noncausal rational choice theories do not make mention of an agent's credences as a factor in their decision making. Orthodox theory, attempts to improve on decision theory. We should do whatever action has the most expected outcome (Williamson 2000;2011, cf. Srinivasan 2015; LasonenAarnio 2019;2024; Lasonen 2025;2026; Hughes 2021). In other words, decision theory advices that whatever we decide, that when we act, we should act in a way that maximizes our utility (See Brian Skyrms, “Causal Decision Theory,” _The Journal of Philosophy_ 79, no. 11 (1982): 695–711, [https://doi.org/10.2307/2026547.)](https://doi.org/10.2307/2026547.); also see Isaacs and Russell 2023) or perform the action that leads to the outcome with the most expected value.
+Frankfurt:
+	So a person's true self is characterized by desires and volitions, that she cares about, what she cares about are things that are active for her.
 
-In following this course of action, we will often make mistakes however. Sometimes it may be because we are uncertain about which acts, out of those available to us, will have the best outcome. There are various reasons why such access is unavailable. Most notably, this kind of evidence is absent when a value state would be experienced by another who is not us. For instance, historically, human beings have often struggled with attributing the mental states they experience, to other human beings. This is because we are rarely certain about the world around us. We are sometimes unaware of other persons who inhabit the world with us, but even more importantly, we are unaware of who these persons may be. For instance, we also struggle with attributing a certain set of values to future versions of ourselves. Therefore, as the objection goes, our imperfect epistemic access to the state of the world imposes limits on our ability to follow Maximize Expected Value” (Carter 2026, 2; cf. Jackson 1991; Howard-Snyder 1997; Lenman 2000). Our failure to achieve knowledge of other minds, even our own, is an example of this.
+However
 
-In summary, Orthodox decision theory recommends acting in a way that maximizes actual or expected value. However our credences with regard to what we value, are opaque and therefore we cannot identify those acts which maximize actual or expected value (Carter 2026; Williamson 2000;2011, cf. Srinivasan 2015; Lasonen-Aarnio 2019;2024; Lasonen 2025;2026; Hughes 2021). Some decisions require such access however. I first look at recent attempts to save maximize value. I then defend a narrative self account of rational choice.
-
-One specific problem in rational choice theory, is the fact that we are often wrong about our priorities.
-
-We might follow some plan of action, only to find out that the promised outcome is not what we desired after all. Such mistakes in judgment then, stem from failures to recognize our own priorities. We call these opaque decision problems. In other words, they stem from errors in judgment about ourselves. There are many versions of this concern. For instance, let’s imagine that on the basis of a coinflip, we will either be shown a genuine or a counterfeit Rothko. If we are shown the counterfeit but not the genuine version, we would be less certain about questioning its authenticity, since we would have no reason to question the authenticity of the fake Rothko having no belief about the real one. Therefore we assign equal credence to either possibility, that the one we will bid on is real and the one we do not know about is fake or vice versa. Therefore, we might mistakenly think that upon looking at a counterfeit Rothko, that we desire to bid on the counterfeit Rothko rather than a genuine one.
-
-According to some, whether or not these mistakes are avoidable is an open question. This is because of the plausibility that a key kind of evidence necessary to make correct judgments about ourselves, is not a part of the set of evidence that we have. There are two versions of this case however. In the Rothko case, we would have more reason to question whether one or the other is genuine, assuming that we have each of them before us versus if we only see one, then we would have less reason to question whether there is another one that exists somewhere else. 
-
-What this means is that in the Rothko case, we have no reason to assume that the one we are bidding on is a counterfeit since it is the only one. This shows a different version of the problem, where we have no reason to value a different state of affairs since there is only one. The kind of common mistake that we make, which is important for Stump’s thesis, is that an opaque decision problem with respect to decision theory concerns special personal relationships. If we are confronted with two alternative versions of ourselves, then we would have more reason to question whether one, rather than the other, is genuine. Stump argues that narratives give us reason to question whether one life, rather than any other, is genuine. I think that the best example of this fact can be represented with the following lyric excerpts from the songs “By Yourself” by Tyrone Griffin Jr (Ty Dollar $ign Diggs) and “Rich and Sad” by Austin Richard Post (Post Malone).
-
-Imagine that the following represents: Doing whatever has the most expected value for a given agent
-
-- “Stacked my bread and bought my own Mercedes (Vroom, vroom). I’m my own boss, do it my way (Way)
-
-and then getting it wrong
-
-- “All this stuntin’ couldn’t satisfy my soul (–oul), Got a hundred big places, but I’m still alone (–one)”
-
-Given our susceptibility to error, it is then important to show which framework works best for evaluating advice.
+* Passivity is in some ways essential to the human experience
+	* Our belief that the sun is yellow depends on sense impressions that we have no control over.
+* Union and presence then also requires passivity, but also activity.
 
 Step 1
 
@@ -118,6 +111,8 @@ According to $P$, an agent’s susceptibility to error at $s$, relative to $\pi$
 $\sum\limits_{\substack{s' \in S \\ \pi(s)\neq\pi(s')}}P([s']|s)$
 
 **Stunted Soul** and **Stackin’ Cars**.
+
+Using Stump 2010, I will argue that a rational decision theory then may be improved by a narrative decision theory of rational choice.
 
 - “Stacked your bread and bought your own Mercedes (Vroom, vroom). You your own boss, do it your way (Way)
 - “All this stuntin’ couldn’t satisfy my soul (–oul), Got a hundred big places, but I’m still alone (–one)”

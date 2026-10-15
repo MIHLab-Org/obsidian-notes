@@ -1358,6 +1358,7 @@ Can we have one without the other?
 
 ---
 Using Stump 2010, I will argue that a rational decision theory then may be improved by a narrative decision theory of rational choice.
+
 ---
 
 Connection between moral wrongdoing and some defect of the will. (shame)
