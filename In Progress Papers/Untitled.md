@@ -33,6 +33,8 @@ Note: the structure is inferred from the abstracts and front matter of these pap
 * Processing Mode Theory: Emotions can be identified with such systematic changes in faculties of attention, memory, and reasoning.
 	* Oatley and Johnson-Laird (1987) argue that the processing mode theory applies to an important set of emotions, including anger, anxiety, happiness, and sadness (also see Sizer 2000 for a processing mode theory of models.).
 
+Shame and friendship, friendship and fortitude
+
 **Authors.** \[Names, affiliations\]. For student co-authors, add a CRediT contribution statement in the appendix.
 
 **Abstract (150–250 words, five moves, one to two sentences each):**
