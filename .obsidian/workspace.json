@@ -4,58 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "a29f8e25d20568a5",
+        "id": "6c707ff4c45a2ce6",
         "type": "tabs",
         "children": [
           {
-            "id": "2ddad423cc6da73b",
+            "id": "89c06a9336237b60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "file": "In Progress Papers/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
-            }
-          },
-          {
-            "id": "b446eb53175df641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "06459668aada3f90",
+        "id": "450c46d22fc57f45",
         "type": "tabs",
         "children": [
           {
-            "id": "db59323b294a2937",
+            "id": "13906013b98c29a9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
-                "page": 1,
-                "left": -38,
-                "top": 795,
-                "zoom": 0.45955882352941174
+                "file": "Course Slides/Philosophy of Mind.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd"
+              "icon": "lucide-file",
+              "title": "Philosophy of Mind"
             }
           }
         ]
@@ -92,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -198,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Slides/Philosophy of Mind.md",
+                "file": "Scope and Purpose.md/Scope and Purpose.qmd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,18 +222,6 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:Import notes": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
-      "slides-extended:Show slide preview": false,
-      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,
@@ -262,11 +233,27 @@
       "tasknotes:Create new task": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "pdf-highlight-notes:Import PDF files": false,
-      "pdf-highlight-notes:Highlight selection in PDF": false
+      "pdf-highlight-notes:Highlight selection in PDF": false,
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "slides-extended:Show slide preview": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "db59323b294a2937",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "Course Slides/Philosophy of Mind.md",
+    "In Progress Papers/Untitled.md",
+    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
+    "Courses Database/Meta/Assignment Descriptions/Game Sessions.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
@@ -274,44 +261,41 @@
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.tex",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files/mediabag",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files",
-    "Course Slides/Philosophy of Mind.md",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.pdf",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.log",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.aux",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.tex",
+    "export/Philosophy of Mind/plugin/menu/README.md",
+    "export/Philosophy of Mind/plugin/menu/CONTRIBUTING.md",
+    "export/Philosophy of Mind/plugin/math/mathjax/README.md",
+    "export/Philosophy of Mind/plugin/math/mathjax/CONTRIBUTING.md",
+    "export/Philosophy of Mind/plugin/math/katex/dist/README.md",
+    "export/Philosophy of Mind/plugin/customcontrols/README.md",
+    "export/Philosophy of Mind/plugin/chart/README.md",
+    "export/Philosophy of Mind/plugin/chalkboard/README.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "In Progress Papers/RealityCraft/RealityCraft.md",
-    "In Progress Papers/RealityCraft",
-    "Notes/Rational Decision Theory/SEP-Rational Decision Theory.md",
-    "Notes/Rational Choice Theory",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "Notes/Moral Epistemology/Moral Epistemology.md",
-    "Notes/Moral Epistemology",
-    "In Progress Papers/Dissertation/review/Errors.md",
-    "In Progress Papers/Dissertation/notes/Literature Review.md",
-    "In Progress Papers/Dissertation/notes/Bibliography report.md",
-    "In Progress Papers/Dissertation/_archive/_main.md",
-    "In Progress Papers/Dissertation/_archive/README.md",
-    "In Progress Papers/Dissertation/00 Dissertation map.md",
-    "Notes/Living with and Doing Things with Machines/Living with and Doing Things with Machines.md",
-    "Notes/Gabrielle Taylor/VIII. Love or Presence.md",
     "Course Slides/Personal Identity/Personal Identity.md",
-    "Notes/Susan Langer/Susan Langer.md",
-    "MIHLab Database/RealityCraft/RealityCraft.md",
-    "MIHLab Database/RealityCraft/Logs.md",
-    "From Zotero/rade54.md",
-    "From Zotero/lang07.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Required Texts.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Description.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Introduction to Philosophy.md",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/whiteboard.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/sponge.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-yellow.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-white.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-red.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-purple.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-orange.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-green.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-blue.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/boardmarker-yellow.png",
+    "Notes/Rational Decision Theory/SEP-Rational Decision Theory.md",
+    "export/Philosophy of Mind/plugin/chalkboard/img/whiteboard.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/sponge.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-white.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-red.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-purple.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-orange.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-green.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-blue.png",
+    "export/Philosophy of Mind/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/CONTRIBUTING.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/math/katex/dist/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/customcontrols/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/chart/README.md",
+    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
