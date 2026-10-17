@@ -11,5 +11,6 @@
   "text-extractor",
   "obsidian-extract-pdf-highlights",
   "pdf-highlight-notes",
-  "pdf-plus"
+  "pdf-plus",
+  "quarto-exporter"
 ]

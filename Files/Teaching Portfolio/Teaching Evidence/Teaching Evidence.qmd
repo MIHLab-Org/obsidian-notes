@@ -1,0 +1,53 @@
+---
+title: "Evidence of Teaching"
+author: Montaque Reynolds, PhD
+
+---
+#### Stetson University 2025-Present
+
+I joined the faculty at Stetson University in Fall of 2025. I teach a 4/4 teaching load with between 15 and 28 students per course. I currently hold an above average teaching evaluation out of about 95 evaluations. In Fall 2025, I taught two 100 level logic courses, and a 300 level course in aesthetics, in Spring 2025 I taught two courses of Value, Meaning and Humanity's place in the world, one 100 level logic course and a 300 level course in the philosophy of law and one asymmetrical intro to philosophy course in Summer 2026. My summer course was unique in that all the assignments required the students to work in the space simulation open-world game Elite Dangerous and focused on questions of cognition, knowledge and beliefs. Fall 2026 I am teaching three intro courses and one 300 level philosophy of mind course and I will be teaching intro and a 300 level course in personal identity in Spring 2027. For my intro courses in Fall 2026, we set up a Minecraft server and are running embodied llm agents in the server to perform various experiments uses Dave Chalmers' book Reality+.
+
+![[Summer-2026-Stetson-Evals.png]]("Summer-2026-Stetson-Evals.png")
+
+![[Fall-Spring-25-26-Stetson-Evals.png]]("Fall-Spring-25-26-Stetson-Evals.png")
+
+#### Saint Louis University
+
+Some notable outcomes: 100% of students surveyed agreed or strongly agreed that class discussions
+and activities supported their learning while 83% of students surveyed agreed or strongly agreed that
+assignments and homework supported their learning in the course. 83% of students similarly to
+exams and quizzes.
+
+![[Fall-2023-SLU-Evals.png]]("Fall-2023-SLU-Evals.png")
+
+![[Spring-2024-SLU-Evals.png]]("Spring-2024-SLU-Evals.png")
+
+#### Example Course Syllabi
+
+### Intro to Philosophy
+
+In this course we use David Chalmers' book *Reality+: Virtual Worlds and the Problems of Philosophy* to look at questions humans have been asking for thousands of years. While the primary focus of the book is one question in particular — "Are we in a simulation?" — we use that question to frame others:
+
+- What does it mean to know that the sky is blue?
+- Is murder really wrong?
+- How did I come to know that murder is wrong?
+- What is real?
+- Can a virtual world be a real world?
+
+We will not only look at contemporary issues about AI and simulation theory, but will also examine how philosophers of the past posed and attempted to answer these questions. In doing so we will explore epistemology (theory of knowledge), metaphysics (the nature of reality), philosophy of mind, and ethics.
+
+A primary objective of this course is to teach students how to construct good arguments and how to assess the arguments of others.
+
+This summer section uses **Elite Dangerous** as a philosophical laboratory. Three structured experiments — completed outside class during assigned windows — test Chalmers' arguments directly: you will navigate permadeath, disable your HUD on atmospheric entry, and manipulate mission stakes to examine whether virtual experience, cognition, and emotion are genuine.
+
+| Assignment                                       | Points      |
+| ------------------------------------------------ | ----------- |
+| Weekly Reflections (best 5 of 7, 8 pts each)     | 40 pts      |
+| Pilot Assessment Write-Up                        | 20 pts      |
+| Experiment 1 — Death and Permadeath              | 40 pts      |
+| Experiment 2 — Extended Cognition                | 40 pts      |
+| Experiment 3 — Risk, Respawn, and Moral Emotions | 40 pts      |
+| Reflective Analysis (80 pts)                     | 80 pts      |
+| Essay (40 pts)                                   | 40 pts      |
+| Attendance                                       | 20 pts      |
+| **Total**                                        | **320 pts** |

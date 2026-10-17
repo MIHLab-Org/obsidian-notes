@@ -4,43 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e0fa85a96020c2",
+        "id": "f2ef1f641761dcd1",
         "type": "tabs",
         "children": [
           {
-            "id": "f251d2e10fcbd8ef",
+            "id": "280b098cad904119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses Database/Meta/Assignment Descriptions/RealityCraft.md",
+                "file": "Files/Teaching Portfolio/References/References.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RealityCraft"
+              "title": "References"
             }
           }
         ]
       },
       {
-        "id": "05d883fe92e4e353",
+        "id": "57cbe4830b6b401d",
         "type": "tabs",
         "children": [
           {
-            "id": "ece6493d73e27e9a",
+            "id": "b9c86c66f9fccf77",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Courses Database/Meta/Assignment Descriptions/RealityCraft.pdf",
-                "page": 4,
-                "left": -22,
-                "top": 26,
-                "zoom": 0.6924019607843137
+                "file": "Files/Teaching Portfolio/References/References.pdf",
+                "page": 1,
+                "left": -26,
+                "top": 796,
+                "zoom": 0.6041666666666666
               },
               "icon": "lucide-file-text",
-              "title": "RealityCraft"
+              "title": "References"
             }
           }
         ]
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 344.07811737060547
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -250,53 +250,53 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "f251d2e10fcbd8ef",
+  "active": "280b098cad904119",
   "lastOpenFiles": [
-    "Courses Database/Meta/Assignment Descriptions/RealityCraft.pdf",
-    "Courses Database/Meta/Assignment Descriptions/RealityCraft.md",
-    "Courses Database/Meta/Assignment Descriptions/RealityCraft.log",
-    "Courses Database/Meta/Assignment Descriptions/RealityCraft.aux",
-    "Courses Database/Meta/Assignment Descriptions/RealityCraft.tex",
-    "Courses Database/Meta/Assignment Descriptions/RealityCraft_files/mediabag",
-    "Courses Database/Meta/Assignment Descriptions/RealityCraft_files",
-    "Courses Database/Meta/Assignments/Game Sessions.md",
-    "Courses Database/Meta/Assignments/Game-Sessions.pdf",
-    "Courses Database/Meta/Assignments/Game-Sessions.log",
-    "Courses Database/Meta/Assignments/Game-Sessions.aux",
-    "Courses Database/Meta/Assignments/Game-Sessions.tex",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
-    "In Progress Papers/Untitled.md",
-    "Notes/Play in Predictive Minds.qmd/Play in Predictive Minds.md",
-    "Course Slides/Philosophy of Mind.md",
-    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
-    "Courses Database/Meta/Assignment Descriptions/Game Sessions.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
-    "export/Philosophy of Mind/plugin/menu/README.md",
-    "export/Philosophy of Mind/plugin/menu/CONTRIBUTING.md",
-    "export/Philosophy of Mind/plugin/math/mathjax/README.md",
-    "export/Philosophy of Mind/plugin/math/mathjax/CONTRIBUTING.md",
-    "export/Philosophy of Mind/plugin/math/katex/dist/README.md",
-    "export/Philosophy of Mind/plugin/customcontrols/README.md",
-    "export/Philosophy of Mind/plugin/chart/README.md",
-    "export/Philosophy of Mind/plugin/chalkboard/README.md",
-    "In Progress Papers/RealityCraft/RealityCraft.md",
-    "Course Slides/Personal Identity/Personal Identity.md",
-    "Notes/Rational Decision Theory/SEP-Rational Decision Theory.md",
-    "export/Philosophy of Mind/plugin/chalkboard/img/whiteboard.png",
-    "export/Philosophy of Mind/plugin/chalkboard/img/sponge.png",
-    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-yellow.png",
-    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-white.png",
-    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-red.png",
-    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-purple.png",
-    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-orange.png",
-    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-green.png",
-    "export/Philosophy of Mind/plugin/chalkboard/img/chalk-blue.png",
-    "export/Philosophy of Mind/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/CONTRIBUTING.md",
+    "Files/Teaching Portfolio/References/References.pdf",
+    "Files/Teaching Portfolio/References/References.log",
+    "Files/Teaching Portfolio/References/References.aux",
+    "Files/Teaching Portfolio/References/References.tex",
+    "Files/Teaching Portfolio/References/References_files/mediabag",
+    "Files/Teaching Portfolio/References/References_files",
+    "Files/Teaching Portfolio/References/References.md",
+    "Files/Official Teaching Portfolio/Montaque-Reynolds,-CV.pdf",
+    "Files/Teaching Portfolio/References",
+    "Files/Official Teaching Portfolio/Montaque Reynolds, CV.md",
+    "Files/Teaching Portfolio/Montaque Reynolds, PhD.md",
+    "Files/Teaching Portfolio/Montaque Reynolds, PhD.md.qmd",
+    "Files/Teaching Portfolio/Montaque-Reynolds,-PhD.pdf",
+    "Files/Teaching Portfolio/Course Descriptions/Introduction to Philosophy.md",
+    "Files/Teaching Portfolio/Writing Sample.md",
+    "Courses Database/Courses/The Slow Existential Death.md",
+    "Courses Database/Courses/Slow Existential Death/Course The Slow.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Introduction to Philosophy.md",
+    "Pasted.md",
+    "Files/Teaching Portfolio/Course Descriptions/Summary Introduction to Philosophy.md",
+    "Courses Database/Courses/Introduction to Philosophy/Introduction to Philosophy, Spring 2026/Introduction to Philosophy, Spring 2026.md",
+    "Files/Teaching Portfolio/Teaching Portfolio.md",
+    "Files/Teaching Portfolio/Teaching Evidence/Teaching Evidence.md",
+    "Files/Teaching Portfolio/Teaching Evidence/Spring-2024-SLU-Evals.png",
+    "Files/Teaching Portfolio/Teaching Evidence/Fall-2023-SLU-Evals.png",
+    "Files/Teaching Portfolio/spring-2024.png",
+    "Files/Teaching Portfolio/Screenshot 2026-10-17 062757.png",
+    "Files/Teaching Portfolio/Screenshot 2026-10-17 062730.png",
+    "Pasted image 20261017063020.png",
+    "Pasted image 20261017062946.png",
+    "Pasted image 20261017062806.png",
+    "Pasted image 20261017062740.png",
+    "Files/Teaching Portfolio/Teaching Evidence/Fall-Spring-25-26-Stetson-Evals.png",
+    "Files/Teaching Portfolio/Teaching Statement.md",
+    "Files/Research Portfolio/Research Statement.md",
+    "Notion/Moral Imagination and Hope Laboratory/Philosophy/The Experience Machine.md",
+    "Notion/Moral Imagination and Hope Laboratory/Philosophy/The Experience Machine/Value Theory.md",
+    "Notion/Moral Imagination and Hope Laboratory/Philosophy/The Experience Machine/The Experience Machine.md",
+    "Notion/Moral Imagination and Hope Laboratory/Moral Imagination and Hope Laboratory.md",
+    "Notion/Moral Imagination and Hope Laboratory/The Experience Machine.md",
+    "Notion/Moral Imagination and Hope Laboratory/Workspace Guide.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Required Texts.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Information.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Description.md",
+    "Files/Official Teaching Portfolio/Montaque Reynolds, Cover Letter.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
