@@ -189,7 +189,7 @@ Following Bertrand Russell’s introduction to the Tractatus, there are four pri
 - To verify a sentence: you must know what observations would lead you to accept or reject it
 ---
     
-    > We say that a sentence is factually significant to any given person, if, and only if, he knows how to verify the proposition which it purports to express—that is, if he knows what observations would lead him, under certain conditions, to accept the proposition as being true, or reject it as being false. — Ayer
+> We say that a sentence is factually significant to any given person, if, and only if, he knows how to verify the proposition which it purports to express—that is, if he knows what observations would lead him, under certain conditions, to accept the proposition as being true, or reject it as being false. — Ayer
     
 
 ---
