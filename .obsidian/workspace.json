@@ -27,38 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+                "file": "Course Slides/Philosophy of Mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
+              "title": "Philosophy of Mind"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "06459668aada3f90",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "db59323b294a2937",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
-                "page": 1,
-                "left": -38,
-                "top": 795,
-                "zoom": 0.45955882352941174
-              },
-              "icon": "lucide-file-text",
-              "title": "Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -265,8 +243,20 @@
       "pdf-highlight-notes:Highlight selection in PDF": false
     }
   },
-  "active": "db59323b294a2937",
+  "active": "b446eb53175df641",
   "lastOpenFiles": [
+    "Notes/Rational Decision Theory/Updating for Externalists/Updating for Externalists.md",
+    "Notes/Moral Epistemology/Moral Epistemology.md",
+    "Notes/Grounding and the Existence of God/Grounding and the Existence of God.md",
+    "Notes/Gabrielle Taylor/VIII. Love or Presence.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Required Texts.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Introduction to Philosophy.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Information.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Description.md",
+    "Files/Official Teaching Portfolio/Montaque Reynolds, Cover Letter.md",
+    "MIHLab Database/RealityCraft/RealityCraft.md",
+    "MIHLab Database/RealityCraft/Logs.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
@@ -276,14 +266,12 @@
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files",
     "Course Slides/Philosophy of Mind.md",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "In Progress Papers/RealityCraft/RealityCraft.md",
     "In Progress Papers/RealityCraft",
     "Notes/Rational Decision Theory/SEP-Rational Decision Theory.md",
     "Notes/Rational Choice Theory",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected.qmd.md",
     "TaskNotes/Views/mini-calendar-default.base",
-    "Notes/Moral Epistemology/Moral Epistemology.md",
     "Notes/Moral Epistemology",
     "In Progress Papers/Dissertation/review/Errors.md",
     "In Progress Papers/Dissertation/notes/Literature Review.md",
@@ -292,16 +280,7 @@
     "In Progress Papers/Dissertation/_archive/README.md",
     "In Progress Papers/Dissertation/00 Dissertation map.md",
     "Notes/Living with and Doing Things with Machines/Living with and Doing Things with Machines.md",
-    "Notes/Gabrielle Taylor/VIII. Love or Presence.md",
     "Course Slides/Personal Identity/Personal Identity.md",
-    "Notes/Susan Langer/Susan Langer.md",
-    "MIHLab Database/RealityCraft/RealityCraft.md",
-    "MIHLab Database/RealityCraft/Logs.md",
-    "From Zotero/rade54.md",
-    "From Zotero/lang07.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Required Texts.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Description.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Introduction to Philosophy.md",
     "export/Reality+ Chapter 7/plugin/chalkboard/img/whiteboard.png",
     "export/Reality+ Chapter 7/plugin/chalkboard/img/sponge.png",
     "export/Reality+ Chapter 7/plugin/chalkboard/img/chalk-yellow.png",

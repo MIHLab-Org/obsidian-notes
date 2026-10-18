@@ -1622,3 +1622,90 @@ However
 * Passivity is in some ways essential to the human experience
 	* Our belief that the sun is yellow depends on sense impressions that we have no control over.
 * Union and presence then also requires passivity, but also activity.
+
+---
+
+1. Shame and moral wrongdoing leave a person alienated from herself. 
+2. These divisions in the self undermine, prevent closeness, union, and love.
+3. Internal integration necessary for personal closeness, union, and love is possible only in integration around the good.
+4. Therefore both wrongdoing and shame are internally alienating.
+5. Wrongdoing is sufficient for inner fragmentation.
+6. Shame is sufficient for inner fragmentation.
+7. However, the absence of shame is not sufficient for union.
+8. However, the absence of wrongdoing is not sufficient for union.
+
+---
+
+7. Why is the absence of shame insufficient for union?
+
+---
+
+### Union
+
+What is love?
+	An interaction of two mutually governing desires for the good of the beloved and for union with the beloved; requires significant personal presence and mutual closeness.
+
+#### Closeness and Presence
+
+1. What is it for one person to be present to or with another person?
+2. Can one person be present to or with another without being close to that person?
+3. Is being close to a person just one way of being present to or with that person?
+	1. [*being close*] $\rightarrow$ [*being present*]?
+	2. [*being present*] $\rightarrow$ [*being close*?]
+4. Is mutual closeness sufficient for presence?
+
+---
+
+##### Minimal Presence
+
+[*being close*] $\rightarrow$ [*being present*]
+
+Imagine you are arriving late for a slumber party because your flight was late.
+	i. "Some of those present were already asleep."
+
+Imagine someone close passing away from cancer. You flew into town to be with them in their final hours.
+	i. "Her family was present with her while she was comatose in the last hours of her life."
+
+Looking back, your friend's family is fairly upset with the care your friend received in her final moments.
+	i. "The doctor himself was present and available to her only in the early morning."
+
+---
+
+##### Significant Personal Presence
+
+[*being present*] $\rightarrow$ [*being close*?]
+
+A bad date:
+	i. "She was distracted all through dinner and was never really present to me".
+
+The absentee father
+	i. "He was more present to his children after he had lost his fortune than before."
+
+Visions of the Early Church Fathers
+	i. "In mystical visions, Christ was present to Francis of Assisi."
+
+note:
+
+Presence is a "powerful way of being close to someone." Minimal presence can occur without closeness between two people whereas in ***significant personal presence***, closeness is required.
+
+Strong and weak sense of presence.
+
+---
+
+##### Closeness
+
+First:
+
+* Trying to distinguish between 
+	* being close as sufficient for being present
+	* being present as sufficient for being close.
+
+Significant vs. Minimal presence
+
+> Eternity is a mode of existence that is on their view neither reducible to time nor incompatible with the reality of temporal existence. The resultant concept of eternity, especially as developed by such Christian philosophers as Augustine, Boethius, Anselm, and Aquinas, has four ingredients: life, illimitability, duration, and timelessness. [(Stump et al. 1992, 464)]
+
+---
+
+First imagine:
+
+> If Paula is blind and falls over Jerome when he is unconscious in her path, she may cause him to be moved by falling over him; and she may know by touch that it is a human person she has fallen over. Paula will thus have direct and unmediated causal and cognitive connection with Jerome; but she is not present to Jerome. (112)

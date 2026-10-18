@@ -14,7 +14,7 @@ Therefore, an externalist Bayesian should reject conditionalization.
 
 Orthodox Bayesian Epistemology: Models rational uncertainty. 
 
-1. OBE internalists take it for granted that your evidence will always tell you what your total evidence is. However, OBE struggles to model uncertainty about what evidence you do or do not possess.
+1. The OBE internalist stake it for granted that your evidence will always tell you what your total evidence is. However, OBE struggles to model uncertainty about what evidence you do or do not possess.
 2. OBE externalists think that your evidence could fail to tell you what evidence you have or don’t have.
 3. If the externalists are correct, then what? Well then the orthodox Bayesian learning norms of conditionalization and reflection are inconsistent with each other.
 	1. The externalists should reject the Orthodox learning norm (updating rule) of conditionalization (Salow 2018).
