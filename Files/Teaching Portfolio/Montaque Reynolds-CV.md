@@ -7,8 +7,6 @@ memberships: American Society of Aesthetics
 
 American Philosophical Association · American Society of Aesthetics · Saint Louis Digital Humanities
 
----
-
 ## Education
 
 - PhD, Philosophy — Saint Louis University, Saint Louis, MO _(2024)_
@@ -22,8 +20,6 @@ American Philosophical Association · American Society of Aesthetics · Saint Lo
 - B.A., Philosophy — Seattle Pacific University, Seattle, WA (2015)
 
 - Missions Concentration — Rhema Bible College, Broken Arrow, OK (2010)
-
----
 
 ## Academic Positions
 
@@ -58,27 +54,23 @@ American Philosophical Association · American Society of Aesthetics · Saint Lo
 - Introduction to Ethics, Philosophy of Law
 - Led 15+ discussion sections (25+ students each)
 
----
-
 ## Research & Scholarship
 
 ### Peer-Reviewed Publications
 
 - Reynolds, M. (Forthcoming). _Social Identity and Music: A search for moral autonomy and personhood in pop culture._ Vernon Press.
 
-- Reynolds, M. (Forth Coming). True Love's Agency: God, Moral Realism and the Affirmation of Personhood. In _Black Apologetics: Reflections on the Viability of Christian Faith._
+- Reynolds, M. (Forthcoming). True Love's Agency: God, Moral Realism and the Affirmation of Personhood. In _Black Apologetics: Reflections on the Viability of Christian Faith._
 
-- Reynolds, M. (Forth Coming). Aesthetics of Epistemic Evil. In _Annihilating Evil._
+- Reynolds, M. (Forthcoming). Aesthetics of Epistemic Evil. In _Annihilating Evil._
 
 - Chakrabarty, U., Feiertag, R., McCallion, A.-M., McNiff, B., Prinz, J., Reynolds, M., et al. (2024). Adaptive Preferences: An Empirical Investigation of Feminist Perspectives. In _Experiments in Moral and Political Philosophy_ (pp. 310–330). Routledge.
 
-### Works in Progress
+### Some Works in Progress
 
-- _"Social Agency and other Epistemic Scaffolding"_
-- _"Deference and The Moral Properties of Imaginative Experience"_
-- _"Well-Being and Moral Worth"_
-
----
+- Bruised Soul: Virtual Works of Art inside the Space Sim Star Citizen.
+- RealityCraft: Cultivating epistemic virtue with Embodied LLM Agents in Minecraft.
+- Testifying: Ballet reconstruction and epistemic authenticity.
 
 ## Conference Activity
 
@@ -110,15 +102,11 @@ American Philosophical Association · American Society of Aesthetics · Saint Lo
 
 - Reynolds, M. (2022). Aesthetic Blame, Robbie Kubal. Commentary, _American Society for Aesthetics, Pacific Division,_ Berkeley, CA.
 
----
-
 ### Workshops Attended
 
 - Deep Learning for Humanists. University of Victoria, BC (Online), 2023.
 - Towards a Feminist X-Phi & Empirical Philosophy Lab. CUNY Graduate Center, 2021–2023.
 - CoLiPhi: Corpus Linguistics and Philosophy. University of Zurich, 2021.
-
----
 
 ## Research Experience
 
@@ -139,14 +127,12 @@ American Philosophical Association · American Society of Aesthetics · Saint Lo
 	- Contributed to proprietary datasets used in AI fine-tuning, benchmarking, and reinforcement learning
 	- Applied subject-matter expertise to identify reasoning flaws and refine model outputs
 
----
-
 ## Other Professional Experience
 
-* The Moral Imagination and Hope Laboratory --- MIHLab.org 
+* The Moral Imagination and Hope Laboratory --- MIHLab.org, (2024-Present) 
 	* Design immersive online philosophical curriculum through game design.
-* Director of Education — BGG Foundation (MMO Gaming Ethics), Saint Louis, MO (2025–2026)
 
+* Director of Education — BGG Foundation (MMO Gaming Ethics), Saint Louis, MO (2025–2026)
 	- Designed immersive online philosophy curriculum using Star Citizen and Discord
 	- Engaged 50+ participants in virtual roleplay and ethical discussions
 	- Applied narrative analysis to foster critical thinking; member, Saint Louis Digital Humanities Group
@@ -167,8 +153,6 @@ American Philosophical Association · American Society of Aesthetics · Saint Lo
 
 	- Served in high-pressure maritime operations; leadership and crisis management in dynamic team settings
 
----
-
 ## Grants & Awards
 
 - Graduate Fellow, Saint Louis University — $3,750 (2023)
@@ -177,8 +161,6 @@ American Philosophical Association · American Society of Aesthetics · Saint Lo
 - Philosophy Academic Enhancement Fund, Saint Louis University — multiple awards 2020–2023 (total ~$3,418)
 - Graduate Student Association, Saint Louis University — $333 (2020), $300 (2022)
 - Travel Scholarships & Philosophy Travel Awards, Saint Louis University — multiple awards 2019–2020
-
----
 
 ## Skills & Training
 
@@ -197,8 +179,6 @@ American Philosophical Association · American Society of Aesthetics · Saint Lo
 - Natural Language Processing — Walter J. Ong Center Workshop (2022)
 - Corpus Linguistics & Experimental Philosophy — Universität Zürich (2021)
 - SQL Essential Training — LinkedIn Learning (2021)
-
----
 
 ## Professional Memberships
 

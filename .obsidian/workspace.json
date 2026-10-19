@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a29f8e25d20568a5",
+        "id": "f2ef1f641761dcd1",
         "type": "tabs",
         "children": [
           {
-            "id": "2ddad423cc6da73b",
+            "id": "280b098cad904119",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Introduction to Philosophy --- Fall 2026"
             }
-          },
-          {
-            "id": "b446eb53175df641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Slides/Philosophy of Mind.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Philosophy of Mind"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.07811737060547
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -176,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Slides/Philosophy of Mind.md",
+                "file": "Scope and Purpose.md/Scope and Purpose.qmd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,18 +202,6 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:Import notes": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
-      "slides-extended:Show slide preview": false,
-      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,
@@ -240,57 +213,69 @@
       "tasknotes:Create new task": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "pdf-highlight-notes:Import PDF files": false,
-      "pdf-highlight-notes:Highlight selection in PDF": false
+      "pdf-highlight-notes:Highlight selection in PDF": false,
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "slides-extended:Show slide preview": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "280b098cad904119",
   "lastOpenFiles": [
-    "Pasted.md",
+    "Course Slides/Personal Identity/Personal Identity.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+    "In Progress Papers/Social Identities Searching for moral  autonomy and personhood in pop culture/Social Identities/Social Identity and.md",
+    "In Progress Papers/Social Identities Searching for moral  autonomy and personhood in pop culture/Social Identities.md",
+    "Course Slides/Philosophy of Mind.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness Slides.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.pdf",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.aux",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.tex",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files/mediabag",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files",
+    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
+    "Files/Teaching Portfolio/Writing-Sample.pdf",
+    "Files/Teaching Portfolio/Writing Sample.md",
+    "Files/Teaching Portfolio/Teaching Evidence/Reynolds Teaching Statement.qmd",
+    "Files/Teaching Portfolio/Teaching Evidence/Reynolds-Teaching-Statement.pdf",
+    "Files/Teaching Portfolio/Research Statement.md",
+    "Files/Research Portfolio/Research Statement.md",
+    "Files/Teaching Portfolio/Teaching Portfolio.md",
+    "Files/Teaching Portfolio/Teaching Evidence/Fall-Spring-25-26-Stetson-Evals.png",
+    "Files/Teaching Portfolio/Teaching Evidence/Teaching Evidence.md",
+    "Files/Teaching Portfolio/Montaque Reynolds-CV.md",
+    "Files/Teaching Portfolio/Montaque Reynolds, PhD-Long-Cover-Letter.md",
+    "In Progress Papers/Bruised Soul/Aesthetics (1)/Aesthetics (1).md",
+    "In Progress Papers/Bruised Soul/Aesthetics (1)/On Tragedy.md",
+    "In Progress Papers/Fictionalism and epistemic/Annihilating Evil - Early Christian-Medieval Images of the Banishment of Evil Versions/Annihilating Evil -/Paper Epistemic.md",
+    "In Progress Papers/Fictionalism and epistemic/Annihilating Evil - Early Christian-Medieval Images of the Banishment of Evil Versions/Annihilating Evil -.md",
+    "In Progress Papers/Fictionalism and epistemic/Fictionalism and epistemic harms in.md",
+    "Notion/Moral Imagination and Hope Laboratory/Augustine’s de musica.md",
+    "Notion/Moral Imagination and Hope Laboratory/New Projects Page/Reconstructions of Ballet/Reconstructions of Ballet.md",
+    "Notion/Moral Imagination and Hope Laboratory/New Projects Page/Annihilating Evil - Early Christian-Medieval Images of the Banishment of Evil Versions.md",
+    "In Progress Papers/The Testimony of Ballet Reconstructions/Ballet Reconstruction Comments/Ballet Reconstruction/Longer Comments.md",
+    "In Progress Papers/The Testimony of Ballet Reconstructions/The Testimony of Ballet Reconstructions 1.md",
+    "Files/Teaching Portfolio/Teaching Evidence/Spring-2024-SLU-Evals.png",
+    "Files/Teaching Portfolio/Teaching Evidence/Fall-2023-SLU-Evals.png",
+    "Files/Teaching Portfolio/spring-2024.png",
+    "Files/Teaching Portfolio/Screenshot 2026-10-17 062757.png",
+    "Files/Teaching Portfolio/Screenshot 2026-10-17 062730.png",
     "Pasted image 20261017063020.png",
     "Pasted image 20261017062946.png",
     "Pasted image 20261017062806.png",
     "Pasted image 20261017062740.png",
-    "Notes/Play in Predictive Minds.qmd/Play in Predictive Minds.md",
-    "Notes/Play in Predictive Minds.qmd",
-    "In Progress Papers/Untitled.md",
-    "Files/Teaching Portfolio/Teaching-Statement.pdf",
-    "Files/Teaching Portfolio/Teaching Statement.md",
-    "Files/Teaching Portfolio/Teaching Evidence/Teaching-Evidence.pdf",
-    "Files/Teaching Portfolio/Teaching Evidence/Teaching Evidence.qmd",
-    "Files/Teaching Portfolio/Teaching Evidence/Teaching Evidence.md",
-    "Files/Teaching Portfolio/Teaching Evidence/Summer-2026-Stetson-Evals.png",
-    "Files/Teaching Portfolio/Teaching Evidence/Fall-Spring-25-26-Stetson-Evals.png",
-    "Files/Teaching Portfolio/Teaching Evidence/Spring-2024-SLU-Evals.png",
-    "Files/Teaching Portfolio/Teaching Evidence/Fall-2023-SLU-Evals.png",
-    "Files/Teaching Portfolio/Teaching Evidence",
-    "Files/Teaching Portfolio/Short-Cover-Letter.pdf",
-    "Files/Teaching Portfolio/Short Cover Letter.qmd",
-    "Files/Teaching Portfolio/References/References.md",
-    "Files/Teaching Portfolio/References/References.pdf",
-    "Files/Teaching Portfolio/References",
-    "Files/Teaching Portfolio/MyClassEvaluation Results.pdf",
-    "Files/Teaching Portfolio/Course Descriptions/Summary Introduction to Philosophy.md",
-    "Files/Teaching Portfolio/Course Descriptions/Introduction to Philosophy.md",
-    "Files/Research Portfolio/Research Statement.md",
-    "Courses Database/Meta/Assignment Descriptions/RealityCraft.md",
-    "Notes/Rational Decision Theory/Updating for Externalists/Updating for Externalists.md",
-    "Notes/Moral Epistemology/Moral Epistemology.md",
-    "Notes/Grounding and the Existence of God/Grounding and the Existence of God.md",
-    "Notes/Gabrielle Taylor/VIII. Love or Presence.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Required Texts.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Introduction to Philosophy.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Information.md",
-    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Description.md",
-    "Files/Official Teaching Portfolio/Montaque Reynolds, Cover Letter.md",
-    "MIHLab Database/RealityCraft/RealityCraft.md",
-    "MIHLab Database/RealityCraft/Logs.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
-    "Course Slides/Philosophy of Mind.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
-    "In Progress Papers/RealityCraft/RealityCraft.md",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/whiteboard.png",
-    "export/Reality+ Chapter 7/plugin/chalkboard/img/sponge.png",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]

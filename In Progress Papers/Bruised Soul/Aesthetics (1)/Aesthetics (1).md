@@ -120,9 +120,7 @@ The only difference is that the ancients called arts in this category ‘imitati
     16 Critique of the Power of Judgment 155  Immanuel Kant
 > If someone reads me his poem or takes me to a play that in the end fails to please my taste, then he can adduce Batteux or Lessing, or even older and more famous critics of taste, and adduce all the rules they established as proofs that his poem is beautiful… . I will stop my ears, listen to no reasons and arguments, and would rather believe that those rules of the critics are false … than allow that my judgment should be determined by means of *a priori* grounds of proof, since it is supposed to be a judgment of taste and not of the understanding of reason. (Kant 1790, 165)
 
-        According to Kant, to say that a pleasure is interested is not to say that it is self-interested in the Hobbesian sense, but rather that it stands in a certain relation to the faculty of desire. 
-            The pleasure involved in judging an action to be morally good is interested because such a judgment issues in a desire to bring the action into existence, i.e., to perform it. 
-            To judge an action to be morally good is to become aware that one has a duty to perform the action, and to become so aware is to gain a desire to perform it
+According to Kant, to say that a pleasure is interested is not to say that it is self-interested in the Hobbesian sense, but rather that it stands in a certain relation to the faculty of desire. The pleasure involved in judging an action to be morally good is interested because such a judgment issues in a desire to bring the action into existence, i.e., to perform it. To judge an action to be morally good is to become aware that one has a duty to perform the action, and to become so aware is to gain a desire to perform it
 
 # Part II: Modern Theories
 
