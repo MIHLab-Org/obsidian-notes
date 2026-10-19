@@ -1,0 +1,9 @@
+{
+  "id": "yarn-spinner-editor",
+  "name": "Yarn Spinner Editor",
+  "version": "0.2.0",
+  "minAppVersion": "1.4.0",
+  "description": "Edit Yarn Spinner .yarn files with syntax highlighting, color-coded node connections, clickable jumps, and a live node graph.",
+  "author": "MIHLab",
+  "isDesktopOnly": false
+}

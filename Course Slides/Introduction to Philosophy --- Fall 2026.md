@@ -2508,3 +2508,22 @@ note:
 	1. we use them in logical arguments and draw inferences from them, 
 	2. we “embed” them in other kinds of statements and use them in un-asserted context. 
 	3. It’s not clear whether the emotivist account of the nature of such judgments can explain why we can do this.
+
+---
+
+# Mind
+
+---
+
+## How do mind and body interact  in a virtual world?
+
+
+
+---
+## Can there be consciousness in  a digital world?
+
+---
+
+## Does augmented reality extend  the mind?
+
+---

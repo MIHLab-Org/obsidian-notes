@@ -27,16 +27,90 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Philosophy of Mind.md",
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy of Mind"
+              "title": "Introduction to Philosophy --- Fall 2026"
+            }
+          },
+          {
+            "id": "6a05af7a9f7a227f",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-release-notes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasknotes-release-notes"
+            }
+          },
+          {
+            "id": "bcac440858c30521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Experience Machine/RealityPlus_Map.yarn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RealityPlus_Map.yarn"
+            }
+          },
+          {
+            "id": "031a88d936734398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Experience Machine/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "69b839371daaaf4f",
+            "type": "leaf",
+            "state": {
+              "type": "yarn-spinner-editor",
+              "state": {
+                "file": "Untitled 1.yarn"
+              },
+              "icon": "scroll-text",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "08d80df516037414",
+            "type": "leaf",
+            "state": {
+              "type": "yarn-spinner-editor",
+              "state": {
+                "file": "Untitled 2.yarn"
+              },
+              "icon": "scroll-text",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "ff6cc5e3d557297c",
+            "type": "leaf",
+            "state": {
+              "type": "yarn-spinner-editor",
+              "state": {
+                "file": "Untitled 3.yarn"
+              },
+              "icon": "scroll-text",
+              "title": "Untitled 3"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -240,11 +314,23 @@
       "tasknotes:Create new task": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "pdf-highlight-notes:Import PDF files": false,
-      "pdf-highlight-notes:Highlight selection in PDF": false
+      "pdf-highlight-notes:Highlight selection in PDF": false,
+      "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
   "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "Untitled 2.yarn",
+    "Untitled 3.yarn",
+    "Notes/Experience Machine/Untitled.md",
+    "Untitled 1.yarn",
+    "Untitled.yarn",
+    "Notes/Experience Machine/RealityPlus_Map.yarn.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "Notes/Experience Machine/Phaedrus-Philosophy in a New Key.md",
+    "Notes/Experience Machine/Experience Machine.md",
+    "Course Slides/Philosophy of Mind.md",
+    "Notes/Experience Machine",
     "Pasted.md",
     "Pasted image 20261017063020.png",
     "Pasted image 20261017062946.png",
@@ -264,11 +350,7 @@
     "Files/Teaching Portfolio/Teaching Evidence/Fall-2023-SLU-Evals.png",
     "Files/Teaching Portfolio/Teaching Evidence",
     "Files/Teaching Portfolio/Short-Cover-Letter.pdf",
-    "Files/Teaching Portfolio/Short Cover Letter.qmd",
     "Files/Teaching Portfolio/References/References.md",
-    "Files/Teaching Portfolio/References/References.pdf",
-    "Files/Teaching Portfolio/References",
-    "Files/Teaching Portfolio/MyClassEvaluation Results.pdf",
     "Files/Teaching Portfolio/Course Descriptions/Summary Introduction to Philosophy.md",
     "Files/Teaching Portfolio/Course Descriptions/Introduction to Philosophy.md",
     "Files/Research Portfolio/Research Statement.md",
@@ -277,18 +359,11 @@
     "Notes/Moral Epistemology/Moral Epistemology.md",
     "Notes/Grounding and the Existence of God/Grounding and the Existence of God.md",
     "Notes/Gabrielle Taylor/VIII. Love or Presence.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Files/Official Teaching Portfolio/Introduction To Philosophy/Required Texts.md",
     "Files/Official Teaching Portfolio/Introduction To Philosophy/Introduction to Philosophy.md",
     "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Information.md",
     "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Description.md",
     "Files/Official Teaching Portfolio/Montaque Reynolds, Cover Letter.md",
-    "MIHLab Database/RealityCraft/RealityCraft.md",
-    "MIHLab Database/RealityCraft/Logs.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
-    "Course Slides/Philosophy of Mind.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
-    "In Progress Papers/RealityCraft/RealityCraft.md",
     "export/Reality+ Chapter 7/plugin/chalkboard/img/whiteboard.png",
     "export/Reality+ Chapter 7/plugin/chalkboard/img/sponge.png",
     "Scope and Purpose/Scope and Purpose.canvas",

@@ -1,0 +1,29 @@
+// Ctrl/Cmd-click any jump target to go to that node (or create it if it doesn't exist yet). Given our direction, and even an intermediate goal, then, we must creatively seek out the ideas that will give form to our vision. Important input to the Vivarium program comes from the members of our advisory council, including: former Disney animator Frank Thomas, creator of Bambi and other popular characters; Gossamer Albatross inventor Paul McCready; author of Society of Mind and dean of artificial intelligence, Marvin Minsky; author of The Selfish Gene and The Blind Watchmaker, Richard Dawkins; neural network expert and innovator, Geoff Hinton; author of the Hitchhiker's Guide to the Galaxy four-part trilogy and the Dirk Gently novels, Douglas Adams; and Koko, the gorilla who has learned to speak with American Sign Language. These experts on animation, user interface concepts, artificial intelligence, evolution, machine learning, humor, and animal intelligence all inform and enlighten our efforts and help push us in our chosen direction.
+
+// The main research test site of the Vivarium program is a Los Angeles "magnet" school known as the Open School. Alan chose this primary school, grades 1 through 6 (ages 6 through 12), because of their educational philosophy, founded on the basic premise that children are natural learners and that growth is developmental. Based on Piaget's stages of cognitive development and Bruner's educational tenets, the Open School was seen not as an institution in need of saving, but as an already strong educational resource whose fundamental philosophies aligned with our own. With the support of the Open School's staff, some 300 culturally and racially mixed children, and our principal liaison with the school, Dave Mintz, we have developed an evolving Vivarium program that is included in their Los Angeles Unified Public school's curriculum.
+
+// This curriculum is designed to encourage children to think more about thinking. They do this by studying and simulating strategies that help animals survive in their environments. 
+// The children use animation and graphics to design animals and the simulated environments in which they live. 
+
+// They animate stories that illustrate biological and sociological lessons, and create adventure games and video games, at first using VideoWorks and more recently, HyperCard. Now they are beginning to be able to program the animals' mental and behavioral characteristics, such as what they eat, how they move, and so on, and then observe the animals' resulting interaction with each other and with the environment. These activities are usually related to real world activities, such as working in a real, live garden, raising real fish in a real aquarium, and participating in various field trips. The goal is never simply to learn to use the computer; rather, the computer is a tool used to enhance the learning process.
+
+// https://worrydream.com/refs/Yaeger_2006_-_Vivarium_History.html
+
+// Pollyworld
+
+// Polyworld is a computational ecology that I developed to explore issues in Artificial Life. Simulated organisms reproduce sexually, fight and kill and eat each other, eat the food that grows throughout the world, and either develop successful strategies for survival or die. An organism's entire behavioral suite (move, turn, attack, eat, mate, light) is controlled by its neural network "brain". Each brain's architecture--it's neural wiring diagram--is determined from its genetic code, in terms of number, size, and composition of neural clusters (excitatory and inhibitory neurons) and the types of connections between those clusters (connection density and topological mapping). Synaptic efficacy is modulated via Hebbian learning, so, in principle, the organisms have the ability to learn during the course of their lifetimes. The organisms perceive their world through a sense of vision, provided by a computer graphic rendering of the world from each organism's point of view. The organisms' physiologies are also encoded genetically, so both brain and body, and thus all components of behavior, evolve over multiple generations. A variety of "species", with varying individual and group survival strategies have emerged in various simulations, displaying such complex ethological behaviors as swarming/flocking, foraging, and attack avoidance. "https://shinyverse.org/larryy/Polyworld.html"
+
+title: Start
+---
+Narrator: This is where the story begins.
+-> Look around
+    <<jump LookAround>>
+-> Leave
+    <<stop>>
+===
+
+title: LookAround
+---
+Narrator: There isn't much here yet.
+<<jump Start>>
+===

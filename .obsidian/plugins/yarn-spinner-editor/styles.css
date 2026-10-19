@@ -1,0 +1,235 @@
+/* ============================================================
+   Yarn Spinner Editor — editor
+   ============================================================ */
+
+.yarn-editor-view {
+  padding: 0 !important;
+  overflow: hidden;
+}
+.yarn-editor-view .cm-editor {
+  height: 100%;
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-size: var(--font-text-size);
+}
+.yarn-editor-view .cm-editor.cm-focused { outline: none; }
+.yarn-editor-view .cm-gutters {
+  background: var(--background-primary);
+  border-right: 1px solid var(--background-modifier-border);
+  color: var(--text-faint);
+}
+.yarn-editor-view .cm-activeLine { background: var(--background-modifier-hover); }
+.yarn-editor-view .cm-activeLineGutter { background: var(--background-modifier-hover); color: var(--text-muted); }
+.yarn-editor-view .cm-cursor { border-left-color: var(--text-normal); }
+.yarn-editor-view .cm-selectionBackground,
+.yarn-editor-view .cm-focused .cm-selectionBackground { background: var(--text-selection) !important; }
+.yarn-editor-view .cm-selectionMatch { background: var(--text-highlight-bg); }
+
+/* --- per-node colour bars --- */
+.yarn-editor-view .cm-line.yarn-line { padding-left: 14px; }
+.yarn-editor-view .cm-line.yarn-line-colored {
+  box-shadow: inset 4px 0 0 var(--yarn-node-color);
+}
+.yarn-editor-view .cm-line.yarn-line-colored.yarn-line-header,
+.yarn-editor-view .cm-line.yarn-line-colored.yarn-line-sep {
+  background-color: color-mix(in srgb, var(--yarn-node-color) 10%, transparent);
+}
+.yarn-editor-view .cm-line.yarn-line-colored.yarn-line-end {
+  background-color: color-mix(in srgb, var(--yarn-node-color) 6%, transparent);
+}
+
+/* --- structure --- */
+.yarn-title {
+  font-weight: 700;
+  color: var(--yarn-node-color, var(--text-accent));
+  font-size: 1.05em;
+}
+.yarn-header-key { color: var(--text-muted); }
+.yarn-header-value { color: var(--text-normal); }
+.yarn-punct { color: var(--text-faint); }
+.yarn-delim {
+  color: var(--yarn-node-color, var(--text-muted));
+  font-weight: 700;
+  letter-spacing: 0.15em;
+}
+.yarn-stray { color: var(--text-error); text-decoration: wavy underline; }
+.yarn-comment { color: var(--text-faint); font-style: italic; }
+
+/* --- dialogue --- */
+.yarn-speaker { color: var(--color-cyan); font-weight: 600; }
+.yarn-option { color: var(--color-orange); font-weight: 700; }
+.yarn-linegroup { color: var(--color-yellow); font-weight: 700; }
+.yarn-markup { color: var(--color-pink); }
+.yarn-hashtag { color: var(--text-faint); font-size: 0.9em; }
+
+/* --- commands & expressions --- */
+.yarn-cmd-delim { color: var(--color-purple); opacity: 0.7; }
+.yarn-keyword { color: var(--color-purple); font-weight: 600; }
+.yarn-command { color: var(--color-blue); }
+.yarn-function { color: var(--color-blue); }
+.yarn-variable { color: var(--color-green); }
+.yarn-string { color: var(--color-yellow); }
+.yarn-number { color: var(--color-orange); }
+.yarn-operator { color: var(--text-muted); }
+.yarn-brace { color: var(--color-green); font-weight: 700; }
+
+/* --- jump targets: painted in the colour of the node they lead to --- */
+.yarn-jump-target {
+  color: var(--yarn-target-color);
+  font-weight: 700;
+  background-color: color-mix(in srgb, var(--yarn-target-color) 16%, transparent);
+  border-radius: 4px;
+  padding: 0 3px;
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--yarn-target-color) 60%, transparent);
+  text-underline-offset: 3px;
+}
+.yarn-jump-target:hover { cursor: pointer; filter: brightness(1.15); }
+.yarn-jump-target.yarn-jump-missing {
+  color: var(--text-error);
+  background-color: color-mix(in srgb, var(--text-error) 12%, transparent);
+  text-decoration: wavy underline var(--text-error);
+}
+
+/* ============================================================
+   Yarn Spinner Editor — graph
+   ============================================================ */
+
+.yarn-graph-container {
+  padding: 0 !important;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle, var(--background-modifier-border) 1px, transparent 1px) 0 0 / 22px 22px,
+    var(--background-primary);
+}
+.yarn-graph-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px 16px;
+  padding: 6px 12px;
+  border-bottom: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  font-size: var(--font-ui-smaller);
+  color: var(--text-muted);
+}
+.yarn-graph-file { font-family: var(--font-monospace); color: var(--text-normal); }
+.yarn-graph-legend { display: flex; gap: 14px; }
+.yarn-legend-item { display: inline-flex; align-items: center; gap: 6px; }
+.yarn-legend-swatch { display: inline-block; width: 22px; height: 0; border-top: 2px solid var(--text-muted); }
+.yarn-legend-swatch.is-detour { border-top-style: dotted; border-top-color: var(--color-purple); }
+.yarn-legend-swatch.is-conditional { border-top-style: dashed; }
+.yarn-legend-swatch.is-missing { border-top-color: var(--text-error); border-top-style: dashed; }
+
+.yarn-graph-empty {
+  margin: auto;
+  color: var(--text-muted);
+  padding: 24px;
+  text-align: center;
+}
+.yarn-graph-svg {
+  flex: 1;
+  width: 100%;
+  min-height: 0;
+  cursor: grab;
+  user-select: none;
+  touch-action: none;
+}
+.yarn-graph-svg.is-dragging { cursor: grabbing; }
+.yarn-graph-hint {
+  position: absolute;
+  bottom: 8px;
+  left: 12px;
+  right: 12px;
+  font-size: var(--font-ui-smaller);
+  color: var(--text-faint);
+  pointer-events: none;
+}
+
+/* nodes */
+.yarn-gnode { cursor: pointer; transition: opacity 120ms; }
+.yarn-gnode-box {
+  fill: var(--background-secondary);
+  stroke: var(--yarn-node-color, var(--background-modifier-border));
+  stroke-width: 1.5;
+}
+.yarn-gnode-head { fill: var(--yarn-node-color); opacity: 0.85; }
+.yarn-gnode-title {
+  fill: var(--text-on-accent, #fff);
+  font-weight: 700;
+  font-size: 13px;
+  font-family: var(--font-interface);
+  pointer-events: none;
+}
+.yarn-gnode-meta {
+  fill: var(--text-muted);
+  font-size: 11px;
+  font-family: var(--font-interface);
+  pointer-events: none;
+}
+.yarn-gnode-preview {
+  fill: var(--text-normal);
+  font-size: 11px;
+  font-family: var(--font-interface);
+  pointer-events: none;
+}
+.yarn-gnode:hover .yarn-gnode-box { stroke-width: 2.5; }
+.yarn-gnode.is-current .yarn-gnode-box {
+  stroke-width: 3.5;
+  filter: drop-shadow(0 0 6px var(--yarn-node-color));
+}
+
+/* ghost nodes: in another file, or missing */
+.yarn-gnode.is-ghost .yarn-gnode-box {
+  fill: var(--background-primary);
+  stroke-dasharray: 6 4;
+}
+.yarn-gnode.is-ghost .yarn-gnode-title { fill: var(--yarn-node-color, var(--text-muted)); }
+.yarn-gnode.is-ghost.is-missing .yarn-gnode-box { stroke: var(--text-error); }
+.yarn-gnode.is-ghost.is-missing .yarn-gnode-title,
+.yarn-gnode.is-ghost.is-missing .yarn-gnode-meta { fill: var(--text-error); }
+
+/* edges: coloured by the node they leave from */
+.yarn-edge { transition: opacity 120ms; }
+.yarn-edge-line {
+  fill: none;
+  stroke: var(--edge-color, var(--text-muted));
+  stroke-width: 2;
+  opacity: 0.85;
+}
+.yarn-edge-arrow { fill: var(--edge-color, var(--text-muted)); }
+.yarn-edge.is-conditional .yarn-edge-line { stroke-dasharray: 8 5; }
+.yarn-edge.is-detour .yarn-edge-line { stroke-dasharray: 2 5; stroke-linecap: round; stroke-width: 2.5; }
+.yarn-edge.is-missing .yarn-edge-line { stroke: var(--text-error); stroke-dasharray: 6 4; }
+.yarn-edge.is-missing .yarn-edge-arrow { fill: var(--text-error); }
+.yarn-edge-label {
+  font-size: 11px;
+  font-family: var(--font-interface);
+  fill: var(--text-muted);
+  paint-order: stroke;
+  stroke: var(--background-primary);
+  stroke-width: 4px;
+  stroke-linejoin: round;
+}
+
+/* hover: spotlight a node's connections */
+.yarn-graph-svg.has-hover .yarn-edge:not(.is-related) { opacity: 0.12; }
+.yarn-graph-svg.has-hover .yarn-gnode:not(.is-related) { opacity: 0.35; }
+.yarn-graph-svg.has-hover .yarn-edge.is-related .yarn-edge-line { stroke-width: 3; opacity: 1; }
+
+/* --- Vim mode --- */
+.yarn-editor-view .cm-vim-panel {
+  padding: 2px 10px;
+  font-family: var(--font-monospace);
+  font-size: var(--font-ui-smaller);
+  background: var(--background-secondary);
+  color: var(--text-muted);
+  border-top: 1px solid var(--background-modifier-border);
+}
+.yarn-editor-view .cm-vim-panel input { background: transparent; color: var(--text-normal); border: none; outline: none; font-family: inherit; }
+.yarn-editor-view .cm-fat-cursor { background: var(--text-accent) !important; color: var(--text-on-accent) !important; opacity: 0.8; }
+.yarn-editor-view:not(.cm-focused) .cm-fat-cursor { background: none !important; outline: 1px solid var(--text-accent); }
