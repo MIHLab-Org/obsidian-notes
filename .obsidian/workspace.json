@@ -6,6 +6,7 @@
       {
         "id": "23fb97ac824a0636",
         "type": "tabs",
+        "dimension": 64.03669724770641,
         "children": [
           {
             "id": "d4ab81b631e2768d",
@@ -13,28 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "file": "Course Slides/Philosophy of Mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
+              "title": "Philosophy of Mind"
             }
           }
         ]
       },
       {
-        "id": "aa926d334faf2b08",
+        "id": "d4086007fd28adb4",
         "type": "tabs",
+        "dimension": 35.96330275229358,
         "children": [
           {
-            "id": "8222467974451b01",
+            "id": "3632f30031bc402e",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
               "state": {},
               "icon": "slides",
-              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
+              "title": "Preview: Philosophy of Mind.md"
             }
           }
         ]
@@ -245,15 +247,22 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "8222467974451b01",
+  "active": "d4ab81b631e2768d",
   "lastOpenFiles": [
-    "Untitled 3.yarn",
+    "Files/Teaching Portfolio/DynamicFood_954x811.mov",
+    "Files/Teaching Portfolio/Unconfirmed 252297.crdownload",
+    "Files/Teaching Portfolio/Kill+Eat.mov",
+    "Files/Teaching Portfolio/Unconfirmed 39006.crdownload",
+    "Files/Teaching Portfolio/Eat+Light.mov",
+    "Files/Teaching Portfolio/Unconfirmed 519423.crdownload",
+    "Notes/Broken Mirrors.md",
+    "Untitled 2.yarn",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "Untitled 3.yarn",
     "In Progress Papers/RealityCraft/RealityCraft.md",
     "Course Slides/Reality+/What is Reality.md",
     "Untitled 1.yarn",
     "Untitled.yarn",
-    "Untitled 2.yarn",
     "Notes/Play in Predictive Minds.qmd/Play in Predictive Minds.md",
     "Course Slides/Philosophy of Mind.md",
     "Notes/Experience Machine/RealityPlus_Map.yarn.md",
@@ -266,11 +275,6 @@
     "In Progress Papers/Social Identities Searching for moral  autonomy and personhood in pop culture/Social Identities/Social Identity and.md",
     "In Progress Papers/Social Identities Searching for moral  autonomy and personhood in pop culture/Social Identities.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness Slides.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected.qmd.pdf",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.aux",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.tex",
     "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
     "Files/Teaching Portfolio/Writing Sample.md",
     "Files/Teaching Portfolio/Research Statement.md",
@@ -282,7 +286,6 @@
     "Files/Teaching Portfolio/Montaque Reynolds, PhD-Long-Cover-Letter.md",
     "In Progress Papers/Bruised Soul/Aesthetics (1)/Aesthetics (1).md",
     "In Progress Papers/Bruised Soul/Aesthetics (1)/On Tragedy.md",
-    "In Progress Papers/Fictionalism and epistemic/Annihilating Evil - Early Christian-Medieval Images of the Banishment of Evil Versions/Annihilating Evil -/Paper Epistemic.md",
     "Files/Teaching Portfolio/Teaching Evidence/Spring-2024-SLU-Evals.png",
     "Files/Teaching Portfolio/Teaching Evidence/Fall-2023-SLU-Evals.png",
     "Files/Teaching Portfolio/spring-2024.png",

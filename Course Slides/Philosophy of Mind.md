@@ -1568,9 +1568,21 @@ This results in us having uneven evidence in that our confidence towards genuine
 While however, such decisions may not be practically decided on, being in love versus not being in love, they may be narratively decided on (Rust 2025). 
 
 ---
-#### Response Account of Love
+#### Love
 
+Response Account:
 > Love is a response of the lover to qualities he perceives and values in the beloved.
+
+---
+
+Volitional Account:
+> It does seem right that the value a child has for its parents is a function of the parents' love for the child, and not the other way arround.
+
+---
+
+Relational Account:
+> a connection that persists over time and that has a history of interactions between the persons so connected.
+
 
 ---
 
@@ -1581,10 +1593,6 @@ While however, such decisions may not be practically decided on, being in love v
 	  2. *x* Believes of *y* that *y* possesses quality $\phi$.
   3. if x feels the emotion in question towards some object y then x believes y to have some determinate quality $\psi$, which normally but not necessarily he will be able to specify: $[(x)(y)(\exists \psi)(Exy \rightarrow Bx\psi y)]$ 
   4. 1-3 are necessary but not sufficient conditions. Justification of e is also needed.
-
----
-
-
 
 ---
 
