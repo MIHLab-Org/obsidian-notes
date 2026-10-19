@@ -89,22 +89,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "53d867a946b1b4bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3247b01951b29295",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -312,7 +296,7 @@
       "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
-  "active": "3247b01951b29295",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
     "Untitled 1.yarn",
     "Untitled 2.yarn",
