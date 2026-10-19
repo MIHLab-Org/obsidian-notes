@@ -77,40 +77,34 @@
             "id": "69b839371daaaf4f",
             "type": "leaf",
             "state": {
-              "type": "yarn-spinner-editor",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.yarn"
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "scroll-text",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "08d80df516037414",
-            "type": "leaf",
-            "state": {
-              "type": "yarn-spinner-editor",
-              "state": {
-                "file": "Untitled 2.yarn"
-              },
-              "icon": "scroll-text",
-              "title": "Untitled 2"
-            }
-          },
-          {
-            "id": "ff6cc5e3d557297c",
-            "type": "leaf",
-            "state": {
-              "type": "yarn-spinner-editor",
-              "state": {
-                "file": "Untitled 3.yarn"
-              },
-              "icon": "scroll-text",
-              "title": "Untitled 3"
+              "icon": "lucide-file",
+              "title": "Introduction to Philosophy --- Fall 2026"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
+      },
+      {
+        "id": "53d867a946b1b4bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3247b01951b29295",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,8 +312,12 @@
       "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "3247b01951b29295",
   "lastOpenFiles": [
+    "Untitled 1.yarn",
+    "Untitled 2.yarn",
+    "Untitled 3.yarn",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "In Progress Papers/The Testimony of Ballet Reconstructions/The-Testimony-of-Ballet-Reconstructions-1.pdf",
     "In Progress Papers/The Testimony of Ballet Reconstructions/Ballet Reconstruction Comments/Ballet Reconstruction/Longer-Comments.pdf",
     "Files/Teaching Portfolio/Teaching Evidence/Reynolds-Teaching-Statement.pdf",
@@ -328,17 +326,12 @@
     "Files/Teaching Portfolio/Montaque-Reynolds,-PhD-Long-Cover-Letter.pdf",
     "Files/Teaching Portfolio/Montaque Reynolds-CV.md",
     "Files/Teaching Portfolio/Montaque Reynolds, PhD-Long-Cover-Letter.md",
-    "Untitled 2.yarn",
-    "Untitled 3.yarn",
     "Notes/Experience Machine/Untitled.md",
-    "Untitled 1.yarn",
     "Untitled.yarn",
     "Notes/Experience Machine/RealityPlus_Map.yarn.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Notes/Experience Machine/Phaedrus-Philosophy in a New Key.md",
     "Notes/Experience Machine/Experience Machine.md",
     "Course Slides/Philosophy of Mind.md",
-    "Notes/Experience Machine",
     "Pasted.md",
     "Pasted image 20261017063020.png",
     "Pasted image 20261017062946.png",
