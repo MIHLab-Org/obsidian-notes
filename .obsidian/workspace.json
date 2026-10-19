@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "23fb97ac824a0636",
+        "id": "a29f8e25d20568a5",
         "type": "tabs",
         "dimension": 64.03669724770641,
         "children": [
           {
-            "id": "d4ab81b631e2768d",
+            "id": "2ddad423cc6da73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,13 +33,28 @@
             "id": "3632f30031bc402e",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
+              "type": "markdown",
+              "state": {
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Philosophy --- Fall 2026"
+            }
+          },
+          {
+            "id": "6a05af7a9f7a227f",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-release-notes",
               "state": {},
               "icon": "slides",
               "title": "Preview: Philosophy of Mind.md"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -73,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tri",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.07811737060547
+    "width": 300
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -179,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scope and Purpose.md/Scope and Purpose.qmd.md",
+                "file": "Course Slides/Philosophy of Mind.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,10 +232,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "yarn-spinner-editor:Open Yarn node graph": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-importer:Import notes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
+      "slides-extended:Show slide preview": false,
+      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,
@@ -233,18 +259,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "pdf-highlight-notes:Import PDF files": false,
       "pdf-highlight-notes:Highlight selection in PDF": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "slides-extended:Show slide preview": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Import notes": false
+      "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
   "active": "d4ab81b631e2768d",
@@ -295,6 +310,28 @@
     "Pasted image 20261017062946.png",
     "Pasted image 20261017062806.png",
     "Pasted image 20261017062740.png",
+    "Notes/Play in Predictive Minds.qmd/Play in Predictive Minds.md",
+    "In Progress Papers/Untitled.md",
+    "Files/Teaching Portfolio/Teaching Statement.md",
+    "Files/Teaching Portfolio/Teaching Evidence/Teaching Evidence.md",
+    "Files/Teaching Portfolio/Teaching Evidence/Summer-2026-Stetson-Evals.png",
+    "Files/Teaching Portfolio/Teaching Evidence/Fall-Spring-25-26-Stetson-Evals.png",
+    "Files/Teaching Portfolio/Teaching Evidence/Spring-2024-SLU-Evals.png",
+    "Files/Teaching Portfolio/Teaching Evidence/Fall-2023-SLU-Evals.png",
+    "Files/Teaching Portfolio/References/References.md",
+    "Files/Teaching Portfolio/Course Descriptions/Summary Introduction to Philosophy.md",
+    "Files/Teaching Portfolio/Course Descriptions/Introduction to Philosophy.md",
+    "Files/Research Portfolio/Research Statement.md",
+    "Courses Database/Meta/Assignment Descriptions/RealityCraft.md",
+    "Notes/Rational Decision Theory/Updating for Externalists/Updating for Externalists.md",
+    "Notes/Moral Epistemology/Moral Epistemology.md",
+    "Notes/Grounding and the Existence of God/Grounding and the Existence of God.md",
+    "Notes/Gabrielle Taylor/VIII. Love or Presence.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Required Texts.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Introduction to Philosophy.md",
+    "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Information.md",
+    "export/Reality+ Chapter 7/plugin/chalkboard/img/whiteboard.png",
+    "export/Reality+ Chapter 7/plugin/chalkboard/img/sponge.png",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
