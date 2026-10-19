@@ -6,6 +6,7 @@
       {
         "id": "a29f8e25d20568a5",
         "type": "tabs",
+        "dimension": 64.03669724770641,
         "children": [
           {
             "id": "2ddad423cc6da73b",
@@ -13,16 +14,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "file": "Course Slides/Philosophy of Mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
+              "title": "Philosophy of Mind"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d4086007fd28adb4",
+        "type": "tabs",
+        "dimension": 35.96330275229358,
+        "children": [
           {
-            "id": "b446eb53175df641",
+            "id": "3632f30031bc402e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -296,7 +304,7 @@
       "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "d4ab81b631e2768d",
   "lastOpenFiles": [
     "Untitled 1.yarn",
     "Untitled 2.yarn",
