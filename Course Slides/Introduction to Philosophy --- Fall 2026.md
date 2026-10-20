@@ -2511,7 +2511,7 @@ note:
 
 ---
 
-### How do mind and body interact  in a virtual world?
+## How do mind and body interact  in a virtual world?
 
 The Vivarium Program
 
@@ -2524,7 +2524,7 @@ Important input to the Vivarium program comes from the members of our advisory c
 These experts on animation, user interface concepts, artificial intelligence, evolution, machine learning, humor, and animal intelligence all inform and enlighten our efforts and help push us in our chosen direction.
 
 ---
-i
+
 Cognitive development
 
 note:
@@ -2611,6 +2611,10 @@ Narrator: We can imagine our entire species evolving in a virtual world, with vi
 ---
 
 #### Descartes and the Mind body problem
+
+> The Vivarium world had a “physics.” Simple rules governed the twodimensional grid and ordinary objects. It also had a “psychology.” The animals had separate rules governing their behavior. It was especially interesting to me that the physics and the psychology were distinct.
+
+---
 
 1. I can imagine my mind without my body. 
 2. I cannot imagine my body without my body.  ______________________ 
