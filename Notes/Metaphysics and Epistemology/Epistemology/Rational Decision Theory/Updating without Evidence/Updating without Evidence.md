@@ -1,9 +1,11 @@
+Isaacs, Yoaav, and Jeffrey Sanford Russell. 2023. “Updating without Evidence.” _Noûs_ 57 (3): 576–99. [https://doi.org/10.1111/nous.12426](https://doi.org/10.1111/nous.12426).Isaacs, Yoaav, and Jeffrey Sanford Russell. 2023. “Updating without Evidence.” _Noûs_ 57 (3): 576–99. [https://doi.org/10.1111/nous.12426](https://doi.org/10.1111/nous.12426).
+
 What should one believe?
 # In Summary
 
 Planning to follow an updating rule does not generally guarantee that you will successfully conform to it, but there is some connection between your planned rule and your future credences.
 
-![[Planning for Mistakes#When choosing between two kinds of lives, how do we determine which is worse and which is better?]]
+![[Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Carter/Planning for Mistakes#When choosing between two kinds of lives, how do we determine which is worse and which is better?]]
 
 ### The Problem
 

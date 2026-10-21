@@ -1,6 +1,6 @@
 [[4 Narrative and the Knowledge of Persons]]
 
-[[Planning for Mistakes]]
+[[Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Carter/Planning for Mistakes]]
 
 Ramachandran, Vilayanur S., and Lindsay M. Oberman. 2006. “Broken Mirrors: A Theory of Autism.” _Scientific American_ 295 (5): 62–69. [https://doi.org/10.1038/scientificamerican1106-62](https://doi.org/10.1038/scientificamerican1106-62).
 

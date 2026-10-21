@@ -1,3 +1,5 @@
+Carter, Sam. 2026. “Planning for Mistakes.” _Noûs_ n/a (n/a): e70043. [https://doi.org/10.1111/nous.70043](https://doi.org/10.1111/nous.70043).
+
 [[Rust-Skillfully confronting the unknown]]
 
 [[1 Suffering, Theodicy, and Defense]]

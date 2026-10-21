@@ -1,6 +1,6 @@
 [[Rust-Skillfully confronting the unknown]]
 
-[[Planning for Mistakes]]
+[[Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Carter/Planning for Mistakes]]
 
 ---
 ## Introduction
