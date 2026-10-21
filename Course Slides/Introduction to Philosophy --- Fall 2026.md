@@ -2511,77 +2511,7 @@ note:
 
 ---
 
-# Science, Conjectures, and Refutations
-
-K. Popper, “Science: Conjectures and Refutations, Philosophy of Science: A Personal Report,” In: C. A. Mace, Ed., British Philosophy in Mid-Century, 1957. http://philosophyfaculty.ucsd.edu/faculty/rarneson/Courses/popperphil1.pdf
-
----
-
-Science vs. Pseudo Science
-	Science is empirical, inductive, proceeding from observation or experiment.
-
-Which is pseudo scientific and which is scientific?
-
-|                        |                                      |
-| ---------------------- | ------------------------------------ |
-| Einstein's Relativity  | Marx's Theory of History             |
-| Freud's Psychoanalysis | Alfred Adler's Individual Psychology |
-
----
-
-|                                      | Scientific | Pseudo Scientific |
-| ------------------------------------ | ---------- | ----------------- |
-| Einstein's Relaativity               |            |                   |
-| Marx's Theory of History             |            |                   |
-| Freud's Psychoanalysis               |            |                   |
-| Alfred Adler's Individual Psychology |            |                   |
-
----
-
-
-|                                      | Scientific | Pseudo Scientific |
-| ------------------------------------ | ---------- | ----------------- |
-| Einstein's Relativity                |            |                   |
-| Marx's Theory of History             |            |                   |
-| Freud's Psychoanalysis               |            |                   |
-| Alfred Adler's Individual Psychology |            |                   |
-| Newton's Theory of Gravity           |            |                   |
-
----
-
-Not a problem of truth, exactness, or measurability.
-
-- Marxism: Confirming evidence everywhere
-- Freudian Analysis: every clinical observation verified the theory
-- Adler: 'And with this new case, I suppose, your experience has become thousand-and-one-fold.' (2)
-- Einstein: 
-	- Einstein's gravitational theory had led to the result that light must be attracted by heavy bodies (such as the sun), precisely as material bodies were attracted.
-		- As a consequence
-			- it could be calculated that light from a distant fixed star whose apparent position was close to the sun 
-			- would reach the earth from such a direction that the star would seem to be slightly shifted away from the sun; 
-			- or, 
-			- in other words, that stars close to the sun would look as if they had moved a little away from the sun, 
-			- and 
-			- from one another.
-		- If observation shows that the predicted effect is definitely absent, then the theory is simply refuted.
-
----
-
-## Verification vs. Falsification
-
-1. It is easy to obtain confirmations, or verifications, for nearly every theory--if we look  for confirmations. 
-2. Confirmations should count only if they are the result of risky predictions; that is to  say, if, unenlightened by the theory in question, we should have expected an event which was incompatible with the theory--an event which would have refuted the theory. 
-3. Every 'good' scientific theory is a prohibition: it forbids certain things to happen. The  more a theory forbids, the better it is. 
-4. A theory which is not refutable by any conceivable event is nonscientific. Irrefutability  is not a virtue of a theory (as people often think) but a vice. 
-5. Every genuine test of a theory is an attempt to falsify it, or to refute it. Testability is  falsifiability; but there are degrees of testability: some theories are more testable, more exposed to refutation, than others; they take, as it were, greater risks. 
-6. Confirming evidence should not count except when it is the result of a genuine test of  the theory; and this means that it can be presented as a serious but unsuccessful attempt.
-7. Some genuinely testable theories, when found to be false, are still upheld by their  admirers.
-	1. for example by introducing ad hoc some auxiliary assumption, 
-	2. or by reinterpreting the theory ad hoc in such a way that it escapes refutation.
-
----
-
-### How do mind and body interact  in a virtual world?
+## How do mind and body interact  in a virtual world?
 
 The Vivarium Program
 
@@ -2681,6 +2611,10 @@ Narrator: We can imagine our entire species evolving in a virtual world, with vi
 ---
 
 #### Descartes and the Mind body problem
+
+> The Vivarium world had a “physics.” Simple rules governed the twodimensional grid and ordinary objects. It also had a “psychology.” The animals had separate rules governing their behavior. It was especially interesting to me that the physics and the psychology were distinct.
+
+---
 
 1. I can imagine my mind without my body. 
 2. I cannot imagine my body without my body.  ______________________ 
