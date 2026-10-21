@@ -10,7 +10,7 @@ Department of Philosophy \
 Stetson University \
 Deland, FL. 32720 \
 jrust@stetson.edu \
-P: 303-815-888
+P: 303-815-8888
 
 Susan Pepper-Gates \
 Elizabeth Hall Rm. 104 \
