@@ -2525,7 +2525,14 @@ These experts on animation, user interface concepts, artificial intelligence, ev
 
 ---
 
-Cognitive development
+### Cognitive development
+
+Vivarium at Los Angeles "magnet" school.
+	Open School
+
+- Children are Natural Learners
+- Piaget's stages of cognitive Development
+- Diverse student body
 
 note:
 
@@ -2539,7 +2546,14 @@ With the support of the Open School's staff, some 300 culturally and racially mi
 
 ---
 
-Using virtual environments to encourage critical thinking in children
+#### Using virtual environments to encourage critical thinking in children
+
+Curriculum centered around thinking about thinking
+	- Studying and simulating strategies
+		- e.g., helping animals survive their environments
+		- i.e., create video games that enable the programming of animals' mental and behavioral characteristics
+			- eat
+			- move, etc
 
 note:
 
@@ -2617,23 +2631,89 @@ Narrator: We can imagine our entire species evolving in a virtual world, with vi
 ---
 
 1. I can imagine my mind without my body. 
-2. I cannot imagine my body without my body.  ______________________ 
+2. I cannot imagine my body without my mind.  ______________________ 
 3. So: My mind is not my body.
 
 ---
 
 What is the mind?
 
-note: 
+> The mind is the locus of our perceiving, feeling, thinking, and deciding. Seeing an apple is a state of my mind. Feeling happy is a state of my mind. Thinking that Paris is in France is a state of my mind. Deciding to go to a movie is a state of my mind.
 
-The mind is the locus of our perceiving, feeling, thinking, and deciding. Seeing an apple is a state of my mind. Feeling happy is a state of my mind. Thinking that Paris is in France is a state of my mind. Deciding to go to a movie is a state of my mind.
+---
 
+```
+    {
+        "role": "system",
+        "content": "Action output:\nSuccessfully crafted torch, you now have 4 torch.\n"
+    },
+    {
+        "role": "assistant",
+        "content": "lit, placing one down !placeHere(\"torch\")"
+    },
+    {
+        "role": "system",
+        "content": "Action output:\ntorch already at (-280, 66, 97).\n"
+    },
+    {
+        "role": "assistant",
+        "content": "creeper close, checking it !entities"
+    },
+    {
+        "role": "system",
+        "content": "\nNEARBY_ENTITIES\n- Human player: redapeman\n- entities: 1 creeper(s)\n"
+    },
+    {
+        "role": "assistant",
+        "content": "creeper close, taking care of it !attack(\"creeper\")"
+    },
+    {
+        "role": "system",
+        "content": "(AUTO MESSAGE)Your previous action 'action:attack' was interrupted by unstuck.\n        Your behavior log: I'm stuck!\nI'm free.\n\nRespond accordingly."
+    },
+    {
+        "role": "assistant",
+        "content": "freed up, back on it !attack(\"creeper\")"
+    },
+    {
+        "role": "system",
+        "content": "Action output:\nSuccessfully killed creeper.\nFound non-destructive path.\nPicked up 1 items.\n"
+    },
+    {
+        "role": "assistant",
+        "content": "nice, got it !nearbyBlocks"
+    },
+    {
+        "role": "system",
+        "content": "\nNEARBY_BLOCKS\n- torch\n- grass_block\n- dirt\n- oak_leaves\n- oak_log\n- stone\n- copper_ore\n- Block Below: grass_block\n- Block at Legs: torch\n- Block at Head: air\n- First Solid Block Above Head: oak_leaves (0 blocks up)\n"
+    },
+    {
+        "role": "assistant",
+        "content": "stepped in my torch, scooting out !moveAway(5)"
+    },
+    {
+        "role": "system",
+        "content": "Action output:\nFound non-destructive path.\nMoved away from (-292, 66, 86) to (-288, 65, 82).\n"
+    },
+    {
+        "role": "assistant",
+        "content": "all good, what's nearby !entities"
+    },
+    {
+        "role": "system",
+        "content": "\nNEARBY_ENTITIES\n- Human player: redapeman\n"
+    },
+    {
+        "role": "user",
+        "content": "redapeman: Please build a stair way from me to the surface and then at the top, a house."
+```
 
 ---
 
 ### Can there be consciousness in  a digital world?
 
-> Consciousness: The having of perceptions, thoughts, and feelings; awareness. The term is impossible to define except in terms that are unintelligiblewithout a grasp of what consciousness means. Many fall into the trap of confusing consciousness with self-consciousness—to be conscious it is only necessary to be aware of the external world. Consciousness is a fascinating but elusive phenomenon: it is impossible to specify what it is, what it does, or why it evolved. Nothing worth reading has been written about it. (Sutherland 1989)
+> Consciousness: 
+> 	The having of perceptions, thoughts, and feelings; awareness. The term is impossible to define except in terms that are unintelligiblewithout a grasp of what consciousness means. Many fall into the trap of confusing consciousness with self-consciousness—to be conscious it is only necessary to be aware of the external world. Consciousness is a fascinating but elusive phenomenon: it is impossible to specify what it is, what it does, or why it evolved. Nothing worth reading has been written about it. (Sutherland 1989)
 
 ---
 
@@ -2656,20 +2736,18 @@ https://youtu.be/VExw77xJsBQ?si=eTNhaTxba_J25GgM
 
 A internal kind of experience
 
-note:
-
-|                        |           |                                |
-| ---------------------- | --------- | ------------------------------ |
-| color sensations       | vivd      |                                |
-| background aromas      |           | faint                          |
-| pains                  | immediate |                                |
-| muted thoughts         |           | muted on the tip of the tongue |
-| sounds and smells      | mundane   |                                |
-| musical experience     |           | all encompassing               |
-| nagging itch           | trivial   |                                |
-| deep angst             |           | existential                    |
-| taste of peppermint    | specific  |                                |
-| experience of selfhood |           | general                        |
+|                        | Big Sensations | Small Sensations               |
+| ---------------------- | -------------- | ------------------------------ |
+| color sensations       | vivd           |                                |
+| background aromas      |                | faint                          |
+| pains                  | immediate      |                                |
+| muted thoughts         |                | muted on the tip of the tongue |
+| sounds and smells      | mundane        |                                |
+| musical experience     |                | all encompassing               |
+| nagging itch           | trivial        |                                |
+| deep angst             |                | existential                    |
+| taste of peppermint    | specific       |                                |
+| experience of selfhood |                | general                        |
 
 ---
 
