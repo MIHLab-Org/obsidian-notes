@@ -2633,4 +2633,50 @@ The mind is the locus of our perceiving, feeling, thinking, and deciding. Seeing
 
 ### Can there be consciousness in  a digital world?
 
+> Consciousness: The having of perceptions, thoughts, and feelings; awareness. The term is impossible to define except in terms that are unintelligiblewithout a grasp of what consciousness means. Many fall into the trap of confusing consciousness with self-consciousness—to be conscious it is only necessary to be aware of the external world. Consciousness is a fascinating but elusive phenomenon: it is impossible to specify what it is, what it does, or why it evolved. Nothing worth reading has been written about it. (Sutherland 1989)
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cmZ6mRX2lP4?si=yrYi3WFBeLH49G6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+https://youtu.be/_IYnosc2Rv4?si=lx0WoSWWXoAPFamW
+
+---
+
+https://youtu.be/VExw77xJsBQ?si=eTNhaTxba_J25GgM
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4HNZNvlhlN4?si=jY_g_uDp33LaPSGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
+A internal kind of experience
+
+note:
+
+|                        |           |                                |
+| ---------------------- | --------- | ------------------------------ |
+| color sensations       | vivd      |                                |
+| background aromas      |           | faint                          |
+| pains                  | immediate |                                |
+| muted thoughts         |           | muted on the tip of the tongue |
+| sounds and smells      | mundane   |                                |
+| musical experience     |           | all encompassing               |
+| nagging itch           | trivial   |                                |
+| deep angst             |           | existential                    |
+| taste of peppermint    | specific  |                                |
+| experience of selfhood |           | general                        |
+
+---
+
+Objective and subjective
+
+We can explain the development of the brain (objectivity), but we cannot explain the development of conscious experience (subjectivity).
+
+---
+
 ### Does augmented reality extend  the mind?
