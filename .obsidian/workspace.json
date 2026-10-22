@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Carter/Planning for Mistakes.md",
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planning for Mistakes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5b840350f7f37c40",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5bbd3a04fafebdf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
+              "title": "Introduction to Philosophy --- Fall 2026"
             }
           }
         ]
@@ -103,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.07811737060547,
-    "collapsed": true
+    "width": 344.07811737060547
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -250,9 +229,17 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "5bbd3a04fafebdf5",
+  "active": "d4ab81b631e2768d",
   "lastOpenFiles": [
     "Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Carter/Planning for Mistakes.md",
+    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
+    "Notes/Science, Logic, and Mathematics/Philosophy of Cognitive Science/Living with and Doing Things with Machines/Living with and Doing Things with Machines.md",
+    "Notes/Science, Logic, and Mathematics/Philosophy of Cognitive Science/Play in Predictive Minds.qmd/Play in Predictive Minds.md",
+    "Notes/Foundations/Experience Machine.md",
+    "Notes/Experience Machine/RealityPlus_Map.yarn.md",
+    "Notes/Experience Machine/Phaedrus-Philosophy in a New Key.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+    "Notes/Foundations",
     "Files/Teaching Portfolio/Course Descriptions/Introduction to Philosophy.md",
     "Courses Database/Courses/Introduction to Philosophy/Introduction to Philosophy, Summer 2026/Course Resources/Literature.md",
     "Courses Database/Courses/Introduction to Philosophy/Introduction to Philosophy, Summer 2026/Course Resources/Untitled.md",
@@ -271,23 +258,15 @@
     "Files/Official Teaching Portfolio/Introduction To Philosophy/Course Information.md",
     "Courses Database/Courses/Introduction to Philosophy/PHIL 101B Introduction to Philosophy - Syllabus/PHIL 101B Introduction to Philosophy - Syllabus.md",
     "Courses Database/Courses/Introduction to Philosophy/Introduction to Philosophy, Spring 2026/Introduction to Philosophy, Spring 2026.md",
-    "Courses Database/Courses/Slow Existential Death/Course The Slow.md",
-    "Files/Teaching Portfolio/Recommendations/Jacob Prueter.md",
     "Files/Teaching Portfolio/Recommendations/Jacob-Prueter.pdf",
     "Files/Teaching Portfolio/Recommendations/Jacob-Prueter.log",
     "Files/Teaching Portfolio/Recommendations/Jacob-Prueter.aux",
     "Files/Teaching Portfolio/Recommendations/Jacob-Prueter.tex",
     "Files/Teaching Portfolio/Recommendations/Jacob Prueter_files/mediabag",
     "Files/Teaching Portfolio/Recommendations/Jacob Prueter_files",
-    "Files/Teaching Portfolio/Recommendations/Template.md",
-    "Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Jeffrey/The Logic of Decision/The Logic of Decision.md",
     "Files/Teaching Portfolio/Notion Installer.exe",
     "Files/Teaching Portfolio/Unconfirmed 939250.crdownload",
-    "Notion/Moral Imagination and Hope Laboratory/📝 Notes and Course Schedule/📝 Notes and Course Schedule Note Template.md",
-    "Notion/Moral Imagination and Hope Laboratory/📝 Notes and Course Schedule/Untitled.md",
-    "Notion/Moral Imagination and Hope Laboratory/Notero Advanced/Rational decision and causality.md",
     "Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Jeffrey/The Logic of Decision",
-    "Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Jeffrey",
     "Files/Teaching Portfolio/Teaching Evidence/Fall-Spring-25-26-Stetson-Evals.png",
     "Files/Teaching Portfolio/Teaching Evidence/Spring-2024-SLU-Evals.png",
     "Files/Teaching Portfolio/Teaching Evidence/Fall-2023-SLU-Evals.png",
