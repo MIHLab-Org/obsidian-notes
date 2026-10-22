@@ -1605,10 +1605,12 @@ Is love ever unjustified?
 Augustinian conception: failure to seek help, possible because of God's grace.
 
 But what is sanctification?
-	However, willing the good is related to self-love, love with self and with God.
-		higher-order desire to will the good
-		but presupposes general higher-order desire
-	Faith-unites belief and faith
+* Willing the good is related to self-love
+	* love with self and with God.
+	* higher-order desire to will the good
+		* but presupposes general higher-order desire
+	* Faith-unites belief and faith
+		* But should be "unites will"?
 
 ---
 

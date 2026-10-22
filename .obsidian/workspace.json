@@ -89,22 +89,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "fdac2231a4521703",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "48b5667cce247522",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -312,8 +296,14 @@
       "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "69b839371daaaf4f",
   "lastOpenFiles": [
+    "Files/Teaching Portfolio/References/Important Contacts.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "Course Slides/Philosophy of Mind.md",
+    "In Progress Papers/RealityCraft/RealityCraft.md",
+    "MIHLab Database/RealityCraft/Logs.md",
+    "MIHLab Database/RealityCraft/RealityCraft.md",
     "Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Jeffrey/The Logic of Decision/The Logic of Decision.md",
     "Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Rust/The Epistemology of Narrative Knowledge/The Utopia of a shared narrative that looks to the future.md",
     "Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Rust/The Epistemology of Narrative Knowledge/Narrative Theory, Mind, and Text.md",
@@ -338,22 +328,16 @@
     "Notes/Metaphysics and Epistemology/Epistemology/Rational Decision Theory/Carter",
     "Notes/Metaphysics and Epistemology/Epistemology/Moral Epistemology/Moral Epistemology.md",
     "Notes/Metaphysics and Epistemology/Philosophy of Religion/The Ontological Argument",
-    "Files/Teaching Portfolio/References/Important Contacts.md",
     "Files/Teaching Portfolio/Recommendations/Jacob Prueter.md",
-    "Course Slides/Philosophy of Mind.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Files/Teaching Portfolio/Montaque Reynolds-CV.md",
     "Files/Teaching Portfolio/Montaque Reynolds, PhD-Long-Cover-Letter.md",
     "Notes/Experience Machine/Untitled.md",
     "Notes/Experience Machine/RealityPlus_Map.yarn.md",
     "Notes/Experience Machine/Phaedrus-Philosophy in a New Key.md",
-    "Notes/Experience Machine/Experience Machine.md",
-    "Pasted.md",
     "Pasted image 20261017063020.png",
     "Pasted image 20261017062946.png",
     "Pasted image 20261017062806.png",
     "Pasted image 20261017062740.png",
-    "Notes/Play in Predictive Minds.qmd/Play in Predictive Minds.md",
     "Files/Teaching Portfolio/Teaching Evidence/Summer-2026-Stetson-Evals.png",
     "Files/Teaching Portfolio/Teaching Evidence/Fall-Spring-25-26-Stetson-Evals.png",
     "Files/Teaching Portfolio/Teaching Evidence/Spring-2024-SLU-Evals.png",
