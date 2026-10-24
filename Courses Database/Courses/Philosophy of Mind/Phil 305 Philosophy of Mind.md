@@ -80,13 +80,13 @@ By course end, you will be able to:
 
 ## Assignment Breakdown
 
-| Assignment | # | Points Each | Total | % Grade |
-| --- | --- | --- | --- | --- |
-| Weekly | 6 | 20 | 120 | 38% |
-| Theory Analyses | 3 | 25 | 75 | 23% |
-| Thought Experiment Sessions | 3 | 15 | 45 | 14% |
-| Final Project | 1 | 80 | 80 | 25% |
-| **TOTAL** | — | — | **320** | **100%** |
+| Assignment                  | #   | Points Each | Total   | % Grade  |
+| --------------------------- | --- | ----------- | ------- | -------- |
+| Weekly                      | 6   | 20          | 120     | 38%      |
+| Theory Analyses             | 3   | 25          | 75      | 23%      |
+| Thought Experiment Sessions | 3   | 15          | 45      | 14%      |
+| Final Project               | 1   | 80          | 80      | 25%      |
+| **TOTAL**                   | —   | —           | **320** | **100%** |
 
 **Grade Scale:** A 93–100% (297–320) | A- 90–92% (288–296) | B+ 87–89% (278–287) | B 83–86% (266–277) | B- 80–82% (256–265) | C+ 77–79% (246–255) | C 73–76% (234–245)
 

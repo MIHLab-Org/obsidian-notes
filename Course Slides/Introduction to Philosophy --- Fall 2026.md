@@ -2757,4 +2757,46 @@ We can explain the development of the brain (objectivity), but we cannot explain
 
 ---
 
-### Does augmented reality extend  the mind?
+### Princess Elizabeth
+
+> So I ask you please to tell me how the soul of a human being (it being only a thinking substance) can determine the bodily spirits, in order to bring about voluntary actions. For it seems that all determination of movement happens through the impulsion of the thing moved, by the manner in which it is pushed by that which moves it, or else by the particular qualities and shape of the surface of the latter. Physical contact is required for the first two conditions, extension for the third. You entirely exclude the one [extension] from the notion you have of the soul, and the other [physical contact] appears to me incompatible with an immaterial thing.
+
+
+---
+
+# Can there be consciousness in  a digital world?
+
+---
+
+## The problem of consciousness
+
+---
+
+## The problem of other minds
+
+---
+
+## Can machines be conscious?
+
+---
+
+## Consequences
+
+---
+
+# Does augmented reality extend  the mind?
+
+---
+
+## The extended mind
+
+---
+
+## The argument for the extended mind
+
+---
+
+## Consequences of the extended mind
+
+---
+

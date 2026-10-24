@@ -1,0 +1,25 @@
+// Ctrl/Cmd-click any jump target to go to that node (or create it if it doesn't exist yet).
+// Metaphysics is the central branch of philosophy, and it concerns itself primarily with "the nature and structure of reality" (Joshua R. Sijuwade, Analytic Theism: A Philosophical Investigation (Routledge, 2024)).
+title: Start
+---
+Descartes: Look around you. Where are we? What do you see? What is it? Is it real? Does it exist? What properties does it have, is it hard or soft? Solid or porous? Black or purple? Does it reflect light or does it obsorb light? Now close your eyes. What do you see? Is that real?
+You: I don't know. I am considering selling my car. But I don't know if I should. I don't know which position I take will be justified for me. 
+-> For instance, perhaps justification is ground in a fact about my brain and behavior. So to determine justification, we just need a bit of science.
+    <<jump Naturalized_Epistemology_introduction>>
+-> There are some things that I know and some things that I don't. I would really like to know the difference between the two.
+    <<jump Traditional_Epistemology>>
+===
+
+//naturalized epistemology
+title: Naturalized_Epistemology_introduction
+---
+Descartes: You probably should go talk to my friend Willfred Quine. He was very disatisfied with my project. He didn't think that I had solved any questions about the nature of knowledge. I was very disapointed when he told me. He felt that my skeptical hypotheses and other worries are exactly what one might expect from "arm chair" philosophy. This is just philosophy done by thinking, not relying on empirical study and the like.
+-> Maybe this is not what I wanted after all then. I think that there is quite a bit of things that we can know just by thinking about it. I don't really need to count blades of grass to confirm my hypotheses.
+Quine: Only the scientific method can reveal to me what is truly there. With enough scientific study, I'll come to a better understanding of what's real, or what exists, or what something's properties are.
+<<jump Start>>
+===
+//traditional epistemology
+title: Traditional_Epistemology
+---
+Descartes: I think that maybe I should sit down somewhere real quiet and carefully reflect on the evidence that I have and then and only then will my choice be justified.
+-> 
