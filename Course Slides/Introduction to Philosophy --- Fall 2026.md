@@ -2783,12 +2783,24 @@ We can explain the development of the brain (objectivity), but we cannot explain
 
 ---
 
+#### The Important Ones
+
+- Consciousness
+- Other minds
+- Machine Consciousness
+
+---
+
 - Advanced simulated beings in a virtual world
 - Is simulating a brain possible?
 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A8fDr7Rr7yM?si=c8IaH3pzq7XSgrGm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+note:
+
+Crude version of mind uploading
 
 ---
 
@@ -2800,7 +2812,7 @@ We can explain the development of the brain (objectivity), but we cannot explain
 
 ---
 
-#### The Hard Problem
+#### Hard and Easy Problems
 
 - Consciousness
 - Intelligence
@@ -2827,34 +2839,167 @@ objective
 
 ## The problem of consciousness
 
+- What is it like to be a system?
+- Brain mechanisms do not tell us about subjective experience
+- Explaining behaviors do not tell us about subject experience
+
+---
+
+##### Some Approaches
+
+- Panpsychism
+	- There is consciousness in every physical system
+- Reductionism
+	- Consciousness can be explained in purely physical terms
+		- Illusionism: Consciousness is an illusion
 
 ---
 
 ## The problem of other minds
 
----
-
-## Can machines be conscious?
+I can know that I am conscious, but what about everyone else?
 
 ---
 
-## Consequences
+# Science, Conjectures, and Refutations
+
+- What is sentience?
+- What does it mean to be self-aware?
+- What is consciousness?
+- Do other people have minds?
 
 ---
 
-# Does augmented reality extend  the mind?
+##### Problems with Verification
+
+![[Pasted image 20261026091404.png]]
+
+---
+#### Some Theories
+
+- Marxism
+- Psycho-Analysis
+- Individual Psychology
+- Newton's Theory
+- Theory of Relativity
 
 ---
 
-## The extended mind
+### The Problem of Induction
+
+> I have found that such an object has always been attended with such an effect, and I foresee, that other objects, which are, in appearance, similar, will be attended with similar effects. (E. 4.2.16)
 
 ---
 
-## The argument for the extended mind
+![[Pasted image 20261026091600.png]]
 
 ---
 
-## Consequences of the extended mind
+Hume tries to give a causal explanation of a psychological fact.
+
+> the fact that we believe in laws, in statements asserting regularities or constantly conjoined kinds of events--by asserting that this fact is due to (i.e. constantly conjoined with) custom or habit. (Popper, n.d., p. 8)
+
+- custom or habit
+- of believing in laws or regularities
 
 ---
+
+###### Premise 1
+
+> All reasonings may be divided into two kinds, namely, demonstrative reasoning, or that concerning relations of ideas, and moral reasoning, or that concerning matter of fact and existence. (Henderson 2024; E. 4.2.18)
+
+---
+
+###### Premise 2
+
+> if Reason determin’d us, it would proceed upon that principle that instances, of which we have had no experience, must resemble those, of which we have had experience, and that the course of nature continues always uniformly the same. (Henderson 2024; T. 1.3.6.4)
+
+---
+
+###### Premise 3
+
+> it implies no contradiction that the course of nature may change, and that an object seemingly like those which we have experienced, may be attended with different or contrary effects. (Henderson 2024; E. 4.2.18)
+
+---
+
+###### Conclusion
+
+> Thus, not only our reason fails us in the discovery of the ultimate connexion of causes and effects, but even after experience has inform’d us of their constant conjunction, ’tis impossible for us to satisfy ourselves by our reason, why we shou’d extend that experience beyond those particular instances, which have fallen under our observation. (Henderson 2024; T. 1.3.6.11/91–2)
+
+
+---
+
+##### Popper Improves on
+
+1. It is easy to obtain confirmations, or verifications, for nearly every theory--if we look  for confirmations. 
+2. Confirmations should count only if they are the result of risky predictions; that is to  say, if, unenlightened by the theory in question, we should have expected an event which was incompatible with the theory--an event which would have refuted the theory. 
+3. Every 'good' scientific theory is a prohibition: it forbids certain things to happen. The  more a theory forbids, the better it is. 
+4. A theory which is not refutable by any conceivable event is nonscientific. Irrefutability  is not a virtue of a theory (as people often think) but a vice.
+
+---
+
+5. Every genuine test of a theory is an attempt to falsify it, or to refute it. Testability is  falsifiability; but there are degrees of testability: some theories are more testable, more exposed to refutation, than others; they take, as it were, greater risks. 
+6. Confirming evidence should not count except when it is the result of a genuine test of  the theory; and this means that it can be presented as a serious but unsuccessful attempt to falsify the theory. (I now speak in such cases of 'corroborating evidence'.) 
+7. Some genuinely testable theories, when found to be false, are still upheld by their  admirers--for example by introducing ad hoc some auxiliary assumption, or by reinterpreting the theory ad hoc in such a way that it escapes refutation. Such a procedure is always possible, but it rescues the theory from refutation only at the price of destroying, or at least lowering, its scientific status. (I later described such a rescuing operation as a 'conventionalist twist' or a 'conventionalist stratagem'.)
+
+---
+
+#### Takeaway
+
+![[Pasted image 20261026091718.png]]
+
+---
+
+> That is, within this era of philosophy, there was a great emphasis placed on the view that the only ‘real’ things are things of sense impressions and objects that are directly observable (or verifiable by direct observation)—and thus knowledge is only limited to past, present, and future alterations of these sense impressions and observable objects. (Sijuwade 2024, p. 4)
+
+---
+
+> Hence, knowledge concerning reality is limited—and thus talk about anything else outside of this restricted domain is meaningless.
+
+---
+
+##### However,
+
+> . . . through the influence of key figures like Wilfred V.O. Quine (1960), Saul Kripke (1980), and later on David Lewis (1986), alongside the development of modal logic and philosophy of language—and the discovery of the evident ‘over-restrictiveness’ and incoherence of the cherished principle of the positivist era: the ‘Verification Principle’ (i.e., a principle that states that a proposition (statement) is only meaningful if it is directly verifiable or tautological)—there was a strong countering of the dominant influence of positivism over philosophy, ultimately allowing metaphysics to regain a central place in philosophical discussions.4 Thus, metaphysics is now considered a vibrant and essential part of philosophy, pushing the boundaries of human understanding of the fundamental nature and structure of reality.
+
+---
+
+1. Verification Principle is overly restrictive
+2. Verification Principle is incoherent
+
+---
+
+#### New Philosophy of Mind
+
+What is the intricate relationship between mental and physical realms? How do mental states with their subjective qualities relate to physical processes in the brain (Sijuwade 2024, 8).
+
+1. Substance Dualism
+2. Physicalism
+
+---
+
+###### Substance Dualism
+
+> By some miracle we might continue to exist without our body, but no miracle would make it possible for us to exist without our soul—because for each of us our soul is the one essential part of us. (Swinburne 2019, 1)
+
+---
+
+- Humans are physical substances
+- But we are also conscious
+- Our consciousness determines what we do
+- So while bodies keep us alive
+	- enable us to enact with each other and the world
+- Our souls are essentially who we are
+
+---
+
+###### Physicalism
+
+| ![[Pasted image 20261026093628.png]]                                                                                                                                                                                               | ![[Pasted image 20261026093656.png]]                                                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "While mental states might be reducible to physical states, they still play a causal role" (Sijuwade 2024, 9).                                                                                                                     | "our common-sense understanding of mental states (or folk psychology) might be fundamentally flawed and should be replaced by a neuroscientific account" (Sijuwade 2024, 10).                                                                                                                                                                                       |
+| "Under mind-body supervenience a physical base property, P, for mental property M guarantees, as a matter of necessity, the occurrence of M; that is, necessarily if something instantiates P, it instantiates M." (Kim 2000, 10). | 1. mental processes are brain processes, <br>2. the theoretical framework resulting from a co-evolution of neuroscience and psychology is bound to be superior to folk psychology, and <br>3. it is most unlikely that we can devise an adequate theory of the mind -brain without knowing in great detail about the structure and organization of nervous systems. |
+
+---
+
 
