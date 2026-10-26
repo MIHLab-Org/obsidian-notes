@@ -2993,11 +2993,16 @@ What is the intricate relationship between mental and physical realms? How do me
 
 ---
 
-###### Physicalism
+##### Physicalism
 
-| ![[Pasted image 20261026093628.png]]                                                                                                                                                                                               | ![[Pasted image 20261026093656.png]]                                                                                                                                                                                                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![[Pasted image 20261026093628.png]]![[Pasted image 20261026093656.png]]
+
+
+---
+
+
 | "While mental states might be reducible to physical states, they still play a causal role" (Sijuwade 2024, 9).                                                                                                                     | "our common-sense understanding of mental states (or folk psychology) might be fundamentally flawed and should be replaced by a neuroscientific account" (Sijuwade 2024, 10).                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | "Under mind-body supervenience a physical base property, P, for mental property M guarantees, as a matter of necessity, the occurrence of M; that is, necessarily if something instantiates P, it instantiates M." (Kim 2000, 10). | 1. mental processes are brain processes, <br>2. the theoretical framework resulting from a co-evolution of neuroscience and psychology is bound to be superior to folk psychology, and <br>3. it is most unlikely that we can devise an adequate theory of the mind -brain without knowing in great detail about the structure and organization of nervous systems. |
 
 ---
