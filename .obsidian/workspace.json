@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "8baaca2cf80ad0f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8ececf85d90f230",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +245,7 @@
       "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "b8ececf85d90f230",
   "lastOpenFiles": [
     "Files/Teaching Portfolio/Recommendations/Template.md",
     "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Jacob Prueter.md",
