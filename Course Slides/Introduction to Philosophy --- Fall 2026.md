@@ -2734,7 +2734,7 @@ https://youtu.be/VExw77xJsBQ?si=eTNhaTxba_J25GgM
 ---
 
 
-A internal kind of experience
+An internal kind of experience
 
 |                        | Big Sensations | Small Sensations               |
 | ---------------------- | -------------- | ------------------------------ |
@@ -2766,9 +2766,67 @@ We can explain the development of the brain (objectivity), but we cannot explain
 
 # Can there be consciousness in  a digital world?
 
+- What is sentience?
+- What does it mean to be self-aware?
+- What is consciousness?
+
+---
+
+### Some Problems
+
+- Descartes' *automoata*:
+	- Descartes believed that humans had minds distinct from their body
+	- The locus of the movements of a person's body was the pineal gland
+	- Animals do not possess a mind, behavior only explicable in terms of physical mechanisms
+
+> Imagine God creating the world and deciding to bring into existence the whole of the purely physical universe. Having created this physical universe, did he have to do any more work to provide for consciousness? (Kirk 2023)
+
+---
+
+- Advanced simulated beings in a virtual world
+- Is simulating a brain possible?
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A8fDr7Rr7yM?si=c8IaH3pzq7XSgrGm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+- Mind-Uploading
+	- Can it generate intelligent behavior?
+	- Can we measure well enough?
+	- Will it be conscious?
+	- Will it be the same?
+
+---
+
+#### The Hard Problem
+
+- Consciousness
+- Intelligence
+
+note:
+
+To a first approximation, intelligence is sophisticated and flexible goal-directed behavior. (Chalmers and Peacock 2022, 275)
+
+---
+
+##### Easy Problems
+
+There are standard methods for explaining the behaviors of a cognitive system. 
+
+- To explain a behavior, you need to 
+	- identify a mechanism and show how it produces the behavior. 
+	- The mechanism might be a system in the brain, or some sort of algorithm that we think the brain is using.
+
+note:
+
+objective
+
 ---
 
 ## The problem of consciousness
+
 
 ---
 

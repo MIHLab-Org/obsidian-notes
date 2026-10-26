@@ -6,110 +6,19 @@
       {
         "id": "a29f8e25d20568a5",
         "type": "tabs",
-        "dimension": 54.132231404958674,
         "children": [
-          {
-            "id": "2ddad423cc6da73b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
-            }
-          },
-          {
-            "id": "b446eb53175df641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
-            }
-          },
-          {
-            "id": "6a05af7a9f7a227f",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-release-notes",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-release-notes"
-            }
-          },
-          {
-            "id": "bcac440858c30521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Experience Machine/RealityPlus_Map.yarn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RealityPlus_Map.yarn"
-            }
-          },
-          {
-            "id": "031a88d936734398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Experience Machine/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
           {
             "id": "69b839371daaaf4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "7e703e12a799d508",
-        "type": "tabs",
-        "dimension": 45.867768595041326,
-        "children": [
-          {
-            "id": "b252d49684398804",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
-                "page": 2,
-                "left": -29,
-                "top": 605,
-                "zoom": 0.5857843137254902
-              },
-              "icon": "lucide-file-text",
-              "title": "Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd"
+              "title": "Introduction to Philosophy --- Fall 2026"
             }
           }
         ]
@@ -174,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -321,24 +229,26 @@
       "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
-  "active": "69b839371daaaf4f",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
+    "Files/Teaching Portfolio/Recommendations/Template.md",
+    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Jacob Prueter.md",
+    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Jacob-Prueter.pdf",
+    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/LOR.pdf",
+    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Unconfirmed 689543.crdownload",
+    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter",
+    "Files/Teaching Portfolio/Recommendations/New folder",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.aux",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.tex",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files/mediabag",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "Course Slides/Philosophy of Mind.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Notes/Value Theory/Value theory/The Good Life/Nussbaum 1986.md",
-    "Notes/Value Theory/Value theory/The Good Life",
     "Notes/Value Theory/Value theory/Love/Gabrielle Taylor/VIII. Love or Presence.md",
-    "Notes/Value Theory/Value theory/Love/Gabrielle Taylor",
-    "Notes/Value Theory/Value theory/Love",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Untitled.yarn",
     "Notes/Metaphysics and Epistemology/Epistemology/Epistemological Positions/Skeptics/Barry Stroud.md",
     "Notes/Metaphysics and Epistemology/Epistemology/Epistemological Positions/Coherentists/Donald Davidson.md",
     "Notes/History of Western Philosophy/Republic.md",
@@ -357,7 +267,6 @@
     "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part II Explanatory Analysis/Chapter 9 Personal Reality.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part II Explanatory Analysis/Chapter 8 Relational Reality.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part II Explanatory Analysis/Chapter 7 Ontological Reality.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part II Explanatory Analysis/Chapter 6 Temporal Reality.md",
     "Pasted image 20261017063020.png",
     "Pasted image 20261017062946.png",
     "Pasted image 20261017062806.png",
