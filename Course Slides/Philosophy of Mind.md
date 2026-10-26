@@ -2,6 +2,87 @@ Fall 2026
 
 #planningformistakes 
 
+# Extant Theories
+
+## Physicalism
+
+---
+
+1. Dualism
+	1. Descartes-Cogito
+	2. Descartes-Passions
+	3. Huxley-Animals are Automata
+	4. Smullyan-The Unfortunate Dualist
+
+---
+
+1. Behaviorism
+	1. Ryle-Descartes' Myth
+	2. Carnap-Psychology and Physical Language
+	3. Putnam-Brains and Behavior
+
+---
+
+1. The Identity Theory
+	1. Place-Consciousness and Brain Processes
+	2. Smart-Sensations and Brain Processes
+	3. Feigl-Mental vs. the Physical
+
+---
+
+1. Functionalism
+	1. Nature of Mental States
+	2. Causalist Theories
+	3. The Theoretical and Psychophisicalist Theories
+	4. Troubles with Functionalism
+	5. Qualium Inversion
+
+---
+
+2. Psychophysical Theories
+	1. Mechanicalism
+	2. Mental Events
+	3. Special Sciences
+	4. Reductionism
+	5. Supervience Theories
+	6. Naturalism and the Mind
+
+---
+
+3. Mental Causation
+	1. Causation Problems
+	2. Causation
+
+---
+
+## Consciousness
+
+---
+
+1. General Positions
+	1. Concepts
+	2. Subjective Experience
+	3. Qualia
+	4. Consciousness and Naturalism
+
+---
+
+2. The Knowledge Argument
+3. Modal Arguments
+4. The Explanatory Gap
+5. Higher-Order Thought and Representationalism
+
+---
+
+## Content
+
+1. Intentionality
+2. Propositional Attitudes
+3. Internalism and Externalism
+4. Miscellaneous
+
+---
+
 # Mental and Physical Properties of Love
 
 ---
@@ -1719,3 +1800,84 @@ Significant vs. Minimal presence
 First imagine:
 
 > If Paula is blind and falls over Jerome when he is unconscious in her path, she may cause him to be moved by falling over him; and she may know by touch that it is a human person she has fallen over. Paula will thus have direct and unmediated causal and cognitive connection with Jerome; but she is not present to Jerome. (112)
+
+---
+
+## Concepts of the Self
+
+1. Suffering and the Self
+2. Psychic Disentegration
+3. Rediscovering the Self
+4. Psychic Regeneration
+
+---
+
+### The Cogito and Existence of the Self
+
+---
+
+>  It is some years now since I realized how many false opinions I had accepted as true from childhood onwards,* and that, whatever I had since built on such shaky foundations, could only be highly doubtful. (René Descartes and Michael Moriarty, _Meditations on First Philosophy: With Selections from the Objections and Replies_ (Oxford University Press, 2008, p. 17).)
+
+---
+
+> Certainly, up to now whatever I have accepted as fully true I have learned either from or by means of the senses: but I have discovered that they sometimes deceive us, and prudence dictates that we should never fully trust those who have deceived us even once.
+ 
+---
+
+### How do you know you aren’t dreaming or that your senses aren’t deceiving you?
+
+Our experiences
+
+> This is all very well, to be sure. But am I not a human being, and therefore in the habit of sleeping at night, when in my dreams I have all the same experiences as these madmen do when they are awake or sometimes even stranger ones?
+
+> Let us then suppose* that we are dreaming, and that these particular things (that we have our eyes open, are moving our head, stretching out our hands) are not true; and that perhaps we do not even have hands or the rest of a body like what we see.
+
+---
+
+### Descartes’ Evil Demon
+
+---
+
+> However, there is a certain opinion long fixed in my mind, that there is a God who is all-powerful, and by whom I was created such as I am now. Now how do I know that he has not brought it about that there is no earth at all, no heavens, no extended things, no shape, no magnitude, no place—and yet that all these things appear to me to exist just as they do now?*
+
+---
+
+> I will therefore suppose that, not God, who is perfectly good and the source of truth, but some evil spirit, supremely powerful and cunning, has devoted all his efforts to deceiving me.*
+
+---
+
+> I therefore suppose that all I see is false; I believe that none of those things represented by my deceitful memory has ever existed; in fact I have no senses at all; body, shape, extension in space, motion, and place itself are all illusions. What truth then is left? Perhaps this alone, that nothing is certain.
+
+---
+i
+#### But the Cogito
+
+> Did I therefore not also convince myself that I did not exist either? No: certainly I did exist, if I convinced myself of something.—But there is some deceiver or other, supremely powerful and cunning, who is deliberately deceiving me all the time. Beyond doubt then, I also exist, if he is deceiving me; and he can deceive me all he likes, but he will never bring it about that I should be nothing as long as I think I am something.
+
+---
+
+> So that, having weighed all these considerations sufficiently and more than sufficiently, I can finally decide* that this proposition, ‘I am, I exist’, whenever it is uttered by me, or conceived in the mind, is necessarily true.
+
+---
+
+1. Skepticism about the external world
+	1. How do you know your senses aren’t deceiving you?
+	2. How do you know you aren’t dreaming?
+	3. Descartes’ Evil Demon
+2. I think therefore I am
+
+---
+
+- - God is a perfect being.
+- - God is the idea of a being who is perfectly good, perfectly wise, and so on.
+- - Therefore the idea itself is a perfect idea,
+- - and therefore it could not have come from anywhere except from a perfect being.
+- I am not perfect so the idea did not come from me.
+- Therefore the idea came from somewhere other than me.
+- Therefore something besides myself exists
+- God exists
+- God would not want me to be deceived
+- So I am not deceived
+
+---
+
