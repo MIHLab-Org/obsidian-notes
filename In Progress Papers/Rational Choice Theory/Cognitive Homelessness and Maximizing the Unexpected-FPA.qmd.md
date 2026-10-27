@@ -7,7 +7,21 @@ Author: Montaque Reynolds
 
 Decision theory derives from a long tradition in consequentialism and epistemology. As such, it is rooted across two drastically divergent paths. Philosophers are often concerned with normative questions about how people should decide to act rather than descriptive ones about how they in fact do decide to act. However, many authors have pointed out that normative decision theory cannot always guide us through important decisions (LA Paul 2015a; 2015b; Rust, 2025; Carter 2026).  These authors have argued that normative decision theories are impossible because we often have imperfect access to our own epistemic states (cf. Jackson 1991; Howard-Snyder 1997; Lenman 2000). Increasingly, these epistemic states are seen to have important implications for our moral states. Paul (2015a; 2015b) argues that personally transformative decisions are generally inaccessible experiences that are opaque to us until we've had the right experience. Some other authors, however, have argued that narrative gives us access to such states (Nussbaum 1986; Altshuler 2021; Nussbaum 1983; Goldie 2003, 2009; Stump 2010). I want to tackle perhaps the most important decision we could make, deciding whether or not we are in love. At once, these kinds of decisions are difficult since they obscure the chasm between our moral and epistemic states. For instance, because such cases are transformative, it is often easier to determine if we are in love when we are in love, and out of love when we are out of it (Carter 2026, p. 9; also see Rust 2025). Here, the epistemic weight of such questions are ground in the moral impact of the same.
 
-In her account of closeness and presence from her book, Wandering in Darkness, Eleonore Stump argues that love is an interaction of "two mutually governing desires for the good of the beloved and fro union with the beloved" [page number]. However, psychic fragmentation can leave a person alienated from herself and therefore alienated from her own two mutually governing desires.
+How do we determine the meaning of concepts like love? It may help to first understand the nature of suffering. To do this, we would first look at the traditional problem of evil, substituting evil with suffering.
+
+1. There is suffering in the world.
+2. There is an omniscient, omnipotent, perfectly good God.
+3. There is no morally sufficient reason for an omniscient, omnipotent, perfectly good God to allow suffering in the world.
+
+But what is suffering? At once, we are confronted with a similar problem. How do we determine the nature of a seemingly immaterial concept like love or suffering? Many will want to determine that to do so, we just need to understand the physical properties underlying the state in question. For instance, if we understand what the brain is like when a person suffers, then we should know what is the nature of suffering. However, this tells us what the objective status of suffering is, but not the subjective, which is what we want.
+
+Second, remember that we initially substituted evil with suffering. But what this represents is a conflation of sorts. Either way, what it means is that suffering is negatively valenced, not desirable. As such, we should stress that here, suffering is separate from pain. Unlike suffering, it may be the case that we have instrumental reasons for pursuing painful experiences, like running a marathon. But we have no instrumental reasons for pursuing suffering.
+
+In her account of closeness and presence from her book, Wandering in Darkness, Eleonore Stump argues that love is an interaction of "two mutually governing desires for the good of the beloved and fro union with the beloved" [page number]. 
+
+
+
+However, psychic fragmentation can leave a person alienated from herself and therefore alienated from her own two mutually governing desires.
 
 Can an agent always expect to do best by trying to do whatever has the most expected value? The best example of this can be represented with the following lyric excerpts from the songs “By Yourself” by Tyrone Griffin Jr (Ty Dollar $ign Diggs) and “Rich and Sad” by Austin Richard Post (Post Malone).
 
