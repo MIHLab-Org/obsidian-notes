@@ -2804,7 +2804,26 @@ Crude version of mind uploading
 
 ---
 
-![[]]
+Lică, Mircea, Ojas Shirekar, Baptiste Colle, and Chirag Raman. 2025. “MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Cultural Learning.” arXiv:2411.12977. Preprint, arXiv, December 16. [https://doi.org/10.48550/arXiv.2411.12977](https://doi.org/10.48550/arXiv.2411.12977).
+
+---
+
+. Classical approaches leveraging reinforcement learning [5, 6] and imitation learning [7] often struggle with generalization and exploration, as agents tend to converge on repetitive behaviors in static environments'
+
+---
+
+agents like Voyager face a crucial limitation: they learn in isolation, neglecting a fundamental aspect of human intelligence
+
+---
+
+contends that individuals internalize skills and strategies by observing others’ perspectives, using Theory of Mind (ToM) to infer goals, beliefs, and intentions and thereby deepen social learning [14–18].
+
+---
+
+(1) a structured theory of mind representation linking percepts, beliefs, desires, and actions;
+
+---
+
 
 <video src="2026-10-27 08-39-03.mp4" controls></video>
 
