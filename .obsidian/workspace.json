@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "file": "Course Slides/Philosophy of Mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ce916eb97cf7e616",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3ca7c004e593d5df",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
+              "title": "Philosophy of Mind"
             }
           }
         ]
@@ -247,6 +231,7 @@
   },
   "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093656.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093628.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091718.png",
@@ -257,7 +242,6 @@
     "Pasted image 20261026093556.png",
     "Pasted image 20261026091718.png",
     "Pasted image 20261026091600.png",
-    "Pasted image 20261026091404.png",
     "Files/Teaching Portfolio/Recommendations/Template.md",
     "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Jacob Prueter.md",
     "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Jacob-Prueter.pdf",
@@ -273,7 +257,6 @@
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files/mediabag",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "Course Slides/Philosophy of Mind.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Notes/Value Theory/Value theory/The Good Life/Nussbaum 1986.md",
     "Notes/Value Theory/Value theory/Love/Gabrielle Taylor/VIII. Love or Presence.md",
     "Notes/Metaphysics and Epistemology/Epistemology/Epistemological Positions/Skeptics/Barry Stroud.md",
