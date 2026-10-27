@@ -2804,6 +2804,12 @@ Crude version of mind uploading
 
 ---
 
+![[]]
+
+<video src="2026-10-27 08-39-03.mp4" controls></video>
+
+---
+
 - Mind-Uploading
 	- Can it generate intelligent behavior?
 	- Can we measure well enough?
@@ -2838,6 +2844,10 @@ objective
 ---
 
 ## The problem of consciousness
+
+> Consciousness: The having of perceptions, thoughts, and feelings; awareness. The term is impossible to define except in terms that are unintelligiblewithout a grasp of what consciousness means. Many fall into the trap of confusing consciousness with self-consciousness—to be conscious it is only necessary to be aware of the external world. Consciousness is a fascinating but elusive phenomenon: it is impossible to specify what it is, what it does, or why it evolved. Nothing worth reading has been written about it. (Sutherland 1989)
+
+---
 
 - What is it like to be a system?
 - Brain mechanisms do not tell us about subjective experience
