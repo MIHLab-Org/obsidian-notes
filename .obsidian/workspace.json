@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
+              "title": "Introduction to Philosophy --- Fall 2026"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5113345b5e8a6090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50601a7edf82d345",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
             }
           }
         ]
@@ -231,6 +247,9 @@
   },
   "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "Course Slides/2026-10-27 08-39-03.mp4",
+    "Course Slides/Unconfirmed 459562.crdownload",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Course Slides/Philosophy of Mind.md",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093656.png",
@@ -250,12 +269,10 @@
     "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Unconfirmed 689543.crdownload",
     "Files/Teaching Portfolio/Recommendations/Jacob-Prueter",
     "Files/Teaching Portfolio/Recommendations/New folder",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.aux",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.tex",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files/mediabag",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "Notes/Value Theory/Value theory/The Good Life/Nussbaum 1986.md",
     "Notes/Value Theory/Value theory/Love/Gabrielle Taylor/VIII. Love or Presence.md",
