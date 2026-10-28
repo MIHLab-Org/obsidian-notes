@@ -1868,10 +1868,10 @@ i
 
 ---
 
-- - God is a perfect being.
-- - God is the idea of a being who is perfectly good, perfectly wise, and so on.
-- - Therefore the idea itself is a perfect idea,
-- - and therefore it could not have come from anywhere except from a perfect being.
+-  God is a perfect being.
+-  God is the idea of a being who is perfectly good, perfectly wise, and so on.
+-  Therefore the idea itself is a perfect idea,
+-  and therefore it could not have come from anywhere except from a perfect being.
 - I am not perfect so the idea did not come from me.
 - Therefore the idea came from somewhere other than me.
 - Therefore something besides myself exists
@@ -1880,4 +1880,339 @@ i
 - So I am not deceived
 
 ---
+
+### Can there be consciousness in  a digital world?
+
+> Consciousness: 
+> 	The having of perceptions, thoughts, and feelings; awareness. The term is impossible to define except in terms that are unintelligiblewithout a grasp of what consciousness means. Many fall into the trap of confusing consciousness with self-consciousness—to be conscious it is only necessary to be aware of the external world. Consciousness is a fascinating but elusive phenomenon: it is impossible to specify what it is, what it does, or why it evolved. Nothing worth reading has been written about it. (Sutherland 1989)
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cmZ6mRX2lP4?si=yrYi3WFBeLH49G6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+https://youtu.be/_IYnosc2Rv4?si=lx0WoSWWXoAPFamW
+
+---
+
+https://youtu.be/VExw77xJsBQ?si=eTNhaTxba_J25GgM
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4HNZNvlhlN4?si=jY_g_uDp33LaPSGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
+An internal kind of experience
+
+|                        | Big Sensations | Small Sensations               |
+| ---------------------- | -------------- | ------------------------------ |
+| color sensations       | vivd           |                                |
+| background aromas      |                | faint                          |
+| pains                  | immediate      |                                |
+| muted thoughts         |                | muted on the tip of the tongue |
+| sounds and smells      | mundane        |                                |
+| musical experience     |                | all encompassing               |
+| nagging itch           | trivial        |                                |
+| deep angst             |                | existential                    |
+| taste of peppermint    | specific       |                                |
+| experience of selfhood |                | general                        |
+
+---
+
+Objective and subjective
+
+We can explain the development of the brain (objectivity), but we cannot explain the development of conscious experience (subjectivity).
+
+---
+
+### Princess Elizabeth
+
+> So I ask you please to tell me how the soul of a human being (it being only a thinking substance) can determine the bodily spirits, in order to bring about voluntary actions. For it seems that all determination of movement happens through the impulsion of the thing moved, by the manner in which it is pushed by that which moves it, or else by the particular qualities and shape of the surface of the latter. Physical contact is required for the first two conditions, extension for the third. You entirely exclude the one [extension] from the notion you have of the soul, and the other [physical contact] appears to me incompatible with an immaterial thing.
+
+
+---
+
+# Can there be consciousness in  a digital world?
+
+- What is sentience?
+- What does it mean to be self-aware?
+- What is consciousness?
+
+note:
+
+1. Dualism
+	1. Descartes-Cogito
+	2. Descartes-Passions
+	3. Huxley-Animals are Automata
+	4. Smullyan-The Unfortunate Dualist
+
+---
+
+### Some Problems
+
+- Descartes' *automoata*:
+	- Descartes believed that humans had minds distinct from their body
+	- The locus of the movements of a person's body was the pineal gland
+	- Animals do not possess a mind, behavior only explicable in terms of physical mechanisms
+
+> Imagine God creating the world and deciding to bring into existence the whole of the purely physical universe. Having created this physical universe, did he have to do any more work to provide for consciousness? (Kirk 2023)
+
+---
+
+#### The Important Ones
+
+- Consciousness
+- Other minds
+- Machine Consciousness
+
+---
+
+- Advanced simulated beings in a virtual world
+- Is simulating a brain possible?
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A8fDr7Rr7yM?si=c8IaH3pzq7XSgrGm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+note:
+
+Crude version of mind uploading
+
+---
+
+Lică, Mircea, Ojas Shirekar, Baptiste Colle, and Chirag Raman. 2025. “MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Cultural Learning.” arXiv:2411.12977. Preprint, arXiv, December 16. [https://doi.org/10.48550/arXiv.2411.12977](https://doi.org/10.48550/arXiv.2411.12977).
+
+---
+
+. Classical approaches leveraging reinforcement learning [5, 6] and imitation learning [7] often struggle with generalization and exploration, as agents tend to converge on repetitive behaviors in static environments'
+
+---
+
+agents like Voyager face a crucial limitation: they learn in isolation, neglecting a fundamental aspect of human intelligence
+
+---
+
+contends that individuals internalize skills and strategies by observing others’ perspectives, using Theory of Mind (ToM) to infer goals, beliefs, and intentions and thereby deepen social learning [14–18].
+
+---
+
+(1) a structured theory of mind representation linking percepts, beliefs, desires, and actions;
+
+---
+
+
+<video src="2026-10-27 08-39-03.mp4" controls></video>
+
+---
+
+- Mind-Uploading
+	- Can it generate intelligent behavior?
+	- Can we measure well enough?
+	- Will it be conscious?
+	- Will it be the same?
+
+---
+
+#### Hard and Easy Problems
+
+- Consciousness
+- Intelligence
+
+note:
+
+To a first approximation, intelligence is sophisticated and flexible goal-directed behavior. (Chalmers and Peacock 2022, 275)
+
+---
+
+##### Easy Problems
+
+There are standard methods for explaining the behaviors of a cognitive system. 
+
+- To explain a behavior, you need to 
+	- identify a mechanism and show how it produces the behavior. 
+	- The mechanism might be a system in the brain, or some sort of algorithm that we think the brain is using.
+
+note:
+
+objective
+
+---
+
+## The problem of consciousness
+
+> Consciousness: The having of perceptions, thoughts, and feelings; awareness. The term is impossible to define except in terms that are unintelligiblewithout a grasp of what consciousness means. Many fall into the trap of confusing consciousness with self-consciousness—to be conscious it is only necessary to be aware of the external world. Consciousness is a fascinating but elusive phenomenon: it is impossible to specify what it is, what it does, or why it evolved. Nothing worth reading has been written about it. (Sutherland 1989)
+
+---
+
+- What is it like to be a system?
+- Brain mechanisms do not tell us about subjective experience
+- Explaining behaviors do not tell us about subject experience
+
+---
+
+##### Some Approaches
+
+- Panpsychism
+	- There is consciousness in every physical system
+- Reductionism
+	- Consciousness can be explained in purely physical terms
+		- Illusionism: Consciousness is an illusion
+
+---
+
+## The problem of other minds
+
+I can know that I am conscious, but what about everyone else?
+
+---
+
+# Science, Conjectures, and Refutations
+
+- What is sentience?
+- What does it mean to be self-aware?
+- What is consciousness?
+- Do other people have minds?
+
+---
+
+##### Problems with Verification
+
+![[Pasted image 20261026091404.png]]
+
+---
+#### Some Theories
+
+- Marxism
+- Psycho-Analysis
+- Individual Psychology
+- Newton's Theory
+- Theory of Relativity
+
+---
+
+### The Problem of Induction
+
+> I have found that such an object has always been attended with such an effect, and I foresee, that other objects, which are, in appearance, similar, will be attended with similar effects. (E. 4.2.16)
+
+---
+
+![[Pasted image 20261026091600.png]]
+
+---
+
+Hume tries to give a causal explanation of a psychological fact.
+
+> the fact that we believe in laws, in statements asserting regularities or constantly conjoined kinds of events--by asserting that this fact is due to (i.e. constantly conjoined with) custom or habit. (Popper, n.d., p. 8)
+
+- custom or habit
+- of believing in laws or regularities
+
+---
+
+###### Premise 1
+
+> All reasonings may be divided into two kinds, namely, demonstrative reasoning, or that concerning relations of ideas, and moral reasoning, or that concerning matter of fact and existence. (Henderson 2024; E. 4.2.18)
+
+---
+
+###### Premise 2
+
+> if Reason determin’d us, it would proceed upon that principle that instances, of which we have had no experience, must resemble those, of which we have had experience, and that the course of nature continues always uniformly the same. (Henderson 2024; T. 1.3.6.4)
+
+---
+
+###### Premise 3
+
+> it implies no contradiction that the course of nature may change, and that an object seemingly like those which we have experienced, may be attended with different or contrary effects. (Henderson 2024; E. 4.2.18)
+
+---
+
+###### Conclusion
+
+> Thus, not only our reason fails us in the discovery of the ultimate connexion of causes and effects, but even after experience has inform’d us of their constant conjunction, ’tis impossible for us to satisfy ourselves by our reason, why we shou’d extend that experience beyond those particular instances, which have fallen under our observation. (Henderson 2024; T. 1.3.6.11/91–2)
+
+
+---
+
+##### Popper Improves on
+
+1. It is easy to obtain confirmations, or verifications, for nearly every theory--if we look  for confirmations. 
+2. Confirmations should count only if they are the result of risky predictions; that is to  say, if, unenlightened by the theory in question, we should have expected an event which was incompatible with the theory--an event which would have refuted the theory. 
+3. Every 'good' scientific theory is a prohibition: it forbids certain things to happen. The  more a theory forbids, the better it is. 
+4. A theory which is not refutable by any conceivable event is nonscientific. Irrefutability  is not a virtue of a theory (as people often think) but a vice.
+
+---
+
+5. Every genuine test of a theory is an attempt to falsify it, or to refute it. Testability is  falsifiability; but there are degrees of testability: some theories are more testable, more exposed to refutation, than others; they take, as it were, greater risks. 
+6. Confirming evidence should not count except when it is the result of a genuine test of  the theory; and this means that it can be presented as a serious but unsuccessful attempt to falsify the theory. (I now speak in such cases of 'corroborating evidence'.) 
+7. Some genuinely testable theories, when found to be false, are still upheld by their  admirers--for example by introducing ad hoc some auxiliary assumption, or by reinterpreting the theory ad hoc in such a way that it escapes refutation. Such a procedure is always possible, but it rescues the theory from refutation only at the price of destroying, or at least lowering, its scientific status. (I later described such a rescuing operation as a 'conventionalist twist' or a 'conventionalist stratagem'.)
+
+---
+
+#### Takeaway
+
+![[Pasted image 20261026091718.png]]
+
+---
+
+> That is, within this era of philosophy, there was a great emphasis placed on the view that the only ‘real’ things are things of sense impressions and objects that are directly observable (or verifiable by direct observation)—and thus knowledge is only limited to past, present, and future alterations of these sense impressions and observable objects. (Sijuwade 2024, p. 4)
+
+---
+
+> Hence, knowledge concerning reality is limited—and thus talk about anything else outside of this restricted domain is meaningless.
+
+---
+
+##### However,
+
+> . . . through the influence of key figures like Wilfred V.O. Quine (1960), Saul Kripke (1980), and later on David Lewis (1986), alongside the development of modal logic and philosophy of language—and the discovery of the evident ‘over-restrictiveness’ and incoherence of the cherished principle of the positivist era: the ‘Verification Principle’ (i.e., a principle that states that a proposition (statement) is only meaningful if it is directly verifiable or tautological)—there was a strong countering of the dominant influence of positivism over philosophy, ultimately allowing metaphysics to regain a central place in philosophical discussions.4 Thus, metaphysics is now considered a vibrant and essential part of philosophy, pushing the boundaries of human understanding of the fundamental nature and structure of reality.
+
+---
+
+1. Verification Principle is overly restrictive
+2. Verification Principle is incoherent
+
+---
+
+#### New Philosophy of Mind
+
+What is the intricate relationship between mental and physical realms? How do mental states with their subjective qualities relate to physical processes in the brain (Sijuwade 2024, 8).
+
+1. Substance Dualism
+2. Physicalism
+
+---
+
+###### Substance Dualism
+
+> By some miracle we might continue to exist without our body, but no miracle would make it possible for us to exist without our soul—because for each of us our soul is the one essential part of us. (Swinburne 2019, 1)
+
+---
+
+- Humans are physical substances
+- But we are also conscious
+- Our consciousness determines what we do
+- So while bodies keep us alive
+	- enable us to enact with each other and the world
+- Our souls are essentially who we are
+
+---
+
+##### Physicalism
+
+![[Pasted image 20261026093628.png]]![[Pasted image 20261026093656.png]]
+
+
+---
+
+
+| "While mental states might be reducible to physical states, they still play a causal role" (Sijuwade 2024, 9).                                                                                                                     | "our common-sense understanding of mental states (or folk psychology) might be fundamentally flawed and should be replaced by a neuroscientific account" (Sijuwade 2024, 10).                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "Under mind-body supervenience a physical base property, P, for mental property M guarantees, as a matter of necessity, the occurrence of M; that is, necessarily if something instantiates P, it instantiates M." (Kim 2000, 10). | 1. mental processes are brain processes, <br>2. the theoretical framework resulting from a co-evolution of neuroscience and psychology is bound to be superior to folk psychology, and <br>3. it is most unlikely that we can devise an adequate theory of the mind -brain without knowing in great detail about the structure and organization of nervous systems. |
+
+---
+
 
