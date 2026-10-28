@@ -4,33 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2243def4ecadf0",
+        "id": "081fb6b6d1157db8",
         "type": "tabs",
-        "dimension": 54.555940023068054,
         "children": [
           {
-            "id": "1ec302e4ddd46676",
+            "id": "877412f79ad6d8b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Philosophy of Mind.md",
+                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy of Mind"
+              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
             }
           }
         ]
       },
       {
-        "id": "081fb6b6d1157db8",
+        "id": "8dc2cf0aac0beea1",
         "type": "tabs",
-        "dimension": 45.444059976931946,
         "children": [
           {
-            "id": "877412f79ad6d8b1",
+            "id": "c0d5629e0743baba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,23 +40,8 @@
               "icon": "lucide-file",
               "title": "Cognitive 2"
             }
-          },
-          {
-            "id": "f31ef85b42a6bb0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Slides/Philosophy of Mind.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Philosophy of Mind"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.07811737060547
+    "width": 344.07811737060547,
+    "collapsed": true
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -266,11 +250,11 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "f31ef85b42a6bb0d",
+  "active": "877412f79ad6d8b1",
   "lastOpenFiles": [
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
-    "Course Slides/Philosophy of Mind.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+    "Course Slides/Philosophy of Mind.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
     "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.aux",
