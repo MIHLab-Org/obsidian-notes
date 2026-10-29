@@ -2870,7 +2870,7 @@ objective
 
 - What is it like to be a system?
 - Brain mechanisms do not tell us about subjective experience
-- Explaining behaviors do not tell us about subject experience
+- Explaining behaviors do not tell us about subjective experience
 
 ---
 
@@ -3036,4 +3036,20 @@ What is the intricate relationship between mental and physical realms? How do me
 
 ---
 
+### Functionalism
 
+#### Temperature?
+
+- Heat = Temperature
+- Cold = Temperature
+
+---
+
+Concept of temperature is the same as concept of heat
+	But what is a concept?
+
+Maybe identity is better than conceptual
+
+> This seems an unfortunate view, since "temperature is mean molecular kinetic energy" appears to be a perfectly good example of a true statement of identity of properties, whereas "the concept of temperature is the same concept as the concept of mean molecular kinetic energy" is simply false. (“Chalmers - 2002 - Philosophy of Mind Classical and Contemporary Readings,” n.d.)
+
+---
