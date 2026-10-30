@@ -28,6 +28,8 @@ But what is sanctification?
 
 Activity versus passivity
 
+#### Volitional Account of Love
+
 Frankfurt:
 	So a person's true self is characterized by desires and volitions, that she cares about, what she cares about are things that are active for her.
 
