@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "081fb6b6d1157db8",
+        "id": "a29f8e25d20568a5",
         "type": "tabs",
         "children": [
           {
-            "id": "877412f79ad6d8b1",
+            "id": "69b839371daaaf4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "file": "Notes/Value Theory/Value theory/Love/Untitled/Helm-Love.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
+              "title": "Helm-Love"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1f90382f14de211c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ecdd58eec910c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
             }
           }
         ]
@@ -83,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.07811737060547
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -161,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scope and Purpose.md/Scope and Purpose.qmd.md",
+                "file": "Course Slides/Philosophy of Mind.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,10 +220,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "yarn-spinner-editor:Open Yarn node graph": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-importer:Import notes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
+      "slides-extended:Show slide preview": false,
+      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,
@@ -215,67 +247,57 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "pdf-highlight-notes:Import PDF files": false,
       "pdf-highlight-notes:Highlight selection in PDF": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "slides-extended:Show slide preview": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Import notes": false
+      "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
-  "active": "877412f79ad6d8b1",
+  "active": "34ecdd58eec910c1",
   "lastOpenFiles": [
+    "Notes/Value Theory/Value theory/Love/Untitled/Helm-Love.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "Notes/Value Theory/Value theory/Love/Untitled",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "Course Slides/Philosophy of Mind.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.aux",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.tex",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files/mediabag",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files",
-    "Courses Database/Courses/Slow Existential Death/Course The Slow.md",
-    "Courses Database/Courses/The Slow Existential Death.md",
-    "Files/Teaching Portfolio/Cover-Letter.pdf",
-    "Files/Official Teaching Portfolio/Montaque-Reynolds,-Cover-Letter.pdf",
-    "Files/Official Teaching Portfolio/Montaque Reynolds, Cover Letter.md",
-    "Files/Teaching Portfolio/Cover_Letter.pdf",
-    "Files/Teaching Portfolio/Short-Cover-Letter.pdf",
-    "Files/Teaching Portfolio/Teaching Portfolio.md",
-    "Courses Database/Courses/Social Identities Searching for moral  autonomy and personhood in pop culture/Social Identities Searching for moral  autonomy.md",
-    "export/Philosophy of Mind/plugin/menu/README.md",
-    "export/Philosophy of Mind/plugin/menu/CONTRIBUTING.md",
-    "export/Philosophy of Mind/plugin/math/mathjax/README.md",
-    "export/Philosophy of Mind/plugin/math/mathjax/CONTRIBUTING.md",
-    "export/Philosophy of Mind/plugin/math/katex/dist/README.md",
-    "export/Philosophy of Mind/plugin/customcontrols/README.md",
-    "export/Philosophy of Mind/plugin/chart/README.md",
-    "export/Philosophy of Mind/plugin/chalkboard/README.md",
+    "Course Slides/2026-10-27 08-39-03.mp4",
+    "Course Slides/Unconfirmed 459562.crdownload",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093656.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093628.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091718.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091600.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091404.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094338.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922090746.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094232.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922093617.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922093148.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/CONTRIBUTING.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/katex/dist/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/customcontrols/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chart/README.md",
+    "Pasted image 20261026093656.png",
+    "Pasted image 20261026093628.png",
+    "Pasted image 20261026093556.png",
+    "Pasted image 20261026091718.png",
+    "Pasted image 20261026091600.png",
+    "Files/Teaching Portfolio/Recommendations/Template.md",
+    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Jacob Prueter.md",
+    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Jacob-Prueter.pdf",
+    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/LOR.pdf",
+    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Unconfirmed 689543.crdownload",
+    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter",
+    "Files/Teaching Portfolio/Recommendations/New folder",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
+    "Notes/Value Theory/Value theory/The Good Life/Nussbaum 1986.md",
+    "Notes/Value Theory/Value theory/Love/Gabrielle Taylor/VIII. Love or Presence.md",
+    "Notes/Metaphysics and Epistemology/Epistemology/Epistemological Positions/Skeptics/Barry Stroud.md",
+    "Notes/Metaphysics and Epistemology/Epistemology/Epistemological Positions/Coherentists/Donald Davidson.md",
+    "Notes/History of Western Philosophy/Republic.md",
+    "Notes/Value Theory/Value theory/Gabrielle Taylor/VIII. Love or Presence.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Grounding and the Existence of God/Grounding and the Existence of God.md",
+    "Notes/Science, Logic, and Mathematics/Philosophy of Cognitive Science/Play in Predictive Minds.qmd/Play in Predictive Minds.md",
+    "Notes/Science, Logic, and Mathematics/Philosophy of Cognitive Science/Living with and Doing Things with Machines/Living with and Doing Things with Machines.md",
+    "Notes/Science, Logic, and Mathematics/Philosophy of Cognitive Science/Gut Reactions/Gut Reactions.md",
+    "Notes/Science, Logic, and Mathematics/General Philosophy of Science/The Theoretical Status of Latent Variables/The Theoretical Status of Latent Variables.md",
+    "Notes/Science, Logic, and Mathematics/Philosophy of Cognitive Science/Broken Mirrors.md",
+    "Notes/Science, Logic, and Mathematics/The Theoretical Status of Latent Variables.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part I/Chapter 4 Inferential Analysis 2.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part I/Chapter 3 Preliminary Inferential Analysis.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part I/Chapter 1 Introduction.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part I/Chapter 2 Explanatory Methodology.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part II Explanatory Analysis/Chapter 9 Personal Reality.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part II Explanatory Analysis/Chapter 8 Relational Reality.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
