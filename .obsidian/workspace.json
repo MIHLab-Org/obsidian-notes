@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -250,8 +249,9 @@
       "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
-  "active": "34ecdd58eec910c1",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "In Progress Papers/Rational Choice Theory/Cognitive-2.pdf",
     "Notes/Value Theory/Value theory/Love/Untitled/Helm-Love.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Notes/Value Theory/Value theory/Love/Untitled",
@@ -297,7 +297,6 @@
     "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part I/Chapter 1 Introduction.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part I/Chapter 2 Explanatory Methodology.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part II Explanatory Analysis/Chapter 9 Personal Reality.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Analytic Theism/Part II Explanatory Analysis/Chapter 8 Relational Reality.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
