@@ -9,11 +9,13 @@ Home note for MIHLab's educational live-action role play (eduLARP) materials. It
 ## Notes in this folder
 - [[eduLARP Resources Report]]: what each resource is, what it's good for, licenses, and links.
 - [[Lumen Script Book Notes]]: chapter-by-chapter notes on *Lumen*: schedule, rituals, safety tools, debrief script, and what fits The Quest.
+- [[Game Wrap Vol 1 Notes]]: the *Graveyard of the Sacrifice* classroom eduLARP (design article and full game) plus non-combat encounter types.
 - [[Multiday Adventure Curriculum Design]]: draft design for a multiday Quest built from these resources.
 
 ## Files in this folder
 - [[Lumen Script Book -- Erasmus EDGE Consortium.pdf]] (196 pp., CC BY-NC 4.0)
 - [[Introduction to Transformative Game Design OER.pdf]] (80 pp., CC BY-NC 4.0)
+- [[GameWrapVol1.pdf]] (113 pp., NEIL 2016)
 
 ## Files already in the vault (Notes/eduLARP)
 - [[Bible-Player-Guide.pdf]]: *Adventurer's Guide to the Bible*, player guide (Bible 5e)

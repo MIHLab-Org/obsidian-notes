@@ -125,7 +125,7 @@ From earlier research; only titles and summaries have been checked so far.
 | SALTO-YOUTH toolbox | *Game On: First Steps into eduLARP*; *LARPIC* guide | [Game On](https://www.salto-youth.net/tools/toolbox/tool/game-on-first-steps-into-edularp.5018/) · [LARPIC](https://salto-youth.net/tools/toolbox/tool/larpic-guide-manual.4613) |
 | ERYICA | European youth-information eduLARP guide | [news](https://www.eryica.org/news/edularp-guide-released) |
 | Aelia Path (Greece) | Teacher-friendly method | [method](https://www.aeliapath.edu.gr/en/post/edu-larp-teacher-friendly-method) |
-| *Game Wrap* | Designing a larp for educational purposes | [article](https://gamewrap.interactiveliterature.org/vol1/designing-a-larp-for-educational-purposes) |
+| *Game Wrap* Vol. 1 (2016) | ✅ In vault. *Graveyard of the Sacrifice*, a WWII eduLARP for 16 eleventh-graders (design article and full game text); non-combat encounter types. See [[Game Wrap Vol 1 Notes]] | [[GameWrapVol1.pdf]] · [article](https://gamewrap.interactiveliterature.org/vol1/designing-a-larp-for-educational-purposes) |
 | Carleton University | Using LARP in the classroom | [post](https://carleton.ca/tls/2017/blog-learning-play-integrating-live-action-role-playing-classroom/) |
 | Østerskov Efterskole (Denmark) | Whole school taught through larp | [overview](https://www2.rpgresearch.com/blog/osterskov-efterskole-danish-public-high-school-teaching-all-subjects-using-larp) |
 | *International Journal of Role-Playing* | Peer-reviewed eduLARP research | [example](https://journals.uu.se/IJRP/article/view/229) |

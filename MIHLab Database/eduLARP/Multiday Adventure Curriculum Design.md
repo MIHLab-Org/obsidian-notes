@@ -5,7 +5,7 @@ status: draft proposal
 ---
 # Multiday Adventure Curriculum Design (draft)
 
-Back to [[eduLARP Resource Drive]] · Sources: [[eduLARP Resources Report]] · [[Lumen Script Book Notes]]
+Back to [[eduLARP Resource Drive]] · Sources: [[eduLARP Resources Report]] · [[Lumen Script Book Notes]] · [[Game Wrap Vol 1 Notes]]
 
 > **Status:** this is a starting proposal for Monty to revise, not a finished curriculum. Its structure borrows from *Lumen* (EDGE), its world from Bible 5e, and its trip logistics from The Quest booklet. No published program runs eduLARP on a moving, multiday expedition, so the adaptation is new and untested.
 
@@ -79,6 +79,13 @@ The six *Lumen* lessons fold into three days.
 - Guide ratio set at 1:4.
 - **Archetype cards ↔ tokens:** *Lumen* gives each player two cards, *who I've been* and *who I want to become*. That could pair with the token board: the cards name the hoped-for direction, and the tokens show what the character's choices actually did.
 - **Two ideas worth testing as dilemma mechanics:** Lesson 3's *Inner Committee* (players voice a character's Inner Parent, Inner Child and Inner Critic at a hard choice) and Lesson 4's *conflict styles* (replay the same argument in a different style).
+
+### From *Game Wrap* (*Graveyard of the Sacrifice*)
+- **Two months out:** send families a two-page design document and get signed permission (this doubles as the church-partner pitch).
+- **Warm-up:** run short role-play exercises at den meetings before the trip, to prevent players rejecting their characters.
+- **Safe frame:** never cast kids as doers of evil acts. Moral weight comes from their choices on the token board.
+- **Trail encounters:** mostly non-combat (stealth, diplomacy, social), with dice only for real danger.
+- **Integration:** a letter home written in the character's voice, alongside the journal.
 
 ## 9. Open decisions for Monty
 - [ ] World: biblical, original, or hybrid?
