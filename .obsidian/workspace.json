@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "081fb6b6d1157db8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "877412f79ad6d8b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
-            }
-          }
-        ]
-      },
-      {
         "id": "f296ffbe70055a5e",
         "type": "tabs",
         "children": [
@@ -33,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Value Theory/Value theory/Love/Bennet-Love/Helm Bennet Love.md",
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helm Bennet Love"
+              "title": "Introduction to Philosophy --- Fall 2026"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6db1ebfb7b4279ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2e4a8e39f0e568",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
             }
           }
         ]
@@ -103,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.07811737060547
+    "width": 344.07811737060547,
+    "collapsed": true
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -251,21 +248,32 @@
   },
   "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "Pasted image 20261102101712.png",
+    "Pasted image 20261102101643.png",
+    "MIHLab Database/eduLARP/Lumen Script Book Notes.md",
+    "MIHLab Database/eduLARP/eduLARP Resource Drive.md",
+    "MIHLab Database/eduLARP/Introduction to Transformative Game Design OER.pdf",
+    "MIHLab Database/eduLARP/Unconfirmed 812021.crdownload",
+    "MIHLab Database/The Quest/The Quest Comparable Programs Booklet.md",
+    "MIHLab Database/eduLARP/Lumen Script Book -- Erasmus EDGE Consortium.pdf",
+    "MIHLab Database/eduLARP/Unconfirmed 959574.crdownload",
+    "MIHLab Database/eduLARP/sedE5Gt5L",
+    "MIHLab Database/eduLARP/sedOVzFp1",
+    "MIHLab Database/eduLARP/Multiday Adventure Curriculum Design.md",
+    "MIHLab Database/eduLARP/eduLARP Resources Report.md",
+    "MIHLab Database/eduLARP",
+    "Notes/eduLARP/AGttA-PlayerGuide.pdf",
+    "Notes/eduLARP/Unconfirmed 880887.crdownload",
+    "Notes/eduLARP/SRGtS-SailorGuide.pdf",
+    "MIHLab Database/Character Games Studio/MIHLab Character Games Studio Program Research and Planning Guide.md",
+    "MIHLab Database/Philosophers in the Verse/MIHLab Great Books in Space Program Research and Planning Guide.md",
+    "MIHLab Database/The Quest Comparable Programs Booklet (1).md",
     "Notes/Value Theory/Value theory/Love/Untitled/Helm-Love.md",
-    "Notes/Value Theory/Value theory/Love/Untitled",
-    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
+    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
     "Notes/Value Theory/Value theory/Love/Bennet-Love/Helm Bennet Love.md",
-    "Notes/Value Theory/Value theory/Love/Bennet-Love",
-    "Notes/Value Theory/Value theory/Love/Untitled.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.aux",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.tex",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files/mediabag",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files",
-    "In Progress Papers/Rational Choice Theory/Cognitive-2.pdf",
-    "In Progress Papers/Rational Choice Theory/Cognitive-2.log",
+    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
+    "Notes/Value Theory/Value theory/Love/Untitled.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Course Slides/Philosophy of Mind.md",
     "Courses Database/Courses/Slow Existential Death/Course The Slow.md",
@@ -277,10 +285,6 @@
     "export/Philosophy of Mind/plugin/menu/CONTRIBUTING.md",
     "export/Philosophy of Mind/plugin/math/mathjax/README.md",
     "export/Philosophy of Mind/plugin/math/mathjax/CONTRIBUTING.md",
-    "export/Philosophy of Mind/plugin/math/katex/dist/README.md",
-    "export/Philosophy of Mind/plugin/customcontrols/README.md",
-    "export/Philosophy of Mind/plugin/chart/README.md",
-    "export/Philosophy of Mind/plugin/chalkboard/README.md",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093656.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093628.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091718.png",
@@ -290,13 +294,6 @@
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922090746.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094232.png",
     "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922093617.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922093148.png",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/menu/CONTRIBUTING.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/mathjax/CONTRIBUTING.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/math/katex/dist/README.md",
-    "export/Introduction to Philosophy --- Fall 2026/plugin/chalkboard/README.md",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
