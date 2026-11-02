@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scope and Purpose.md/Scope and Purpose.qmd.md",
+                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,10 +216,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "yarn-spinner-editor:Open Yarn node graph": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-importer:Import notes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
+      "slides-extended:Show slide preview": false,
+      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,
@@ -232,21 +243,10 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "pdf-highlight-notes:Import PDF files": false,
       "pdf-highlight-notes:Highlight selection in PDF": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "slides-extended:Show slide preview": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Import notes": false
+      "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "4755a409c0cdd0fa",
   "lastOpenFiles": [
     "Pasted image 20261102101712.png",
     "Pasted image 20261102101643.png",
@@ -275,6 +275,7 @@
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "Notes/Value Theory/Value theory/Love/Untitled.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "Notes/Value Theory/Value theory/Love/Untitled",
     "Course Slides/Philosophy of Mind.md",
     "Courses Database/Courses/Slow Existential Death/Course The Slow.md",
     "Courses Database/Courses/The Slow Existential Death.md",
