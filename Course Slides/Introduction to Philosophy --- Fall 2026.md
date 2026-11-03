@@ -2998,7 +2998,11 @@ Hume tries to give a causal explanation of a psychological fact.
 
 ---
 
-#### New Philosophy of Mind
+# Philosophy of Mind
+
+---
+
+## Dualism
 
 What is the intricate relationship between mental and physical realms? How do mental states with their subjective qualities relate to physical processes in the brain (Sijuwade 2024, 8).
 
@@ -3022,7 +3026,19 @@ What is the intricate relationship between mental and physical realms? How do me
 
 ---
 
-##### Physicalism
+### Meditations
+
+---
+
+### Passions of the Soul
+
+---
+
+### Animals are Automata
+
+---
+
+# Physicalism
 
 ![[Pasted image 20261026093628.png]]![[Pasted image 20261026093656.png]]
 
@@ -3035,7 +3051,51 @@ What is the intricate relationship between mental and physical realms? How do me
 
 ---
 
+### Behaviorism
+
+---
+
 ![[Pasted image 20261102101712.png]]
+
+---
+
+> Material objects are situated in a common field, known as 'space,' and what happens to one body in one part of space is mechanically connected with what happens to other bodies in other parts of space. (Ryle - 2002 - Philosophy of Mind Classical and Contemporary Readings,” n.d., p. 33)
+
+---
+
+---
+
+> Human bodies are in space and are subject to the mechanical laws which govern all other bodies in space.
+
+---
+
+> Bodily processes and states can be inspected by external observers. So a man's bodily life is as much a public affair as are the lives of animals and reptiles and even as the careers of trees, crystals and planets
+
+---
+
+> Material objects are situated in a common field, known as 'space,' and what happens to one body in one part of space is mechanically connected with what happens to other bodies in other parts of space. (33)
+---
+
+##### The Ghost in the Machine
+
+##### Criticisms
+
+> 
+> A foreigner visiting Oxford or Cambridge for the first time is shown a number of colleges, libraries, playing fields, museums, scientific departments and administrative offices. He then asks 'But where is the University? I have seen where the members of the Colleges live, where the Registrar works, where the scientists experiment and the rest. But I have not yet seen the University in which reside and work the members of your University.'
+
+---
+
+> a child witnessing the march-past of a division, who, having had pointed out to him such and such battalions, batteries, squadrons, etc., asked when the division was going to appear.
+
+---
+
+> When Galileo showed that his methods of scientific discovery were competent to provide a mechanical theory which should cover every occupant of space, Descartes found in himself two conflicting motives. 
+
+---
+
+> As a man of scientific genius he could not but endorse the claims of mechanics, yet as a religious and moral man he could not accept, as Hobbes accepted, the discouraging rider to those claims, namely that human nature differs only in degree of complexity from clockwork. 
+> 
+> The mental could not be just a variety of the mechanical.
 
 ---
 

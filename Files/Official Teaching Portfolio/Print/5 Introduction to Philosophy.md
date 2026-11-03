@@ -1,3 +1,7 @@
+---
+title: The Slow Existential Death of a Spaceman
+subtitle: Other Worldly Redemption, Virtual Love, and Real Sanctification
+---
 # Course Information
 
 |                   |                        |
