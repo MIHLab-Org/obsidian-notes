@@ -8,6 +8,8 @@ So while this does seem to be a problem with epistemic and not non-epistemic nor
 
 However imaginative resistance is a series of cases where i-Beliefs do not constrain our imaginative capacities. 
 
+But we might add, they do not contextually constrain our imaginative capacities.
+
 Two explanations:
 - Impossibility Hypothesis
 	- inability to imagine impossibilities
@@ -17,7 +19,7 @@ Two explanations:
 Both theories involve non-epistemic constraints
 - Do not concern the truth value of the claims in question
 
-What is a fictional truth value?
+But we might ask "what is a fictional truth value?"
 
 Consider epistemic norms:
 - Norms
