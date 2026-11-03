@@ -1881,6 +1881,92 @@ i
 
 ---
 
+#### Descartes and the Mind body problem
+
+> The Vivarium world had a “physics.” Simple rules governed the twodimensional grid and ordinary objects. It also had a “psychology.” The animals had separate rules governing their behavior. It was especially interesting to me that the physics and the psychology were distinct.
+
+---
+
+1. I can imagine my mind without my body. 
+2. I cannot imagine my body without my mind.  ______________________ 
+3. So: My mind is not my body.
+
+---
+
+What is the mind?
+
+> The mind is the locus of our perceiving, feeling, thinking, and deciding. Seeing an apple is a state of my mind. Feeling happy is a state of my mind. Thinking that Paris is in France is a state of my mind. Deciding to go to a movie is a state of my mind.
+
+---
+
+```
+    {
+        "role": "system",
+        "content": "Action output:\nSuccessfully crafted torch, you now have 4 torch.\n"
+    },
+    {
+        "role": "assistant",
+        "content": "lit, placing one down !placeHere(\"torch\")"
+    },
+    {
+        "role": "system",
+        "content": "Action output:\ntorch already at (-280, 66, 97).\n"
+    },
+    {
+        "role": "assistant",
+        "content": "creeper close, checking it !entities"
+    },
+    {
+        "role": "system",
+        "content": "\nNEARBY_ENTITIES\n- Human player: redapeman\n- entities: 1 creeper(s)\n"
+    },
+    {
+        "role": "assistant",
+        "content": "creeper close, taking care of it !attack(\"creeper\")"
+    },
+    {
+        "role": "system",
+        "content": "(AUTO MESSAGE)Your previous action 'action:attack' was interrupted by unstuck.\n        Your behavior log: I'm stuck!\nI'm free.\n\nRespond accordingly."
+    },
+    {
+        "role": "assistant",
+        "content": "freed up, back on it !attack(\"creeper\")"
+    },
+    {
+        "role": "system",
+        "content": "Action output:\nSuccessfully killed creeper.\nFound non-destructive path.\nPicked up 1 items.\n"
+    },
+    {
+        "role": "assistant",
+        "content": "nice, got it !nearbyBlocks"
+    },
+    {
+        "role": "system",
+        "content": "\nNEARBY_BLOCKS\n- torch\n- grass_block\n- dirt\n- oak_leaves\n- oak_log\n- stone\n- copper_ore\n- Block Below: grass_block\n- Block at Legs: torch\n- Block at Head: air\n- First Solid Block Above Head: oak_leaves (0 blocks up)\n"
+    },
+    {
+        "role": "assistant",
+        "content": "stepped in my torch, scooting out !moveAway(5)"
+    },
+    {
+        "role": "system",
+        "content": "Action output:\nFound non-destructive path.\nMoved away from (-292, 66, 86) to (-288, 65, 82).\n"
+    },
+    {
+        "role": "assistant",
+        "content": "all good, what's nearby !entities"
+    },
+    {
+        "role": "system",
+        "content": "\nNEARBY_ENTITIES\n- Human player: redapeman\n"
+    },
+    {
+        "role": "user",
+        "content": "redapeman: Please build a stair way from me to the surface and then at the top, a house."
+```
+
+---
+
 ### Can there be consciousness in  a digital world?
 
 > Consciousness: 
@@ -1940,14 +2026,6 @@ We can explain the development of the brain (objectivity), but we cannot explain
 - What is sentience?
 - What does it mean to be self-aware?
 - What is consciousness?
-
-note:
-
-1. Dualism
-	1. Descartes-Cogito
-	2. Descartes-Passions
-	3. Huxley-Animals are Automata
-	4. Smullyan-The Unfortunate Dualist
 
 ---
 
@@ -2049,7 +2127,7 @@ objective
 
 - What is it like to be a system?
 - Brain mechanisms do not tell us about subjective experience
-- Explaining behaviors do not tell us about subject experience
+- Explaining behaviors do not tell us about subjective experience
 
 ---
 
@@ -2146,7 +2224,7 @@ Hume tries to give a causal explanation of a psychological fact.
 
 ---
 
-5. Every genuine test of a theory is an attempt to falsify it, or to refute it. Testability is  falsifiability; but there are degrees of testability: some theories are more testable, more exposed to refutation, than others; they take, as it were, greater risks. 
+5. Every genuine test of a theory is an attempt to falsify it, or to refute it. Testability is falsifiability; but there are degrees of testability: some theories are more testable, more exposed to refutation, than others; they take, as it were, greater risks. 
 6. Confirming evidence should not count except when it is the result of a genuine test of  the theory; and this means that it can be presented as a serious but unsuccessful attempt to falsify the theory. (I now speak in such cases of 'corroborating evidence'.) 
 7. Some genuinely testable theories, when found to be false, are still upheld by their  admirers--for example by introducing ad hoc some auxiliary assumption, or by reinterpreting the theory ad hoc in such a way that it escapes refutation. Such a procedure is always possible, but it rescues the theory from refutation only at the price of destroying, or at least lowering, its scientific status. (I later described such a rescuing operation as a 'conventionalist twist' or a 'conventionalist stratagem'.)
 
@@ -2168,7 +2246,7 @@ Hume tries to give a causal explanation of a psychological fact.
 
 ##### However,
 
-> . . . through the influence of key figures like Wilfred V.O. Quine (1960), Saul Kripke (1980), and later on David Lewis (1986), alongside the development of modal logic and philosophy of language—and the discovery of the evident ‘over-restrictiveness’ and incoherence of the cherished principle of the positivist era: the ‘Verification Principle’ (i.e., a principle that states that a proposition (statement) is only meaningful if it is directly verifiable or tautological)—there was a strong countering of the dominant influence of positivism over philosophy, ultimately allowing metaphysics to regain a central place in philosophical discussions.4 Thus, metaphysics is now considered a vibrant and essential part of philosophy, pushing the boundaries of human understanding of the fundamental nature and structure of reality.
+> . . . through the influence of key figures like Wilfred V.O. Quine (1960), Saul Kripke (1980), and later on David Lewis (1986), alongside the development of modal logic and philosophy of language—and the discovery of the evident ‘over-restrictiveness’ and incoherence of the cherished principle of the positivist era: the ‘Verification Principle’ (i.e., a principle that states that a proposition (statement) is only meaningful if it is directly verifiable or tautological)—there was a strong countering of the dominant influence of positivism over philosophy, ultimately allowing metaphysics to regain a central place in philosophical discussions.4 Thus, metaphysics is now considered a vibrant and essential part of philosophy, pushing the boundaries of human understanding of the fundamental nature and structure of reality. (Sijuwade 2024, 4)
 
 ---
 
@@ -2208,11 +2286,60 @@ What is the intricate relationship between mental and physical realms? How do me
 
 ---
 
-
 | "While mental states might be reducible to physical states, they still play a causal role" (Sijuwade 2024, 9).                                                                                                                     | "our common-sense understanding of mental states (or folk psychology) might be fundamentally flawed and should be replaced by a neuroscientific account" (Sijuwade 2024, 10).                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | "Under mind-body supervenience a physical base property, P, for mental property M guarantees, as a matter of necessity, the occurrence of M; that is, necessarily if something instantiates P, it instantiates M." (Kim 2000, 10). | 1. mental processes are brain processes, <br>2. the theoretical framework resulting from a co-evolution of neuroscience and psychology is bound to be superior to folk psychology, and <br>3. it is most unlikely that we can devise an adequate theory of the mind -brain without knowing in great detail about the structure and organization of nervous systems. |
 
 ---
 
+![[Pasted image 20261102101712.png]]
 
+---
+
+## Identity
+
+> It is suggested that we can identify consciousness with a given pattern of brain activity, if we can explain the subject's introspective observations by reference to the brain processes with which they are correlated.
+
+note:
+
+* Physicalism is behavioristic
+	* "Consciousness on this view is either a special type of behavior, "sampling" or "running-back-and-forth" behavior as Tolman has it, I or a disposition to behave in a certain way, an itch, for example, being a temporary propensity to scratch." (55)
+* But are dreams, fantasies, sensations, reducible to processes in the brain?
+	* Consider two kinds of statements:
+		* those about sensations, "it feels like a pinprick". Statements about brain-processes. Statements about brain-processes are statements about behavior, a statement about the way that the brain behaves. 
+		* Statements about consciousness are not the same that as statements about behavior.
+		* This is shown
+
+---
+
+* a. by the fact that you can describe your sensations and mental imagery without knowing anything about your brain processes or even that such things exist,
+* b. by the fact that statements about one's consciousness and statements about one's brain processes are verified in entirely different ways, and 
+* c. by the fact that there is nothing self-contradictory about the statement "X has a pain but there is nothing going on in his brain."
+
+---
+
+### Functionalism
+
+#### Temperature?
+
+- Heat = Temperature
+- Cold = Temperature
+
+---
+
+Concept of temperature is the same as concept of heat
+	But what is a concept?
+
+Maybe identity is better than conceptual
+
+> This seems an unfortunate view, since "temperature is mean molecular kinetic energy" appears to be a perfectly good example of a true statement of identity of properties, whereas "the concept of temperature is the same concept as the concept of mean molecular kinetic energy" is simply false. (“Chalmers - 2002 - Philosophy of Mind Classical and Contemporary Readings,” n.d.)
+
+---
+
+Stems from a failure to distinguish between
+* "is" of definition and the 
+* "is" of composition.
+
+| A square is an equilateral rectangle,                                                               | Red is a color                   |
+| --------------------------------------------------------------------------------------------------- | -------------------------------- |
+| To understand an instruction is to be able to act appropriately under the appropriate circumstances | His table is an old packing case |
