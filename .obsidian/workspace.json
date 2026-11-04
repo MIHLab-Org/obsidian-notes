@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "470b2c0b43c73907",
+        "id": "be92e8e9b2b37537",
         "type": "tabs",
         "children": [
           {
-            "id": "7881303eb90cf93b",
+            "id": "5d817a3532bf6d90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bdde2137f2d2f492",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ea8c04851759781e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cognitive 2"
+              "title": "Introduction to Philosophy --- Fall 2026"
             }
           }
         ]
@@ -103,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 344.07811737060547
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -182,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+                "file": "Scope and Purpose.md/Scope and Purpose.qmd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,25 +195,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "yarn-spinner-editor:Open Yarn node graph": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:Import notes": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
-      "slides-extended:Show slide preview": false,
-      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,
@@ -246,57 +214,68 @@
       "tasknotes:Create new task": false,
       "pdf-highlight-notes:Import PDF files": false,
       "pdf-highlight-notes:Highlight selection in PDF": false,
-      "yarn-spinner-editor:Open Yarn node graph": false
+      "qmd-as-md-obsidian:Toggle Quarto preview": false,
+      "qmd-as-md-obsidian:Render Quarto to PDF": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "slides-extended:Show slide preview": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "7881303eb90cf93b",
+  "active": "5d817a3532bf6d90",
   "lastOpenFiles": [
-    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
-    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
-    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs",
-    "Notes/Value Theory/Aesthetics",
-    "Files/Official Teaching Portfolio/Print/6-Teaching-Evidence.pdf",
-    "Files/Official Teaching Portfolio/Print/5-Introduction-to-Philosophy.pdf",
-    "Files/Official Teaching Portfolio/Print/4-Writing-Sample.pdf",
-    "Files/Official Teaching Portfolio/Print/4-Reynolds-Teaching-Statement.pdf",
-    "Files/Official Teaching Portfolio/Print/3-Research-Statement.pdf",
-    "Files/Official Teaching Portfolio/Print/2-Montaque-Reynolds,-PhD-Long-Cover-Letter.pdf",
-    "Files/Official Teaching Portfolio/Print/1-Montaque-Reynolds,-CV.pdf",
-    "Pasted image 20261102101712.png",
-    "Pasted image 20261102101643.png",
-    "Notes/eduLARP/SRGtS-SailorGuide.pdf",
-    "MIHLab Database/eduLARP/eduLARP Resources Report.md",
-    "MIHLab Database/eduLARP/eduLARP Resource Drive.md",
-    "MIHLab Database/eduLARP/Multiday Adventure Curriculum Design.md",
-    "MIHLab Database/eduLARP/Lumen Script Book Notes.md",
-    "MIHLab Database/eduLARP/Game Wrap Vol 1 Notes.md",
-    "MIHLab Database/The Quest/The Quest Comparable Programs Booklet.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive-2.pdf",
+    "Files/Research Portfolio/Research-Statement.pdf",
+    "In Progress Papers/RealityCraft/RealityCraft.md",
+    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
+    "In Progress Papers/Untitled.md",
+    "In Progress Papers/The Testimony of Ballet Reconstructions/Ballet Reconstruction Comments/Ballet Reconstruction/Longer Comments.md",
     "MIHLab Database/Philosophers in the Verse/MIHLab Great Books in Space Program Research and Planning Guide.md",
-    "MIHLab Database/MIHLab Business Plan (Nov 2026).md",
-    "MIHLab Database/Character Games Studio/MIHLab Character Games Studio Program Research and Planning Guide.md",
-    "Files/Teaching Portfolio/2 Montaque Reynolds, Cover Letter.md",
-    "Files/Official Teaching Portfolio/Print/_TOC_.md",
-    "Files/Official Teaching Portfolio/Print/Summer-2026-Stetson-Evals.png",
-    "Files/Official Teaching Portfolio/Print/Spring-2024-SLU-Evals.png",
-    "Files/Official Teaching Portfolio/Print/Fall-Spring-25-26-Stetson-Evals.png",
-    "Files/Official Teaching Portfolio/Print/Fall-2023-SLU-Evals.png",
+    "Notes/Foundations/Experience Machine.md",
+    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
+    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.aux",
+    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.tex",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files/mediabag",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd_files",
+    "Files/Official Teaching Portfolio/Print/6 Teaching Evidence.qmd",
     "Files/Official Teaching Portfolio/Print/5 Introduction to Philosophy.md",
-    "Files/Official Teaching Portfolio/Print/3 Research Statement.md",
     "Files/Official Teaching Portfolio/Print/4 Writing Sample.md",
+    "Files/Official Teaching Portfolio/Print/3 Research Statement.md",
     "Files/Official Teaching Portfolio/Print/2 Montaque Reynolds, PhD-Long-Cover-Letter.md",
     "Files/Official Teaching Portfolio/Print/1 Montaque Reynolds, CV.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "Courses Database/Courses/The Slow Existential Death.md",
+    "Course Slides/Reality+/What is Reality.md",
+    "Files/Official Teaching Portfolio/Print/_TOC_.md",
+    "Files/Official Teaching Portfolio/Print/Fall-2023-SLU-Evals.png",
+    "Files/Teaching Portfolio/Course Descriptions/Summary Introduction to Philosophy.md",
+    "Files/Teaching Portfolio/Course Descriptions/Introduction to Philosophy.md",
+    "MIHLab Database/MIHLab Business Plan (Nov 2026).md",
+    "Files/Teaching Portfolio/Writing Sample.md",
+    "Files/Teaching Portfolio/Teaching Portfolio.md",
     "Files/3 Introduction To Philosophy/Required Texts.md",
-    "Courses Database/Courses/Introduction to Philosophy/Week Assignments.md",
-    "Course Slides/Philosophy of Mind.md",
-    "Notes/Value Theory/Value theory/Love/Untitled/Helm-Love.md",
+    "Files/Official Teaching Portfolio/4 Course Information.md",
+    "Files/Official Teaching Portfolio/4 Course Description.md",
+    "Pasted image 20261102101712.png",
+    "Pasted image 20261102101643.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093656.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093628.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091718.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091600.png",
-    "Files/Teaching Portfolio/Recommendations/Template.md",
-    "Files/Teaching Portfolio/Recommendations/Jacob-Prueter/Jacob Prueter.md",
+    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091404.png",
+    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094338.png",
+    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922090746.png",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
