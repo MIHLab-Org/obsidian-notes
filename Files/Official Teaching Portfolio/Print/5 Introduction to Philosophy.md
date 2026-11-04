@@ -153,51 +153,16 @@ counts in Notes column. Schedule subject to change — check Canvas regularly.*
 *Elite Dangerous experiment windows are take-home; complete anytime during
 the listed dates. Bring your experiment log to class the following Monday.*
 
-| Week | Date(s) | Reading | Notes | Topic |
-| --- | --- | --- | --- | --- |
-| 1 | Mon June 9 / Wed June 11 | Intro + Part One: Chs. 1–3 | Course introduction. What is philosophy and why does
-it matter? The simulation hypothesis as a lens for the whole discipline.
-Introduction to Elite Dangerous as a philosophical laboratory. | • Handouts (distributed in class)
-• Chalmers, Introduction: "Adventures in Technophilosophy"
-• Chalmers, Ch. 1: "Is This the Real Life?"
-**Wed June 11:**
-• Chalmers, Ch. 2: "What Is the Simulation Hypothesis?"
-• Chalmers, Ch. 3: "Do We Know Things?" |
-| 2 | Mon June 16 / Wed June 18 | Part Two: Chs. 4–7 | *Having established the epistemic problem, we now ask the metaphysical
-question: what is reality? Is the universe made of matter, information,
-or something else?*
-
-4 chapters; Write-Up assigned Wed, weekly | **Mon June 16:**
-• Chalmers, Ch. 4: "Can We Prove There Is an External World?"
-• Chalmers, Ch. 5: "Is It Likely That We're in a Simulation?"
-(Bostrom and Moravec)
-**Wed June 18:**
-• Chalmers, Ch. 6: "What Is Reality?"
-• Chalmers, Ch. 7: "Is God a Hacker in the Next Universe Up?" |
-| 3 | Mon June 23 / Wed June 25 | Part Three A: Chs. 8–11 | *Having asked what reality is, we now ask what kind of thing a mind is —
-and whether a mind can exist, think, and be conscious inside a virtual world.*
-
-4 chapters; **Exp. 1 window June 20–26** | **Mon July 7:** *(Pilot Assessment Write-Up due today)*
-• Chalmers, Ch. 12: "Does Augmented Reality Lead to Alternative Facts?"
-• Chalmers, Ch. 13: "Can We Avoid Being Deceived by Deepfakes?"
-**Wed July 9:**
-• Chalmers, Ch. 14: "How Do Mind and Body Interact in a Virtual World?"
-• Chalmers, Ch. 15: "Can There Be Consciousness in a Digital World?" |
-| — | June 30 – July 4 | *Fourth of July Break* | No class |  |
-| 4 | Mon July 7 / Wed July 9 | Part Three B: Chs. 12–15 | *The final philosophical question: if we can live, think, and be conscious
-in a virtual world, does that world have moral significance? Can virtual
-lives be good lives?*
-
-4 chapters; Write-Up due Mon |  |
-| 5 | Mon July 14 / Wed July 16 | Part Four A: Chs. 16–19 | 4 chapters; **Exp. 2 window July 11–17** | **Mon July 14:**
-• Chalmers, Ch. 16: "Does Augmented Reality Extend the Mind?"
-**Wed July 16:**
-• Chalmers, Ch. 17: "Can You Lead a Good Life in a Virtual World?"
-• Chalmers, Ch. 18: "Do Simulated Lives Matter?"
-• Chalmers, Ch. 19: "How Should We Build a Virtual Society?" *(begin)* |
-| 6 | Mon July 21 / Wed July 23 | Part Four B: Chs. 20–22 | 3 chapters; RA due Mon; **Exp. 3 window July 25–31** |  |
-| 7 | Mon July 28 | Part Five: Chs. 23–24 + Review | 2 chapters; Essay due; last day |  |
-
+| Week | Date(s)                   | Reading                        | Notes                                                                                                                                                                                                                          | Topic                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---- | ------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Mon June 9 / Wed June 11  | Intro + Part One: Chs. 1–3     | Course introduction. What is philosophy and why does  <br>it matter? The simulation hypothesis as a lens for the whole discipline.  <br>Introduction to Elite Dangerous as a philosophical laboratory.                         | • Handouts (distributed in class)  <br>• Chalmers, Introduction: "Adventures in Technophilosophy"  <br>• Chalmers, Ch. 1: "Is This the Real Life?"  <br>**Wed June 11:**  <br>• Chalmers, Ch. 2: "What Is the Simulation Hypothesis?"  <br>• Chalmers, Ch. 3: "Do We Know Things?"                                                                                                    |
+| 2    | Mon June 16 / Wed June 18 | Part Two: Chs. 4–7             | Having established the epistemic problem, we now ask the metaphysical  <br>question: what is reality? Is the universe made of matter, information,  <br>or something else?<br>  <br>_4 chapters; Write-Up assigned Wed, weekly | **Mon June 16:**  <br>• Chalmers, Ch. 4: "Can We Prove There Is an External World?"  <br>• Chalmers, Ch. 5: "Is It Likely That We're in a Simulation?"  <br>(Bostrom and Moravec)  <br>**Wed June 18:**  <br>• Chalmers, Ch. 6: "What Is Reality?"  <br>• Chalmers, Ch. 7: "Is God a Hacker in the Next Universe Up?"                                                                 |
+| 3    | Mon June 23 / Wed June 25 | Part Three A: Chs. 8–11        | What is reality? Is the mind a part of reality? —  <br>and whether a mind can exist, think, and be conscious inside a virtual world.  <br>  <br>_4 chapters; **Exp. 1 window June 20–26**                                      | **Mon July 7:** _(Pilot Assessment Write-Up due today)_  <br>• Chalmers, Ch. 12: "Does Augmented Reality Lead to Alternative Facts?"  <br>• Chalmers, Ch. 13: "Can We Avoid Being Deceived by Deepfakes?"  <br>**Wed July 9:**  <br>• Chalmers, Ch. 14: "How Do Mind and Body Interact in a Virtual World?"  <br>• Chalmers, Ch. 15: "Can There Be Consciousness in a Digital World?" |
+| —    | June 30 – July 4          | _Fourth of July Break_         | No class                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                       |
+| 4    | Mon July 7 / Wed July 9   | Part Three B: Chs. 12–15       | If we can live, think, and be conscious  <br>in a virtual world, does that world have moral significance? Can we live a good virtual life?<br>  <br>_4 chapters; Write-Up due Mon                                              |                                                                                                                                                                                                                                                                                                                                                                                       |
+| 5    | Mon July 14 / Wed July 16 | Part Four A: Chs. 16–19        | 4 chapters; **Exp. 2 window July 11–17**                                                                                                                                                                                       | **Mon July 14:**  <br>• Chalmers, Ch. 16: "Does Augmented Reality Extend the Mind?"  <br>**Wed July 16:**  <br>• Chalmers, Ch. 17: "Can You Lead a Good Life in a Virtual World?"  <br>• Chalmers, Ch. 18: "Do Simulated Lives Matter?"  <br>• Chalmers, Ch. 19: "How Should We Build a Virtual Society?" _(begin)_                                                                   |
+| 6    | Mon July 21 / Wed July 23 | Part Four B: Chs. 20–22        | 3 chapters; RA due Mon; **Exp. 3 window July 25–31**                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                       |
+| 7    | Mon July 28               | Part Five: Chs. 23–24 + Review | 2 chapters; Essay due; last day                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                       |
 # Academic Policies
 
 ## Academic Integrity
@@ -255,9 +220,3 @@ Any recordings of class (audio, video, or otherwise) may only be used
 for personal academic purposes and may not be shared without the
 professor's written consent. Violation will be reported to the Office
 of Community Standards.
-
----
-
-## Course Schedule
-
-{{< include _schedule-summer.qmd >}}
