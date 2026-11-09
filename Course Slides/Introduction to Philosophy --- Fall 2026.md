@@ -3123,7 +3123,7 @@ Not idealism, for instance, traditional monist views
 
 > It is suggested that we can identify consciousness with a given pattern of brain activity, if we can explain the subject's introspective observations by reference to the brain processes with which they are correlated.
 
-note:
+---
 
 * Physicalism is behavioristic
 	* "Consciousness on this view is either a special type of behavior, "sampling" or "running-back-and-forth" behavior as Tolman has it, I or a disposition to behave in a certain way, an itch, for example, being a temporary propensity to scratch." (55)
