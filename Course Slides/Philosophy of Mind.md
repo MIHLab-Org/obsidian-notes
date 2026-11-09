@@ -2343,3 +2343,31 @@ Stems from a failure to distinguish between
 | A square is an equilateral rectangle,                                                               | Red is a color                   |
 | --------------------------------------------------------------------------------------------------- | -------------------------------- |
 | To understand an instruction is to be able to act appropriately under the appropriate circumstances | His table is an old packing case |
+
+---
+
+# Monism and Dualism
+
+Monism:
+> the universe forms an ultimate harmonious unity Hick, John. 1995. _Evil and the God of Love_. Revised ed. Harper.
+
+### Religious Metaphysics
+
+1. If God is God
+2. If God is Good
+3. There cannot be any "co-equal contrary reality"
+	1. Contrary to Zoroastrianism balance of light and dark
+4. Then evil is under God's sovereignty and persists with permission from God
+
+### Religious Monism vs A-Religious Monism
+
+Either reality is of one substance from which everything else emanates or is of at least two substances
+
+#### Cartesian Dualism
+
+#### Contemporary Physicalism
+
+---
+
+
+
