@@ -9,7 +9,16 @@ Authors. [Names, affiliations]. For student co-authors, add a CRediT contributio
 Abstract (150–250 words, five moves, one to two sentences each):
 
 1. Claim and stakes. [In the edited volume *Thought Experiments in Science and Philosophy*, Tamara Horowitz and Gerald Massey define thought experiments as "attempt[s] to draw instruction from a process of hypothetical reasoning". ]. We typically use philosophical thought experiments to better understand philosophical concepts. In his book Reality+, Dave Chalmers uses the philosophical thought experiment that we could be in a simulation, to teach philosophical concepts to undergraduate students. The popular video game Minecraft is a simulation and llm agents inside of it are simulated beings and therefore can be used to teach philosophical concepts to undergraduate students. We think that llm agents in Minecraft can resemble students while the students themselves resemble their instructors.
-2. Gap. Prior llm in Minecraft work has been used to measure [llm reasoning, cooperation, memory, planning, tool use. They've also been used to model theories such as developmental psychology, game theory, macroeconomics, social policies and community dynamics.] but they have not been used [teach philosophical concepts to undergraduate students, that includes hypothetical reasoning such as 'what is real?', 'how do we know?', why should we care?']. Prior philosophical work argues the point without controlled test cases.
+	1. We often use models to better understand some system, climate, tides, the Atlantic Gulf Stream. In the early days of cognitive science, what we now know as ai were models of human reasoning to help us better understand our own cognitive architecture. These interests are making something of a comeback with embodied llms, usually large language model applications uploaded as npc in Minecraft or similar. One interesting area of research here is how do we use social learning to improve llm efficiency, the answer it turns out is through a theory of mind where we build into the agents the ability to anticipate perception, moods, desires, beliefs, intentions, etc of other agents and users.
+	2. Often times, these mental states are encoded into the agent by way of "narrative scripts". 
+		1. ![[Pasted image 20261109093250.png]]
+		2. ![[Pasted image 20261109093323.png]]
+			1. Possible Questions
+				1. Narrative Scripts for efficiency
+					1. Who is the agent? What is their identity?
+				2. Theory of Mind
+					1. inferring intentions, desires, plans, of agents and users
+2. Gap. Prior llm in Minecraft work has been used to measure llm reasoning, cooperation, memory, planning, tool use. They've also been used to model theories such as developmental psychology, game theory, macroeconomics, social policies and community dynamics. but they have not been used [teach philosophical concepts to undergraduate students, that includes hypothetical reasoning such as 'what is real?', 'how do we know?', why should we care?']. Prior philosophical work argues the point without controlled test cases.
 3. What you built. We have built [RealityCraft], a set of [N] tasks on the Mindcraft platform that operationalizes [student learning] as a [measurable quantity].
 4. Main result with a number. Across [M] models and [K] conditions, [condition A] [raised/lowered] [metric] by [X%] relative to [B].
 5. Implication, scoped. This [supports / puts pressure on / fails to support] [claim] for [agents of this kind]. State in a few words what it does not show.

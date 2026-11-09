@@ -3166,3 +3166,225 @@ Stems from a failure to distinguish between
 | A square is an equilateral rectangle,                                                               | Red is a color                   |
 | --------------------------------------------------------------------------------------------------- | -------------------------------- |
 | To understand an instruction is to be able to act appropriately under the appropriate circumstances | His table is an old packing case |
+
+---
+
+# Values to Live By
+
+note:
+
+In his book, Reality+, David Chalmers gives an argument for why the Matrix question is a difficult question to solve.
+
+If you are unfamiliar with this question, it is just the skeptical hypothesis that we are living in a simulation. He answers on two fronts, one, that we cannot know that we are not living in a simulation, and two, that even if we were living in a simulation, what would it matter? Here is the brief argument:
+
+1. It’s not _**impossible**_ that we are living in a simulation. (Metaphysical Thesis)
+2. Therefore we cannot know that we are not living in a simulation. (Skeptical Epistemology)
+3. As such, why would it matter if we were living in a simulation? (Anti-Skeptical Value Theory)
+
+Importantly, his argument is not so much a defense of why we should think that we are living in a simulation, but why the question is one without a possible answer and why the answer may not even be that interesting.
+
+Notably, this book really is a broader explanation about what philosophers do, and why they’re jobs are interestingly important.
+
+Covering all the major areas of philosophy, metaphysics, epistemology, value theory, logic, what Chalmers does is introduce the novice reader to the philosophical discipline.
+
+But Let’s imagine that Chalmers himself takes not the primary thesis as fundamental, not the negative thesis that we cannot know, but the positive thesis, that if we are living in a simulation, then what?
+
+One important claim that he makes, is that if we are living in a simulation, then the objects around us, though virtual, are real, they are just really virtual.
+
+But what about art?
+
+The game Star Citizen includes three objects that may be classified as art. I want to know whether these objects are works of art independent of the work of art that is Star Citizen.
+
+They include:
+
+1. Unheard Song, Fay Womack, steel, and empty cage sings only of freedom
+2. Bruised soul, Fay Womack, aluminum, and when we fall, the landing always leaves a mark
+3. Diatribe, Tamara Wheel, marble, A shifting circle illustrating that the whole is never as unified as it first appears
+
+First, it is important to note that the question about whether independent art works can exist inside a video game is a question along Chalmers’ third thesis, why would it matter? One aspect of this question involves the implications around objects inside a simulation. A worry is that if we are living in a simulation, then we wouldn’t be real.
+
+In the movie _Ready Player One_, one of the main characters makes a claim that says “Reality is the only thing that’s real”. What this character is doing however, is making a pronouncement about objects inside a very popular digital universe, **Planet Ludus**.
+
+In _Ready Player One,_ while the real world is bleak and dystopian, the digital universe is full of possibilities with most of the city’s characters spending the majority of their time in it. Schooling and other cultural activities primarily occur in the digital universe with all the characters donning VR headsets to attend.
+
+As such, what the character infers is not the tautology “Reality is the only thing that’s real”, but the metaphysical argument that
+
+1. “physical reality is the only thing that’s real”.
+2. therefore “virtual reality is not real”.
+
+Chalmers’ argument denies the first premise arguing instead that “physical reality is not the only thing that’s real”. This enables him to accept _**virtual realism**_ adopted from Michael Heim’s work on virtual and digital technologies ([The metaphysics of virtual reality](https://app.notion.com/p/The-metaphysics-of-virtual-reality-3608935bcf8a815c8ad0d40036fa7ab5?pvs=21); [Electric Language](https://app.notion.com/p/Electric-Language-3608935bcf8a81299476c2b40b259c14?pvs=21); [Virtual Realism](https://app.notion.com/p/Virtual-Realism-3608935bcf8a8194bacfdd6db39ed998?pvs=21)). According to this view: “Virtual entities are indeed real, functional, and even central to life in coming eras.”
+
+I adopt this view but ask how we might further adapt it to art objects inside other art objects, does the object exist as a work independent of the simulation?
+
+What about simulations? Say we are not living in a simulation, but merely playing in one, are the art objects in that simulation real?
+
+# PART II
+
+[Grafton-Cardwell, 2021 (1)](https://app.notion.com/p/Grafton-Cardwell-2021-1-33a8935bcf8a8019bda5f87bc0de9125?pvs=21)
+
+Because the study of aesthetics is generally a question about what a person is doing when they are creating works of art.
+
+I would hope to understand better understand definitions of art that both rely on the ability of an audience to appreciate something as art, and on the artist to understand that what they are doing is creating a work of art.
+
+On one such account, the aesthetic engagement theory of art, something is an artwork if and only if the fulfilment of its function by a subject requires that that subject aesthetically engage it.
+
+This is a kind of functionalist theory of art then where something is an artwork “iff the fulfillment of its function (that a given audience engage aesthetically) by a subject requires that the subject aesthetically engage it”.
+
+To understand what it means to say that a work of art is a piece that is independent of another work of art where it is found, we have to first understand what it means to see games as artworks.
+
+On one account, games are art because they are a kind of fiction (See [Games: Agency as Art](https://app.notion.com/p/Games-Agency-as-Art-35e8935bcf8a815780f9cba4248dd003?pvs=21); and [The art of videogames](https://app.notion.com/p/The-art-of-videogames-35e8935bcf8a810e8a80ec789e67992c?pvs=21)); or a kind cinema (See Notice here that I am not asking whether the game itself is a work of art, lots of philosophers have given arguments in favor of this view already.
+
+For instance, Grant Tavinor argues that video games are art because they are a type of fiction (2009).
+
+Others have argued that given cinema is art, that games are art since they are at type of interactive fiction (Gaut 2010).
+
+Flanagan argued in 2013 that games are a kind of conceptual art since they offer social critique.
+
+Others argue that they represent a special way of criticizing economic and political systems by simulating them, and therefore are a kind of art.
+
+But what does it mean for a “work of art” to exist inside a video-game?
+
+Can an artist-developer create works of art inside video games?
+
+Which account can be explain why an object inside a game world could be considered a work of art?
+
+These answers reflect two different answers to the Value Question: Could you live a good life in virtual reality?
+
+Why wouldn’t we? We want to be importantly connected to reality, not to live in a delusion. But what does it mean to say “importantly connected to reality?” What is important? What is important about it?
+
+In the experience machine, we’re not courageous or kind; we’re not any sort of person. We’re just indeterminate blobs.
+
+In the experience machine, we’re limited to a human-made reality. Everything we experience was constructed by humans.
+
+No chance? No uncertainty?
+
+First, you don’t know you’re in the experience machine while you’re in there, but you know you’re in the reality machine. How might you not know? Because of the lack of chance and risk? How important is chance and risk?
+
+Second, the experience machine preprograms all your experiences, but the reality machine does not. The reality machine allows your friends and family to share a reality with you.
+
+VR is not illusory.
+
+In his 2000 Forbes article extending the experience machine to real-life VR, he said that the contents of VR are not “truly real.”
+
+VR is not preprogrammed. Typically, it’s open-ended.
+
+So users can indeed be genuinely courageous or genuinely kind in the reality machine.
+
+“Which option would be best for me?”
+
+But even when we speak of what’s best for others, it’s a matter of personal value: What’s better or worse for them?
+
+In this chapter, when I ask what makes for a good life, I’m asking: What makes a life good for oneself?
+
+To ask what makes a good life for someone, perhaps we can start by asking what makes anything good for someone.
+
+**hedonism:** something is good for someone to the extent that it gives them pleasure and not pain.
+
+- The frivolous pleasure from a parlor game counts as much as the high-minded pleasure from cultural pursuits.
+    - wireheading: users experience great pleasure all the time.
+
+**experientialism:** the fundamental objects of value are conscious experiences.
+
+- Experientialism says that something is good for someone to the extent that it gives them positive experiences and not negative experiences.
+
+The experience machine goes beyond the pleasure machine by supplying the user not just with pleasure but with experiences of all sorts.
+
+He makes the case that inside the experience machine, you’ll have more positive experiences than you will outside the experience machine—but nevertheless it’s preferable to live outside the machine than to live inside the machine. It follows that experientialism is incorrect; experiences aren’t all that matter.
+
+**desire-satisfaction:** a good life is one in which our desires are satisfied, or in which things are as we want them to be.
+
+- Our life goes better when the world is as we want it to be, even if this doesn’t affect our own experiences.
+
+Hedonism says that a life with the unfaithful partner is just as good as a life with the faithful partner, because the experiences are the same.
+
+In this case, we want our partner to be faithful.
+
+On the desire-satisfaction view, value is largely subjective.
+
+but the **social view of value:** The core idea here is that all value comes from connections to other people.
+
+Finally, there’s the **objective-list view of value**, in which the basic source of value are the items on a list: say, **knowledge, friendship, fulfillment**, and more.
+
+Some will say that sheer physicality is missing in VR, and physicality is something we value.
+
+Orange highlight | Location: 5,116
+
+Options
+
+A related worry is that life in virtual worlds may be a form of escapism from the nonvirtual world, in the way that video games can be. There is something to this, but full-scale virtual worlds are not video games.
+
+Potential problems arise from transfer between the virtual and nonvirtual worlds.
+
+- Some people worry that habits learned in virtual worlds will transfer to the nonvirtual world.
+- A serious limitation of many virtual worlds is that they are transient.
+    - People are not born nor do they die
+
+More importantly, no virtual world we’ve yet created has anything like the long history of our nonvirtual world, and history is something that many of us greatly value.
+
+- Perhaps the most striking absence in virtual worlds is the absence of birth and death.
+
+Orange highlight | Location: 5,143
+
+Options
+
+This is more like moving to a community and leaving it than being born or dying.
+
+Orange highlight | Location: 5,147
+
+Options
+
+Furthermore, people would genuinely die in a virtual world when they died in the physical world.
+
+Orange highlight | Location: 5,150
+
+Options
+
+A deep question: What is the role of birth and death in a good life?
+
+Aqua highlight | Location: 5,170
+
+Options
+
+Terraform Reality allows us to turn exoplanets in the nonvirtual world into habitable environments full of beautiful places and engaging activities.
+
+Aqua highlight | Location: 5,179
+
+Options
+
+Let us say that rich VR is VR with roughly the complexity of ordinary reality, after short-term technological
+
+Aqua highlight | Location: 5,180
+
+Options
+
+limitations have been overcome.
+
+Orange highlight | Location: 5,183
+
+Options
+
+Life in rich VR is roughly as valuable as life in Terraform Reality. Life in Terraform Reality is roughly as valuable as ordinary nonvirtual life. ______________________ So: Life in rich VR is roughly as valuable as ordinary nonvirtual life.
+
+Orange highlight | Location: 5,189
+
+Options
+
+It will largely allow the kinds of values available in living a life in physical reality.
+
+Orange highlight | Location: 5,201
+
+Options
+
+Does our thesis that virtual realities have comparable value to nonvirtual realities tell us anything about what is truly valuable?
+
+Orange highlight | Location: 5,206
+
+Options
+
+Some desires may be satisfied less well in VR—a desire to be in nature, or a desire not to be in a simulation—but these don’t make the difference between a good life and a bad one.
+
+Orange highlight | Location: 5,209
+
+Options
+
+What are the sources of value? I’m inclined to think that all value arises, one way or another, from consciousness. Conscious states themselves (say, happiness and pleasure) are valuable. What is valued by conscious creatures (say, knowledge and freedom) is valuable. And relations among conscious creatures (say, communication and friendship) are valuable.

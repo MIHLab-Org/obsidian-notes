@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Metaphysics and Epistemology/Cognitive Science/Neil Rabinowitz/Neil Rabinowitz et al.md",
+                "file": "Notes/Metaphysics and Epistemology/Cognitive Science/MindForge/MindForge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neil Rabinowitz et al"
+              "title": "MindForge"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Metaphysics and Epistemology/Cognitive Science/MindForge/MindForge.md",
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MindForge"
+              "title": "Introduction to Philosophy --- Fall 2026"
             }
           }
         ]
@@ -215,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 344.3148193359375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +250,15 @@
   },
   "active": "0bbd3b00329abea7",
   "lastOpenFiles": [
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Neil Rabinowitz/Neil Rabinowitz et al.md",
+    "In Progress Papers/RealityCraft/RealityCraft.md",
+    "Pasted image 20261109093323.png",
+    "Pasted image 20261109093250.png",
     "Notes/Metaphysics and Epistemology/Cognitive Science/MindForge/MindForge.md",
+    "Notes/Metaphysics and Epistemology/Cognitive Science/Neil Rabinowitz/Neil Rabinowitz et al.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+    "Courses Database/Meta/Assignments/Game Sessions.md",
+    "Courses Database/Meta/Assignment Descriptions/Assignments.base",
+    "Courses Database/Meta/Assignment Rubrics/First Level.md",
     "Notes/Metaphysics and Epistemology/Cognitive Science/Untitled",
     "Notes/Metaphysics and Epistemology/Cognitive Science/Laird et al/John E. Laird.md",
     "Screenshot 2026-11-08 214309.png",
@@ -271,11 +278,8 @@
     "Notes/Metaphysics and Epistemology/Cognitive Science/Yun-Shiuan Chuang",
     "Notes/Metaphysics and Epistemology/Cognitive Science/Neil Rabinowitz",
     "Notes/Metaphysics and Epistemology/Cognitive Science/Laird et al",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Tianmin Shu et al",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
-    "In Progress Papers/RealityCraft/RealityCraft.md",
     "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
     "In Progress Papers/Untitled.md",
     "In Progress Papers/The Testimony of Ballet Reconstructions/Ballet Reconstruction Comments/Ballet Reconstruction/Longer Comments.md",
@@ -284,8 +288,6 @@
     "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.md",
     "Files/Official Teaching Portfolio/Print/5 Introduction to Philosophy.md",
     "Files/Official Teaching Portfolio/Print/4 Writing Sample.md",
-    "Files/Official Teaching Portfolio/Print/3 Research Statement.md",
-    "Files/Official Teaching Portfolio/Print/2 Montaque Reynolds, PhD-Long-Cover-Letter.md",
     "Files/Official Teaching Portfolio/Print/Fall-2023-SLU-Evals.png",
     "Pasted image 20261102101712.png",
     "Pasted image 20261102101643.png",
@@ -293,8 +295,6 @@
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093628.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091718.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091600.png",
-    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091404.png",
-    "export/Introduction to Philosophy --- Fall 2026/Files/Images/Pasted image 20260922094338.png",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
