@@ -6,6 +6,7 @@
       {
         "id": "0a04adf7ae93953d",
         "type": "tabs",
+        "dimension": 35.064935064935064,
         "children": [
           {
             "id": "abc52918fab39d53",
@@ -26,6 +27,7 @@
       {
         "id": "d695f25bb7cef49a",
         "type": "tabs",
+        "dimension": 35.064935064935064,
         "children": [
           {
             "id": "0bbd3b00329abea7",
@@ -33,12 +35,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Philosophy of Mind.md",
+                "file": "In Progress Papers/RealityCraft/RealityCraft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy of Mind"
+              "title": "RealityCraft"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c2070cb03f3ea513",
+        "type": "tabs",
+        "dimension": 29.870129870129865,
+        "children": [
+          {
+            "id": "ad9838213991c9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real"
             }
           }
         ]
@@ -103,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.07811737060547
+    "width": 200
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -138,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dp4morpsy/Roman Altshuler.md",
+                "file": "In Progress Papers/RealityCraft/RealityCraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -248,10 +271,20 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "0bbd3b00329abea7",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "In Progress Papers/RealityCraft/RealityCraft.pdf",
     "In Progress Papers/RealityCraft/RealityCraft.md",
+    "In Progress Papers/RealityCraft/RealityCraft.log",
+    "In Progress Papers/RealityCraft/RealityCraft.aux",
+    "In Progress Papers/RealityCraft/RealityCraft.tex",
+    "In Progress Papers/RealityCraft/RealityCraft_files/mediabag",
+    "In Progress Papers/RealityCraft/RealityCraft_files",
+    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
+    "In Progress Papers/RealityCraft/Pasted image 20261109093323.png",
+    "In Progress Papers/RealityCraft/Pasted image 20261109093250.png",
+    "Course Slides/Philosophy of Mind.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Pasted image 20261109093323.png",
     "Pasted image 20261109093250.png",
     "Notes/Metaphysics and Epistemology/Cognitive Science/MindForge/MindForge.md",
@@ -273,28 +306,18 @@
     "Notes/Metaphysics and Epistemology/Cognitive Science/Tianmin Shu et al/Tainmin Shu et al.md",
     "Notes/Metaphysics and Epistemology/Cognitive Science/Fabio Grassiotto et al/Fabio Grassiotto et al.md",
     "Notes/Metaphysics and Epistemology/Cognitive Science/Chris Baker/Chris Baker et al.md",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Chris Baker/Untitled",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Chris Baker",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Fabio Grassiotto et al",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Yun-Shiuan Chuang",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Neil Rabinowitz",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Laird et al",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
-    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
     "In Progress Papers/Untitled.md",
     "In Progress Papers/The Testimony of Ballet Reconstructions/Ballet Reconstruction Comments/Ballet Reconstruction/Longer Comments.md",
     "MIHLab Database/Philosophers in the Verse/MIHLab Great Books in Space Program Research and Planning Guide.md",
     "Notes/Foundations/Experience Machine.md",
     "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.md",
     "Files/Official Teaching Portfolio/Print/5 Introduction to Philosophy.md",
-    "Files/Official Teaching Portfolio/Print/4 Writing Sample.md",
     "Files/Official Teaching Portfolio/Print/Fall-2023-SLU-Evals.png",
     "Pasted image 20261102101712.png",
     "Pasted image 20261102101643.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093656.png",
     "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093628.png",
-    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091718.png",
-    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026091600.png",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
