@@ -3171,6 +3171,70 @@ Stems from a failure to distinguish between
 
 # Values to Live By
 
+
+---
+
+## Can you Live a Good Life in a Virtual World?
+
+---
+
+### What is Value?
+
+---
+
+### What Good Things are Missing from VR?
+
+---
+
+### What's Missing from Long-Term VR?
+
+---
+
+### Terraform Reality
+
+---
+
+### What is the Source of Value?
+
+---
+
+
+## Do Simulated Lives Matter?
+
+---
+
+### Ethical Theories
+
+---
+
+### Simulations and Moral Status
+
+---
+
+### The Ethics of Simulations
+
+---
+
+## How Should We Build a Virtual Society?
+
+---
+
+### Ethics for Users
+
+---
+
+### Ethics for Creators
+
+---
+
+### Government in Virtual Worlds
+
+---
+
+### Equality and Justice in Virtual Worlds
+
+---
+
 note:
 
 In his book, Reality+, David Chalmers gives an argument for why the Matrix question is a difficult question to solve.
