@@ -12,6 +12,39 @@
 - Ruling out some objections
 - Virtual Response to Skepticism
 
+note:
+
+The 1900s was a fascinating time for the study of knowledge. Until a four-page paper published by Edmund Gettier in 1963, one dominant theory had held fast since 369 BC. This theory was the analysis of knowledge as a justified true belief. According to it, an analysis of knowledge included three components. For something to count as knowledge these would have to first be satisfied. Or, we might more succinctly say: $S$ knows that $p$ *iff*:
+
+1. It is true that $p$.
+2. $S$ believes that $p$.
+3. $S$ is justified in believing that $p$.
+
+This view is no-longer held or defended by most epistemologist. In a future video I will show why. Since 1963, many philosophers sought to discover what to add to the JTB theory of knowledge. Here's a strange question that might best portray the current landscape, according to which, knowledge is a kind of achievement. I am playing the video game Star Citizen right now, but do you know where I am? Am I on Crusader, in New Babbage, orbiting around Nyx. 
+
+Let's look around a moment. What do you see? You might be looking at a walking path, perhaps some potted plants over along the wall or in the corner. Maybe you see Stanton's primary star coming into view around MicroTech. Assuming that I am planet-side, if you're lucky, you might look up and see a space ship, depending on whether I am out in the open or not. If I am in a more populated area, flight restrictions in the game may constrain your ability to see anything flying over my head. What you would see instead are perhaps tall buildings and other structures.
+
+But you're probably thinking also that I am in none of these places. I turn my head, the camera angle changes, and though you can now see things like plants, cubicles, sales counters, stall attendants, none of these are real. They are only representational images of things that are imagined. But this might be answering the wrong question. Referring to the previous question, "Do you know where I am right now", the question is whether or not you *know* where I am. In other words, it is not a question about whether the objects around me are real. So your criticism is in response to the wrong question.
+
+Notice the difference between the two kinds of questions.
+
+1. Do you know where I am right now? Look at the wall coverings, the metallic panels, can you guess? Do you know?
+2. No, because none of it is real.
+
+Looking at the screen before you, there are sets of stairs, geraniums, floating, flapping digital insects, and wall decorations. Current thinkers  like John Greco, for instance as seen on page 71 of his book *Achieving Knowledge*, would attempt to answer the question this way. 
+
+> *S* knows that *p if and only if S* believes the truth (with respect to *p*) because $S$ 's belief that $p$ is produced by intellectual ability. (Greco 2010, p. 71)
+
+In this case, you know where I am iff your knowledge is a kind of success derived from the exercise of your epistemic virtues. 
+
+On this account then, knowledge is a kind of value judgment (Greco 2010). If you say "you are in the video game Star Citizen", then I would only attribute knowledge to your statement as a kind of praise. But your belief that I am inside the game Star Citizen is false. You've got the evidence all wrong. As such, your belief is not the result of the virtuous exercise of your abilities.
+
+But notice how the truth of this second claim is in part dependent on the truth of ontological status of your evidence. Are the objects you see real?
+
+1. Do you know where I am right now? Look at the wall coverings, the metallic panels, can you guess? Do you know?
+2. No, I do not know where you are because none of it is real.
+3. Yes, I do know where you are because I can see with my eyes.
+
 ---
 
 ### Possible Worlds and Thought Experiments
