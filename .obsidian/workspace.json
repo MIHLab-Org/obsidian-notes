@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Kwame-Ethics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dp4morpsy/Roman Altshuler.md",
+                "file": "In Progress Papers/RealityCraft/RealityCraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },

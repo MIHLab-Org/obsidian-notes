@@ -6,5 +6,6 @@
   "enabledCssSnippets": [
     "obsidian-default-theme"
   ],
-  "interfaceFontFamily": "Cascadia Code"
+  "interfaceFontFamily": "Cascadia Code",
+  "showRibbon": true
 }
