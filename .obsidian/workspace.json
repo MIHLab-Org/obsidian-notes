@@ -24,22 +24,6 @@
         ]
       },
       {
-        "id": "5cc3c8432a4f27b3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fef74dd6261f72b8",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Philosophy of Mind.md"
-            }
-          }
-        ]
-      },
-      {
         "id": "08569767c5c03229",
         "type": "tabs",
         "children": [
@@ -264,11 +248,11 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "4161a16cb92de503",
+  "active": "ccfdd09acdb9e4b0",
   "lastOpenFiles": [
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
     "Course Slides/Philosophy of Mind.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
     "Files/Teaching Portfolio/Recommendations/Anne-Marie.md",
     "Files/Teaching Portfolio/Recommendations/Anne-Marie.pdf",
     "Files/Teaching Portfolio/Recommendations/Anne-Marie.log",
