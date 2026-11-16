@@ -13,12 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+                "file": "Files/Teaching Portfolio/Recommendations/Anne-Marie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Philosophy --- Fall 2026"
+              "title": "Anne-Marie"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a779f625e5758cb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6804335c26c1bb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Teaching Portfolio/Recommendations/Anne-Marie.pdf",
+                "page": 1,
+                "left": -35,
+                "top": 796,
+                "zoom": 0.4227941176470588
+              },
+              "icon": "lucide-file-text",
+              "title": "Anne-Marie"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a4b61b2e5b951672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d0937b888fbb4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -83,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -231,19 +268,26 @@
   },
   "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "Files/Teaching Portfolio/Recommendations/Anne-Marie.md",
+    "Files/Teaching Portfolio/Recommendations/Anne-Marie.pdf",
+    "Files/Teaching Portfolio/Recommendations/Anne-Marie.log",
+    "Files/Teaching Portfolio/Recommendations/Anne-Marie.aux",
+    "Files/Teaching Portfolio/Recommendations/Anne-Marie.tex",
+    "Files/Teaching Portfolio/Recommendations/Anne-Marie_files/mediabag",
+    "Files/Teaching Portfolio/Recommendations/Anne-Marie_files",
+    "Files/Teaching Portfolio/Recommendations/Template.md",
+    "Courses Database/Meta/Assignments/Game Sessions.md",
+    "In Progress Papers/RealityCraft/RealityCraft.md",
+    "Courses Database/Meta/Assignment Rubrics/Second Level.md",
+    "Courses Database/Meta/Assignment Rubrics/First Level.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.md",
     "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.pdf",
     "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.log",
     "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.aux",
     "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.tex",
-    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief_files/mediabag",
-    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief_files",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.pdf",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.log",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.aux",
-    "In Progress Papers/Rational Choice Theory/Cognitive-Homelessness-and-Maximizing-the-Unexpected-FPA.qmd.tex",
     "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Identity.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Schechtman-Narrative/Schechtman-Narrative.md",
@@ -255,23 +299,16 @@
     "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Parfit-Reasons-Persons/Parfit-Reasons-Persons.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Identity/The-Self/Gallagher-Self.md",
     "Pasted image 20261017062740.png",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Notes/Metaphysics and Epistemology/Cognitive Science/MindForge/MindForge.md",
-    "In Progress Papers/RealityCraft/RealityCraft.md",
     "In Progress Papers/RealityCraft/Pasted image 20261109093323.png",
     "In Progress Papers/RealityCraft/Pasted image 20261109093250.png",
     "Course Slides/Philosophy of Mind.md",
     "Pasted image 20261109093323.png",
     "Pasted image 20261109093250.png",
     "Notes/Metaphysics and Epistemology/Cognitive Science/Neil Rabinowitz/Neil Rabinowitz et al.md",
-    "Courses Database/Meta/Assignments/Game Sessions.md",
-    "Courses Database/Meta/Assignment Rubrics/First Level.md",
     "Notes/Metaphysics and Epistemology/Cognitive Science/Laird et al/John E. Laird.md",
     "Screenshot 2026-11-08 214309.png",
     "Notes/Metaphysics and Epistemology/Cognitive Science/Hongxin-Zhang/Hongxin-Zhang.md",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Kanishk-Gandhi/Kanishk-Gandhi.md",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Building Cooperative/Hongxin Zhang Building Cooperative Embodied Agents.md",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Yun-Shiuan Chuang/Yun-Shiuan Chuang et al.md",
     "Files/Official Teaching Portfolio/Print/Fall-2023-SLU-Evals.png",
     "Pasted image 20261102101712.png",
     "Pasted image 20261102101643.png",

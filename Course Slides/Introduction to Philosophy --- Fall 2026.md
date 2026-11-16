@@ -14,6 +14,8 @@
 
 note:
 
+What do we know? There are many things that we do know. These include for instance what happened yesterday, with perhaps some lower degree of confidence, what will happen tomorrow, we know things about friends and family members who are close to us, and what happened say on July $\text{4}^{th}$ 1776. Now, consider this, there are some who may think that we don't know anything but that is not important here. What is important is whether or not these individuals would be right if we were in a simulation.
+
 The 1900s was a fascinating time for the study of knowledge. Until a four-page paper published by Edmund Gettier in 1963, one dominant theory had held fast since 369 BC. This theory was the analysis of knowledge as a justified true belief. According to it, an analysis of knowledge included three components. For something to count as knowledge these would have to first be satisfied. Or, we might more succinctly say: $S$ knows that $p$ *iff*:
 
 1. It is true that $p$.
@@ -55,6 +57,26 @@ But notice how the truth of this second claim is in part dependent on the truth 
 - Simulate possibility “something that _could_ happen” (p. 22)
 - Simulate something that _could have_ happened [but did not], alternate possibility
 - Worlds that bear no resemblance to reality
+
+note:
+
+In his book, Reality+, David Chalmers gives an argument for why the Matrix question is a difficult question to solve.
+
+If you are unfamiliar with this question, it is just the skeptical hypothesis that we are living in a simulation. He answers on two fronts, one, that we cannot know that we are not living in a simulation, and two, that even if we were living in a simulation, what would it matter? Here is the brief argument:
+
+1. It’s not _**impossible**_ that we are living in a simulation. (Metaphysical Thesis)
+2. Therefore we cannot know that we are not living in a simulation. (Skeptical Epistemology)
+3. As such, why would it matter if we were living in a simulation? (Anti-Skeptical Value Theory)
+
+Importantly, his argument is not so much a defense of why we should think that we are living in a simulation, but why the question is one without a possible answer and why the answer may not even be that interesting.
+
+Notably, this book really is a broader explanation about what philosophers do, and why they’re jobs are interestingly important.
+
+Covering all the major areas of philosophy, metaphysics, epistemology, value theory, logic, what Chalmers does is introduce the novice reader to the philosophical discipline.
+
+But Let’s imagine that Chalmers himself takes not the primary thesis as fundamental, not the negative thesis that we cannot know, but the positive thesis, that if we are living in a simulation, then what?
+
+One important claim that he makes, is that if we are living in a simulation, then the objects around us, though virtual, are real, they are just really virtual.
 
 ---
 
@@ -3270,23 +3292,7 @@ Stems from a failure to distinguish between
 
 note:
 
-In his book, Reality+, David Chalmers gives an argument for why the Matrix question is a difficult question to solve.
 
-If you are unfamiliar with this question, it is just the skeptical hypothesis that we are living in a simulation. He answers on two fronts, one, that we cannot know that we are not living in a simulation, and two, that even if we were living in a simulation, what would it matter? Here is the brief argument:
-
-1. It’s not _**impossible**_ that we are living in a simulation. (Metaphysical Thesis)
-2. Therefore we cannot know that we are not living in a simulation. (Skeptical Epistemology)
-3. As such, why would it matter if we were living in a simulation? (Anti-Skeptical Value Theory)
-
-Importantly, his argument is not so much a defense of why we should think that we are living in a simulation, but why the question is one without a possible answer and why the answer may not even be that interesting.
-
-Notably, this book really is a broader explanation about what philosophers do, and why they’re jobs are interestingly important.
-
-Covering all the major areas of philosophy, metaphysics, epistemology, value theory, logic, what Chalmers does is introduce the novice reader to the philosophical discipline.
-
-But Let’s imagine that Chalmers himself takes not the primary thesis as fundamental, not the negative thesis that we cannot know, but the positive thesis, that if we are living in a simulation, then what?
-
-One important claim that he makes, is that if we are living in a simulation, then the objects around us, though virtual, are real, they are just really virtual.
 
 But what about art?
 
