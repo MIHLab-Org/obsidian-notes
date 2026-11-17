@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "12b15f5d5b602b1e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ccfdd09acdb9e4b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Slides/Philosophy of Mind.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Philosophy of Mind"
-            }
-          }
-        ]
-      },
-      {
         "id": "08569767c5c03229",
         "type": "tabs",
         "children": [
@@ -33,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+                "file": "In Progress Papers/Death of a Spaceman/Appendices/Open-Sourcing the Course.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
+              "title": "Open-Sourcing the Course"
+            }
+          }
+        ]
+      },
+      {
+        "id": "337aa04292fa06ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93658a26d58260c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cognitive 2"
             }
           }
         ]
@@ -248,49 +248,50 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "ccfdd09acdb9e4b0",
+  "active": "4161a16cb92de503",
   "lastOpenFiles": [
+    "In Progress Papers/Death of a Spaceman/Appendices/Appendix E.md",
+    "In Progress Papers/Death of a Spaceman/Appendices/Open-Sourcing the Course.md",
+    "In Progress Papers/Death of a Spaceman/Appendices/Appendix D.md",
+    "In Progress Papers/Death of a Spaceman/Appendices/Appendix C.md",
+    "In Progress Papers/Death of a Spaceman/Appendices/Appendix B.md",
+    "In Progress Papers/Death of a Spaceman/Appendices/Appendix A.md",
+    "In Progress Papers/Death of a Spaceman/Part VIII - Foundations of Formal Philosophy/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Appendices",
+    "In Progress Papers/Death of a Spaceman/Appendices.md",
+    "In Progress Papers/Death of a Spaceman/Part VII - Redemption and Santification/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part VIII - Foundations of Formal Philosophy",
+    "In Progress Papers/Death of a Spaceman/Part V - God and Others/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part VI - Art and Beauty/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part IV - Why should we care/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part VI - Art and Beauty",
+    "In Progress Papers/Death of a Spaceman/Part VII - Redemption and Santification",
+    "In Progress Papers/Death of a Spaceman/Part II - What is Real/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part III - How do we know/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part I - The Spiritually Redeeming Value of Philosophy/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Front-Matter.md",
+    "In Progress Papers/Death of a Spaceman/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part V - God and Others",
+    "In Progress Papers/Death of a Spaceman/Part IV - Why should we care",
+    "In Progress Papers/Death of a Spaceman/Part III - How do we know",
+    "In Progress Papers/Death of a Spaceman/Part II - What is Real",
+    "In Progress Papers/Death of a Spaceman/Part I - The Spiritually Redeeming Value of Philosophy",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+    "In Progress Papers/Death of a Spaceman",
+    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "Course Slides/Philosophy of Mind.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Files/Teaching Portfolio/Recommendations/Anne-Marie.md",
-    "Files/Teaching Portfolio/Recommendations/Anne-Marie.pdf",
-    "Files/Teaching Portfolio/Recommendations/Anne-Marie.log",
-    "Files/Teaching Portfolio/Recommendations/Anne-Marie.aux",
-    "Files/Teaching Portfolio/Recommendations/Anne-Marie.tex",
-    "Files/Teaching Portfolio/Recommendations/Anne-Marie_files/mediabag",
-    "Files/Teaching Portfolio/Recommendations/Anne-Marie_files",
     "Files/Teaching Portfolio/Recommendations/Template.md",
     "Courses Database/Meta/Assignments/Game Sessions.md",
     "In Progress Papers/RealityCraft/RealityCraft.md",
     "Courses Database/Meta/Assignment Rubrics/Second Level.md",
-    "Courses Database/Meta/Assignment Rubrics/First Level.md",
-    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
-    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.md",
-    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.pdf",
-    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.log",
-    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.aux",
-    "Notes/Value Theory/Aesthetics/Frederick-i-beliefs/i-Belief.tex",
-    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Identity.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Schechtman-Narrative/Schechtman-Narrative.md",
-    "Notes/Agency/Goldberg-Narrative/Goldie-Narrative.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Altshuler-Agency/Altshuler-Agency.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Kwame-Ethics/Kwame-Ethics.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Plant-God-Minds/Plantinga-God-Minds.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Peterson-Imago-Dei/Peterson-Imago-Dei.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Parfit-Reasons-Persons/Parfit-Reasons-Persons.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/The-Self/Gallagher-Self.md",
     "Pasted image 20261017062740.png",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/MindForge/MindForge.md",
     "In Progress Papers/RealityCraft/Pasted image 20261109093323.png",
     "In Progress Papers/RealityCraft/Pasted image 20261109093250.png",
     "Pasted image 20261109093323.png",
     "Pasted image 20261109093250.png",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Neil Rabinowitz/Neil Rabinowitz et al.md",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Laird et al/John E. Laird.md",
     "Screenshot 2026-11-08 214309.png",
-    "Notes/Metaphysics and Epistemology/Cognitive Science/Hongxin-Zhang/Hongxin-Zhang.md",
     "Files/Official Teaching Portfolio/Print/Fall-2023-SLU-Evals.png",
     "Pasted image 20261102101712.png",
     "Pasted image 20261102101643.png",
