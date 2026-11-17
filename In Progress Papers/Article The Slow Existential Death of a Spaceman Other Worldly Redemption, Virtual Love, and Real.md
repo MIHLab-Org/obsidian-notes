@@ -39,17 +39,27 @@ Tasks: []
 
 ## **About the Course**
 
+- Horowitz, Tamara, Gerald J. Massey, and University of Pittsburgh, eds. 1991. _Thought Experiments in Science and Philosophy_. Center for Philosophy of Science Publications in Philosophy of Science. Rowman & Littlefield.
+
 In the edited volume *Thought Experiments in Science and Philosophy*, Tamara Horowitz and Gerald Massey define thought experiments as "attempt[s] to draw instruction from a process of hypothetical reasoning" (Horowitz et al. 1991). Planning and imagination play an important role in many of the activities that we carry out on a daily basis (Schulzke 2014). Some of these activities are associated with escape, daydreaming or fantasy. However, some of the activities that imagination plays an important role in are associated with learning, and enable us to learn about the world as it is. Some other activities centered around planning and imagination can also enable us to learn about ways the world could be. Video games can and often do, function as thought experiments. They can at one time be used to escape or daydream, but they can also be used to help us learn about the world as it is, for instance when we use them to model philosophical problems in metaphysics, values, and epistemology.
 
 ### Literature Review
 
+- Schulzke, Marcus. 2014. “Simulating Philosophy: Interpreting Video Games as Executable Thought Experiments.” _Philosophy & Technology_ 27 (2): 251–65. [https://doi.org/10.1007/s13347-013-0102-2](https://doi.org/10.1007/s13347-013-0102-2).
+
 Simulating Philosophy: Interpreting Video Games as Executable Thought Experiments. This course would be built around the idea that by treating video games as a philosophical thought experiment, the instructor can work alongside students to promote philosophical reflection and moral learning in the classroom. Second, it should be pointed out that I am equating “moral learning” with “philosophical reflection”. In doing this, I am claiming that to think *deeply* about something is an act of moral virtue, to wrestle with, to rigorously test, to fight with, both in the abstract and the subjective, and to truly experience an idea, cultivates virtue in the learner where virtue is the ability to critically reflect in appropriate circumstances. Students will design gameplay experiences inside open-world sim type games curated by the professor. They use course readings to design these game play experiences, they then use their gameplay experiences to discuss course readings.
 
+- De Cruz, Helen. 2024. _Wonderstruck: How Wonder and Awe Shape the Way We Think_. Princeton University Press.
+
 In her book, Wonderstruck, Helen De Cruz argues that we often act as though pedagogy cannot account for a student's emotional experiences. She instead defends an account of pedagogy grounded in emotional experiences. Eleonore Stump similarly draws together emotional experiences and philosophical education in her book Wandering in Darkness. We often learn about the world through our experiences with other persons. These experiences are emotional and mediated by our mirror neuronal systems, contributing to what Stump calls our "second-personal knowledge", knowledge of other minds. This is why you should consider an aspect of this course as “moral learning”. If all goes well, the course will require that you not only learn the material in it, but that you also experience the material in it.
+
+- Stump, Eleonore. 2010. _Wandering in Darkness: Narrative and the Problem of Suffering_. Clarendon Press ; Oxford University Press.
 
 Stump describes second-personal knowledge as "knowledge mediated by the mirror neuron system". Outline Resource Database
 
 For instance, we might learn what love is because of the love someone expresses towards us. Stump argues that second-personal knowledge does not get enough philosophical attention (Stump 2010). Further, we learn what specific terms mean through these experiences. We learn what courage is through our personal interaction with someone who is courageous. As such, if a person exhibits the virtue of courage for instance, then our direct, conscious personal interaction with that person gives us a direct, conscious and personal interaction with the virtue of courage. Lastly, these kinds of experiences are grounded in our mirror neurons and expressed as an emotion experience. This sort of learning then is grounded in the emotional experiences we have of that person.
+
+Malbranche, Nicholas. (1694) 1694. _Malbranche’s Search after Truth_. Vol. I. Printed for J. Dunton.
 
 Philosophers have long noted a close relationship between learning and a learner's emotional experiences. For instance, Yves Marie Andre describes Nicolas Malebranche's exhilaration at discovering Descartes' "Passions of the Soul" in a Parisian bookstall. While it is plausible that Andres' emotional state attribution is unwarranted, it is not novel.
 
@@ -57,13 +67,27 @@ Philosophers have long noted a close relationship between learning and a learner
 
 De Cruz’s primary purpose in Wonderstruck is to draw our attention to the ways that the emotions of awe and wonder derive from our experiences or other persons, and give rise to our strong desire to pay close attention to the world around us, or to those we inhabit the world with. In other words, awe and wonder are “motivating passion[s] that urge us to do philosophy . . .” (20) interpreting philosophy as “paying closer attention to the world around us [will need to defend]. More closer to my own point, I have integrated greater elements of gaming into my courses at Stetson University in an attempt to force students to slow down and pay greater attention to the world around *them*.
 
+Bogost, Ian. 2007. _Persuasive Games: The Expressive Power of Videogames_. MIT Press.
+
+Bogost, Ian. n.d. _How to Do Things with Videogames_.
+
+Cogburn, Jon, and Mark Silcox. 2009. _Philosophy through Video Games_. 1. publ. Routledge.
+
+Cogburn, Jon, and Mark Silcox. 2009. _Philosophy through Video Games_. 1. publ. Routledge.
+
+Malanowski, Sarah C., and Nicholas R. Baima. 2024. _Why It’s OK to Be a Gamer_. 1st ed. Routledge. [https://doi.org/10.4324/9781003308638](https://doi.org/10.4324/9781003308638).
+
 The first video game is likely *Tennis for Two* created in 1958 by the physicist William Higinbotham at the Brookhaven National Laboratory. The first ever space game was a collaboration between Steve Russell), Martin Graetz, Wayne Wiitanen, Bob Saunders, Steve Piner, and others, and involved two ships being controlled by human players navigating the gravity well of a star.
 
 Games have come a long way since these early examples. Grand space games such as Eve Online, Elite Dangerous, and Star Citizen, are perhaps more often than not, called “space-sims” for short. They are also known as Mass Multi-Player Online games (MMOs). The persistent universe / space simulations Eve Online, Star Citizen and Elite Dangerous are large scale open universe games and whether an aspiration or actual description of a game developer’s aims, in addition to telling social elements, these games often possess physical elements such as gravity with various game engines replicating known physical laws in order to create immersive experiences for the player.
 
 Other open world games such as the game Minecraft offer game-modes that allow different regeneration experiences. For instance a player can play in ‘creative’ wherein the object of the game play is to build whatever they desire in the Minecraft universe. In this mode, it is impossible for the player to die or be killed. Other versions allow the character a limited number of deaths within a given time. There are some extreme version where once the character dies, they lose access to that world and any items they may have created in it. No Man’s Sky is another open source video game that offers something like a “permadeath” mode
 
-The in-game mechanics of space-sims likes Elite, Eve, and SC, often model real-world physical and social laws. Eve Online entered the space-sim market on May 6, 2003 and as of 2008, for instance has had a robust player economy with a secondary real-world market value equal to about US$0.07 and US$0.08 per million ISK. ISK (Interstellar Kredit), is the in-game currency of Eve Online with Eve’s Gross Domestic Product equaling about 51 Trillion ISK, roughly 4 million US dollars [Information Operations in and around EVE Online]. This equates to about US$227.27 per user, an economy larger than several real-world nations. Information Operations in and around EVE Online; . Eve is also notable for the fact that not only do online content streamers cite Eve as their full-time occupation, but there are others who consider Eve their full-time occupation, performing the many monotonous tasks (grind) that players are expected to perform when they are just starting out.
+The in-game mechanics of space-sims likes Elite, Eve, and SC, often model real-world physical and social laws. Eve Online entered the space-sim market on May 6, 2003 and as of 2008, for instance has had a robust player economy with a secondary real-world market value equal to about US$0.07 and US$0.08 per million ISK. ISK (Interstellar Kredit), is the in-game currency of Eve Online with Eve’s Gross Domestic Product equaling about 51 Trillion ISK, roughly 4 million US dollars [Information Operations in and around EVE Online]. This equates to about US$227.27 per use
+
+- Chamberlain, P. R. n.d. _Information Operations in and around EVE Online_.r, an economy larger than several real-world nations. Information Operations in and around EVE Online. 
+
+Eve is also notable for the fact that not only do online content streamers cite Eve as their full-time occupation, but there are others who consider Eve their full-time occupation, performing the many monotonous tasks (grind) that players are expected to perform when they are just starting out.
 
 Elite Dangerous is a space-sim that differs from Eve owning to the player’s ability to extract resources from planets, moons and other space environments. As of the Odyssey expansion, now players can walk on planet and space station surfaces, conduct fps (first person shooter) activities, scan biological and geological data on terrestrial surfaces. Additionally, Frontier, the game studio that hosts Elite, is more hands-on regarding the player’s experiences in that they regularly initiate player campaigns like “The Thargoid Wars”. Elite uses a game engine that generates roughly 400 billion star systems in a 1:1 scale Milky Way. These systems include planetary collisions, tidal forces, gravity mechanics simulations based on real-world astronomical data. What this means is that players to date, have only explored about ~ 0.06 to ~ 0.07 percent of Elite’s simulated galaxy.
 
@@ -81,9 +105,9 @@ At the core of this idea lies a question about the ontological nature of video g
 
 Some have argued that this reduces one’s sense of wonder during gameplay and that removing this mechanic, also known as “permadeath”, will make gameplay more meaningful. Star Citizen’s Chris Roberts Death of a Spaceman - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 has proposed a concept he calls “the Death of a Spaceman”. Accordingly, after too many death’s of a player’s character, the player’s character would be reset. The character will lose any in game advances made up to this point. These include notable characteristics that the player’s character would have developed by this point. For instance his grander idea is that characters will develop defining traits physical traits such as scars, prosthetic limbs, etc. Here is Chris Roberts making this point:
 
-I also feel that if everyone can be cloned easily, it fundamentally changes the structure of the universe. You now have a universe of immortal gods that can’t be killed. Death is just a financial and time inconvenience that has no further consequences. The life and death cycle of humanity is what has brought us our history, our need to “make a mark” in our time, to push forward. If I want a living, breathing universe that has a lot of the dynamics of a real world and is inspired by the decline and fall of the Roman Empire, immortality for all is problematic. Death of a Spaceman - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42
+> I also feel that if everyone can be cloned easily, it fundamentally changes the structure of the universe. You now have a universe of immortal gods that can’t be killed. Death is just a financial and time inconvenience that has no further consequences. The life and death cycle of humanity is what has brought us our history, our need to “make a mark” in our time, to push forward. If I want a living, breathing universe that has a lot of the dynamics of a real world and is inspired by the decline and fall of the Roman Empire, immortality for all is problematic. Death of a Spaceman - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42
 
-What Roberts is suggesting, is a closer relationship between a player’s in-game character and their own personal identity. This point is similar to questions about consciousness and mind. Gabriel Marcel has also argued that when we lose our sense of wonder, our sense of what defines us is lost, our humanity. We begin to only see ourselves as a set of functions and sources of productivity, where similar to Robert’s claim, death is only a financial and time inconvenience. In other words, we begin to lose our ability to identity with our in-game characters in much the same way that we begin to lose our ability to identify with ourselves in real-life.
+What Roberts is suggesting, is a closer relationship between a player’s in-game character and their own personal identity. This point is similar to questions about consciousness and mind. Gabriel Marcel has also argued that when we lose our sense of wonder, our sense of what defines us is lost, our humanity. We begin to only see ourselves as a set of functions and sources of productivity, where similar to Robert’s claim, death is only a financial and time inconvenience. In other words, we begin to lose our ability to identify with our in-game characters in much the same way that we begin to lose our ability to identify with ourselves in real-life.
 
 One argument is that the scientific method, by its very nature is central to our our loss of wonder, namely that the purpose of science is to dispel our sense of wonder by removing objects of mystery, for instance cancer. If this is true, then science by its very nature, is responsible for our loss of wonder.
 
@@ -208,3 +232,21 @@ For instance, Grant Tavinor argues that video games are art because they are a t
 Others argue that they represent a special way of criticizing economic and political systems by simulating them, and therefore are a kind of art. But what does it mean for a “work of art” to exist inside a video-game?
 
 Can an artist-developer create works of art inside video games? Which account can be explain why an object inside a game world could be considered a work of art?
+
+# Part I
+
+| Reading                                                                                             | Suggested selection                                            | Role in chapter                                     | Status                        |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
+| Descartes, _The Passions of the Soul_ (1649)                                                        | arts. 53, 70–78 (wonder as the first passion) [CONFIRM ARTS.]  | Wonder as the first passion and a spur to inquiry   | [PUBLIC DOMAIN]               |
+| Adam Smith, "The History of Astronomy" (1795)                                                       | §§1–2 (surprise, wonder, admiration) [CONFIRM]                 | Wonder as the engine of inquiry                     | [PUBLIC DOMAIN]               |
+| Plato, _Theaetetus_                                                                                 | 155c–d ("wonder is the feeling of a philosopher")              | Classical origin claim                              | [PUBLIC DOMAIN — Jowett]      |
+| Aristotle, _Metaphysics_ I.1–2                                                                      | 980a–983a                                                      | "All men by nature desire to know"; wonder and myth | [PUBLIC DOMAIN — Ross trans.] |
+| Plato, _Apology_                                                                                    | 38a ("the unexamined life")                                    | Why the questions matter                            | [PUBLIC DOMAIN]               |
+| _Optional:_ Helen De Cruz, _Wonderstruck: How Wonder and Awe Shape the Way We Think_ (Princeton UP) | Introduction + chapter on wonder in philosophy [CONFIRM PAGES] | Contemporary account of wonder and awe              |                               |
+
+
+# Part II
+
+# Part III
+
+# Part IV
