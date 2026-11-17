@@ -2365,6 +2365,13 @@ Either reality is of one substance from which everything else emanates or is of 
 
 #### Cartesian Dualism
 
+* Mind as conscious experience
+	* A mental state is a consciously experienced mental state.
+* Mind as psychology
+	* A mental state is a brain state that plays the right causal role in the production of behavior.
+* First person
+* Third person
+
 #### Contemporary Physicalism
 
 ---
