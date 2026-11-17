@@ -30,11 +30,48 @@ Rational choice theory asks "can an agent always expect to do best by trying to 
 ## Rational Accounts of Love, Decisive Accounts of Love
 
 
-Carter (2026) describes transformative decisions problems as being a kind of opaque decision problem: $\hat{\Delta}$ = $\langle \text{S}^{\hat{\Delta}}, O^{\hat{\Delta}}, A^{\hat{\Delta}}, P^{\hat{\Delta}}, \upsilon^{\hat{\Delta}}\rangle$. Following (Lewis 1982; Isaacs and Russell 2023, 586), a set of worlds $\Omega$ is a set of possibilities wherein some agent weights some particular outcome as either valuable or not. According to Lewis, this is because value may derive according to one's "system of beliefs". Traditionally, such questions are about what constitutes a rational choice, or belief. Here however, we are taking what is rational to believe, and determining what might be rational to value. A contrast that we might make here, is that truth is not "ontological", but rather it is relative. If this is true, then what is rational to value, may turn on what is rational for us to believe with strange implications:
+Carter (2026) describes transformative decisions problems as being a kind of opaque decision problem: $\hat{\Delta}$ = $\langle \text{S}^{\hat{\Delta}}, O^{\hat{\Delta}}, A^{\hat{\Delta}}, P^{\hat{\Delta}}, \upsilon^{\hat{\Delta}}\rangle$. Following (Lewis 1982; Isaacs and Russell 2023, 586), a set of worlds $\Omega$ is a set of possibilities wherein some agent weights some particular outcome as either valuable or not. According to Lewis, this is because value may derive according to one's "system of beliefs". Traditionally, such questions are about what constitutes a rational choice, or a belief. Here however, we are taking what is rational to believe, and determining what might be rational to value. A contrast that we might make here, is that truth is not "ontological", but rather it is relative. If this is true, then what is rational to value, may turn on what is rational for us to believe with strange implications:
 
 > Instead, consider truth and falsity according to some corpus of information. It might be someone's system of beliefs, a data bank or almanac or encyclopedia or textbook, a theory or a system of mythology, or even a work of fiction. (Lewis 1982, 435)
 
-Eleonore Stump raises the question of value. In her account of closeness and presence from her book, Wandering in Darkness, Eleonore Stump argues that love is an interaction of "two mutually governing desires for the good of the beloved and the desire for union with the beloved" (Stump 2010, 95). She then considers reasons why rational choice theory may fail. Psychic fragmentation can leave a person alienated from herself and therefore alienated from her own two mutually governing desires. Analogously then, the worry I raise is that our values turn on what is rational for us to believe rather than what is true. The best example of the relevance of this question can be represented with the following lyric excerpts from the songs “By Yourself” by Tyrone Griffin Jr (Ty Dollar $ign Diggs) and “Rich and Sad” by Austin Richard Post (Post Malone). 
+Eleonore Stump raises the question of value. Lets first look at what love could be. 
+
+Frankfurt:
+	So a person's true self is characterized by desires and volitions, that she cares about, what she cares about are things that are active for her.
+
+However
+
+* Passivity is in some ways essential to the human experience
+	* Our belief that the sun is yellow depends on sense impressions that we have no control over.
+* Union and presence then also requires passivity, but also activity.
+
+> Love is a response of the lover to qualities he perceives and values in the beloved.
+
+  1. Love = x $\phi$’s y, 
+	  1. x is $\phi$ with/of/about y
+  2. x feels emotion e, towards y, then x believes y to be $\phi$. $[(\exists \phi (x)(y) (Exy \rightarrow Bx\phi y)]$
+	  1. For some quality $\phi$
+	  2. *x* Believes of *y* that *y* possesses quality $\phi$.
+  3. if x feels the emotion in question towards some object y then x believes y to have some determinate quality $\psi$, which normally but not necessarily he will be able to specify: $[(x)(y)(\exists \psi)(Exy \rightarrow Bx\psi y)]$ 
+  4. 1-3 are necessary but not sufficient conditions. Justification of e is also needed.
+
+Is love ever unjustified? 
+  1. if x loves y then x wants to benefit and be with y etc. Because x believes y has some determinate characteristics $\psi$ in virtue of which he thinks it worth while to benefit and be with y.
+  2. Justification (i) the belief that y is $\psi$ may be well- or ill-founded. (ii) the distinction between want and wish is that want is accompainied by the belief that the object is obtainable. (iii) one can be mistaken in attaching the value he does to what he wants.
+
+Augustinian conception: failure to seek help, possible because of God's grace.
+
+But what is sanctification?
+	However, willing the good is related to self-love, love with self and with God.
+		higher-order desire to will the good
+		but presupposes general higher-order desire
+	Faith-unites belief and faith
+
+1. The will can detest its past wrongdoing and love God's goodness
+2. The will can cleave to its past wrongdoing and reject God's goodness
+3. The will can simply be turned off in regards to its past wrongdoing and God's goodness (will neither refuses nor accepts grace)
+
+In her account of closeness and presence from her book, Wandering in Darkness, Eleonore Stump argues that love is an interaction of "two mutually governing desires for the good of the beloved and the desire for union with the beloved" (Stump 2010, 95). She then considers reasons why rational choice theory may fail. Psychic fragmentation can leave a person alienated from herself and therefore alienated from her own two mutually governing desires. Analogously then, the worry I raise is that our values turn on what is rational for us to believe rather than what is true. The best example of the relevance of this question can be represented with the following lyric excerpts from the songs “By Yourself” by Tyrone Griffin Jr (Ty Dollar $ign Diggs) and “Rich and Sad” by Austin Richard Post (Post Malone). 
 
 First,
 
