@@ -12,5 +12,7 @@
   "obsidian-extract-pdf-highlights",
   "pdf-highlight-notes",
   "pdf-plus",
-  "yarn-spinner-editor"
+  "yarn-spinner-editor",
+  "mermaid-popup",
+  "mermaid-flow"
 ]

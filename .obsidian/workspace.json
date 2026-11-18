@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "08569767c5c03229",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4161a16cb92de503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
-            }
-          }
-        ]
-      },
-      {
         "id": "337aa04292fa06ac",
         "type": "tabs",
         "children": [
@@ -33,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognitive 2"
+              "title": "Introduction to Philosophy --- Fall 2026"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc6c6b00771683f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccfd1aa68f9e8d56",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
             }
           }
         ]
@@ -103,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -246,10 +241,11 @@
       "bases:Create new base": false,
       "slides-extended:Show slide preview": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Import notes": false
+      "obsidian-importer:Import notes": false,
+      "mermaid-flow:Mermaid Flow Editor": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "ccfd1aa68f9e8d56",
   "lastOpenFiles": [
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",

@@ -3226,6 +3226,52 @@ Stems from a failure to distinguish between
 
 # Values to Live By
 
+note:
+
+But what about art?
+
+The game Star Citizen includes three objects that may be classified as art. I want to know whether these objects are works of art independent of the work of art that is Star Citizen.
+
+They include:
+
+1. Unheard Song, Fay Womack, steel, and empty cage sings only of freedom
+2. Bruised soul, Fay Womack, aluminum, and when we fall, the landing always leaves a mark
+3. Diatribe, Tamara Wheel, marble, A shifting circle illustrating that the whole is never as unified as it first appears
+
+First, it is important to note that the question about whether independent art works can exist inside a video game is a question along Chalmers’ third thesis, why would it matter? One aspect of this question involves the implications around objects inside a simulation. A worry is that if we are living in a simulation, then we wouldn’t be real.
+
+---
+
+### The Hard Problem of Consciousness
+
+What is the causal relationship between subjective experience and objective behavior?
+
+> It still seems utterly mysterious that the causation of behavior should be accompanied by a subjective inner life. We have good reason to believe that consciousness arises from physical systems such as brains, but we have little idea how it arises, or why it exists at all. How could a physical system such as a brain also be an experiencer. (Chalmers 1996, xi)
+
+---
+
+#### Easy Problem of Consciousness
+
+- How does the brain process environment stimulation?
+
+note:
+
+- integrate information
+- produce reports on internal states
+- standard methods in cognitive science and neuroscience do not work
+
+---
+
+- deny its existence
+- explain it as something it is not
+	- illusion
+	- not a problem
+
+---
+
+- maybe the physical world is causally closed
+- behavior can be explained in physical terms
+	- not by appeal to mental states but brain states only
 
 ---
 
