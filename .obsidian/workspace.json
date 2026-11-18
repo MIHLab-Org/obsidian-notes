@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
+                "file": "Course Slides/Introduction to Philosophy --- Fall 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real"
+              "title": "Introduction to Philosophy --- Fall 2026"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -228,8 +229,12 @@
       "yarn-spinner-editor:Open Yarn node graph": false
     }
   },
-  "active": "7107a8cf71bb03b9",
+  "active": "23f92a5b740f4ffe",
   "lastOpenFiles": [
+    "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
     "In Progress Papers/Death of a Spaceman/Part VIII - Foundations of Formal Philosophy/Introduction.md",
     "In Progress Papers/Death of a Spaceman/Part VII - Redemption and Santification/Introduction.md",
     "In Progress Papers/Death of a Spaceman/Part VI - Art and Beauty/Introduction.md",
@@ -256,16 +261,12 @@
     "In Progress Papers/Death of a Spaceman/Front-Matter.md",
     "In Progress Papers/Death of a Spaceman/Appendices",
     "In Progress Papers/Death of a Spaceman",
-    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
     "Files/Teaching Portfolio/Recommendations/Anne-Marie.md",
-    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Notes/Metaphysics and Epistemology/Cognitive Science/MindForge/MindForge.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Identity/The-Self/Gallagher-Self.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Plant-God-Minds/Plantinga-God-Minds.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Schechtman-Narrative/Schechtman-Narrative.md",
     "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Peterson-Imago-Dei/Peterson-Imago-Dei.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Parfit-Reasons-Persons/Parfit-Reasons-Persons.md",
-    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Altshuler-Agency/Altshuler-Agency.md",
     "In Progress Papers/RealityCraft/Pasted image 20261109093323.png",
     "In Progress Papers/RealityCraft/Pasted image 20261109093250.png",
     "Screenshot 2026-11-08 214309.png",
