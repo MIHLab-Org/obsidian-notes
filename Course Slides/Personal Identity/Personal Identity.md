@@ -1,6 +1,7 @@
 Personal Identity
 
 First published Tue Aug 20, 2002; substantive revision Thu Jul 9, 2015
+
 Personal identity deals with philosophical questions that arise about ourselves by virtue of our being people (or, as lawyers and philosophers like to say, persons). This contrasts with questions about ourselves that arise by virtue of our being living things, conscious beings, material objects, or the like. Many of these questions occur to nearly all of us now and again: What am I? When did I begin? What will happen to me when I die? Others are more abstruse. Personal identity has been discussed since the origins of Western philosophy, and most major figures have had something to say about it. (There is also a rich literature on the topic in Eastern philosophy, which I am not competent to discuss; Collins 1982 and Jinpa 2002 are useful sources.)
 
 Personal identity is sometimes discussed under the protean term self. And ‘self’ does sometimes mean ‘person’. But it often means something different: some sort of immaterial subject of consciousness, for instance (as in the phrase ‘the myth of the self’). The term is often used without any clear meaning at all. This entry will avoid it.
@@ -15,6 +16,7 @@ We will first survey the main questions of personal identity. Most of the entry 
 6. The Too-Many-Thinkers Problem
 7. Brute-Physical Views
 8. Wider Themes
+
 Bibliography
 Academic Tools
 Other Internet Resources
