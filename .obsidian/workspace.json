@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "cc6c6b00771683f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ccfd1aa68f9e8d56",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Introduction to Philosophy --- Fall 2026.md"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -251,6 +235,16 @@
     "MIHLab Database/buisness articles",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+    "Course Slides/Introduction to Philosophy --- Fall 2026.md",
+    "In Progress Papers/Article The Slow Existential Death of a Spaceman Other Worldly Redemption, Virtual Love, and Real.md",
+    "In Progress Papers/Death of a Spaceman/Part VIII - Foundations of Formal Philosophy/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part VII - Redemption and Santification/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part VI - Art and Beauty/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part V - God and Others/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part IV - Why should we care/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part III - How do we know/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part II - What is Real/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part I - The Spiritually Redeeming Value of Philosophy/Introduction.md",
     "In Progress Papers/Death of a Spaceman/Appendices/Open-Sourcing the Course.md",
     "Files/Death of a Spaceman-1794927030153.pdf",
     "In Progress Papers/Death of a Spaceman/Appendices/Appendix E.md",
@@ -280,10 +274,11 @@
     "Course Slides/Philosophy of Mind.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Files/Teaching Portfolio/Recommendations/Anne-Marie.md",
-    "Files/Teaching Portfolio/Recommendations/Template.md",
-    "Courses Database/Meta/Assignments/Game Sessions.md",
-    "In Progress Papers/RealityCraft/RealityCraft.md",
-    "Pasted image 20261017062740.png",
+    "Notes/Metaphysics and Epistemology/Cognitive Science/MindForge/MindForge.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/The-Self/Gallagher-Self.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Plant-God-Minds/Plantinga-God-Minds.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Schechtman-Narrative/Schechtman-Narrative.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Peterson-Imago-Dei/Peterson-Imago-Dei.md",
     "In Progress Papers/RealityCraft/Pasted image 20261109093323.png",
     "In Progress Papers/RealityCraft/Pasted image 20261109093250.png",
     "Pasted image 20261109093323.png",
