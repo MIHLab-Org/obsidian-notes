@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Kwame-Ethics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dp4morpsy/Roman Altshuler.md",
+                "file": "In Progress Papers/RealityCraft/RealityCraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+                "file": "Scope and Purpose.md/Scope and Purpose.qmd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,25 +211,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.6937255859375
+    "width": 344.3148193359375
   },
   "left-ribbon": {
     "hiddenItems": {
+      "yarn-spinner-editor:Open Yarn node graph": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:Import notes": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
-      "slides-extended:Show slide preview": false,
-      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,
@@ -256,8 +245,10 @@
       "mermaid-flow:Mermaid Flow Editor": false
     }
   },
-  "active": "ccfd1aa68f9e8d56",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
+    "MIHLab Database/buisness articles/CP_575_G.pdf",
+    "MIHLab Database/buisness articles",
     "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
     "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
     "In Progress Papers/Death of a Spaceman/Appendices/Open-Sourcing the Course.md",
@@ -265,16 +256,27 @@
     "In Progress Papers/Death of a Spaceman/Appendices/Appendix E.md",
     "In Progress Papers/Death of a Spaceman/Appendices/Appendix D.md",
     "In Progress Papers/Death of a Spaceman/Appendices/Appendix C.md",
-    "In Progress Papers/Death of a Spaceman/Appendices/Appendix A.md",
     "In Progress Papers/Death of a Spaceman/Appendices/Appendix B.md",
+    "In Progress Papers/Death of a Spaceman/Appendices/Appendix A.md",
+    "In Progress Papers/Death of a Spaceman/Part VIII - Foundations of Formal Philosophy/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Appendices",
+    "In Progress Papers/Death of a Spaceman/Appendices.md",
+    "In Progress Papers/Death of a Spaceman/Part VII - Redemption and Santification/Introduction.md",
     "In Progress Papers/Death of a Spaceman/Part VIII - Foundations of Formal Philosophy",
-    "In Progress Papers/Death of a Spaceman/Part VII - Redemption and Santification",
+    "In Progress Papers/Death of a Spaceman/Part V - God and Others/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part VI - Art and Beauty/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part IV - Why should we care/Introduction.md",
     "In Progress Papers/Death of a Spaceman/Part VI - Art and Beauty",
+    "In Progress Papers/Death of a Spaceman/Part VII - Redemption and Santification",
+    "In Progress Papers/Death of a Spaceman/Part II - What is Real/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part III - How do we know/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Part I - The Spiritually Redeeming Value of Philosophy/Introduction.md",
+    "In Progress Papers/Death of a Spaceman/Front-Matter.md",
+    "In Progress Papers/Death of a Spaceman/Introduction.md",
     "In Progress Papers/Death of a Spaceman/Part V - God and Others",
     "In Progress Papers/Death of a Spaceman/Part IV - Why should we care",
     "In Progress Papers/Death of a Spaceman/Part III - How do we know",
     "In Progress Papers/Death of a Spaceman/Part II - What is Real",
-    "In Progress Papers/Death of a Spaceman/Part I - The Spiritually Redeeming Value of Philosophy",
     "Course Slides/Philosophy of Mind.md",
     "Course Slides/Introduction to Philosophy --- Fall 2026.md",
     "Files/Teaching Portfolio/Recommendations/Anne-Marie.md",
@@ -284,14 +286,13 @@
     "Pasted image 20261017062740.png",
     "In Progress Papers/RealityCraft/Pasted image 20261109093323.png",
     "In Progress Papers/RealityCraft/Pasted image 20261109093250.png",
-    "Screenshot 2026-11-08 214309.png",
     "Pasted image 20261109093323.png",
     "Pasted image 20261109093250.png",
+    "Screenshot 2026-11-08 214309.png",
+    "Files/Official Teaching Portfolio/Print/Fall-2023-SLU-Evals.png",
     "Pasted image 20261102101712.png",
     "Pasted image 20261102101643.png",
-    "Files/Official Teaching Portfolio/Print/Summer-2026-Stetson-Evals.png",
-    "Files/Official Teaching Portfolio/Print/Spring-2024-SLU-Evals.png",
-    "Files/Official Teaching Portfolio/Print/Fall-Spring-25-26-Stetson-Evals.png",
+    "export/Introduction to Philosophy --- Fall 2026/Pasted image 20261026093656.png",
     "Scope and Purpose/Scope and Purpose.canvas",
     "Wandering in Darkness.canvas"
   ]
