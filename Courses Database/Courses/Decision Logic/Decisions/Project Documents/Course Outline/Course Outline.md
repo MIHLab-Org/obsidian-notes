@@ -1,6 +1,6 @@
 ---
 notion-id: ae38935b-cf8a-82b8-9fbf-018647d4ea1c
-base: "[[Courses Database/Courses/Philosophy of Law Courses/Philosophy of Law/Philosophy of Law 1/Project Documents/Project Documents.base]]"
+base: "[[Courses Database/Courses/Philosophy of Law Courses/_archive/Spring 2026/Project Documents/Project Documents.base]]"
 Tags: []
 Created by: montaque reynolds
 Created time: 2026-08-04T12:35:00

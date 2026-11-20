@@ -1,0 +1,778 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --paper:      #EDEEE9;
+    --paper-deep: #E3E5DE;
+    --ink:        #22261F;
+    --ink-soft:   #5A6055;
+    --rule:       #C9CBC2;
+    --advisor:    #5C4B8A;
+    --cut:        #A8384A;
+    --add:        #2F6B52;
+    --query:      #1F5F73;
+
+    --serif: "Newsreader", Georgia, "Times New Roman", serif;
+    --mono:  "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+
+    --editor-size: 19px;
+    --editor-lh: 1.72;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--serif);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ---------- masthead ---------- */
+
+  header {
+    display: flex;
+    align-items: baseline;
+    gap: 18px;
+    padding: 20px 28px 14px;
+    border-bottom: 1px solid var(--rule);
+    flex-wrap: wrap;
+  }
+
+  h1 {
+    font-family: var(--serif);
+    font-weight: 300;
+    font-size: 25px;
+    letter-spacing: -0.015em;
+    margin: 0;
+  }
+  h1 em { font-style: italic; color: var(--advisor); }
+
+  .masthead-note {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-right: auto;
+  }
+
+  /* ---------- controls ---------- */
+
+  .controls { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+
+  button {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 8px 14px;
+    border: 1px solid var(--ink);
+    background: transparent;
+    color: var(--ink);
+    cursor: pointer;
+    border-radius: 1px;
+    transition: background 120ms ease, color 120ms ease;
+  }
+  button:hover:not(:disabled) { background: var(--ink); color: var(--paper); }
+  button:disabled { opacity: 0.35; cursor: default; }
+  button:focus-visible { outline: 2px solid var(--advisor); outline-offset: 2px; }
+
+  button.primary { background: var(--advisor); border-color: var(--advisor); color: #fff; }
+  button.primary:hover:not(:disabled) { background: #4a3c70; border-color: #4a3c70; }
+
+  .toggle {
+    display: flex; align-items: center; gap: 8px;
+    font-family: var(--mono); font-size: 11px;
+    letter-spacing: 0.06em; text-transform: uppercase;
+    color: var(--ink-soft); cursor: pointer; user-select: none;
+  }
+  .toggle input { accent-color: var(--advisor); width: 14px; height: 14px; cursor: pointer; }
+
+  /* ---------- layout ---------- */
+
+  main {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 372px;
+    gap: 0;
+    min-height: calc(100vh - 68px);
+  }
+
+  .sheet { padding: 40px 44px 160px; position: relative; }
+
+  .sheet-inner { max-width: 660px; margin: 0 auto; position: relative; }
+
+  /* ---------- editor: textarea over mirrored backdrop ---------- */
+
+  .editor-stack { position: relative; }
+
+  #backdrop, #editor {
+    font-family: var(--serif);
+    font-size: var(--editor-size);
+    line-height: var(--editor-lh);
+    font-weight: 400;
+    letter-spacing: 0.003em;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    word-break: normal;
+  }
+
+  #backdrop {
+    position: absolute;
+    inset: 0;
+    color: transparent;
+    pointer-events: none;
+    z-index: 0;
+  }
+  #backdrop mark {
+    color: transparent;
+    background: transparent;
+    border-radius: 1px;
+    pointer-events: auto;
+    cursor: pointer;
+  }
+
+  /* the marks themselves — underline-style, so text stays legible */
+  #backdrop mark.m-cut    { box-shadow: inset 0 -0.62em 0 rgba(168,56,74,0.15); border-bottom: 1.5px solid var(--cut); }
+  #backdrop mark.m-add    { box-shadow: inset 0 -0.62em 0 rgba(47,107,82,0.14);  border-bottom: 1.5px solid var(--add); }
+  #backdrop mark.m-note   { box-shadow: inset 0 -0.62em 0 rgba(92,75,138,0.13);  border-bottom: 1.5px dotted var(--advisor); }
+  #backdrop mark.active   { box-shadow: inset 0 -0.62em 0 rgba(92,75,138,0.30); }
+
+  #editor {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    min-height: 62vh;
+    background: transparent;
+    color: var(--ink);
+    resize: none;
+    outline: none;
+    caret-color: var(--advisor);
+    display: block;
+  }
+  #editor::placeholder { color: var(--ink-soft); opacity: 0.5; font-style: italic; }
+
+  /* ---------- margin rail ---------- */
+
+  .rail {
+    border-left: 1px solid var(--rule);
+    background: var(--paper-deep);
+    padding: 26px 22px 120px;
+    overflow-y: auto;
+    max-height: calc(100vh - 68px);
+    position: sticky;
+    top: 0;
+  }
+
+  .rail-head {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-bottom: 12px;
+    margin-bottom: 18px;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .empty {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 15px;
+    color: var(--ink-soft);
+    line-height: 1.6;
+  }
+
+  /* ---------- suggestion cards ---------- */
+
+  .card {
+    border-left: 2px solid var(--advisor);
+    padding: 0 0 0 14px;
+    margin-bottom: 26px;
+    animation: settle 260ms ease both;
+  }
+  @keyframes settle { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .card { animation: none; } }
+
+  .card.c-cut  { border-left-color: var(--cut); }
+  .card.c-add  { border-left-color: var(--add); }
+  .card.c-note { border-left-color: var(--query); }
+
+  .tag {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--advisor);
+    display: block;
+    margin-bottom: 7px;
+  }
+  .c-cut .tag  { color: var(--cut); }
+  .c-add .tag  { color: var(--add); }
+  .c-note .tag { color: var(--query); }
+
+  .diff {
+    font-family: var(--serif);
+    font-size: 15.5px;
+    line-height: 1.55;
+    margin-bottom: 9px;
+    word-break: break-word;
+  }
+  .diff del { color: var(--cut); text-decoration: line-through; text-decoration-thickness: 1px; }
+  .diff ins { color: var(--add); text-decoration: none; background: rgba(47,107,82,0.10); padding: 0 2px; }
+
+  .why {
+    font-size: 14.5px;
+    line-height: 1.58;
+    color: var(--ink);
+    margin-bottom: 11px;
+  }
+
+  .card-actions { display: flex; gap: 7px; }
+  .card-actions button { padding: 5px 11px; font-size: 10px; }
+
+  /* ---------- status ---------- */
+
+  .status {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    min-height: 15px;
+  }
+  .status.thinking::after {
+    content: "";
+    display: inline-block;
+    width: 5px; height: 5px;
+    margin-left: 7px;
+    border-radius: 50%;
+    background: var(--advisor);
+    animation: pulse 1.1s ease-in-out infinite;
+    vertical-align: middle;
+  }
+  @keyframes pulse { 0%,100% { opacity: 0.25; } 50% { opacity: 1; } }
+
+  .wordcount {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.06em;
+    color: var(--ink-soft);
+  }
+
+  /* ---------- advisor's note ---------- */
+
+  .note-panel {
+    max-width: 660px;
+    margin: 44px auto 0;
+    padding: 24px 26px;
+    background: var(--paper-deep);
+    border-top: 2px solid var(--advisor);
+  }
+  .note-panel h2 {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--advisor);
+    margin: 0 0 12px;
+    font-weight: 500;
+  }
+  .note-panel p { font-size: 16px; line-height: 1.62; margin: 0 0 12px; }
+  .note-panel p:last-child { margin-bottom: 0; }
+
+  @media (max-width: 900px) {
+    main { grid-template-columns: 1fr; }
+    .rail { position: static; max-height: none; border-left: 0; border-top: 1px solid var(--rule); }
+    .sheet { padding: 28px 22px 60px; }
+  }
+</style>
+
+<header>
+  <h1>Marginalia<em>.</em></h1>
+  <span class="masthead-note">suggestions only &middot; nothing is changed without you</span>
+  <div class="controls">
+    <label class="toggle">
+      <input type="checkbox" id="ambient" checked>
+      Ambient
+    </label>
+    <button id="pass" class="primary">Advisor pass</button>
+    <button id="export">Export marked-up</button>
+  </div>
+</header>
+
+<main>
+  <section class="sheet">
+    <div class="sheet-inner">
+      <div class="editor-stack">
+        <div id="backdrop" aria-hidden="true"></div>
+        <textarea id="editor" spellcheck="true" placeholder="Write. The advisor reads a paragraph only after you have left it, and never the one you are in."></textarea>
+      </div>
+      <div id="notePanel"></div>
+    </div>
+  </section>
+
+  <aside class="rail">
+    <div class="rail-head">
+      <span id="railCount">The margin</span>
+      <span class="wordcount" id="wordcount">0 words</span>
+    </div>
+    <div class="status" id="status"></div>
+    <div id="cards"></div>
+  </aside>
+</main>
+
+<script>
+(function () {
+  const editor    = document.getElementById('editor');
+  const backdrop  = document.getElementById('backdrop');
+  const cardsEl   = document.getElementById('cards');
+  const statusEl  = document.getElementById('status');
+  const railCount = document.getElementById('railCount');
+  const wordEl    = document.getElementById('wordcount');
+  const notePanel = document.getElementById('notePanel');
+  const ambientEl = document.getElementById('ambient');
+  const passBtn   = document.getElementById('pass');
+  const exportBtn = document.getElementById('export');
+
+  const MODEL = 'claude-sonnet-4-6';
+
+  let suggestions = [];      // {id, tag, original, replacement|null, comment, start, end}
+  let declined    = [];      // remembered rejections — never re-raised
+  let analysed    = {};      // paragraph text -> true, so ambient does not re-read unchanged prose
+  let seq         = 0;
+  let busy        = false;
+  let idleTimer   = null;
+  let lastPara    = -1;
+
+  /* ---------------- shared advisor instructions ---------------- */
+
+  const CONSTRAINT = `
+You are a dissertation advisor marking up an author's draft. You NEVER rewrite their prose.
+
+HARD RULES:
+- "original" must be an EXACT substring of the text you were given, copied character for character.
+- "replacement" may be at most about a CLAUSE. Permitted: cutting throat-clearing, deleting a redundant
+  word, adding a connective (but/so/however), restoring a buried verb, punctuation, restoring an agent to
+  a passive. An empty string means a pure deletion.
+- NEVER supply as a replacement: a rewritten sentence, a missing premise, a thesis statement, a topic
+  sentence, an example, or a counterargument. Content the author did not think of, arriving in their own
+  voice, is content they will accept without examining. For those cases set "replacement" to null and
+  write a comment that names the gap and stops.
+- Every mark carries a reason the author could disagree with on the merits. "Passive voice" is not a
+  reason. Name what the passive costs HERE, in this argument.
+- No flattery. No padding. Honest before kind.
+
+Comment format: 1-3 sentences. Diagnosis first, then why it matters to this argument.
+Return ONLY raw JSON, no markdown fences, no preamble:
+{"suggestions":[{"tag":"CLARITY","original":"exact substring","replacement":"short text or empty string or null","comment":"..."}]}
+Tags: LOGIC STRUCTURE CLARITY CONCISION TERM EVIDENCE MECHANICS QUERY WORKS`;
+
+  const AMBIENT_SCOPE = `
+This is ONE paragraph pulled from a longer draft. You cannot see the argument around it, so do NOT
+comment on structure, thesis placement, or whether claims are supported — you lack the context to judge
+those and a wrong guess costs the author more than silence.
+
+Limit yourself to what is visible locally: nominalisations that bury the verb, ambiguous pronoun
+reference, stacked hedges, throat-clearing openers, sentences carrying two claims, elegant variation on
+a technical term, wordiness. Tags: CLARITY CONCISION TERM MECHANICS QUERY.
+
+Be sparing. At most 4 marks. If the paragraph is clean, return an empty array — that is a good answer.`;
+
+  const FULL_SCOPE = `
+This is the author's full draft. Read it whole before marking. Work in priority order:
+
+1. ARGUMENT STRUCTURE AND LOGIC. Does the conclusion follow? Are premises smuggled rather than stated?
+   Audit every "thus/therefore/hence/it follows" for a gap underneath it. Is a key term used in two
+   senses? Is the thesis where the reader needs it? Do transitions carry argumentative load or just
+   announce topics? Is the strongest objection addressed, or the most convenient one? Is a claim
+   introduced as "possibly" reappearing later as fact?
+2. PROSE CLARITY AND CONCISION. As in the ambient pass, but now with the whole argument visible.
+3. Mechanics, terminology consistency, citation form.
+
+Be exhaustive — flag small style matters too; the author triages. Use QUERY freely where you cannot tell
+what is meant and guessing would steer the argument. Use WORKS sparingly, only to stop the author
+revising away something load-bearing.
+
+Also return an "advisorNote": 150-250 words, plain prose, no markdown. What the draft does well, the two
+or three things that most need attention, and what you would work on first. Honest.
+Shape: {"suggestions":[...],"advisorNote":"..."}`;
+
+  /* ---------------- api ---------------- */
+
+  async function ask(system, content) {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: MODEL,
+        max_tokens: 1000,
+        system,
+        messages: [{ role: 'user', content }]
+      })
+    });
+    if (!res.ok) throw new Error('Request failed (' + res.status + ')');
+    const data = await res.json();
+    const text = (data.content || [])
+      .filter(b => b.type === 'text')
+      .map(b => b.text)
+      .join('\n');
+    const clean = text.replace(/```json/g, '').replace(/```/g, '').trim();
+    const first = clean.indexOf('{');
+    const last  = clean.lastIndexOf('}');
+    if (first === -1 || last === -1) throw new Error('No JSON in response');
+    return JSON.parse(clean.slice(first, last + 1));
+  }
+
+  /* ---------------- anchoring ---------------- */
+
+  // Suggestions are stored by their quoted text, then re-anchored against the live
+  // document on every render. If the author has since rewritten that span, the
+  // suggestion is stale and disappears rather than pointing somewhere wrong.
+  function anchor(list, text) {
+    const taken = [];
+    const out = [];
+    for (const s of list) {
+      if (!s.original) continue;
+      let from = 0, at = -1;
+      while (true) {
+        const i = text.indexOf(s.original, from);
+        if (i === -1) break;
+        const clash = taken.some(t => i < t[1] && i + s.original.length > t[0]);
+        if (!clash) { at = i; break; }
+        from = i + 1;
+      }
+      if (at === -1) continue;
+      s.start = at;
+      s.end = at + s.original.length;
+      taken.push([s.start, s.end]);
+      out.push(s);
+    }
+    return out.sort((a, b) => a.start - b.start);
+  }
+
+  function kind(s) {
+    if (s.replacement === null || s.replacement === undefined) return 'note';
+    if (s.replacement === '') return 'cut';
+    return 'add';
+  }
+
+  /* ---------------- rendering ---------------- */
+
+  const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+  function render() {
+    const text = editor.value;
+    suggestions = anchor(suggestions, text);
+
+    // backdrop highlights
+    let html = '', cursor = 0;
+    for (const s of suggestions) {
+      html += esc(text.slice(cursor, s.start));
+      html += '<mark class="m-' + kind(s) + '" data-id="' + s.id + '">' + esc(text.slice(s.start, s.end)) + '</mark>';
+      cursor = s.end;
+    }
+    html += esc(text.slice(cursor)) + '\n';
+    backdrop.innerHTML = html;
+
+    // cards
+    cardsEl.innerHTML = '';
+    if (!suggestions.length) {
+      cardsEl.innerHTML = '<p class="empty">' + (text.trim()
+        ? 'Nothing marked yet. Ambient reads each paragraph once you leave it; the advisor pass reads the whole draft for argument and structure.'
+        : 'The margin fills as you write.') + '</p>';
+    }
+    for (const s of suggestions) {
+      const k = kind(s);
+      const card = document.createElement('div');
+      card.className = 'card c-' + k;
+      card.dataset.id = s.id;
+
+      let diff;
+      if (k === 'note') diff = '<span>&ldquo;' + esc(clip(s.original)) + '&rdquo;</span>';
+      else if (k === 'cut') diff = '<del>' + esc(clip(s.original)) + '</del>';
+      else diff = '<del>' + esc(clip(s.original)) + '</del> <ins>' + esc(s.replacement) + '</ins>';
+
+      card.innerHTML =
+        '<span class="tag">' + esc(s.tag || 'NOTE') + '</span>' +
+        '<div class="diff">' + diff + '</div>' +
+        '<div class="why">' + esc(s.comment || '') + '</div>' +
+        '<div class="card-actions">' +
+          (k === 'note' ? '' : '<button data-act="accept">Accept</button>') +
+          '<button data-act="decline">' + (k === 'note' ? 'Dismiss' : 'Decline') + '</button>' +
+        '</div>';
+
+      card.addEventListener('mouseenter', () => mark(s.id, true));
+      card.addEventListener('mouseleave', () => mark(s.id, false));
+      card.querySelectorAll('button').forEach(b => {
+        b.addEventListener('click', () => b.dataset.act === 'accept' ? accept(s.id) : decline(s.id));
+      });
+      cardsEl.appendChild(card);
+    }
+
+    railCount.textContent = suggestions.length
+      ? suggestions.length + (suggestions.length === 1 ? ' mark' : ' marks')
+      : 'The margin';
+
+    const words = text.trim() ? text.trim().split(/\s+/).length : 0;
+    wordEl.textContent = words + (words === 1 ? ' word' : ' words');
+
+    save();
+  }
+
+  const clip = t => t.length > 110 ? t.slice(0, 107) + '…' : t;
+
+  function mark(id, on) {
+    const el = backdrop.querySelector('mark[data-id="' + id + '"]');
+    if (el) el.classList.toggle('active', on);
+  }
+
+  backdrop.addEventListener('click', e => {
+    const m = e.target.closest('mark');
+    if (!m) return;
+    const card = cardsEl.querySelector('.card[data-id="' + m.dataset.id + '"]');
+    if (card) card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  });
+
+  /* ---------------- accept / decline ---------------- */
+
+  function accept(id) {
+    const s = suggestions.find(x => x.id === id);
+    if (!s) return;
+    const text = editor.value;
+    editor.value = text.slice(0, s.start) + s.replacement + text.slice(s.end);
+    suggestions = suggestions.filter(x => x.id !== id);
+    // the paragraph changed, so let ambient look at it again
+    analysed = {};
+    sync();
+    render();
+  }
+
+  function decline(id) {
+    const s = suggestions.find(x => x.id === id);
+    if (!s) return;
+    declined.push(s.original + '||' + (s.comment || '').slice(0, 60));
+    suggestions = suggestions.filter(x => x.id !== id);
+    render();
+  }
+
+  function wasDeclined(orig, comment) {
+    const key = orig + '||' + (comment || '').slice(0, 60);
+    return declined.includes(key) || declined.some(d => d.split('||')[0] === orig);
+  }
+
+  /* ---------------- intake ---------------- */
+
+  function intake(raw, allow) {
+    const text = editor.value;
+    let added = 0;
+    for (const s of (raw || [])) {
+      if (!s || typeof s.original !== 'string' || !s.original.trim()) continue;
+      if (!text.includes(s.original)) continue;                 // not an exact quote — drop it
+      if (allow && !allow.includes(s.tag)) continue;
+      if (wasDeclined(s.original, s.comment)) continue;          // a rejection is a decision
+      if (suggestions.some(x => x.original === s.original)) continue;
+      let rep = s.replacement;
+      if (typeof rep === 'string' && rep.split(/\s+/).filter(Boolean).length > 12) rep = null; // clause limit
+      suggestions.push({
+        id: ++seq,
+        tag: (s.tag || 'NOTE').toUpperCase(),
+        original: s.original,
+        replacement: rep === undefined ? null : rep,
+        comment: s.comment || ''
+      });
+      added++;
+    }
+    return added;
+  }
+
+  /* ---------------- ambient pass ---------------- */
+
+  function paragraphs(text) {
+    const out = [];
+    const re = /[^\n]+(?:\n(?!\s*\n)[^\n]+)*/g;
+    let m;
+    while ((m = re.exec(text)) !== null) out.push({ text: m[0], start: m.index });
+    return out;
+  }
+
+  function currentPara() {
+    const pos = editor.selectionStart;
+    const paras = paragraphs(editor.value);
+    return paras.findIndex(p => pos >= p.start && pos <= p.start + p.text.length);
+  }
+
+  async function ambientPass() {
+    if (busy || !ambientEl.checked) return;
+    const paras = paragraphs(editor.value);
+    const here = currentPara();
+
+    // never read the paragraph the caret is in — drafting and editing are different modes,
+    // and an advisor interrupting mid-sentence pulls you out of the first one.
+    const target = paras.findIndex((p, i) =>
+      i !== here &&
+      p.text.trim().split(/\s+/).length >= 25 &&
+      !analysed[p.text]
+    );
+    if (target === -1) return;
+
+    const para = paras[target].text;
+    analysed[para] = true;
+    busy = true;
+    setStatus('Reading a paragraph', true);
+    try {
+      const out = await ask(CONSTRAINT + '\n' + AMBIENT_SCOPE, para);
+      const n = intake(out.suggestions, ['CLARITY', 'CONCISION', 'TERM', 'MECHANICS', 'QUERY']);
+      render();
+      setStatus(n ? n + ' new' : 'Clean');
+    } catch (e) {
+      setStatus('Ambient unavailable');
+    } finally {
+      busy = false;
+      setTimeout(() => { if (!busy) ambientPass(); }, 900);
+    }
+  }
+
+  /* ---------------- full advisor pass ---------------- */
+
+  async function fullPass() {
+    if (busy) return;
+    const text = editor.value.trim();
+    if (text.split(/\s+/).length < 40) { setStatus('Too short to read whole'); return; }
+    busy = true;
+    passBtn.disabled = true;
+    setStatus('Reading the whole draft', true);
+    notePanel.innerHTML = '';
+    try {
+      const out = await ask(CONSTRAINT + '\n' + FULL_SCOPE, editor.value);
+      const n = intake(out.suggestions, null);
+      render();
+      if (out.advisorNote) {
+        notePanel.innerHTML = '<div class="note-panel"><h2>The advisor&rsquo;s note</h2>' +
+          out.advisorNote.split(/\n{2,}/).map(p => '<p>' + esc(p.trim()) + '</p>').join('') + '</div>';
+      }
+      setStatus(n + (n === 1 ? ' mark' : ' marks'));
+    } catch (e) {
+      setStatus('Pass failed — try again');
+    } finally {
+      busy = false;
+      passBtn.disabled = false;
+    }
+  }
+
+  function setStatus(msg, thinking) {
+    statusEl.textContent = msg || '';
+    statusEl.classList.toggle('thinking', !!thinking);
+    if (!thinking && msg) setTimeout(() => {
+      if (statusEl.textContent === msg) statusEl.textContent = '';
+    }, 4000);
+  }
+
+  /* ---------------- export ---------------- */
+
+  function exportMarked() {
+    const text = editor.value;
+    const live = anchor(suggestions.slice(), text);
+    let out = '', cursor = 0, n = 0;
+    const notes = [];
+    for (const s of live) {
+      out += text.slice(cursor, s.start);
+      n++;
+      const k = kind(s);
+      if (k === 'note')     out += s.original + '[^' + n + ']';
+      else if (k === 'cut') out += '~~' + s.original + '~~[^' + n + ']';
+      else                  out += '~~' + s.original + '~~{+' + s.replacement + '+}[^' + n + ']';
+      notes.push('[^' + n + ']: [' + s.tag + '] ' + s.comment);
+      cursor = s.end;
+    }
+    out += text.slice(cursor);
+    if (notes.length) out += '\n\n' + notes.join('\n');
+
+    const blob = new Blob([out], { type: 'text/markdown' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'marked-up.md';
+    a.click();
+    URL.revokeObjectURL(a.href);
+    setStatus('Exported');
+  }
+
+  /* ---------------- persistence ---------------- */
+
+  let saveTimer = null;
+  function save() {
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(async () => {
+      try {
+        await window.storage.set('marginalia:draft', JSON.stringify({
+          text: editor.value,
+          suggestions,
+          declined,
+          seq
+        }));
+      } catch (e) { /* best effort */ }
+    }, 700);
+  }
+
+  async function load() {
+    try {
+      const r = await window.storage.get('marginalia:draft');
+      if (r && r.value) {
+        const d = JSON.parse(r.value);
+        editor.value = d.text || '';
+        suggestions = d.suggestions || [];
+        declined = d.declined || [];
+        seq = d.seq || 0;
+      }
+    } catch (e) { /* first run */ }
+    sync();
+    render();
+  }
+
+  /* ---------------- wiring ---------------- */
+
+  function sync() {
+    editor.style.height = 'auto';
+    editor.style.height = Math.max(editor.scrollHeight, window.innerHeight * 0.62) + 'px';
+  }
+
+  editor.addEventListener('input', () => {
+    sync();
+    render();
+    clearTimeout(idleTimer);
+    idleTimer = setTimeout(ambientPass, 2600);
+  });
+
+  // leaving a paragraph is the trigger, not a timer alone
+  editor.addEventListener('keyup', () => {
+    const p = currentPara();
+    if (p !== lastPara) {
+      lastPara = p;
+      clearTimeout(idleTimer);
+      idleTimer = setTimeout(ambientPass, 1200);
+    }
+  });
+  editor.addEventListener('click', () => { lastPara = currentPara(); });
+  editor.addEventListener('scroll', () => { backdrop.scrollTop = editor.scrollTop; });
+
+  passBtn.addEventListener('click', fullPass);
+  exportBtn.addEventListener('click', exportMarked);
+  ambientEl.addEventListener('change', () => {
+    setStatus(ambientEl.checked ? 'Ambient on' : 'Ambient off');
+    if (ambientEl.checked) ambientPass();
+  });
+
+  window.addEventListener('resize', sync);
+  load();
+})();
+</script>
