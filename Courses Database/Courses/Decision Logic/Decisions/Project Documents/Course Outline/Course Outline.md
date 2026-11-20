@@ -70,7 +70,7 @@ Chapter 9 Did simulation create its from bits?
 
 ---
 
-[[Courses Database/Courses/Introduction to Philosophy/Introduction to Philosophy, Spring 2026/Project Documents/Course Outline/Part 4 REAL VIRTUAL REALITY (More Metaphysics)|Part 4 REAL VIRTUAL REALITY (More Metaphysics)]]
+[[Courses Database/Courses/Introduction to Philosophy/_archive/Spring 2026/Project Documents/Course Outline/Part 4 REAL VIRTUAL REALITY (More Metaphysics)|Part 4 REAL VIRTUAL REALITY (More Metaphysics)]]
 
 Chapter 10 Do virtual reality headsets create reality?
     [**Process Philosophy**](https://philpapers.org/browse/process-philosophy) (**324**)
