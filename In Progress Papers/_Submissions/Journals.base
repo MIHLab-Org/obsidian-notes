@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("In Progress Papers/_Submissions/Journals")
+views:
+  - type: table
+    name: Journals
+    order:
+      - file.name
+      - papers
+      - word_limit
+      - review
+      - open_access
+      - checked

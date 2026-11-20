@@ -28,6 +28,11 @@ Writing Enhanced: ""
 
 # Introduction to Philosophy
 
+## Course versions
+Each course has two complementary versions, so the content stays the same while the format changes.
+- **Video-game (experimental) version:** [[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Course Outline/Course Outline|Course Outline]] (Parts 1–7, Reality+ structure: Virtual Worlds → Foundations)
+- **Traditional version:** syllabus and weekly pages in **00-Syllabus** and **01-Schedule** (course-site folders)
+
 ## Course folders
 - **00-Syllabus** · [[MASTER-SYLLABUS-PHIL101B]] · [[PHIL 101B Introduction to Philosophy - Syllabus]]
 - **00-Syllabus / Earlier** · [[Courses Database/Courses/Introduction to Philosophy/00-Syllabus/Earlier/SLU Phil 1700 The Examined Life - Fall 2023 syllabus|SLU Phil 1700 The Examined Life (Fall 2023)]]

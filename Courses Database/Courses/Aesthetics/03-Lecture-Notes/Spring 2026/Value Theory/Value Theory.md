@@ -9,7 +9,7 @@ Column: 2026-04-17T16:38:00
 
 [Aesthetics](https://philpapers.org/browse/aesthetics) (**72,569**)
 
-[[Courses Database/Courses/Aesthetics/03-Lecture-Notes/Spring 2026/Value Theory/Aesthetics]]
+[[Courses Database/Courses/Aesthetics/03-Lecture-Notes/Spring 2026/Value Theory/Aesthetics|Aesthetics]]
 
 [Applied Ethics](https://philpapers.org/browse/applied-ethics) (**179,259**)
 
@@ -24,3 +24,10 @@ Column: 2026-04-17T16:38:00
 [Social and Political Philosophy](https://philpapers.org/browse/social-and-political-philosophy) (**167,529**)
 
 [Value Theory, Miscellaneous](https://philpapers.org/browse/value-theory-miscellaneous)
+
+> [!note]- Other version: passages only in another copy of this note
+> Kept word for word from a duplicate copy that has been removed.
+>
+> [[Courses Database/Courses/Aesthetics/03-Lecture-Notes/Spring 2026/Value Theory/Aesthetics]]
+>
+> [[Courses Database/Courses/Aesthetics/03-Lecture-Notes/Spring 2026/Value Theory/Aesthetics]]

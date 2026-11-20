@@ -87,6 +87,68 @@ More importantly, no virtual world we’ve yet created has anything like the lon
 
 - Perhaps the most striking absence in virtual worlds is the absence of birth and death.
 
+Orange highlight | Location: 5,143
+
+Options
+
+This is more like moving to a community and leaving it than being born or dying.
+
+Orange highlight | Location: 5,147
+
+Options
+
+Furthermore, people would genuinely die in a virtual world when they died in the physical world.
+
+Orange highlight | Location: 5,150
+
+Options
+
+A deep question: What is the role of birth and death in a good life?
+
+Aqua highlight | Location: 5,170
+
+Options
+
+Terraform Reality allows us to turn exoplanets in the nonvirtual world into habitable environments full of beautiful places and engaging activities.
+
+Aqua highlight | Location: 5,179
+
+Options
+
+Let us say that rich VR is VR with roughly the complexity of ordinary reality, after short-term technological
+
+Aqua highlight | Location: 5,180
+
+Options
+
+limitations have been overcome.
+
+Orange highlight | Location: 5,183
+
+Options
+
+Life in rich VR is roughly as valuable as life in Terraform Reality. Life in Terraform Reality is roughly as valuable as ordinary nonvirtual life. ______________________ So: Life in rich VR is roughly as valuable as ordinary nonvirtual life.
+
+Orange highlight | Location: 5,189
+
+Options
+
+It will largely allow the kinds of values available in living a life in physical reality.
+
+Orange highlight | Location: 5,201
+
+Options
+
+Does our thesis that virtual realities have comparable value to nonvirtual realities tell us anything about what is truly valuable?
+
+Orange highlight | Location: 5,206
+
+Options
+
+Some desires may be satisfied less well in VR—a desire to be in nature, or a desire not to be in a simulation—but these don’t make the difference between a good life and a bad one.
+
+Orange highlight | Location: 5,209
+
 Options
 
 What are the sources of value? I’m inclined to think that all value arises, one way or another, from consciousness. Conscious states themselves (say, happiness and pleasure) are valuable. What is valued by conscious creatures (say, knowledge and freedom) is valuable. And relations among conscious creatures (say, communication and friendship) are valuable.

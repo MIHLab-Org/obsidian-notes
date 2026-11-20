@@ -21,6 +21,11 @@ Writing Enhanced: ""
 
 Course record: [[Courses Database/Courses/Aesthetics/Aesthetics|Aesthetics]]
 
+## Course versions
+Each course has two complementary versions, so the content stays the same while the format changes.
+- **Video-game (experimental) version:** [[Courses Database/Courses/Aesthetics/01-Schedule/Course Outline/Course Outline|Course Outline]] (Parts 1–7, Reality+ structure: Virtual Worlds → Foundations)
+- **Traditional version:** syllabus and weekly pages in **00-Syllabus** and **01-Schedule** (course-site folders)
+
 ## Course folders
 - **00-Syllabus** · Course site 2026_sc-aesthetics (1 files)
 - **01-Schedule** · Course Outline (8 files) · [[Courses Database/Courses/Aesthetics/01-Schedule/Course Outline|Course Outline]] · Course site 2025-aesthetics (1 files) · Course site 2026_sc-aesthetics (21 files)
@@ -37,7 +42,6 @@ Course record: [[Courses Database/Courses/Aesthetics/Aesthetics|Aesthetics]]
 
 ## To check
 - The course record lists Course Code PHI 101B (the Intro code); probably a copy-over from Notion.
-- `01-Schedule/Course Outline` (Parts 1–7: Virtual Worlds, Knowledge, Reality, Mind, Value, Foundations) follows the Reality+ structure used in Intro; check it belongs here.
 - Two class notes are identical to Intro notes (Extended Mind Space Sim analogs; Lab - The Extended Mind).
 
 ## Related, linked not copied

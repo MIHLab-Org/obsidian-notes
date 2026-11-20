@@ -46,8 +46,15 @@ Snyder seeks to answer the question:
 
 ### Art is not what we see but how we see it
 
-> . . . when an object is recognized as art, a transformation occurs that changes how we relate to it, and this is always linked more to a transformation of thought than of perception itself. [[[Notion/Moral Imagination and Hope Laboratory/Projects/Aesthetics/Class Notes/Lecture 2/Lecture 2]] 
+> . . . when an object is recognized as art, a transformation occurs that changes how we relate to it, and this is always linked more to a transformation of thought than of perception itself. [[[Notion/Courses Database/Course Decisions, Decisions The Logic of Deciding what to Do/Class Discussion Notes/Lecture 2/Lecture 2]] 
 
 - Hegel: essential element in triumph of the mind over the physical, consciousness evading the world.
 - Nietzsche: is the individual’s creative power that provides life justification as an aesthetic phenomenon.
 - Danto: Art becomes philosophy then dies, fulfilling art’s internal narrative meaning that art becomes self-expressive.
+
+> [!note]- Other version: passages only in another copy of this note
+> Kept word for word from a duplicate copy that has been removed.
+>
+> > . . . when an object is recognized as art, a transformation occurs that changes how we relate to it, and this is always linked more to a transformation of thought than of perception itself. [[[Notion/Courses Database/Introduction to Philosophy, Spring 2026/Class Notes/Lecture 2/Lecture 2]] 
+>
+> > . . . when an object is recognized as art, a transformation occurs that changes how we relate to it, and this is always linked more to a transformation of thought than of perception itself. [[[Notion/Moral Imagination and Hope Laboratory/Projects/Aesthetics/Class Notes/Lecture 2/Lecture 2]] 

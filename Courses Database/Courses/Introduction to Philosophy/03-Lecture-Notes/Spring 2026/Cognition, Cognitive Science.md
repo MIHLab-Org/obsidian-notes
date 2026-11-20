@@ -188,5 +188,20 @@ So: Omar’s external memory is genuine knowledge.
 			3. Is non-integrated memory still a memory?
 		6. Omar: memory placed there by someone else.
 			4. Are implanted memories not our own?
-	4. 
+	4.
 
+> [!note]- Other version: passages only in another copy of this note
+> Kept word for word from a duplicate copy that has been removed.
+>
+> - Internalism: What is outside the body is outside the mind.
+> - Externalism: The meaning of our words are not in our heads. So the meaning of our words are outside the mind.
+> - Active Externalism: The environment plays an *active* role in driving cognitive processes.
+>
+> Externalism and active externalism are extended cognition view. But first, what is cognition?
+>
+> Narrow View, Consider the following:
+>
+> - You make a mistake in deductive reasoning. 
+> - the formation and application of concepts.
+> - how quickly someone can think using mental images.
+> - solving problems using analogies.

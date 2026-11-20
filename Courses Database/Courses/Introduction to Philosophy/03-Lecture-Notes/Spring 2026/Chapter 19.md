@@ -11,3 +11,4 @@ Notebook page: false
 AIM: ""
 Personal: false
 ---
+![[reality-value.pdf]]

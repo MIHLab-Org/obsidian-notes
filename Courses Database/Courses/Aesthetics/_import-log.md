@@ -90,3 +90,25 @@ Snapshot of the Quarto course-site sources from GitHub (.qmd copied as .md, text
 | copied | `github.com/redapemusic35/course.phil.intro-tth.github.io@01f66fb:2026_sc-aesthetics/weeks/week21/page.qmd` | `Courses Database/Courses/Aesthetics/01-Schedule/Course site 2026_sc-aesthetics/week21 page.md` |
 | copied | `github.com/redapemusic35/course.phil.intro-tth.github.io@01f66fb:2026_sc-aesthetics/weeks/week21/slides.qmd` | `Courses Database/Courses/Aesthetics/04-Slides/Course site 2026_sc-aesthetics/week21 slides.md` |
 | copied | `github.com/redapemusic35/course.phil.intro-tth.github.io@01f66fb:2026_sc-aesthetics/weeks/week21/summary.qmd` | `Courses Database/Courses/Aesthetics/03-Lecture-Notes/Course site 2026_sc-aesthetics/week21 summary.md` |
+
+## Duplicate class notes resolved (2026-11-20)
+
+Notion had copied the same class notes into Intro, Aesthetics and Slow Existential Death. Each note now lives in one course (Reality+ and extended-mind notes in Intro; Lecture 2/Notero and Value Theory in Aesthetics). Where copies differed, the fullest version was kept and passages found only in another copy were added word for word in an "Other version" callout. Removed copies are in git history.
+
+- `Review.md` → Intro (extra passages kept: 0)
+- `Values.md` → Intro (extra passages kept: 0)
+- `Chapter 19.md` → Intro (extra passages kept: 0)
+- `Chapter 5.md` → Intro (extra passages kept: 0)
+- `Cognition, Cognitive Science.md` → Intro (extra passages kept: 4)
+- `Extended Mind Space Sim analogs.md` → Intro (extra passages kept: 0)
+- `Lab - The Extended Mind.md` → Intro (extra passages kept: 0)
+- `Lecture 2/Lecture 2.md` → Aesthetics (extra passages kept: 2)
+- `Lecture 2/Notero Advanced (1)/Nolt, 1997.md` → Aesthetics (extra passages kept: 0)
+- `Lecture 2/Notero Advanced (1)/Notero Advanced (1) Book Chapter Template.md` → Aesthetics (extra passages kept: 0)
+- `Lecture 2/Notero Advanced (1)/Notero Advanced (1) Book Template.md` → Aesthetics (extra passages kept: 0)
+- `Lecture 2/Notero Advanced (1)/Notero Advanced (1) Journal Article Template.md` → Aesthetics (extra passages kept: 0)
+- `Lecture 2/Notero Advanced (1)/Smith, 2021.md` → Aesthetics (extra passages kept: 0)
+- `Lecture 2/Notero Advanced (1)/Snyder, 2018.md` → Aesthetics (extra passages kept: 2)
+- `Lecture 2/Notero Advanced (1)/The Cost of Being “Real”.md` → Aesthetics (extra passages kept: 0)
+- `Value Theory/Aesthetics.md` → Aesthetics (extra passages kept: 0)
+- `Value Theory/Value Theory.md` → Aesthetics (extra passages kept: 2)
