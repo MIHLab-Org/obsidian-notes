@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd"
+            }
+          }
+        ]
+      },
+      {
+        "id": "72d66f7ced24252a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8da4425988db2a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In Progress Papers/Rational Choice Theory/Cognitive 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cognitive 2"
             }
           }
         ]
@@ -83,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.0595932006836
+    "width": 363.0595932006836,
+    "collapsed": true
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -230,9 +251,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8da4425988db2a06",
   "lastOpenFiles": [
+    "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+    "Home/Projects/Cognitive Homelessness.md",
     "Home.md",
+    "MIHLab Database/buisness articles/CP_575_G.pdf",
+    "MIHLab Database/buisness articles/receipt.pdf",
+    "MIHLab Database/buisness articles/approval-pending-sunbiz.org - Florida Department of State.pdf",
+    "MIHLab Database/buisness articles/LLC-Common Checkout Payment Receipt.pdf",
     "Home/Home Projects.base",
     "Courses Database/Courses/Slow Existential Death/The Slow Existential Death.md",
     "Home/Panels/Submissions.md",
@@ -257,16 +284,11 @@
     "Home/Projects/Annihilating Evil.md",
     "Home/Projects/Bruised Soul.md",
     "Home/Projects/Social Identity comments.md",
-    "Home/Projects/Slow Death of a Spaceman.md",
     "Home/Panels",
     "Home/Projects",
     "Home",
     "In Progress Papers/_Submissions/Journals.base",
     "In Progress Papers/_Submissions/Journals",
-    "In Progress Papers/_Submissions",
-    "Courses Database/Courses/UCOR/02-Readings/cited-works.bib",
-    "Courses Database/Courses/Philosophy of Law Courses/02-Readings/cited-works.bib",
-    "Courses Database/Courses/Logic/02-Readings/cited-works.bib",
     "Courses Database/Courses/Introduction to Philosophy/04-Slides/Fall 2026 reveal deck/plugin/chalkboard/img/whiteboard.png",
     "Courses Database/Courses/Introduction to Philosophy/04-Slides/Fall 2026 reveal deck/plugin/chalkboard/img/sponge.png",
     "Courses Database/Courses/Introduction to Philosophy/04-Slides/Fall 2026 reveal deck/plugin/chalkboard/img/chalk-yellow.png",

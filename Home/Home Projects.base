@@ -9,9 +9,7 @@ views:
         - status == "Now"
     order:
       - file.name
-      - area
       - next_action
-      - home
   - type: table
     name: Next
     filters:
@@ -20,7 +18,6 @@ views:
     order:
       - file.name
       - area
-      - priority
       - next_action
   - type: table
     name: Blocked

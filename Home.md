@@ -1,5 +1,8 @@
+---
+cssclasses:
+  - home-dashboard
+---
 ```dashboard
-title: Home
 rows:
   - columns:
       - width: 6
