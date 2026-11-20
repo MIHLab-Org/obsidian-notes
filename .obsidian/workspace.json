@@ -11,14 +11,10 @@
             "id": "b19cf1aa7c99a712",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses Database/Courses/Philosophy of Mind/Terms/Philosophy of Mind Fall 2026 4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Philosophy of Mind Fall 2026 4"
+              "title": "New tab"
             }
           }
         ]
@@ -229,7 +225,7 @@
       "mermaid-flow:Mermaid Flow Editor": false
     }
   },
-  "active": "b19cf1aa7c99a712",
+  "active": "7107a8cf71bb03b9",
   "lastOpenFiles": [
     "Courses Database/Courses/Philosophy of Mind/Terms/Philosophy of Mind Fall 2026 3.md",
     "Courses Database/Courses/Philosophy of Mind/Terms/Philosophy of Mind Fall 2026 2.md",

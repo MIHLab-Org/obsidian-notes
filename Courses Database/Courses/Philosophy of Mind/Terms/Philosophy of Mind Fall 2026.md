@@ -1,5 +1,11 @@
 ---
 notion-id: 3e48935b-cf8a-81b6-86bd-cfff55539304
+merged-notion-ids:
+  - 3e28935b-cf8a-81eb-b210-c04dd75e2378  # Philosophy of Mind Fall 2026 1
+  - 3dd8935b-cf8a-812e-98e6-eadc8027e7d6  # Philosophy of Mind Fall 2026 2
+  - 3db8935b-cf8a-8144-bb49-ea2a6a9f4462  # Philosophy of Mind Fall 2026 3
+  - 3c68935b-cf8a-810e-9d06-eaec2617357b  # Philosophy of Mind Fall 2026 4
+  - 3bb8935b-cf8a-805c-b9aa-c2cae99640c2  # Courses Database Philosophy of Mind Fall 2026
 base: "[[Courses Database.base]]"
 Start Time: 2026-08-20
 Prerequisite: []
@@ -100,6 +106,31 @@ By course end, you will be able to:
 - **Theory Analyses (3 × 25 pts):** Group projects analyzing a philosophical theory (e.g., physicalism, functionalism, externalism) with objections and responses
 - **Thought Experiment Sessions (3 × 15 pts):** Individual reflections on collaborative thought experiment workshops exploring mental phenomena
 - **Final Project (80 pts):** ~2500–3000 words synthesizing three theories applied to a single mental phenomenon, tracking how your understanding evolved
+
+> [!note] Alternate version of this assessment section
+> From the copy dated Sept 1, 2026 (“Philosophy of Mind Fall 2026 4”). Kept word for word so you can choose which version to keep.
+>
+>
+>
+> 1. Weeklies (120 points total)
+> 	**Due**: Every other week (6 assignments throughout semester)
+> 	**Format**: Individual written submissions (250-750 words)
+> 	**Task**: Design a game event based on a thought experiment from your readings
+> 	**Each weekly includes:**
+> 	- Identification of a thought experiment and its source
+> 	- What the philosopher intended to prove
+> 	- Your initial intuition on the philosophical question
+> 	- Description of the game event you designed (what would happen in the game?)
+> 	- Your intuition after engaging with the thought experiment
+> 	- Reflection: Was the thought experiment convincing? Did it confirm or change your intuition? Why?
+> 	**Grading Rubric (20 points per weekly):**
+> 	- Thought experiment identification & analysis (5 pts)
+> 	- Game design clarity & engagement (5 pts)
+> 	- Philosophical reasoning (5 pts)
+> 	- Reflection & intuition tracking (5 pts)
+> 2. **Theory Analyses (3 × 25 pts):** Group projects analyzing a philosophical theory (e.g., physicalism, functionalism, externalism) with objections and responses.
+> 3. **Thought Experiment Sessions (3 × 15 pts):** Individual reflections on collaborative thought experiment workshops exploring mental phenomena.
+> 4. **Final Project (80 pts):** ~2500–3000 words synthesizing three theories applied to a single mental phenomenon, tracking how your understanding evolved.
 
 ---
 

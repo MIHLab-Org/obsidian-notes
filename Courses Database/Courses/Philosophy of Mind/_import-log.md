@@ -66,3 +66,5 @@ Note: the six notes in Terms/ named "…Philosophy of Mind Fall 2026…" are nea
 | converted (Canvas html→md) | `PHIL305_Philosophy_of_Mind_Fall2026.zip/weekly-reflection-4/weekly-reflection-4.html` | `Courses Database/Courses/Philosophy of Mind/05-Assignments/Fall 2026 Canvas/Weekly Reflection 4 .md` |
 | converted (Canvas html→md) | `PHIL305_Philosophy_of_Mind_Fall2026.zip/weekly-reflection-5/weekly-reflection-5.html` | `Courses Database/Courses/Philosophy of Mind/05-Assignments/Fall 2026 Canvas/Weekly Reflection 5 .md` |
 | converted (Canvas html→md) | `PHIL305_Philosophy_of_Mind_Fall2026.zip/weekly-reflection-6/weekly-reflection-6.html` | `Courses Database/Courses/Philosophy of Mind/05-Assignments/Fall 2026 Canvas/Weekly Reflection 6 .md` |
+
+**Merge:** six Terms notes combined into `Philosophy of Mind Fall 2026.md` (the Sept 23 copy). Four copies were identical apart from Notion IDs; the Aug 13 copy differed only in properties (raw Notion IDs). The Sept 1 copy had a longer Weeklies description, kept as a labeled "Alternate version" callout under the Assessment section. All Notion IDs listed under `merged-notion-ids`. Removed copies remain in git history.
