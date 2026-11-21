@@ -62,7 +62,7 @@ cover: "[[Part 5 MIND (1).png]]"
 ### Chapter 16 Does augmented reality extend the mind?
 
 [Philosophy of Cognitive Science](https://philpapers.org/browse/philosophy-of-cognitive-science) (**115,725**)
-    [[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Cognition, Cognitive Science]] 
+    [[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 5 Mind/Ch 16 Does augmented reality extend the mind/Cognition, Cognitive Science]] 
 
 # The Extended Mind 
 
@@ -244,7 +244,7 @@ So: Omar’s external memory is genuine knowledge.
 
 # Values
 
-[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Values]] 
+[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 6 Value/Ch 17 Can you lead a good life in a virtual world/Values]] 
 
 These answers reflect two different answers to the Value Question: Could you live a good life in virtual reality?
 

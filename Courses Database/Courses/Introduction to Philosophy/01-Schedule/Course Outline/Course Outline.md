@@ -215,7 +215,7 @@ Chapter 13 Can we avoid being deceived by deepfakes?
 
 [M&E, Misc](https://philpapers.org/browse/me-misc) (**398**)
 
-[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Cognition, Cognitive Science]] 
+[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 5 Mind/Ch 16 Does augmented reality extend the mind/Cognition, Cognitive Science]] 
 
 # The Extended Mind 
 

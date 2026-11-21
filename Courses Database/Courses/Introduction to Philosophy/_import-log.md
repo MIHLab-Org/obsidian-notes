@@ -130,3 +130,52 @@ Notion had copied the same class notes into Intro, Aesthetics and Slow Existenti
 - `Lecture 2/Notero Advanced (1)/The Cost of Being “Real”.md` → Aesthetics (extra passages kept: 0)
 - `Value Theory/Aesthetics.md` → Aesthetics (extra passages kept: 0)
 - `Value Theory/Value Theory.md` → Aesthetics (extra passages kept: 2)
+
+## Lecture notes by Reality+ chapter (2026-11-21)
+
+03-Lecture-Notes/Spring 2026 was reorganized into Reality+ part and chapter folders (24 chapters, 7 parts). TTh notes sit with their MW partner. Non-course notes went to `_Not course`. Removed: 3 duplicate Extended Mind lab notes (identical copies) and 2 empty Untitled notes.
+
+| Action | From | To |
+|---|---|---|
+| moved | `Spring 2026/Is This the Real World How do we know Who Cares.md` | `Part 1 Virtual Worlds/Introduction - Adventures in technophilosophy/Is This the Real World How do we know Who Cares.md` |
+| moved | `Spring 2026/Week 1 — Is This the Real World.md` | `Part 1 Virtual Worlds/Ch 01 Is this the real life/Week 1 — Is This the Real World.md` |
+| moved | `Spring 2026/Review.md` | `Part 1 Virtual Worlds/Ch 01 Is this the real life/Review.md` |
+| moved | `Spring 2026/Entire Course Notes.md` | `Part 1 Virtual Worlds/Ch 01 Is this the real life/Entire Course Notes.md` |
+| moved | `Spring 2026/Week 1 - Chapter 2.md` | `Part 1 Virtual Worlds/Ch 02 What is the simulation hypothesis/Week 1 - Chapter 2.md` |
+| moved | `Spring 2026/Week 1 - Chapter 3.md` | `Part 2 Knowledge/Ch 03 Do we know things/Week 1 - Chapter 3.md` |
+| moved | `Spring 2026/Week 3 — The Problem of the External World (MW).md` | `Part 2 Knowledge/Ch 03 Do we know things/Week 3 — The Problem of the External World (MW).md` |
+| moved | `Spring 2026/Skepticism and the Problem of the External World (TTH).md` | `Part 2 Knowledge/Ch 03 Do we know things/Skepticism and the Problem of the External World (TTH).md` |
+| moved | `Spring 2026/Week 4 — Verificationism (MW).md` | `Part 2 Knowledge/Ch 04 Can we prove there is an external world/Week 4 — Verificationism (MW).md` |
+| moved | `Spring 2026/Week 3 — Verificationism (TTH).md` | `Part 2 Knowledge/Ch 04 Can we prove there is an external world/Week 3 — Verificationism (TTH).md` |
+| moved | `Spring 2026/The Reality of (Metaphsyics)/Presentation Week 3—Reality.md` | `Part 2 Knowledge/Ch 04 Can we prove there is an external world/Presentation Week 3—Reality.md` |
+| moved | `Spring 2026/Week 5 — The Simulation Argument (MW).md` | `Part 2 Knowledge/Ch 05 Is it likely that we are in a simulation/Week 5 — The Simulation Argument (MW).md` |
+| moved | `Spring 2026/The Simulation Argument (TTH).md` | `Part 2 Knowledge/Ch 05 Is it likely that we are in a simulation/The Simulation Argument (TTH).md` |
+| moved | `Spring 2026/What is the simulation hypothesis revisisted.md` | `Part 2 Knowledge/Ch 05 Is it likely that we are in a simulation/What is the simulation hypothesis revisisted.md` |
+| moved | `Spring 2026/Week 6 — Sim Blockers and Virtual Realism (MW).md` | `Part 2 Knowledge/Ch 05 Is it likely that we are in a simulation/Week 6 — Sim Blockers and Virtual Realism (MW).md` |
+| moved | `Spring 2026/Week 5 — Sim Blockers and Virtual Realism (TTH).md` | `Part 2 Knowledge/Ch 05 Is it likely that we are in a simulation/Week 5 — Sim Blockers and Virtual Realism (TTH).md` |
+| moved | `Spring 2026/Chapter 5.md` | `Part 2 Knowledge/Ch 05 Is it likely that we are in a simulation/Chapter 5.md` |
+| moved | `Spring 2026/The Reality of (Metaphsyics)/The Reality of (Metaphsyics).md` | `Part 3 Reality/Ch 06 What is reality/The Reality of (Metaphsyics).md` |
+| moved | `Spring 2026/Week 9 — The Realness of Virtual (MW).md` | `Part 3 Reality/Ch 06 What is reality/Week 9 — The Realness of Virtual (MW).md` |
+| moved | `Spring 2026/Week 8 — The Realness of Virtual (TTH).md` | `Part 3 Reality/Ch 06 What is reality/Week 8 — The Realness of Virtual (TTH).md` |
+| moved | `Spring 2026/Week 7 — Is God a Hacker (MW).md` | `Part 3 Reality/Ch 07 Is God a hacker in the next universe up/Week 7 — Is God a Hacker (MW).md` |
+| moved | `Spring 2026/Week 6 — Is God a Hacker (TTH).md` | `Part 3 Reality/Ch 07 Is God a hacker in the next universe up/Week 6 — Is God a Hacker (TTH).md` |
+| moved | `Spring 2026/Week 8 — Bonaventure’s Four Lights (MW).md` | `Part 3 Reality/Ch 07 Is God a hacker in the next universe up/Week 8 — Bonaventure’s Four Lights (MW).md` |
+| moved | `Spring 2026/Week 7 — Bonaventure's Four Lights (TTH).md` | `Part 3 Reality/Ch 07 Is God a hacker in the next universe up/Week 7 — Bonaventure's Four Lights (TTH).md` |
+| moved | `Spring 2026/Week 4 Real Virtual Reality.md` | `Part 4 Real Virtual Reality/Ch 10 Do virtual reality headsets create reality/Week 4 Real Virtual Reality.md` |
+| moved | `Spring 2026/Topics.md` | `Part 5 Mind/Ch 14 How do mind and body interact in a virtual world/Topics.md` |
+| moved | `Spring 2026/Cognition, Cognitive Science.md` | `Part 5 Mind/Ch 16 Does augmented reality extend the mind/Cognition, Cognitive Science.md` |
+| moved | `Spring 2026/Extended Mind Space Sim analogs.md` | `Part 5 Mind/Ch 16 Does augmented reality extend the mind/Extended Mind Space Sim analogs.md` |
+| moved | `Spring 2026/Lab - The Extended Mind.md` | `Part 5 Mind/Ch 16 Does augmented reality extend the mind/Lab - The Extended Mind.md` |
+| moved | `Spring 2026/Values.md` | `Part 6 Value/Ch 17 Can you lead a good life in a virtual world/Values.md` |
+| moved | `Spring 2026/Chapter 19.md` | `Part 6 Value/Ch 19 How should we build a virtual society/Chapter 19.md` |
+| moved | `Spring 2026/Metaphysics and Epistemology` | `Part 5 Mind/Ch 16 Does augmented reality extend the mind/Extended Mind lab (Metaphysics and Epistemology)` |
+| moved | `Spring 2026/ASA Friday.md` | `_Not course/ASA Friday.md` |
+| moved | `Spring 2026/Bruised Soul Indy Works of Art Inside Virtual Environments.md` | `_Not course/Bruised Soul Indy Works of Art Inside Virtual Environments.md` |
+| moved | `Spring 2026/Christian Existentialism and the Slow Death of a Spaceman Respawning into.md` | `_Not course/Christian Existentialism and the Slow Death of a Spaceman Respawning into.md` |
+| moved | `Spring 2026/Forgive, forget, but trust.md` | `_Not course/Forgive, forget, but trust.md` |
+| moved | `Spring 2026/Learning important lessons about life.md` | `_Not course/Learning important lessons about life.md` |
+| moved | `Spring 2026/Testing Mechanics in 4.8.md` | `_Not course/Testing Mechanics in 4.8.md` |
+| moved | `Spring 2026/Why It’s Okay to be a Gamer.md` | `_Not course/Why It’s Okay to be a Gamer.md` |
+| moved | `Spring 2026/Why.md` | `_Not course/Why.md` |
+| moved | `Spring 2026/Romans 77-The law and the emotion` | `_Not course/Romans 77-The law and the emotion` |
+| moved | `Spring 2026/Class Notes.base` | `Class Notes.base` |
