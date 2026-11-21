@@ -34,18 +34,18 @@ Work: done
 1. Internalist Baseline
 	[[Phase 1: The Pilot’s Extended Mind: The Internalist Baseline ]]
 2. Extended Mind
-	[[Phase 2 The Coupled Pilot (Extended Mind)]]
+	[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Metaphysics and Epistemology/Phase 2 The Coupled Pilot (Extended Mind)]]
 3. Broken Mind
-	[[Phase 3 The Broken Mind (The Contra-Positive)]]
+	[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Metaphysics and Epistemology/Phase 3 The Broken Mind (The Contra-Positive)]]
 
 # Method Elite Dangerous
 
 4. Internalist Baseline
 	[[Phase 1: The Pilot’s Extended Mind: The Internalist Baseline ]]
 5. Extended Mind
-	[[Phase 2 The Coupled Pilot (Extended Mind)]]
+	[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Metaphysics and Epistemology/Phase 2 The Coupled Pilot (Extended Mind)]]
 6. Broken Mind
-	[[Phase 3 The Broken Mind (The Contra-Positive)]]
+	[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Metaphysics and Epistemology/Phase 3 The Broken Mind (The Contra-Positive)]]
 
 # Results
 

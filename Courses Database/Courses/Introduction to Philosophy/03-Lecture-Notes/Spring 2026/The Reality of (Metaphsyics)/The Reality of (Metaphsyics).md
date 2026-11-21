@@ -15,7 +15,7 @@ Personal: false
 
 [🗓️ Week 02 - Mimesis – Spring 2026](https://redapemusic35.github.io/course.phil.intro-tth.github.io/2026_intro/weeks/week07/page.html)
 
-[[Presentation Week 3—Reality]]
+[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/The Reality of (Metaphsyics)/Presentation Week 3—Reality]]
 
 This week we have been talking about what is real. This is an area of philosophy called metaphysics. Lets imagine that you are a metaphysician. One day you are driving along and you get stopped by the police. It turns out that someone in a car very similar to yours had been driving very fast. You pull over as is your duty as soon as you see the police car’s right, blue, and white lights. The police officer asks for your information and what you do for work, not sure why they would but they do. You say that you are a metaphysician and that you study the nature of what is real. The police officer says, I know what is real, me giving you a ticket for speeding is what is real and you say, no, you are handing me what looks like a piece of paper which strange symbols on it.
 

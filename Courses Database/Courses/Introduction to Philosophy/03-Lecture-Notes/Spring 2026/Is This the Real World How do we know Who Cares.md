@@ -255,9 +255,9 @@ Judith Thompson’s Violinist Example
 	1. Anti-choice argument
 		1. All innocent 
 
-[[Skepticism and the Problem of the External World (TTH)]] 
+[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Skepticism and the Problem of the External World (TTH)]] 
 
-[[Is This the Real World How do we know Who Cares]] 
+[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Is This the Real World How do we know Who Cares]] 
 
 Let’s focus a bit on Zhungzhi’s butterfly dream. Unlike Plato, Zhuangzhi doesn’t ask the value of knowing that he had a dream and is not awake. 
 
