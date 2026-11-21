@@ -1,6 +1,6 @@
 {
   "main": {
-    "id": "fb7e2dd48019c730",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Kwame-Ethics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dp4morpsy/Roman Altshuler.md",
+                "file": "In Progress Papers/RealityCraft/RealityCraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In Progress Papers/Rational Choice Theory/Cognitive Homelessness and Maximizing the Unexpected-FPA.qmd.md",
+                "file": "Scope and Purpose.md/Scope and Purpose.qmd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.6937255859375
+    "width": 344.3148193359375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,18 +203,6 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:Import notes": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "qmd-as-md-obsidian:Toggle Quarto preview": false,
-      "qmd-as-md-obsidian:Render Quarto to PDF": false,
-      "slides-extended:Show slide preview": false,
-      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,

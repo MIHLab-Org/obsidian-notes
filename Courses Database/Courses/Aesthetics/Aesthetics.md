@@ -43,9 +43,9 @@ Tasks: []
 The study of aesthetics concerns the arts broadly conceived, as well as the nature of aesthetic experience, which includes our responses to beauty, sublimity, ugliness, and other such qualities found in works of art, nature, the built-environment and in the course of everyday life. Although the term "aesthetics" to denote this area of study goes back only to the eighteenth century with the work of Alexander Baumgarten, the field has had a long and distinguished history dating back to classical antiquity. Aesthetics is currently the scene of provocative philosophical exploration, and one which has become increasingly connected to work in disciplines outside of philosophy such as art history, psychology, neuroscience, evolutionary biology, gender studies, and critical race theory.
 
 <!-- Column 2 -->
-![[Courses Database/Courses/Aesthetics/Project Documents/Project Documents.base]]
+![[Courses Database/Courses/Aesthetics/_archive/Spring 2026/Project Documents/Project Documents.base]]
 
-![[Courses Database/Courses/Aesthetics/Project Updates/Project Updates.base]]
+![[Courses Database/Courses/Aesthetics/_archive/Spring 2026/Project Updates/Project Updates.base]]
 
 <!-- Linked database (not supported by Notion API) -->
 
@@ -57,7 +57,7 @@ The study of aesthetics concerns the arts broadly conceived, as well as the natu
 
 <!-- Linked database (not supported by Notion API) -->
 
-![[Courses Database/Courses/Aesthetics/Class Notes/Class Notes.base]]
+![[Courses Database/Courses/Aesthetics/03-Lecture-Notes/Spring 2026/Class Notes.base]]
 
 
 

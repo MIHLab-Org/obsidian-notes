@@ -1,6 +1,6 @@
 ---
 notion-id: 34c8935b-cf8a-8166-abcc-e3fe1085b411
-base: "[[Courses Database/Courses/Philosophy of Law Courses/Philosophy of Law/Philosophy of Law 1/Project Documents/Project Documents.base]]"
+base: "[[Courses Database/Courses/Philosophy of Law Courses/_archive/Spring 2026/Project Documents/Project Documents.base]]"
 Tags: []
 Created by: montaque reynolds
 Created time: 2026-04-23T21:09:00
@@ -32,7 +32,7 @@ Last edited time: 2026-04-23T21:09:00
 
 ---
 
-[[Courses Database/Courses/Introduction to Philosophy/Introduction to Philosophy, Spring 2026/Project Documents/Course Outline/Part 2 KNOWLEDGE (Epistemology)|Part 2 KNOWLEDGE (Epistemology)]]
+[[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Course Outline/Part 2 KNOWLEDGE (Epistemology)|Part 2 KNOWLEDGE (Epistemology)]]
 
 [**Metaphysics and Epistemology**](https://philpapers.org/browse/metaphysics-and-epistemology) (**453,917**)
 
@@ -54,7 +54,7 @@ Chapter 5 Is it likely that we’re in a simulation?
 
 ---
 
-[[Courses Database/Courses/Introduction to Philosophy/Introduction to Philosophy, Spring 2026/Project Documents/Course Outline/Part 3 REALITY (Metaphysics)|Part 3 REALITY (Metaphysics)]]
+[[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Course Outline/Part 3 REALITY (Metaphysics)|Part 3 REALITY (Metaphysics)]]
 
 Chapter 6 What is reality?
     [**Metaphysics and Epistemology**](https://philpapers.org/browse/metaphysics-and-epistemology) (**453,917**)
@@ -70,7 +70,7 @@ Chapter 9 Did simulation create its from bits?
 
 ---
 
-[[Courses Database/Courses/Introduction to Philosophy/Introduction to Philosophy, Spring 2026/Project Documents/Course Outline/Part 4 REAL VIRTUAL REALITY (More Metaphysics)|Part 4 REAL VIRTUAL REALITY (More Metaphysics)]]
+[[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Course Outline/Part 4 REAL VIRTUAL REALITY (More Metaphysics)|Part 4 REAL VIRTUAL REALITY (More Metaphysics)]]
 
 Chapter 10 Do virtual reality headsets create reality?
     [**Process Philosophy**](https://philpapers.org/browse/process-philosophy) (**324**)

@@ -1,0 +1,200 @@
+// Ctrl/Cmd-click any jump target to go to that node (or create it if it doesn't exist yet).
+// Metaphysics is the central branch of philosophy, and it concerns itself primarily with "the nature and structure of reality" (Joshua R. Sijuwade, Analytic Theism: A Philosophical Investigation (Routledge, 2024)).
+title: Personal-Identity
+position: 0,0
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+<<if visited("Converse_Olsen_Close")>>
+    <<jump Gate_Metaphysics>>
+<<endif>>
+Olsen: What does it mean to be a 'person'?
+-> Either definining myself, or we should ask what it means to not be a person, what does it mean to be the same person, how do we know? How do we count the number of persons? What are we persons? What makes us unique?
+    <<jump Converse_Olsen_Problems>>
+-> How do I persist across time and place? There are many experiences that have made me the person I am now, who would I have been withtout these experiences?
+    <<jump Converse_Olsen_Persistence>>
+===
+
+title: Converse_Olsen_Problems
+position: 269,120
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: That is the core commitment of virtual realism, a concept I put forward and Chalmers expanded.
+Olsen: Digital objects have genuine causal powers, location, and persistent structure in computer memory.
+Olsen: However, a virtual lantern cannot burn physical wood or illuminate a dark room in the physical world.
+Olsen: If its effects are restricted to software, how can we claim it is real in the same way physical matter is real?
+-> I accept that virtual reality is a distinct kind of real existence.
+    <<jump Converse_Olsen_Problems_CONCEDE>>
+-> If it cannot interact with physical matter, it is not truly real.
+    <<jump Converse_Olsen_Problems_PUSHBACK>>
+-> How do digital objects exercise real causal powers?
+    <<jump Converse_Olsen_Problems_ASK>>
+===
+
+title: Converse_Olsen_Problems_Characterization
+position: 660,0
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: Your concession establishes a crucial metaphysical distinction.
+Olsen: Reality is not identical to physical material; digital objects constitute a real non-physical realm.
+Olsen: We expand our ontology to include digital entities alongside physical and mental ones.
+Olsen: Once we grant digital existence, virtual worlds gain genuine ontological standing.
+<<jump Converse_Olsen_Turn>>
+===
+
+title: Converse_Olsen_Problems_PUSHBACK
+position: 660,150
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: You insist that physical interaction is the sole criterion for genuine reality.
+Olsen: Yet mathematical structures, economic currencies, and legal institutions exert real effects without physical weight.
+Olsen: Digital objects operate within their own domain, causing changes to data states and human behavior alike.
+Olsen: Restricting reality strictly to physical atoms ignores vast domains of real human experience.
+<<jump Converse_Olsen_Turn>>
+===
+
+title: Converse_Olsen_Problems_ASK
+position: 660,300
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: They exercise power by altering server states, triggering display pixels, and guiding user decisions.
+Olsen: When a player moves a virtual object, data instructions execute deterministically across network hardware.
+Olsen: Cause and effect operate reliably within the software environment.
+Olsen: Causal interaction within a system is the hallmark of real existence.
+<<jump Converse_Olsen_Turn>>
+===
+
+title: Converse_Olsen_Persistence
+position: 189,710
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: You take the path of virtual fictionalism.
+Olsen: On this view, interacting with a virtual lantern is simply engaging in a game of make-believe.
+Olsen: Yet unlike a static painting or novel character, digital objects persist independently of your imagination and respond dynamically to inputs.
+Olsen: Can a interactive environment that alters server memory be reduced to mere fiction?
+-> I concede that interactive data differs from static fiction.
+    <<jump Converse_Olsen_Persistence_CONCEDE>>
+-> Fictions can be interactive without becoming real entities.
+    <<jump Converse_Olsen_Persistence_PUSHBACK>>
+-> What separates a digital object from a fictional story?
+    <<jump Converse_Olsen_Persistence_ASK>>
+===
+
+title: Converse_Olsen_Persistence_CONCEDE
+position: 660,450
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: You recognize that interactivity and persistence transform the nature of the object.
+Olsen: When code maintains state changes on a server, it steps beyond human imagination into autonomous digital reality.
+Olsen: Fiction resides in human thought; software state resides in electronic hardware.
+Olsen: That shift marks the boundary between make-believe and virtual realism.
+<<jump Converse_Olsen_Turn>>
+===
+
+title: Converse_Olsen_Persistence_PUSHBACK
+position: 660,600
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: You maintain that interactivity is just a sophisticated narrative mechanism.
+Olsen: Yet when two people trade digital property in a virtual world, wealth and ownership change in the physical economy.
+Olsen: If virtual actions produce real legal and financial consequences, calling the objects fictional misses their tangible impact.
+Olsen: Real consequences demonstrate that we are dealing with more than stories.
+<<jump Converse_Olsen_Turn>>
+===
+
+title: Converse_Olsen_Persistence_ASK
+position: 660,750
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: The key distinction lies in mind-independence and causal feedback.
+Olsen: Sherlock Holmes does not exist when no one reads the book, nor does he react if you talk to him.
+Olsen: A virtual object exists as running code on a server and responds according to programmed laws of physics.
+Olsen: Dynamic software state gives virtual objects a reality that stories never achieve.
+<<jump Converse_Olsen_Turn>>
+===
+
+// FUTURE FIX: lines 2-6 of this node and Converse_Olsen_Verdict_IDEALISM were redrafted by Claude on 2026-11-11
+// to make the objection Berkeleyan (to be is to be perceived) instead of a server-hardware objection. Jim to revise.
+title: Converse_Olsen_Turn
+position: 990,0
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: Now consider the strongest objection raised against my virtual realism.
+Olsen: It is likely that we might think Berkeley and other idealists would likely argue that digital objects are just display signals dependent on human perception.
+Olsen: For Berkeley, to be is to be perceived, so a virtual lantern is as real as a tree, and the tree no more real than the lantern.
+Olsen: I respond that virtual objects possess persistent data structures independent of any single viewer, making them real digital items rather than subjective illusions.
+Olsen: Still, Berkeley would answer that the tree persists too, in the mind of God, so persistence alone may not separate the two.
+-> Virtual realism successfully establishes that digital objects are real.
+    <<jump Converse_Olsen_Verdict_REALISM>>
+-> Berkeley is right that virtual and physical objects are equally ideas.
+    <<jump Converse_Olsen_Verdict_IDEALISM>>
+-> Virtual objects form a completely new ontological category of their own.
+    <<jump Converse_Olsen_Verdict_CATEGORY>>
+===
+
+title: Converse_Olsen_Verdict_REALISM
+position: 1320,0
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: You embrace virtual realism.
+Olsen: Recognizing digital objects as real expands our metaphysics to match the world we are building.
+Olsen: It allows us to treat virtual experiences with serious philosophical weight.
+<<jump Converse_Olsen_Close>>
+===
+
+title: Converse_Olsen_Verdict_IDEALISM
+position: 1320,150
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: You side with Berkeley, for whom virtual and physical objects are alike ideas in a mind.
+Olsen: Then virtual realism wins too cheaply, because nothing is real in the sense the materialist meant.
+Olsen: The question becomes whether my digital objects need anything more than being perceived.
+<<jump Converse_Olsen_Close>>
+===
+
+title: Converse_Olsen_Verdict_CATEGORY
+position: 1320,300
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: You propose a third ontological option.
+Olsen: Neither pure physical matter nor pure mental fantasy, digital objects create a distinct domain of human reality.
+Olsen: That insight helps bridge traditional philosophy with digital technology.
+<<jump Converse_Olsen_Close>>
+===
+
+title: Converse_Olsen_Close
+position: 1650,0
+tags: converse
+area: Metaphysics
+speaker: Olsen
+---
+Olsen: As virtual worlds grow richer, deciding what counts as real becomes an urgent task.
+Olsen: Consider whether virtual structures alter how you understand the physical world around you.
+Olsen: Carry these metaphysical distinctions with you as you walk deeper into the grove.
+<<jump Gate_Metaphysics>>
+===

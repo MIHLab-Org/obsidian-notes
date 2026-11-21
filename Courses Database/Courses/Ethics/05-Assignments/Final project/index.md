@@ -1,0 +1,105 @@
+---
+title: "SOC 4015 & 5050: Quantitative Analysis Final Project"
+author: "Christopher Prener, Ph.D."
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: slu-soc5050/syllabus
+description: "These are the final project instructions for Chris's sections of SOC 4015 and 5050."
+---
+
+# Basics {-}
+
+The final project corresponds to the fourth course learning outcome, which is described in the [syllabus](https://slu-soc5050.github.io/syllabus) as:
+
+> 4. Quantitative research synthesis: Plan, implement (using `R`), and present (using `knitr` as well as the word processing and presentation applications of your choice) a research project that uses linear regression to answer a research question.
+
+All students will select a set of variables from a data set and perform an original data analysis culminating in a series of linear regression models. Each student will be responsible for selecting a research question, establishing a hypothesis, conducting an analysis to test that hypothesis, and presenting the results. This process and project mirrors the steps taken to author a quantitative conference presentation (for all students) and a quantitative journal article (for students enrolled in SOC 5050).
+
+### How are these instructions organized? {-}
+These instructions are organized into **vignettes** (pronounced `vin'yets`). These are meant to create "bite sized" modules that break down the final project into discrete phases. Each vignette has a set of indicators on the top-level page for the vignette that provide you with some general information about what the vignette entails. These indicators will help you quickly navigate the instructions.
+
+#### What do I have to do? {-}
+Each vignette includes an indicator that describes *what* the goal of the vignette is:
+
+```{block, type = "rmdgoal"}
+**Goal:** create a quick summary of your project for Chris.
+```
+
+The instructions will vary at different points based on whether you are enrolled in SOC 4015 or SOC 5050. Look for this indicator for information about *who* the vignette is designed for:
+
+```{block, type = "rmdpersonnel"}
+**Personnel:** This vignette should be completed by **all** students.
+```
+
+If the instructions are only for one of the sections, they will look like this:
+
+```{block, type = "rmdpersonnel"}
+**Personnel:** This vignette should be completed by students in **SOC 5050** only.
+```
+
+#### What order do I have to do the vignettes in? {-}
+Some of the vignettes can be worked on in parallel while others require that a prior vignette has been completed. If there is a pre-requisite vignette that must be completed first, this indicator will include pertinent details about ordering:
+
+```{block, type = "rmdpre"}
+**Pre-requisties:** This vignette should be completed *after* Vignette 6.
+```
+
+Otherwise you will see this indicator:
+
+```{block, type = "rmdpre"}
+**Pre-requisties:** There are no pre-requisites for this vignette.
+```
+
+#### What do I need to know how to do? {-}
+Some of the vignettes require technical skills that will be covered as the semester progresses. If that is the case, those lectures will be identified with this indicator:
+
+```{block, type = "rmdskills"}
+**Skills:** Lectures 1 and 2
+```
+
+#### When are vignettes due? {-}
+Some of the vignettes have hard due dates while others do not. For vignettes without a firm deadline, a *suggested* deadline will be provided for those of you who appreciate a bit more structure. Firm deadlines will be provided in an indicator at the top of each vignette that looks like this:
+
+```{block, type = "rmddue"}
+**Required Due Date:** This vignette must be completed by March 15^th^.
+```
+
+Suggested deadlines will look like this:
+
+```{block, type = "rmddue"}
+***Suggested* Completion Date:** This vignette should be completed by March 15^th^.
+```
+
+#### What do I have to submit? {-}
+All of the vignettes require you to produce *something*. A quick description of the deliverables associated with the vignette will be included in this indicator:
+
+```{block, type = "rmddeliver"}
+**Deliverables:** A knit `.Rmd` notebook with the appropriate `.md` output that uses a literate programming approach to document your data cleaning efforts should be included in your final project repository.
+```
+
+### Data Analysis is not Linear {-}
+The organization of these instructions implies a linear path - complete one vignette and then go on to the next. You'll notice that the pre-requisite vignette box for most vignettes look something like this:
+
+```{block, type = "rmdpre"}
+**Pre-requisties:** This vignette should be started _after_ Vignette 5's initial completion.
+```
+
+This wording is meant to remind you that data analysis is never a linear process. You are going to have to iterate over vignettes, often several times. You'll perhaps do some initial data cleaning, calculate descriptive statistics, and notice that the frequency of a particular category is too small. So you'll have to go back, re-code that particular variable, and recalculate your descriptive statistics. This process of iteration is the norm for statistical analysis. Even the most experienced statisticians do this - it is not a function of inexperience so much as it is the nature of doing analytic work. 
+
+One of the reasons that a plain-text approach to programming and statistics is so powerful is that this iteration becomes easy. You won't have to remember the series of menu selections and check boxes you chose to produce a particular output as you would with a GUI-driven statistical application. Rather, recalculating descriptive statistics is as easy as making a small change to the source code for the data cleaning notebook, knitting that notebook, and then re-knitting the descriptive statistics notebook. Working in this way gives you the freedom to explore and experiment as much as you'd like!
+
+## License {-}
+Copyright © 2016-2018 [Christopher G. Prener](https://chris-prener.github.io)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

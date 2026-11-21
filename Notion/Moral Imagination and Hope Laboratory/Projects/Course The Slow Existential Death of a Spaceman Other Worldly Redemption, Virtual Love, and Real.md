@@ -6,10 +6,10 @@ Target Date: 2026-08-20T10:00:00 to 2026-12-04T22:59:00
 Next Action: ""
 📚 Courses Database:
   - "[[Phil 305 Philosophy of Mind|Phil 305 Philosophy of Mind]]"
-  - "[[Philosophy of Mind Fall 2026 4|Philosophy of Mind Fall 2026 4]]"
-  - "[[Philosophy of Mind Fall 2026 3|Philosophy of Mind Fall 2026 3]]"
-  - "[[Philosophy of Mind Fall 2026 2|Philosophy of Mind Fall 2026 2]]"
-  - "[[Philosophy of Mind Fall 2026 1|Philosophy of Mind Fall 2026 1]]"
+  - "[[Courses Database/Courses/Philosophy of Mind/Terms/Philosophy of Mind Fall 2026|Philosophy of Mind Fall 2026 4]]"
+  - "[[Courses Database/Courses/Philosophy of Mind/Terms/Philosophy of Mind Fall 2026|Philosophy of Mind Fall 2026 3]]"
+  - "[[Courses Database/Courses/Philosophy of Mind/Terms/Philosophy of Mind Fall 2026|Philosophy of Mind Fall 2026 2]]"
+  - "[[Courses Database/Courses/Philosophy of Mind/Terms/Philosophy of Mind Fall 2026|Philosophy of Mind Fall 2026 1]]"
   - "[[Philosophy of Mind Fall 2026|Philosophy of Mind Fall 2026]]"
 Events Calendar: []
 Publications: []

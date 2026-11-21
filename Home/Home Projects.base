@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.inFolder("Home/Projects")
+views:
+  - type: table
+    name: Now
+    filters:
+      and:
+        - status == "Now"
+    order:
+      - file.name
+      - next_action
+  - type: table
+    name: Next
+    filters:
+      and:
+        - status == "Next"
+    order:
+      - file.name
+      - area
+      - next_action
+  - type: table
+    name: Blocked
+    filters:
+      and:
+        - status == "Blocked"
+    order:
+      - file.name
+      - blocked_by
+  - type: table
+    name: All by area
+    groupBy:
+      property: area
+      direction: ASC
+    order:
+      - file.name
+      - status
+      - priority
+      - next_action
+      - deadline
+      - feeds
+  - type: table
+    name: MIHLab revenue
+    filters:
+      or:
+        - area == "Games"
+        - area == "MIHLab"
+    order:
+      - file.name
+      - revenue_path
+      - status
+      - next_action
+      - url

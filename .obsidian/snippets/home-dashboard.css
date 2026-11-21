@@ -1,0 +1,57 @@
+/* Home dashboard colors: applies only to notes with cssclasses: home-dashboard */
+.home-dashboard {
+  --hd-now: #ff7a59; --hd-blocked: #ff5d73; --hd-next: #fbbf24; --hd-time: #2dd4bf;
+  --hd-subs: #6ea8ff; --hd-money: #4ade80; --hd-courses: #c084fc;
+}
+.theme-light .home-dashboard {
+  --hd-now: #c2410c; --hd-blocked: #be123c; --hd-next: #a16207; --hd-time: #0f766e;
+  --hd-subs: #1d4ed8; --hd-money: #15803d; --hd-courses: #7e22ce;
+}
+/* hide the embed's file-name title and the edit-pencil header (fixes doubled headings) */
+.home-dashboard .markdown-embed-title,
+.home-dashboard .markdown-embed-link { display: none; }
+
+/* panel frame */
+.home-dashboard .internal-embed[src*="Home/Panels/"] {
+  --hd: var(--text-accent);
+  border: 0; border-left: 4px solid var(--hd); border-radius: 0;
+  background: color-mix(in srgb, var(--hd) 9%, transparent);
+  padding: 0.25rem 0.9rem 0.6rem;
+  --link-color: var(--hd); --link-color-hover: var(--hd);
+  --link-external-color: var(--hd); --text-accent: var(--hd);
+}
+.home-dashboard .internal-embed[src*="Panels/Now"]            { --hd: var(--hd-now); }
+.home-dashboard .internal-embed[src*="Panels/Blocked"]        { --hd: var(--hd-blocked); }
+.home-dashboard .internal-embed[src*="Panels/Next"]           { --hd: var(--hd-next); }
+.home-dashboard .internal-embed[src*="Panels/Spring timeline"]{ --hd: var(--hd-time); }
+.home-dashboard .internal-embed[src*="Panels/Submissions"]    { --hd: var(--hd-subs); }
+.home-dashboard .internal-embed[src*="Panels/MIHLab revenue"] { --hd: var(--hd-money); }
+.home-dashboard .internal-embed[src*="Panels/Courses"]        { --hd: var(--hd-courses); }
+
+/* panel headings and links take the panel color */
+.home-dashboard .internal-embed[src*="Home/Panels/"] h2 { color: var(--hd); margin-top: 0.3rem; }
+.home-dashboard .internal-embed[src*="Home/Panels/"] .markdown-embed { border: 0; padding: 0; }
+.home-dashboard .internal-embed[src*="Home/Panels/"] a,
+.home-dashboard .internal-embed[src*="Home/Panels/"] .internal-link { color: var(--hd); font-weight: 500; }
+/* nested Base and plan embeds inside a panel: no second frame */
+.home-dashboard .internal-embed[src*="Home/Panels/"] .internal-embed { border-left: 0; background: none; padding: 0; }
+/* table header row tinted with the panel color */
+.home-dashboard .internal-embed[src*="Home/Panels/"] th,
+.home-dashboard .internal-embed[src*="Home/Panels/"] thead td { background: color-mix(in srgb, var(--hd) 16%, transparent); }
+
+/* the link card to the submission plan */
+.home-dashboard .internal-link[href*="Submission plan"],
+.home-dashboard a[data-href*="Submission plan"] { color: var(--hd-subs); }
+
+/* full width for the dashboard note only (overrides "Readable line length" here) */
+.home-dashboard {
+  --file-line-width: 100%;
+  --file-margins: 16px 24px;
+}
+.home-dashboard .markdown-preview-sizer,
+.home-dashboard .cm-sizer,
+.home-dashboard .cm-contentContainer,
+.home-dashboard .cm-content { max-width: none !important; width: 100% !important; }
+/* let embedded tables use the full panel width */
+.home-dashboard .internal-embed[src*="Home/Panels/"] .markdown-embed-content,
+.home-dashboard .internal-embed[src*="Home/Panels/"] table { width: 100%; max-width: none; }

@@ -4,7 +4,8 @@
   "accentColor": "#383a1d",
   "textFontFamily": "Garamond,Cascadia Code",
   "enabledCssSnippets": [
-    "obsidian-default-theme"
+    "obsidian-default-theme",
+    "home-dashboard"
   ],
   "interfaceFontFamily": "Cascadia Code",
   "showRibbon": true

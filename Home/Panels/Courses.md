@@ -1,0 +1,13 @@
+## Courses
+- [[Courses Database/Courses/Introduction to Philosophy/Introduction to Philosophy|Intro]]
+- [[Courses Database/Courses/Social Identities Searching for moral  autonomy and personhood in pop culture/Social Identities (course)|Identity]]
+- [[Courses Database/Courses/Logic/Logic (course)|Logic]]
+- [[Courses Database/Courses/Philosophy of Mind/Philosophy of Mind (course)|Mind]]
+- [[Courses Database/Courses/Philosophy of Law Courses/Philosophy of Law (course)|Law]]
+- [[Courses Database/Courses/Aesthetics/Aesthetics (course)|Aesthetics]]
+- [[Courses Database/Courses/Course Epistemology/Epistemology (course)|Epistemology]]
+- [[Courses Database/Courses/Decision Logic/Decision Logic (course)|Decision Logic]]
+- [[Courses Database/Courses/Slow Existential Death/Slow Existential Death (course)|Slow Existential Death]]
+- [[Courses Database/Courses/Ethics/Ethics (course)|Ethics]]
+- [[Courses Database/Courses/UCOR/UCOR (course)|UCOR]]
+- [[Courses Database/Courses/Games and Play/Games and Play (course)|Games and Play]]

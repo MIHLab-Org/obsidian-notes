@@ -19,7 +19,7 @@ Status 1: Outline
 Project Lead: []
 Authors: ""
 ---
-![[Courses Database/Courses/Social Identities Searching for moral  autonomy and personhood in pop culture/Social Identities Searching for moral  autonomy/Assignments/Assignments.base]]
+![[Courses Database/Courses/Social Identities Searching for moral  autonomy and personhood in pop culture/05-Assignments/Assignments.base]]
 
 ## Grading Scale
 
