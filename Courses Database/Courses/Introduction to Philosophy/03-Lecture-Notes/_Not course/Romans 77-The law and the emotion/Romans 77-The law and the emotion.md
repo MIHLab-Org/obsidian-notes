@@ -23,5 +23,3 @@ Covetousness:
 Envy? 
 
 ![[27893.pdf]]
-
-[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/_Not course/Romans 77-The law and the emotion/Untitled]]

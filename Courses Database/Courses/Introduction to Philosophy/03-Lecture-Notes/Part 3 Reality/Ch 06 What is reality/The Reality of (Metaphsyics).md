@@ -442,7 +442,6 @@ Chalmer’s View:
 
 ---
 
-[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/The Reality of (Metaphsyics)/Untitled]]
 
 ---
 
