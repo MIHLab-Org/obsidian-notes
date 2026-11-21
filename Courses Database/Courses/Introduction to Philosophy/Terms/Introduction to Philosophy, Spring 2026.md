@@ -75,7 +75,7 @@ We will also use technology to ask:
 <!-- Column 2 -->
 
 
-![[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Class Notes.base]]
+![[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Class Notes.base]]
 
 
 

@@ -88,7 +88,7 @@ Tasks: []
 
 **Counter-argument 1:**
 
-**Experiment link: ****[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Spring 2026/Bruised Soul Indy Works of Art Inside Virtual Environments]]**** **
+**Experiment link: ****[[Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/_Not course/Bruised Soul Indy Works of Art Inside Virtual Environments]]**** **
 
 **My response:**
 
