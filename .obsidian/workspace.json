@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Swineburne/Personal Identity and Swineburne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Personal Identity and Swineburne"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.0595932006836
+    "width": 363.0595932006836,
+    "collapsed": true
   },
   "right": {
     "id": "a7ad040221c8180c",
@@ -230,8 +231,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "123a817cdc408745",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Courses Database/Meta/Assignment Rubrics/First Level.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Swineburne/Personal Identity and Swineburne.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Swineburne",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Osman - SEP on Identity/Characterization.md",
+    "Notes/Metaphysics and Epistemology/Metaphysics/Identity/Osman - SEP on Identity",
+    "Courses Database/Courses/Slow Existential Death/03-Lecture-Notes/Week 1 - The problems of personal identity.md",
+    "Courses Database/Courses/Slow Existential Death/The Slow Existential Death.md",
+    "Courses Database/Courses/Slow Existential Death/03-Lecture-Notes/Class Discussion Notes/Class Discussion Notes.base",
+    "Home.md",
     "In Progress Papers/Rational Choice Theory/~$gnitive_Homelessness_FPA_footnotes_advisor-comments.docx",
     "In Progress Papers/Rational Choice Theory/Cognitive_Homelessness_FPA_footnotes_advisor-comments.docx",
     "In Progress Papers/Rational Choice Theory/~$gnitive_Homelessness_FPA_advisor-comments.docx",
@@ -241,10 +251,6 @@
     "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 7 Foundations/Ch 24",
     "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 7 Foundations/Ch 23",
     "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 7 Foundations/Ch 22 Is reality a mathematical structure",
-    "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 7 Foundations/Ch 21 Do dust clouds run computer programs",
-    "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 7 Foundations/Ch 20 What do our words mean in virtual worlds",
-    "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 7 Foundations",
-    "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 6 Value/Ch 18 Do simulated lives matter",
     "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/_Not course/Romans 77-The law and the emotion/Untitled.md",
     "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/_Not course/Romans 77-The law and the emotion/Romans 77-The law and the emotion.md",
     "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/_Not course/Why.md",
@@ -263,11 +269,6 @@
     "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 5 Mind/Ch 16 Does augmented reality extend the mind/Extended Mind lab (Metaphysics and Epistemology)/Phase 1 The Pilot’s Extended Mind The 1.md",
     "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 5 Mind/Ch 16 Does augmented reality extend the mind/Extended Mind lab (Metaphysics and Epistemology)/Metaphysics and Epistemology.md",
     "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 6 Value/Ch 19 How should we build a virtual society/Chapter 19.md",
-    "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 6 Value/Ch 17 Can you lead a good life in a virtual world/Values.md",
-    "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 5 Mind/Ch 16 Does augmented reality extend the mind/Lab - The Extended Mind.md",
-    "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 5 Mind/Ch 16 Does augmented reality extend the mind/Extended Mind Space Sim analogs.md",
-    "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 5 Mind/Ch 16 Does augmented reality extend the mind/Cognition, Cognitive Science.md",
-    "Courses Database/Courses/Introduction to Philosophy/03-Lecture-Notes/Part 5 Mind/Ch 14 How do mind and body interact in a virtual world/Topics.md",
     "Courses Database/Courses/Introduction to Philosophy/04-Slides/Fall 2026 reveal deck/plugin/chalkboard/img/whiteboard.png",
     "Courses Database/Courses/Introduction to Philosophy/04-Slides/Fall 2026 reveal deck/plugin/chalkboard/img/sponge.png",
     "Courses Database/Courses/Introduction to Philosophy/04-Slides/Fall 2026 reveal deck/plugin/chalkboard/img/chalk-yellow.png",
