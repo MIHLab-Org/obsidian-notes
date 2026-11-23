@@ -30,13 +30,13 @@ Writing Enhanced: ""
 
 ## Course versions
 Each course has two complementary versions, so the content stays the same while the format changes.
-- **Video-game (experimental) version:** [[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Course Outline/Course Outline|Course Outline]] (Parts 1–7, Reality+ structure: Virtual Worlds → Foundations)
+- **Video-game (experimental) version:** [[Courses Database/Courses/Introduction to Philosophy/00-Syllabus/01-Schedule/Course Outline/Course Outline|Course Outline]] (Parts 1–7, Reality+ structure: Virtual Worlds → Foundations)
 - **Traditional version:** syllabus and weekly pages in **00-Syllabus** and **01-Schedule** (course-site folders)
 
 ## Course folders
 - **00-Syllabus** · [[MASTER-SYLLABUS-PHIL101B]] · [[PHIL 101B Introduction to Philosophy - Syllabus]]
 - **00-Syllabus / Earlier** · [[Courses Database/Courses/Introduction to Philosophy/00-Syllabus/Earlier/SLU Phil 1700 The Examined Life - Fall 2023 syllabus|SLU Phil 1700 The Examined Life (Fall 2023)]]
-- **01-Schedule** · [[CALENDAR-PHIL101B-SECTION01-MW]] · [[CALENDAR-PHIL101B-SECTION03-TTh-AM]] · [[CALENDAR-PHIL101B-SECTION04-TTh-PM]] · [[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Spring 2027 — 16-week plan|Spring 2027 — 16-week plan]]
+- **01-Schedule** · [[CALENDAR-PHIL101B-SECTION01-MW]] · [[CALENDAR-PHIL101B-SECTION03-TTh-AM]] · [[CALENDAR-PHIL101B-SECTION04-TTh-PM]] · [[Spring 2027 — 16-week plan|Spring 2027 — 16-week plan]]
 - **02-Readings** · [[Required Texts]] · [[Courses Database/Courses/Introduction to Philosophy/02-Readings/Literature|Literature]] (PDFs live in Zotero)
 - **03-Lecture-Notes** · organized by *Reality+* part and chapter (Part 1 Virtual Worlds → Part 7 Foundations), with non-course notes in `_Not course` · also Summer 2026 and Course site 2026_intro
 - **04-Slides** · [[Introduction to Philosophy --- Fall 2026]] · Fall 2026 reveal deck: [GitHub repo](https://github.com/MIHLab-Org/Intro-Fall-2026), local copy `C:\Users\Administrator\Desktop\Intro-Fall-2026`

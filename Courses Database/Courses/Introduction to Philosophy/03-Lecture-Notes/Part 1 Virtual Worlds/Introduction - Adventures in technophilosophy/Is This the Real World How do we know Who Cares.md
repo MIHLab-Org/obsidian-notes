@@ -72,11 +72,11 @@ Should we prefer life inside or outside the cave?
 
 ## Chalmers’s Three Theses
 
-| Thesis | Statement |
-| --- | --- |
-| **1. Metaphysics** | Virtual worlds are real. Virtual objects really exist. |
-| **2. Epistemology** | I don’t know whether we’re in a virtual world or not. |
-| **3. Value** | Can you lead a good life in a virtual world? (Chalmers: yes.) |
+| Thesis              | Statement                                                     |
+| ------------------- | ------------------------------------------------------------- |
+| **1. Metaphysics**  | Virtual worlds are real. Virtual objects really exist.        |
+| **2. Epistemology** | I don’t know whether we’re in a virtual world or not.         |
+| **3. Value**        | Can you lead a good life in a virtual world? (Chalmers: yes.) |
 
 ---
 

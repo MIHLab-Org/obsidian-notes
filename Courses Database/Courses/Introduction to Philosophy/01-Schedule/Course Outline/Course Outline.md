@@ -117,7 +117,7 @@ Last edited time: 2026-04-28T08:33:00
 
 ---
 
-[[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Course Outline/Part 2 KNOWLEDGE (Epistemology)]]
+[[Courses Database/Courses/Introduction to Philosophy/00-Syllabus/01-Schedule/Course Outline/Part 2 KNOWLEDGE (Epistemology)]]
 
 [**Metaphysics and Epistemology**](https://philpapers.org/browse/metaphysics-and-epistemology) (**453,917**)
 
@@ -138,7 +138,7 @@ Last edited time: 2026-04-28T08:33:00
 
 ---
 
-[[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Course Outline/Part 3 REALITY (Metaphysics)]]
+[[Courses Database/Courses/Introduction to Philosophy/00-Syllabus/01-Schedule/Course Outline/Part 3 REALITY (Metaphysics)]]
 
 [**Metaphysics and Epistemology**](https://philpapers.org/browse/metaphysics-and-epistemology) (**453,917**)
 
@@ -150,7 +150,7 @@ Last edited time: 2026-04-28T08:33:00
 
 ---
 
-[[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Course Outline/Part 4 REAL VIRTUAL REALITY (More Metaphysics)|Part 4 REAL VIRTUAL REALITY (More Metaphysics)]]
+[[Courses Database/Courses/Introduction to Philosophy/00-Syllabus/01-Schedule/Course Outline/Part 4 REAL VIRTUAL REALITY (More Metaphysics)|Part 4 REAL VIRTUAL REALITY (More Metaphysics)]]
 
 [**Process Philosophy**](https://philpapers.org/browse/process-philosophy) (**324**)
 
@@ -163,7 +163,7 @@ Chapter 13 Can we avoid being deceived by deepfakes?
 
 ---
 
-[[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Course Outline/Part 5 MIND]]
+[[Courses Database/Courses/Introduction to Philosophy/00-Syllabus/01-Schedule/Course Outline/Part 5 MIND]]
 
 1. A Defense of Dualism
 	1. Cartesian Dualism is Possible
@@ -396,7 +396,7 @@ So: Omar’s external memory is genuine knowledge.
 
 ---
 
-[[Courses Database/Courses/Introduction to Philosophy/01-Schedule/Course Outline/Part 6 VALUE]]
+[[Courses Database/Courses/Introduction to Philosophy/00-Syllabus/01-Schedule/Course Outline/Part 6 VALUE]]
 
 [**Value Theory**](https://philpapers.org/browse/value-theory) (**641,246**)
 
