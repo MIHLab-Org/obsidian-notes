@@ -112,6 +112,8 @@ According to $P$, an agent’s susceptibility to error at $s$, relative to $\pi$
 
 $\sum\limits_{\substack{s' \in S \\ \pi(s)\neq\pi(s')}}P([s']|s)$
 
+$s'$, state that act as though they are in vs $s$, the state they actually are in.
+
 **Stunted Soul** and **Stackin’ Cars**.
 
 Using Stump 2010, I will argue that a rational decision theory then may be improved by a narrative decision theory of rational choice.

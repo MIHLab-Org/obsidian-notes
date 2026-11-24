@@ -29,7 +29,29 @@ Second, remember that we initially substituted evil with suffering. But what thi
 
 Unlike pain, there are no instrumental reasons for suffering. While some may only reserve these kinds of conclusions for the most egregious forms of suffering, I do not see any reason why we should do so. There have been suggestions in this area, such as suffering produces character, but this does not seem to be right. If it is producing character, then maybe it is not quite suffering we're talking about here. Since there is some redeeming benefit, and the victims of suffering are incapable of perceiving the benefits they've gotten from suffering. For one, producing character implies rational agency. So if suffering produces character, then suffering does not preclude rational activity. A rational agent is still capable of appreciating how bad something is (Adams 2020, 282). But there are many forms of pain that do preclude rational activity. For instance, victims who without therapy and lots of support, are incapable of recognizing what was done to them as harmful (Stump 2010, 8; Burkett 1997). We can imagine a long time victim of childhood abuse failing to appreciate the abuse she suffered. In other words, suffering, as we should consider it here, can and maybe does preclude rational activity. Further, the person who is suffering, is not in a position to realize just how bad their situation really is owing to the lack of their rational activity. What this shows we might think, is that there is reason to believe there may be a qualitative difference between suffering and pain and that this qualitative difference is the difference between rational activity and irrational activity. A problem with this characterization too, is that it may mean that states of suffering are not conscious states. Therefore, being able to articulate an acceptable view of consciousness may not enable us to identify states of suffering. It is this further implication that causes other kinds of problems as well.
 
-Rational choice theory asks "can an agent always expect to do best by trying to do whatever has the most expected value?" Oftentimes, our decisions are personally transformative. It is during these moments where rational choice theory has the least amount to say (Carter 2026, 9; Lasonen-Aarnio 2015; Isaacs and Russell 2023; Salow 2018; Rust 2025; Paul 2014). Nowhere else is this more true than those decisions that involve entangling our lives with others. Whether the decision is to marry, cohabitate with, accept a job offer from, become employed by, or have children with, another person. The value internal to the decision will always be the value that we can only experience having made the decision.
+In her account of closeness and presence from her book, Wandering in Darkness, Eleonore Stump argues that love is an interaction of "two mutually governing desires for the good of the beloved and the desire for union with the beloved" (Stump 2010, 95). She then considers reasons why rational choice theory may fail. Psychic fragmentation can leave a person alienated from herself and therefore alienated from her own two mutually governing desires. Analogously then, the worry I raise is that our values turn on what is rational for us to believe rather than what is true. The best example of the relevance of this question can be represented with the following lyric excerpts from the songs “By Yourself” by Tyrone Griffin Jr (Ty Dollar $ign Diggs) and “Rich and Sad” by Austin Richard Post (Post Malone). 
+
+First,
+
+##### Orthodox decision theory recommends:
+
+acting in a way that maximizes expected value:
+
+Here, we question what we are expected to value.
+ 
+- “Stacked your bread and bought your own Mercedes (Vroom, vroom).”
+- “You your own boss, do it your way (Way)”^[_By Yourself_. 2020. With Ty Dolla $ign, Jhené Aiko, and Mustard. Atlantic Records.]
+
+##### But we often get our expected values wrong:
+
+- “Got a hundred big places, but I’m still alone (–one)”
+- “All this stuntin’ couldn’t satisfy my soul (–oul)”^[Malone, Post. 2018. _Rich & Sad_. Beerbongs & Bentleys. Republic Records, a division of UMG Recordings, Inc., 2018.]
+
+Some of the decisions that we make are of extreme importance to the way that our lives are going to go. When deciding to accept a job offer, I am not only concerned with the amount of pay the job offers. Rather, I also want to consider whether or not accepting the job offer would require me to move away from my home town, I might ask whether and how often I would still be able to visit old friends and family members, I might ask myself what kind of neighborhood I would have to move to, or what kind of persons I would work with or for. I will ask whether any of my future coworkers will be friendly, accommodating to new relationships, accepting of new members to their friend group, etc. In such cases, there are various factors which must be taken into account when we are inside what from now on will be called an 'opaque decision problem', say $\hat{\Delta}$. These include our own states $s$, a set of outcomes $O$, the actions available to us $A$, relevant probabilities, for instance the probability that we will perform one action over another given the state we are in $P$, and the value we might ascribe, $\upsilon$ to the outcome of that action $O$.
+
+Opaque Decision Problem $\hat{\Delta}$ = $\langle \text{S}^{\hat{\Delta}}, O^{\hat{\Delta}}, A^{\hat{\Delta}}, P^{\hat{\Delta}}, \upsilon^{\hat{\Delta}}\rangle$
+
+Rational choice theory asks "can an agent always expect to do best by trying to do whatever has the most expected value?" Oftentimes, our decisions are personally transformative. It is during these moments where rational choice theory has the least amount to say (Carter 2026, 9; Lasonen-Aarnio 2015; Isaacs and Russell 2023; Salow 2018; Rust 2025; Paul 2014). Nowhere else is this more true than those decisions that involve entangling our lives with others. Whether the decision is to marry, cohabitate with, accept a job offer from, become employed by, or have children with the other. The value internal to the decision will always be the value that we can only experience after having made the decision. I contest this position.
 
 ## Rational Accounts of Love, Decisive Accounts of Love
 
@@ -55,6 +77,12 @@ A decision problem is comprised of a set of states, $S$, where States, $s, s', s
 According to Lewis, this is because value may derive from one's "system of beliefs". Some agent may believe they are in state $s$ and that actions $a$ and $b$ are consistent with $s$. Traditionally, such questions are about what constitutes a rational choice, or a belief, whether it is rational that $a$ if $s$. In other words given a set of acts $A$ possible from set of states $S$, $A \subseteq S$ then set of outcomes $O$, in other words ($A \subseteq S) \rightarrow O$. Here however, we are taking what is rational to believe, and more importantly, determining what might be rational to value. A contrast that we might make here, is that truth is not "ontological", but rather it is relative. If this is true, then what is rational to value, may turn on what is rational for us to believe with strange implications:
 
 > Instead, consider truth and falsity according to some corpus of information. It might be someone's system of beliefs, a data bank or almanac or encyclopedia or textbook, a theory or a system of mythology, or even a work of fiction. (Lewis 1982, 435)
+
+A set of states, $S$. States, $s, s', s'', . . . \in S$ are objects in a decision problem relevant to the agent’s decision but that they maybe unsure about. For instance, whether the agent is in $s$ *in love* or $s'$ *not in love*. Outcomes, $o, o', o'', . . . \in O$ are objects of an agent’s desires: E.g., “Being your own boss”. Acts, $a, b, c, . . . \in A$ are the immediate objects of decision-making, “stacked your bread”.
+
+A set of acts, A $\subseteq$ $S$ $\rightarrow$ $O$. A set of acts would include *stop smoking to save money*. A state-dependent probability function, P: $S$ $\rightarrow$ $(P(S)$ $\rightarrow$ [0,1]). Here we have a function that tells us the agent's credence at each state. Lewis does not give wait to an agent's credence about who are where they are in a given state. Instead of propositioning that there are two distinct persons inhabiting the same world, there is only one credal possibility comprising of beliefs and values at each distinct world (Lewis, David. 1979. “Attitudes De Dicto and De Se.” _The Philosophical Review_ 88 (4): 513–43. [https://doi.org/10.2307/2184843](https://doi.org/10.2307/2184843). Lewis, David. n.d. _Causal Decision Theory_.).
+
+A value function, $\upsilon$:  $O \rightarrow \mathbb{R}$ . Which tells us how well the agent takes things to be going at each outcome.
 
 Eleonore Stump raises the question of value. Lets first look at what love could be. 
 
@@ -92,24 +120,6 @@ But what is sanctification?
 1. The will can detest its past wrongdoing and love God's goodness
 2. The will can cleave to its past wrongdoing and reject God's goodness
 3. The will can simply be turned off in regards to its past wrongdoing and God's goodness (will neither refuses nor accepts grace)
-
-In her account of closeness and presence from her book, Wandering in Darkness, Eleonore Stump argues that love is an interaction of "two mutually governing desires for the good of the beloved and the desire for union with the beloved" (Stump 2010, 95). She then considers reasons why rational choice theory may fail. Psychic fragmentation can leave a person alienated from herself and therefore alienated from her own two mutually governing desires. Analogously then, the worry I raise is that our values turn on what is rational for us to believe rather than what is true. The best example of the relevance of this question can be represented with the following lyric excerpts from the songs “By Yourself” by Tyrone Griffin Jr (Ty Dollar $ign Diggs) and “Rich and Sad” by Austin Richard Post (Post Malone). 
-
-First,
-
-##### Orthodox decision theory recommends acting in a way that maximizes expected value:
-
-Here then, we question what we are expected to value.
- 
-- “Stacked your bread and bought your own Mercedes (Vroom, vroom).”
-- “You your own boss, do it your way (Way)”^[_By Yourself_. 2020. With Ty Dolla $ign, Jhené Aiko, and Mustard. Atlantic Records.]
-
-##### But we often get our expected values wrong:
-
-- “Got a hundred big places, but I’m still alone (–one)”
-- “All this stuntin’ couldn’t satisfy my soul (–oul)”^[Malone, Post. 2018. _Rich & Sad_. Beerbongs & Bentleys. Republic Records, a division of UMG Recordings, Inc., 2018.]
-
-Some of the decisions that we make are of extreme importance to the way that our lives are going to go. When deciding to accept a job offer, I am not only concerned with the amount of pay the job offers. Rather, I also want to consider whether or not accepting the job offer would require me to move away from my home town, I might ask whether and how often I would still be able to visit old friends and family members, I might ask myself what kind of neighborhood I would have to move to, or what kind of persons I would work with or for. I will ask whether any of my future coworkers will be friendly, accommodating to new relationships, accepting of new members to their friend group, etc. In such cases, there are various factors which must be taken into account when we are inside an opaque decision problem. These include our own states $s$, a set of outcomes $O$, the actions available to us $A$, relevant probabilities, for instance the probability that we will perform one action over another given the state we are in $P$, and the value we might ascribe, $\upsilon$.
 
 Centrally, maximization and value are drawn from the premise that each person's locus of action is that their life go as well as possible for them (see, Parfit 1987). But the problem is that these decisions have such an impact that they change you. In effect, these decisions then only impact someone not yourself. L.A. Paul imagines the decision to become a vampire. What is important here is that once you become a vampire, you can't undo the effect that the experience will have on your life. As such, one reason why we get our values wrong, is that we do not know what the values of the person we are deciding for are, assuming that the person we are deciding for is some future person. Whatever we decide, will be decided for that person. Similarly, once you are in love, you cannot undo the effect the experience will have on your life because it will no longer belong to you. In other words, you are not making the decision for yourself, but for "that person". I generalize such experiences to include the relationships we build around us. When making most of our decisions about such relationships, whether political, organizational, occupational, academic, we assess varying possibilities between them. Each possibility has implications for that person but not for who we are now, not necessarily for us.
 
